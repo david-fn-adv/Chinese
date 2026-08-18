@@ -1,0 +1,33 @@
+# nhân vật trong sách -- tên người nói trong hội thoại
+# dạng:  tên <TAB> pinyin <TAB> giới thiệu
+安同	Ān Tóng	Mã An Đồng — du học sinh người Honduras, học tiếng Trung ở Sư Đại
+马安同	Mǎ Ān Tóng	Mã An Đồng — du học sinh người Honduras, học tiếng Trung ở Sư Đại
+如玉	Rú Yù	Bạch Như Ngọc — du học sinh người Mỹ, bạn học của An Đồng
+白如玉	Bái Rú Yù	Bạch Như Ngọc — du học sinh người Mỹ, bạn học của An Đồng
+明华	Míng Huá	Lý Minh Hoa — người Đài Loan, bạn của nhóm
+李明华	Lǐ Mínghuá	Lý Minh Hoa — người Đài Loan, bạn của nhóm
+月美	Yuè Měi	Trần Nguyệt Mỹ — người Việt Nam, bạn cùng nhóm
+陈月美	Chén Yuèměi	Trần Nguyệt Mỹ — người Việt Nam, bạn cùng nhóm
+美玲	Měi Líng	Cao Mỹ Linh — người Pháp, dạy tiếng Pháp bán thời gian
+高美玲	Gāo Měilíng	Cao Mỹ Linh — người Pháp, dạy tiếng Pháp bán thời gian
+田中	Tián Zhōng	Điền Trung Thành Nhất — du học sinh người Nhật
+东健	Dōng Jiàn	Lý Đông Kiện — người Hàn Quốc, đến từ Seoul
+李东健	Lǐ Dōngjiàn	Lý Đông Kiện — người Hàn Quốc, đến từ Seoul
+怡君	Yí Jūn	Trương Di Quân — người Đài Loan
+张怡君	Zhāng Yíjūn	Trương Di Quân — người Đài Loan
+开文	Kāi Wén	Vương Khai Văn — người Mỹ
+王开文	Wáng Kāiwén	Vương Khai Văn — người Mỹ
+马丁	Mǎ Dīng	Martin — người Anh
+爱丽	Ài Lì	Lâm Ái Lệ — người Canada
+林爱丽	Lín Àilì	Lâm Ái Lệ — người Canada
+美美	Měi Měi	Mỹ Mỹ — bạn của Như Ngọc, từ Pháp sang Đài Loan chơi
+陈太太	Chén Tàitai	bà Trần — người láng giềng
+陈先生	Chén Xiānshēng	ông Trần
+张老师	Zhāng Lǎoshī	thầy/cô Trương
+房东	Fángdōng	chủ nhà
+主任	Zhǔrèn	chủ nhiệm trung tâm ngôn ngữ
+路人	Lùrén	người đi đường
+医生	Yīshēng	bác sĩ
+老板	Lǎobǎn	ông chủ tiệm
+伯母	Bómǔ	bác gái (mẹ của Minh Hoa)
+诚一	Chéng Yī	Thành Nhất — tên gọi của Điền Trung Thành Nhất

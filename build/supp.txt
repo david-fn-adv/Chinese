@@ -1,0 +1,82 @@
+# chữ / từ xuất hiện trong bài đọc nhưng không nằm trong bảng từ mới
+# dạng:  từ <TAB> pinyin <TAB> loại từ <TAB> nghĩa tiếng Việt <TAB> nghĩa tiếng Anh
+一	yī	Num	một	one
+二	èr	Num	hai	two
+三	sān	Num	ba	three
+四	sì	Num	bốn	four
+六	liù	Num	sáu	six
+七	qī	Num	bảy	seven
+八	bā	Num	tám	eight
+九	jiǔ	Num	chín	nine
+十	shí	Num	mười	ten
+里	lǐ	N	trong, bên trong	inside, in
+车	chē	N	xe	vehicle, car
+事	shì	N	việc, chuyện	matter, affair
+假	jiǎ	N	kỳ nghỉ	holiday, leave
+些	xiē	M	một ít, vài	some, a few
+进	jìn	V	vào, tiến vào	to enter
+们	men	Ptc	hậu tố số nhiều (người)	plural suffix for people
+外	wài	N	ngoài, bên ngoài	outside
+病	bìng	N	bệnh	illness, disease
+路	lù	N	đường	road, way
+心	xīn	N	tim, lòng	heart, mind
+闹	nào	Vs	ồn ào, nhộn nhịp	noisy, lively
+罐	guàn	N	lon, hộp	can, jar
+蓝	lán	Vs	xanh lam	blue
+饭	fàn	N	cơm	cooked rice, meal
+后	hòu	N	sau, phía sau	after, behind
+前	qián	N	trước, phía trước	front, before
+步	bù	N	bước	step, pace
+红	hóng	Vs	đỏ	red
+生	shēng	V	sinh, mắc (bệnh)	to be born; to develop (illness)
+觉	jué	N	giấc ngủ	sleep
+客	kè	N	khách	guest
+气	qì	N	khí, hơi; tính khí	air; temper
+边	biān	N	bên, phía	side
+线	xiàn	N	tuyến, đường	line, route
+松	sōng	Vs	lỏng, thư giãn	loose, relaxed
+漂	piāo	—	(trong 漂亮) đẹp	(in 漂亮) pretty
+亮	liàng	Vs	sáng	bright
+西	xī	N	tây, phía tây	west
+汔	qì	—	(dị thể của 汽) hơi, ga	(variant of 汽) vapour, gas
+干	gān	Vs	khô, sạch	dry, clean
+净	jìng	Vs	sạch	clean
+应	yīng	Vaux	nên, phải	should, ought to
+该	gāi	Vaux	nên, đáng	should
+候	hòu	N	lúc, thời điểm	time, moment
+桌	zhuō	N	bàn	table
+可	kě	Vaux	có thể; nhưng	can; but
+部	bù	N	bộ, phần	part, section
+相	xiāng	Adv	lẫn nhau	mutually, each other
+待	dài	V	đối xử, đợi	to treat; to wait
+游	yóu	V	chơi, du ngoạn; bơi	to travel; to swim
+国	guó	N	nước, quốc gia	country
+起	qǐ	V	dậy, lên; bắt đầu từ	to rise; starting from
+食	shí	N	đồ ăn	food
+正	zhèng	Adv	đang, chính	just, exactly
+时	shí	N	giờ, thời	time, hour
+侯	hóu	—	(dị thể của 候) lúc	(variant of 候) time
+子	zi	Ptc	hậu tố danh từ	noun suffix
+糕	gāo	N	bánh (bột)	cake
+升	shēng	V	lên, thăng	to rise, to ascend
+平	píng	Vs	bằng, yên	flat, peaceful
+安	ān	Vs	an, yên	safe, peaceful
+同	tóng	Vs	giống, cùng	same, together
+如	rú	V	như, nếu	as, like; if
+玉	yù	N	ngọc	jade
+明	míng	Vs	sáng, rõ	bright, clear
+华	huá	N	Hoa (Trung Hoa); rực rỡ	China; splendid
+玲	líng	—	Linh (dùng trong tên)	(used in given names)
+田	tián	N	ruộng; họ Điền	field; a surname
+东	dōng	N	đông, phía đông	east
+健	jiàn	Vs	khỏe, cường tráng	healthy, strong
+怡	yí	Vs	vui vẻ, thư thái	happy, cheerful
+君	jūn	N	quân tử; anh, ngài	gentleman; you
+陈	chén	N	họ Trần	a surname
+爱	ài	V	yêu, thích	to love
+丽	lì	Vs	đẹp, xinh	beautiful
+王	wáng	N	họ Vương; vua	a surname; king
+文	wén	N	văn, chữ	writing, language
+李	lǐ	N	họ Lý	a surname
+诚	chéng	Vs	thành thật	sincere, honest
+知	zhī	V	biết	to know

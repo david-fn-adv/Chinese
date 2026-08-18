@@ -1,0 +1,382 @@
+家具	đồ nội thất
+而且	hơn nữa, mà còn
+吵	ồn, ầm ĩ
+生活费	chi phí sinh hoạt
+低	thấp
+留	giữ lại; để lại
+长	dài
+讨论	thảo luận, bàn
+社团	câu lạc bộ, hội nhóm
+活动	hoạt động
+失望	thất vọng
+放心	yên tâm, an tâm
+用	dùng, sử dụng
+首尔	Seoul
+垃圾	rác
+倒	đổ (rác)
+丢	bỏ, ném đi
+收	thu, gom
+以为	tưởng là (nhưng sai)
+回收	tái chế, thu hồi
+规定	quy định
+要不然	nếu không thì
+皮包	túi da, ví
+跑	chạy
+追	chạy theo, đuổi theo
+有趣	thú vị, hay hay
+不坏	không tệ
+天天	ngày nào cũng, hằng ngày
+汽水罐	lon nước ngọt
+纸杯	cốc giấy
+放下	đặt xuống, bỏ xuống
+走出来	đi ra
+怎么办	làm sao bây giờ
+聊	tán, nói (về)
+忽然	bỗng nhiên, chợt
+声音	âm thanh, tiếng
+奇怪	lạ, kỳ lạ
+袋子	cái túi
+辆	chiếc (lượng từ cho xe)
+地点	địa điểm
+为了	để, vì
+保护	bảo vệ
+分类	phân loại
+利用	tận dụng, sử dụng
+纸	giấy
+瓶子	cái chai
+塑胶	nhựa, chất dẻo
+资源	tài nguyên
+回收桶	thùng tái chế
+城市	thành phố
+听见	nghe thấy
+开过来	lái xe tới
+走过去	đi qua đó
+丢进去	ném vào
+路上	trên đường
+功夫	công phu, võ thuật
+推	đẩy
+体育馆	nhà thể thao
+太极拳	Thái Cực Quyền
+师父	sư phụ, thầy
+天分	tố chất, năng khiếu
+懂	hiểu
+起来	dậy, thức dậy
+动作	động tác
+轻	nhẹ, khoan
+腿	chân
+下去	tiếp tục (làm gì)
+兴趣	sở thích, sự thích thú
+借	mượn, cho mượn
+有天分	có năng khiếu
+学会	học được, nắm được
+起不来	không dậy được
+走不了路	không đi nổi
+好处	ích lợi, cái hay
+抱怨	oán trách, phàn nàn
+公尺	mét
+总是	luôn luôn, lúc nào cũng
+完	xong, hết
+体力	thể lực
+整天	cả ngày
+精神	tinh thần, sức lực
+本来	vốn dĩ, ban đầu
+可能	có thể, có lẽ
+回	trở về, quay về
+影响	ảnh hưởng
+身体	cơ thể, sức khỏe
+练	luyện, tập
+想起	nhớ ra, nghĩ đến
+春假	nghỉ xuân
+特色	nét đặc trưng, đặc sắc
+颜色	màu sắc
+庙	đền, miếu
+像	giống như
+教堂	nhà thờ
+南部	miền nam
+潜水	lặn biển
+各	các, mỗi
+鱼	cá
+酸	chua
+柠檬	chanh
+味道	vị, mùi vị
+泰国	Thái Lan
+比起来	so với, đem so
+极了	cực kỳ, hết sức
+忘不了	không thể quên
+乡下	nông thôn, vùng quê
+气氛	không khí, bầu không khí
+镇	thị trấn
+不同	khác nhau, khác biệt
+现代	hiện đại
+公寓	căn hộ, chung cư
+马路	đường, đường lớn
+宽	rộng
+汽车	xe hơi, ô tô
+建筑	kiến trúc, tòa nhà
+老	cũ; già
+层	tầng (lượng từ)
+北部	miền bắc
+热情	nhiệt tình, nồng hậu
+挤	chật, đông chen chúc
+饮料	nước uống, đồ uống
+巴黎	Paris
+高雄市	thành phố Cao Hùng
+中南部	miền trung và miền nam
+买得起	mua nổi, đủ tiền mua
+百货公司	trung tâm thương mại
+越来越	càng ngày càng
+马丁	Martin (một người đàn ông Anh)
+饺子	bánh chẻo, sủi cảo
+脱	cởi, tháo (giày)
+鞋	giày, dép
+关	đóng, tắt
+门	cửa
+春卷	chả giò, nem cuốn
+泡菜	kim chi
+饭厅	phòng ăn
+洗	rửa, giặt
+做菜	nấu ăn, làm món
+水饺	bánh chẻo luộc
+煮	nấu, luộc
+坏	hỏng, hư
+破	vỡ, bục
+馅儿	nhân (bánh)
+扁	dẹt, bẹp
+材料	nguyên liệu
+道	món (lượng từ cho món ăn)
+饱	no
+光	hết, sạch
+锅子	cái nồi, cái chảo
+筷子	đôi đũa
+韩国	Hàn Quốc
+看不出来	không nhìn ra, không ngờ được
+酸辣汤	canh chua cay
+学期	học kỳ
+趁	tranh lúc, nhân lúc
+皮	vỏ, da (bánh)
+尝	nếm, thử
+大白菜	cải thảo
+加	thêm, cho vào
+盐	muối
+拌	trộn
+辣椒	ớt
+调味料	gia vị
+玻璃	thủy tinh, kính
+寿司	sushi
+食物	thức ăn, thực phẩm
+做起来	làm thì, khi làm
+其他	khác, còn lại
+假期	kỳ nghỉ
+温泉	suối nước nóng
+票	vé
+考虑	suy nghĩ, cân nhắc
+顺便	nhân tiện, tiện thể
+湖	hồ
+原住民	người bản địa, người nguyên trú
+趟	chuyến (lượng từ)
+后来	sau đó, về sau
+注意	để ý, chú ý
+沙滩	bãi biển, bãi cát
+钱包	ví tiền
+不见	mất, không thấy nữa
+被	trợ từ câu bị động
+偷	trộm, ăn trộm
+安全	an toàn
+值得	đáng, xứng đáng
+垦丁	Khẩn Đinh (vùng biển mũi nam Đài Loan)
+台中	thành phố Đài Trung
+日月潭	Hồ Nhật Nguyệt
+水上活动	hoạt động trên nước
+风景区	khu du lịch, khu thắng cảnh
+遍	lần, lượt (lượng từ)
+民宿	homestay, nhà nghỉ dân
+运气	vận may, may mắn
+摩托车	xe máy
+热带	nhiệt đới
+植物	thực vật, cây cỏ
+所有	tất cả, toàn bộ
+白天	ban ngày
+躺	nằm
+黄昏	buổi hoàng hôn
+条	con (lượng từ cho đường phố)
+街	phố, đường phố
+啤酒	bia
+上	trợ từ chỉ tiếp xúc/bắt đầu; trên
+浪漫	lãng mạn
+家乡	quê nhà, quê hương
+观光客	khách du lịch
+晒太阳	phơi nắng, tắm nắng
+水上摩托车	mô tô nước
+爱上	yêu mất rồi, đâm ra yêu
+素食	đồ ăn chay
+速食	đồ ăn nhanh
+错	sai, nhầm
+肉	thịt
+欸	này (tiếng gọi để ý)
+让	để cho, làm cho
+吃素	ăn chay
+汉堡	hamburger
+变	trở nên, biến thành
+胖	béo, mập
+素菜	món chay
+油腻	béo ngậy, nhiều dầu
+样	món, kiểu (lượng từ)
+好奇	tò mò, hiếu kỳ
+女孩	con gái, cô gái
+青菜	rau xanh
+瘦	gầy
+室友	bạn cùng phòng
+猪肉	thịt lợn, thịt heo
+西方	phương Tây
+完全	hoàn toàn
+咸	mặn
+炸	chiên, rán
+烤	nướng
+沙拉	xa lát
+麦当劳	McDonald's
+速食店	quán ăn nhanh
+只要	chỉ cần
+餐	bữa (lượng từ)
+宗教	tôn giáo
+关系	quan hệ, liên quan
+薯条	khoai tây chiên
+作法	cách làm
+越	càng
+简单	đơn giản
+蒸	hấp
+有机	hữu cơ
+食品	thực phẩm
+地球	trái đất
+污染	ô nhiễm
+严重	nghiêm trọng
+卫生	vệ sinh
+营养	dinh dưỡng
+什么的	đại loại thế, vân vân
+林爱丽	Lâm Ái Lệ (một cô gái người Canada)
+掉	mất, rơi
+低头	cúi đầu
+传	gửi (tin nhắn, email)
+简讯	tin nhắn
+短信	tin nhắn
+功能	chức năng
+生气	tức, nổi giận
+骂	mắng, la
+健身房	phòng gym
+啦	trợ từ cuối câu (了＋啊)
+查	tra, kiểm tra
+班机	chuyến bay
+订位	đặt chỗ
+电	điện
+充电	sạc điện
+糊涂	lú, lơ đễnh
+喔	nhé, đấy (trợ từ gợi ý)
+义大利	Ý, Italia
+拿走	lấy đi, mang đi
+捡到	lượm được, nhặt được
+留下	giữ lại cho mình
+网路	internet, mạng
+发生	xảy ra, phát sinh
+事情	việc, sự việc
+消息	tin, thông tin
+透过	thông qua, qua
+世界	thế giới
+节省	tiết kiệm
+起床	dậy, ra khỏi giường
+检查	kiểm tra
+邮件	thư, email
+立刻	lập tức, ngay
+上传	tải lên, đăng lên
+正常	bình thường
+现代人	người hiện đại
+比方说	ví dụ như, chẳng hạn
+做到	làm được, đạt được
+第一手	trực tiếp, đầu tay
+急着	nôn nóng, gấp gáp
+打招呼	chào hỏi
+面对面	mặt đối mặt
+将来	tương lai
+征求	tuyển, mời ứng cử
+教师	giáo viên
+认为	cho rằng, nghĩ rằng
+毕业	tốt nghiệp
+发展	phát triển
+连	ngay cả, thậm chí
+想法	suy nghĩ, cách nghĩ
+不但	không chỉ, không những
+继续	tiếp tục
+使用	sử dụng
+实现	thực hiện, trở thành hiện thực
+招待	tiếp đón, chiêu đãi
+研究所	cao học, viện nghiên cứu
+聚	tụ họp, gặp nhau
+香港	Hồng Kông
+上海	Thượng Hải
+说到	nói đến, nhắc đến
+念完	học xong (một chương trình)
+分公司	công ty chi nhánh
+舍不得	không đành lòng, lưu luyến
+聚一聚	tụ tập một bữa
+当时	lúc đó, hồi đó
+声调	thanh điệu
+发音	phát âm
+准	chuẩn, chính xác
+企业	doanh nghiệp
+管理	quản lý
+系	khoa (trong trường đại học)
+经济	kinh tế
+帮助	sự giúp đỡ
+有关	có liên quan
+语法	ngữ pháp
+研究	nghiên cứu
+教书	dạy học
+方法	phương pháp, cách
+目的	mục đích
+国际	quốc tế
+翻译	phiên dịch, người dịch
+外交	ngoại giao
+人员	nhân viên, nhân sự
+充实	làm phong phú, bồi đắp
+专业	chuyên ngành, chuyên môn
+能力	năng lực, khả năng
+加拿大	Canada
+企业管理系	khoa quản trị kinh doanh
+国际关系	quan hệ quốc tế
+春节	Tết Nguyên Đán
+伯伯	bác (trai)
+年夜饭	cơm tất niên
+打扰	làm phiền, quấy rầy
+女儿	con gái
+国外	nước ngoài
+围炉	quây quần bên bữa cơm tất niên
+意思	ý nghĩa, ý
+全家	cả nhà
+孩子	con, trẻ con
+吉祥	tốt lành, may mắn
+年纪	tuổi tác
+过年	ăn Tết
+除夕夜	đêm giao thừa
+睡着	ngủ được, ngủ say
+压岁钱	tiền mừng tuổi
+恭喜发财	chúc mừng phát tài
+好了	được rồi, xong
+节日	ngày lễ, ngày hội
+打扫	dọn dẹp, quét nhà
+春联	câu đối Tết
+除夕	đêm giao thừa
+年糕	bánh tổ, bánh gạo Tết
+橘子	quả quýt
+守岁	thức đón giao thừa
+说法	cách nói, quan niệm
+晚	muộn, khuya
+活	sống
+平安	bình an
+出门	ra khỏi nhà, đi ra ngoài
+拜年	chúc Tết
+华人	người Hoa
+贴上	dán lên
+年年有余	năm nào cũng dư dả
+步步高升	bước bước lên cao
+大吉大利	đại cát đại lợi
+放鞭炮	đốt pháo
+大年初一	mùng một Tết
+大年初五	mùng năm Tết

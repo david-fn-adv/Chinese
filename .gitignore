@@ -1,0 +1,15 @@
+# tài liệu nguồn có bản quyền — không đưa lên repo
+*.pptx
+*.pdf
+# sản phẩm trung gian của pipeline
+build/*.json
+build/chars.txt
+build/togloss.txt
+build/artifact_reader.html
+build/reader-ccc-book1-2.html
+build/__pycache__/
+# rác hệ thống
+.DS_Store
+Thumbs.db
+desktop.ini
+node_modules/
