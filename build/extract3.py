@@ -3,7 +3,7 @@
 import sys, os, re, glob, json, difflib
 from pptx import Presentation
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from extract2 import (BOOKS, CJK, CJKC, TONE, LAT, VNO, GNO, DIVIDERS, ROMAN,
+from extract2 import (BOOKS, pptx_files, CJK, CJKC, TONE, LAT, VNO, GNO, DIVIDERS, ROMAN,
                       clean, cjkonly, slide_texts, vocab_marker, parse_vocab, SPK)
 
 EXER = re.compile(r'(（\s*）|\(\s*\)|是非题|True or False|'
@@ -19,6 +19,29 @@ def is_exercise(ls):
     if re.match(r'^\d+\s*[\.．]\s*(Please|Listen|Read|Answer|Look|Fill|Complete|Match|Write)', txt): return True
     return False
 
+# Chi dem dau NGAN TU that su: khoang trang va 、
+# (KHONG dem dau phay -- van xuoi dung dau phay rat nhieu)
+WORDSEP = re.compile(r'[ 、]')
+SENT_END = re.compile(r'[。？！.?!]')      # ca dau toan rong lan ASCII
+SPEAKER  = re.compile(r'[：:]')
+
+def is_wordlist(ls):
+    """Slide bang tu vung bi nhan nham la doan van."""
+    txt = ' '.join(ls)
+    body = cjkonly(txt)
+    if len(body) < 15: return False
+    if SENT_END.search(txt): return False      # co dau ket cau -> la cau that
+    if SPEAKER.search(txt):  return False      # co ten nguoi noi -> la hoi thoai
+    return len(WORDSEP.findall(txt)) >= len(body) / 6.0
+
+def is_fragments(turns):
+    """Khoi cau vi du ngu phap: nhieu manh ngan, khong nguoi noi."""
+    if len(turns) < 3: return False
+    if any(t.get('sp') for t in turns): return False
+    short = sum(1 for t in turns if len(cjkonly(t['zh'])) < 26)
+    return short >= len(turns) * 0.7
+
+
 def collect_texts(slides, vslide, gram_from):
     blocks = []
     for i in range(0, gram_from):
@@ -27,6 +50,7 @@ def collect_texts(slides, vslide, gram_from):
             ls = [l for l in s['lines'] if l and l not in DIVIDERS]
             if not ls: continue
             if GNO.match(ls[0]): continue
+            if is_wordlist(ls): continue
             cjk = sum(len(CJK.findall(l)) for l in ls)
             if cjk < 20: continue
             lat = sum(1 for l in ls if TONE.search(l))
@@ -112,6 +136,7 @@ def extract(book, lid, path):
         turns = split_speakers(u['lines'])
         nsp = sum(1 for t in turns if t.get('sp'))
         if not turns: continue
+        if is_fragments(turns): continue
         texts.append({'kind': 'dialogue' if nsp >= 2 else 'essay', 'nsp': nsp,
                       'slides': u['slides'], 'turns': turns})
     return {'id': lid, 'book': book, 'title': title, 'vocab': vocab,
@@ -120,7 +145,7 @@ def extract(book, lid, path):
 if __name__ == '__main__':
     out = {}
     for b, d in sorted(BOOKS.items()):
-        for f in sorted(glob.glob(os.path.join(d, '*.pptx'))):
+        for f in pptx_files(d):
             lid = os.path.basename(f).replace('.pptx', '')
             r = extract(b, lid, f); out[lid] = r
             bad = [v for v in r['vocab'] if not v['w'] or not v['p']]

@@ -1,22 +1,29 @@
 # -*- coding: utf-8 -*-
-"""Extractor v2 -- 當代中文課程 Book1+Book2 PPTX -> raw2.json"""
+"""Extractor v2 -- 當代中文課程 PPTX -> raw2.json"""
 import sys, os, re, glob, json
 from pptx import Presentation
 
-# Thu muc chua 2 thu muc con cua Sach 1 / Sach 2 (cac file .pptx).
+# Thu muc goc chua cac thu muc "BOOK 1/2/3" (cac file .pptx).
 # Dat bien moi truong CCC_SOURCE, hoac sua duong dan mac dinh duoi day.
 ROOT = os.environ.get("CCC_SOURCE",
                       os.path.join(os.path.dirname(os.path.abspath(__file__)), "source"))
-# Tim thu muc cua tung cuon: bat ky thu muc con nao co ten chua "BOOK 1" / "BOOK 2".
+# Tim thu muc cua tung cuon: thu muc con nao chua .pptx va co "book N" trong duong dan.
 def _book_dir(n):
-    hits = []
-    for dirpath, _dirs, files in os.walk(ROOT):
-        if any(f.lower().endswith(".pptx") for f in files) and \
-           ("book %d" % n) in dirpath.lower():
-            hits.append(dirpath)
-    return sorted(hits, key=len)[0] if hits else os.path.join(ROOT, "BOOK %d" % n)
+    want = "book %d" % n
+    hits = [dp for dp, _d, fs in os.walk(ROOT)
+            if want in dp.lower()
+            and any(f.lower().endswith(".pptx") for f in fs)]
+    return sorted(hits, key=len)[0] if hits else None
 
-BOOKS = {1: _book_dir(1), 2: _book_dir(2)}
+
+BOOKS = {n: d for n in (1, 2, 3) for d in [_book_dir(n)] if d}
+
+
+def pptx_files(d):
+    """File .pptx trong thu muc, bo qua file tam ~$ cua PowerPoint."""
+    import glob as _g
+    return sorted(f for f in _g.glob(os.path.join(d, "*.pptx"))
+                  if not os.path.basename(f).startswith("~$"))
 
 TAGS = re.compile(r'[\U000E0000-\U000E01EF\uFE00-\uFE0F\u200b-\u200f\u2060\ufeff\u00ad]')
 CJKC = '\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff'
@@ -30,7 +37,7 @@ PYCH = "A-Za-z" + TONEC + r"\s'\u2019\-\u00b7./\uff0f()\u3001,"
 LAT  = re.compile('^[' + PYCH + ']+$')
 VNO  = re.compile(r'^(I{1,3}|IV|VI{0,3}|V|VII|VIII)\s*-\s*(\d+)\s*$')
 GNO  = re.compile(r'^(I{1,3}|IV|VI{0,3}|V|VII|VIII|IX|X|XI+)\s*\.\s*(.+)$')
-SPK  = re.compile('([' + CJKC + r']{1,3}[ ]?[' + CJKC + r']{0,2}[A-Za-z]{0,3})\s*[\uff1a:]\s*')
+SPK  = re.compile('([' + CJKC + r'](?:[ ]{0,2}[' + CJKC + r']){0,3}[A-Za-z]{0,3})' + r'\s*[：:]\s*')
 DIVIDERS = ('\u5bf9\u8bdd\u4e00','\u5bf9\u8bdd\u4e8c','\u5bf9\u8bdd\u4e09','\u77ed\u6587',
             '\u7ec3\u4e60','\u8bfe\u6587','\u5bf9\u8bdd','\u8bed\u6cd5','\u751f\u8bcd')
 ROMAN = {'I':1,'II':2,'III':3,'IV':4,'V':5,'VI':6,'VII':7,'VIII':8}

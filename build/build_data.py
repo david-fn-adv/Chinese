@@ -23,7 +23,8 @@ def read_tsv(path, n):
 
 def load_gloss():
     g = {}
-    for f in ('gloss_a.txt', 'gloss_b.txt', 'gloss_c.txt'):
+    for f in ('gloss_a.txt', 'gloss_b.txt', 'gloss_c.txt',
+              'gloss_d.txt', 'gloss_e.txt', 'gloss_f.txt', 'gloss_g.txt'):
         for w, vn in read_tsv(f, 2):
             g[w.strip()] = vn.strip()
     return g
@@ -95,7 +96,7 @@ def build():
                 if not e['p']: e['p'] = p
                 if not e['en'] and v['en']: e['en'] = v['en']
     # từ bổ trợ
-    for w, p, pos, vn, en in read_tsv('supp.txt', 5):
+    for w, p, pos, vn, en in read_tsv('supp.txt', 5) + read_tsv('supp_b3.txt', 5):
         w = w.strip()
         if w in D: continue
         D[w] = {'w': w, 'p': p.strip(), 'hv': hv_word(w, p.strip()), 'pos': pos.strip(),

@@ -66,6 +66,44 @@ CHARS = """
 检:kiểm 立:lập 刻:khắc 呼:hô 征:trưng 求:cầu 连:liên 继:kế 续:tục 使:sử 港:cảng 济:tế 目:mục 翻:phiên
 译:dịch 员:viên 专:chuyên 扰:nhiễu 祥:tường 纪:kỷ 财:tài 扫:tảo 联:liên 橘:quất 守:thủ 贴:thiếp 余:dư 升:thăng
 鞭:tiên 炮:pháo 七:thất 汔:khí 短:đoản 信:tín 侯:hầu
+农:nông 受:thụ 改:cải 政:chính 价:giá 购:cấu 型:hình 度:độ 元:nguyên 产:sản 术:thuật
+折:chiết 居:cư 饼:bính 军:quân 治:trị 清:thanh 苦:khổ 科:khoa 反:phản 性:tính 担:đảm
+修:tu 亏:khuy 季:quý 满:mãn 撞:chàng 象:tượng 销:tiêu 由:do 于:vu 职:chức 务:vụ 举:cử
+凤:phượng 梨:lê 竞:cạnh 争:tranh 伤:thương 数:số 战:chiến 萝:la 卜:bốc 权:quyền
+德:đức 独:độc 般:bàn 牌:bài 毛:mao 弄:lộng 退:thoái 并:tịnh 顾:cố 预:dự 跳:khiêu
+幸:hạnh 鲜:tiên 祖:tổ 移:di 族:tộc 宵:tiêu 墙:tường 排:bài 煎:tiễn 木:mộc 造:tạo
+塞:tắc 画:họa 及:cập 既:ký 引:dẫn 落:lạc 减:giảm 基:cơ 集:tập 尽:tận 量:lượng
+善:thiện 土:thổ 持:trì 许:hứa 爷:gia 奶:nãi 领:lĩnh 紧:khẩn 阿:a 喊:hảm 率:suất
+状:trạng 硕:thạc 技:kỹ 普:phổ 叔:thúc 闽:mân 警:cảnh 止:chỉ 至:chí 朝:triều 摊:than
+投:đầu 核:hạch 辞:từ 捐:quyên
+罗:la 珊:san 蒂:đế 何:hà 雅:nhã 婷:đình 楚:sở 羡:tiện 慕:mộ 熬:ngao 恐:khủng 迟:trì
+私:tư 弃:khí 泼:bát 填:điền 申:thân 荐:tiến 扣:khấu 质:chất 择:trạch 摸:mô 羊:dương
+暖:noãn 刷:loát 签:thiêm 洞:động 纠:củ 纷:phân 证:chứng 帐:trướng 括:quát 释:thích
+尤:vưu 骗:biển 顿:đốn 缴:kiểu 吓:hách 敏:mẫn 萱:huyên 桥:kiều 稳:ổn 躲:đóa 零:linh
+樱:anh 乎:hồ 霉:môi 凉:lương 潮:triều 闷:muộn 荷:hà 兰:lan 刮:quát 死:tử 根:căn
+据:cứ 祭:tế 蚊:văn 虫:trùng 戴:đái 挂:quải 瘟:ôn 疫:dịch 圆:viên 柚:dữu 馨:hinh
+端:đoan 耐:nại 仔:tử 赚:trám 无:vô 烟:yên 跨:khóa 鸡:kê 溪:khê 孔:khổng 碰:bính
+迹:tích 史:sử 俗:tục 粥:chúc 窄:trách 盖:cái 欣:hân 赏:thưởng 铃:linh 赤:xích 崁:khám
+唉:ai 楣:mi 奋:phấn 词:từ 震:chấn 智:trí 慧:tuệ 杀:sát 衫:sam 剧:kịch 角:giác
+寄:ký 害:hại 媒:môi 吸:hấp 避:tị 免:miễn 伍:ngũ 喇:lạt 叭:bá 裤:khố 印:ấn 戏:hí
+妆:trang 模:mô 浅:thiển 彦:ngạn 蔬:sơ 堆:đôi 肥:phì 辛:tân 入:nhập 润:nhuận 屋:ốc
+番:phiên 茄:già 熟:thục 敢:cảm 黑:hắc 摘:trích 宁:ninh 章:chương 傅:phó 村:thôn
+访:phỏng 闲:nhàn 静:tĩnh 邻:lân 狗:cẩu 嗯:ân 孤:cô 牠:tha 脏:tạng 澡:táo 乱:loạn
+咬:giảo 宠:sủng 散:tán 庭:đình 跌:điệt 忍:nhẫn 姨:di 靠:kháo 强:cường 享:hưởng
+伴:bạn 负:phụ 责:trách 组:tổ 此:thử 云:vân 激:kích 读:độc 辅:phụ 疯:phong 夸:khoa
+遗:di 憾:hám 努:nỗ 密:mật 设:thiết 冠:quán 却:khước 拒:cự 绝:tuyệt 弹:đàn 制:chế
+础:sở 穷:cùng 徒:đồ 兵:binh 烘:hồng 焙:bồi 艺:nghệ 终:chung 亿:ức 梦:mộng 录:lục
+取:thủ 鼓:cổ 励:lệ 吴:ngô 宝:bảo 坡:pha 眼:nhãn 之:chi 贩:phiến 嬷:ma 宅:trạch
+配:phối 搜:sưu 寻:tầm 箱:tương 须:tu 曾:tằng 占:chiếm 格:cách 府:phủ 斤:cân 旺:vượng
+京:kinh 酥:tô 遵:tuân 则:tắc 诊:chẩn 骨:cốt 刀:đao 况:huống 命:mệnh 针:châm 察:sát
+危:nguy 恢:khôi 哎:ai 呀:nha 祸:họa 救:cứu 增:tăng 向:hướng 遇:ngộ 倍:bội 尊:tôn
+均:quân 疗:liệu 益:ích 派:phái 队:đội 甚:thậm 仗:trượng 血:huyết 喽:lâu 孙:tôn
+禁:cấm 娶:thú 彩:thái 淡:đạm 郑:trịnh 帝:đế 轮:luân 败:bại 浆:tương 断:đoạn 迁:thiên
+困:khốn 俭:kiệm 妇:phụ 深:thâm 蒋:tưởng 石:thạch 输:thâu 摆:bãi 烹:phanh 饪:nhâm
+殖:thực 噌:tăng 歉:khiểm 衷:trung 途:đồ 劝:khuyến 达:đạt 厂:xưởng 党:đảng 宪:hiến
+示:thị 映:ánh 积:tích 佳:giai 策:sách 革:cách 届:giới 暂:tạm 脉:mạch 弱:nhược
+势:thế 阵:trận 版:bản
+指:chỉ 隔:cách 它:tha 圣:thánh
 """
 
 # từ ghép dùng âm đọc khác âm chính của chữ
@@ -76,6 +114,44 @@ WORD_HV = {
     '快乐': 'khoái lạc', '可乐': 'khả lạc', '行李': 'hành lý',
     '银': 'ngân', '首都': 'thủ đô', '重要': 'trọng yếu',
     '只': 'chỉ', '教': 'giáo', '为': 'vi',
+    '安德思':         'An Đức Tư',
+    '罗珊蒂':         'La San Đế',
+    '何雅婷':         'Hà Nhã Đình',
+    '陈敏萱':         'Trần Mẫn Huyên',
+    '高桥健太':        'Cao Kiều Kiện Thái',
+    '李文彦':         'Lý Văn Ngạn',
+    '吴宝春':         'Ngô Bảo Xuân',
+    '蒋介石':         'Tưởng Giới Thạch',
+    '郑成功':         'Trịnh Thành Công',
+    '荷兰':          'Hà Lan',
+    '新加坡':         'Tân Gia Ba',
+    '东京':          'Đông Kinh',
+    '淡水':          'Đạm Thủy',
+    '平溪':          'Bình Khê',
+    '孔庙':          'Khổng Miếu',
+    '赤崁楼':         'Xích Khám Lâu',
+    '红毛城':         'Hồng Mao Thành',
+    '闽南语':         'Mân Nam ngữ',
+    '闽南人':         'Mân Nam nhân',
+    '大清帝国':        'Đại Thanh đế quốc',
+    '明朝':          'Minh triều',
+    '清朝':          'Thanh triều',
+    '元宵':          'nguyên tiêu',
+    '元宵节':         'Tết Nguyên Tiêu',
+    '端午节':         'Tết Đoan Ngọ',
+    '农历':          'nông lịch',
+    '快乐':          'khoái lạc',
+    '音乐':          'âm nhạc',
+    '乐团':          'nhạc đoàn',
+    '行行出状元':       'hành hành xuất trạng nguyên',
+    '数一数二':        'sổ nhất sổ nhị',
+    '少数':          'thiểu số',
+    '长':           'trường',
+    '长大':          'trưởng đại',
+    '种':           'chủng',
+    '得票率':         'đắc phiếu suất',
+    '失业率':         'thất nghiệp suất',
+    '分之':          'phân chi',
 }
 
 def load_chars():

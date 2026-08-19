@@ -1,0 +1,235 @@
+住院	nằm viện
+骨折	gãy xương
+片子	phim chụp (X-quang)
+开刀	mổ, phẫu thuật
+病人	bệnh nhân
+情况	tình hình
+紧急	khẩn cấp
+病床	giường bệnh
+要命	chết mất, kinh khủng
+打针	tiêm
+止痛	giảm đau
+脸	mặt
+手术	ca phẫu thuật
+警察	cảnh sát
+危险	nguy hiểm
+至于	còn về, đối với
+部位	bộ phận (trên cơ thể)
+恢复	hồi phục
+伤口	vết thương
+哎呀	Ối! Chết rồi!
+出车祸	gặp tai nạn xe
+赶时间	vội, gấp
+受伤	bị thương
+撞倒	đâm ngã
+救护车	xe cứu thương
+照	chụp (X-quang)
+动手术	làm phẫu thuật
+撞	đâm, va
+遵守	tuân thủ
+规则	quy tắc
+报警	báo cảnh sát
+急诊室	phòng cấp cứu
+伤	vết thương
+医美	thẩm mỹ y khoa
+自信	sự tự tin
+外表	vẻ ngoài
+普通	bình thường
+从事	làm (nghề)
+医治	chữa trị
+一向	xưa nay vẫn
+主要	chủ yếu
+待遇	đãi ngộ, lương
+公立	công lập
+合理	hợp lý
+外科	khoa ngoại
+超过	vượt quá
+倍	lần (gấp)
+另	còn, một … khác
+价值观	quan niệm giá trị
+尊敬	tôn kính
+告	kiện
+平均	trung bình
+医疗	y tế
+怪	trách
+休假	nghỉ phép
+爱林	Ái Lâm (tên một cô gái)
+微整型	thẩm mỹ nhẹ
+数一数二	nhất nhì, hàng đầu
+人际关系	quan hệ giữa người với người
+动不动就	động một tí là
+找回	tìm lại
+迷人	quyến rũ
+职场	chốn công sở
+竞争力	sức cạnh tranh
+调查	cuộc khảo sát
+整型	phẫu thuật thẩm mỹ
+增加	tăng thêm
+建	dựng, xây
+烧	đốt
+城墙	tường thành
+头发	tóc
+甚至	thậm chí
+打仗	đánh trận
+少数	thiểu số
+开垦	khai khẩn
+将军	tướng quân
+军人	quân nhân
+平原	đồng bằng
+重建	xây dựng lại
+人口	dân số
+血统	huyết thống
+喽	(trợ từ cuối câu) vậy nhé
+孙子	cháu trai
+领土	lãnh thổ
+男性	nam giới
+禁止	cấm
+娶	cưới (vợ)
+相信	tin
+精彩	đặc sắc, hay
+到底	rốt cuộc
+红毛城	Hồng Mao Thành (pháo đài Santo Domingo, Đạm Thuỷ)
+东方	phương Đông
+淡水	Đạm Thuỷ (Tamsui)
+汉人	người Hán
+郑成功	Trịnh Thành Công (1624–1662)
+明朝	nhà Minh (1368–1644)
+中南美洲	Trung và Nam Mỹ
+清朝	nhà Thanh (1644–1911)
+大清帝国	Đại Thanh đế quốc
+轮到	đến lượt
+世纪	thế kỷ
+十七世纪初	đầu thế kỷ 17
+打败	đánh bại
+十七世纪末	cuối thế kỷ 17
+贸易	mậu dịch, buôn bán
+商业	thương mại
+利益	lợi ích
+派	phái, cử đi
+军队	quân đội
+餐桌	bàn ăn
+摊子	quầy hàng rong
+菜单	thực đơn
+萝卜	củ cải
+接着	tiếp đó
+战争	chiến tranh
+不断	không ngừng
+迁移	di cư
+多半	phần lớn
+困难	khó khăn
+节俭	tiết kiệm
+中式	kiểu Trung Hoa
+主妇	nội trợ
+煎	rán, chiên
+菜色	món ăn, chủng loại món
+以及	và, cùng với
+美味	ngon
+点心	điểm tâm, món ngọt
+日式	kiểu Nhật
+饮食	ẩm thực
+深	sâu
+蒋介石	Tưởng Giới Thạch (1887–1975)
+套	(lượng từ) bộ
+国共内战	nội chiến Quốc – Cộng
+客家人	người Khách Gia (Hakka)
+闽南人	người Mân Nam
+蛋饼	bánh trứng cuốn
+打输	đánh thua
+摆摊子	bày quầy bán hàng
+萝卜糕	bánh củ cải
+烹饪课	lớp nấu ăn
+晒干	phơi khô
+各种各样	đủ loại
+烧饼	bánh nướng vừng
+殖民统治	cai trị thuộc địa
+味噌汤	canh miso
+萝卜干	củ cải khô
+进一步	thêm một bước
+油条	quẩy
+饭团	cơm nắm
+豆浆	sữa đậu nành
+内战	nội chiến
+人民	nhân dân
+投票	bỏ phiếu
+而已	mà thôi
+民主	dân chủ
+表达	bày tỏ
+公共	công cộng
+议题	vấn đề, chủ đề bàn luận
+核能	năng lượng hạt nhân
+电厂	nhà máy điện
+由	do (ai đó làm)
+专家	chuyên gia
+全面	toàn diện
+抱歉	xin lỗi, áy náy
+民意	ý dân
+处理	xử lý
+政党	đảng phái
+难道	chẳng lẽ
+满	tròn, đủ (tuổi)
+宪法	hiến pháp
+投票权	quyền bỏ phiếu
+选举	cuộc bầu cử
+权利	quyền lợi
+表妹	em họ gái
+表示	tỏ ý, có nghĩa là
+反映	phản ánh
+为	vì, cho
+服务	phục vụ
+职位	chức vụ
+任期	nhiệm kỳ
+选民	cử tri
+完美	hoàn hảo
+积极	tích cực, chủ động
+最佳	tốt nhất
+反核	phản đối điện hạt nhân
+推销员	nhân viên tiếp thị
+有道理	có lý
+候选人	ứng cử viên
+游行	cuộc tuần hành
+政治	chính trị
+热衷	say mê, nhiệt tình với
+前途	tương lai, tiền đồ
+劝	khuyên
+学术界	giới học thuật
+方面	phương diện
+得到	có được
+连任	tái nhiệm
+届	(lượng từ) khoá, nhiệm kỳ
+支持度	mức ủng hộ
+落选	trượt cử
+得票率	tỷ lệ phiếu bầu
+预期	dự kiến
+暂时	tạm thời
+老家	quê nhà
+从政	làm chính trị
+形象	hình ảnh
+商量	bàn bạc
+人脉	quan hệ, mối quen biết
+弱势	yếu thế
+退休	nghỉ hưu
+事业	sự nghiệp
+捐	quyên góp
+义务	tình nguyện, không công
+经费	kinh phí
+竞选	tranh cử
+政策	chính sách
+也许	có lẽ
+政治界	giới chính trị
+权力	quyền lực
+辞掉	nghỉ việc, từ chức
+提出	đưa ra
+国民年金	lương hưu quốc dân
+中间选民	cử tri trung dung
+一阵子	một dạo, một thời gian
+下一步	bước tiếp theo
+尽可能	hết sức có thể
+安定	ổn định
+出版社	nhà xuất bản
+捐出	quyên tặng
+二手书	sách cũ
+辞	từ chức
+头脑	đầu óc
+改革	cuộc cải cách
+看法	cách nhìn
+教育	giáo dục

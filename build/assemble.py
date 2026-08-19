@@ -33,10 +33,22 @@ VN_TITLE = {
  'B2-L13': 'Tôi mất điện thoại rồi',
  'B2-L14': 'Tôi sắp bắt đầu tìm việc',
  'B2-L15': 'Ăn Tết Nguyên Đán',
+ 'B3-L01': 'Khai giảng rồi',
+ 'B3-L02': 'Giảm từ 20% trở lên',
+ 'B3-L03': 'Áo khoác, mang theo chưa?',
+ 'B3-L04': 'Tôi yêu tình người Đài Loan',
+ 'B3-L05': 'Bây giờ đang mốt gì?',
+ 'B3-L06': 'Về quê ở một đêm!',
+ 'B3-L07': 'Người "nhà" thân nhất của tôi',
+ 'B3-L08': 'Tôi muốn được là chính mình',
+ 'B3-L09': 'Thời đại mua sắm online',
+ 'B3-L10': 'Tôi nằm viện',
+ 'B3-L11': 'Chuyện Đài Loan',
+ 'B3-L12': 'Tôi đi bỏ phiếu',
 }
 
 # Noi ghi file HTML hoan chinh. Dat CCC_OUT de doi.
-OUT = os.environ.get("CCC_OUT", "reader-ccc-book1-2.html")
+OUT = os.environ.get("CCC_OUT", "reader-ccc-book1-3.html")
 
 def main():
     db = json.load(open('reader.json', encoding='utf-8'))

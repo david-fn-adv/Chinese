@@ -4,7 +4,7 @@
 Token màu và bảng màu tối nằm trong template.html (nguồn duy nhất)."""
 import io, json, os, re
 
-TITLE = '<title>當代中文課程 · Sách 1–2</title>'
+TITLE = '<title>當代中文課程 · Sách 1–3</title>'
 
 
 def build():
