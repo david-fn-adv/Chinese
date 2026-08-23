@@ -1,7 +1,8 @@
-# 當代中文課程 · Sách 1–3 — Graded Reader
+# 當代中文課程 · Sách 1–3 + tin tức — Graded Reader
 
 Trình đọc phân cấp (graded reader) cho Sách 1, 2 và 3 của *當代中文課程 / A Course in
-Contemporary Chinese*, dành cho người học Việt Nam. Một file HTML duy nhất, chạy offline,
+Contemporary Chinese*, dành cho người học Việt Nam, **cộng thêm mỗi ngày một bài đọc
+tin tức tiếng Trung** ở mức khó nối tiếp Sách 3. Một file HTML duy nhất, chạy offline,
 không gọi tài nguyên ngoài.
 
 **Đọc trực tiếp:** mở `index.html` bằng bất kỳ trình duyệt nào.
@@ -10,28 +11,53 @@ không gọi tài nguyên ngoài.
 
 | | |
 |---|---|
-| Bài học | 42 (Sách 1: 15 · Sách 2: 15 · Sách 3: 12) |
-| Bài đọc | 84 — mỗi bài 2 văn bản (hội thoại / đoản văn), 914 khối |
-| Từ tra được | 2.112 |
-| Mục ngữ pháp | 249, kèm câu ví dụ + pinyin + dịch Anh |
-| Token trong bài đọc | 20.861 — mọi chữ đều bấm tra được |
+| Bài học | 43 — giáo trình 42 (Sách 1: 15 · 2: 15 · 3: 12) + tin tức 1 |
+| Bài đọc | 85 văn bản, 922 khối |
+| Từ tra được | 2.125 |
+| Mục ngữ pháp / điểm ngôn ngữ | 252, kèm câu ví dụ + pinyin + dịch |
+| Token trong bài đọc | 21.216 — mọi chữ đều bấm tra được |
 
-Độ phủ: pinyin, nghĩa Việt và âm Hán Việt đều đủ 2112/2112. Không còn chữ nào trong bài
-đọc mà không tra được.
+Độ phủ: nghĩa Việt đủ 2125/2125; âm Hán Việt đủ 2124/2125 — mục còn lại là `KTV`,
+từ mượn viết bằng chữ Latinh nên không có âm Hán Việt. Không còn chữ Hán nào trong
+bài đọc mà không tra được.
 
 ## Cách dùng
 
-- **书架** — 42 ô đậm dần theo số từ mới đã mở; tiến độ lưu trong `localStorage` của máy
+- **书架** — 43 ô trên 4 hàng (ba hàng sách + một hàng tin), đậm dần theo số từ mới
+  đã mở; tiến độ lưu trong `localStorage` của máy
 - **课文** — 3 tab mỗi bài: hai bài đọc + `语法`
   - `PINYIN` bật ruby pinyin cho **toàn bài**
   - `ẨN NGHĨA` che nghĩa để tự kiểm tra
   - bấm chữ nào cũng mở thẻ từ, kèm **câu thật lấy từ trong bài** và nguồn
     (ví dụ `B3-L07 · 对话一 · 何雅婷`)
   - tên nhân vật bấm ra được giới thiệu là ai
-- **词库** — tra 2.112 từ theo chữ Hán / pinyin / tiếng Việt / **âm Hán Việt** / tiếng Anh.
+- **词库** — tra 2.125 từ theo chữ Hán / pinyin / tiếng Việt / **âm Hán Việt** / tiếng Anh,
+  lọc riêng được theo từng sách hoặc theo **tin tức**.
   Không dấu cũng tìm được: `toupiao`, `bo phieu`, `dau phieu quyen` đều ra 投票权.
 
 Giao diện tự đổi theo theme sáng/tối của máy.
+
+## Tin tức hằng ngày
+
+Mỗi ngày thêm một bài đọc phóng tác từ báo tiếng Trung (36氪, 零壹财经, 新华网…), chủ đề
+AI · startup · kinh doanh · công nghệ · fintech · tài trợ thương mại.
+
+Bài tin là **bản phóng tác tóm lược viết lại**, không phải bản dịch hay trích nguyên
+văn. Số liệu và tên riêng giữ theo nguồn và được đối chiếu bằng nguồn thứ hai; cách
+diễn đạt là của bản phóng tác. Mỗi bài có khối 来源 cuối bài ghi đủ báo, tác giả, ngày
+đăng, URL và ngày truy cập.
+
+Mật độ từ mới giữ trong khoảng **5–10% số loại từ** — nhẹ hơn giáo trình (Sách 3 chạy
+22,4%) vì tin đọc hằng ngày và đọc một mình. Một cổng kiểm tra chặn bài không đạt.
+
+```bash
+pip install pypinyin jieba
+python3 tools/build_lesson.py news/2026-08-23.json   # nháp -> token, đo mật độ
+python3 tools/gate.py        news/2026-08-23.json    # cổng: đạt / hỏng
+python3 tools/build_app.py                           # dựng lại index.html
+```
+
+Quy trình đầy đủ, ràng buộc biên tập và danh sách kiểm tra: **`tools/daily-news.md`**.
 
 ## Âm Hán Việt
 
@@ -44,8 +70,20 @@ Danh từ riêng viết hoa từng âm: 台湾 → *Đài Loan*, 郑成功 → *
 
 ## Dựng lại
 
-Nội dung được rút tự động từ 42 file `.pptx` bài giảng gốc. **Các file `.pptx` không có
-trong repo này** (tài liệu có bản quyền, và rất nặng).
+`index.html` là **sản phẩm dựng ra**, không phải file nguồn — đừng sửa tay, sẽ bị ghi đè.
+
+```bash
+python3 tools/build_app.py     # build/template.html + data/reader.json + news/*.json
+```
+
+`data/reader.json` giữ 42 bài giáo trình đã đóng băng; `news/*.json` mỗi file một bài tin.
+Dựng lại từ `template.html` + `reader.json` cho ra đúng từng byte bản 42 bài trước đó.
+
+### Rút lại từ file bài giảng gốc
+
+Chỉ cần khi muốn dựng lại `data/reader.json` từ đầu. Nội dung được rút tự động từ 42
+file `.pptx` bài giảng gốc. **Các file `.pptx` không có trong repo này** (tài liệu có
+bản quyền, và rất nặng).
 
 ```bash
 pip install python-pptx pypinyin
@@ -96,5 +134,9 @@ Nội dung bài học — hội thoại, đoản văn, bảng từ mới, mục 
 Normal University). Repo này chỉ là công cụ đọc, làm cho mục đích học tập cá nhân, không
 thay thế việc mua sách.
 
-Phần tự viết trong repo — mã nguồn, nghĩa tiếng Việt, bảng âm Hán Việt — dùng tự do cho
-việc học.
+Bài đọc tin tức là **bản phóng tác tóm lược viết lại**, không phải bản dịch hay trích
+nguyên văn bài báo gốc; mỗi bài ghi đủ nguồn ở cuối. Bản quyền bài báo gốc thuộc về
+tờ báo và tác giả được ghi tên.
+
+Phần tự viết trong repo — mã nguồn, nghĩa tiếng Việt, bảng âm Hán Việt, văn bản phóng
+tác — dùng tự do cho việc học.

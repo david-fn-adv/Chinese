@@ -75,8 +75,8 @@
   .shelf p{margin:0 0 16px;font-size:12.5px;color:var(--ink2)}
   .brow{display:flex;align-items:center;gap:8px;margin-bottom:6px}
   .blabel{font-family:var(--mono);font-size:10px;color:var(--ink3);width:20px;flex:none;letter-spacing:.04em}
-  .cells{display:flex;gap:3px;flex:1;flex-wrap:nowrap}
-  .cell{flex:1;height:16px;border-radius:2px;background:var(--d0);cursor:pointer;min-width:0;position:relative;border:0;padding:0;box-shadow:inset 0 0 0 1px var(--cell-bd)}
+  .cells{display:flex;gap:3px;flex:1;flex-wrap:nowrap;justify-content:flex-start}
+  .cell{flex:1 1 0;max-width:34px;height:16px;border-radius:2px;background:var(--d0);cursor:pointer;min-width:0;position:relative;border:0;padding:0;box-shadow:inset 0 0 0 1px var(--cell-bd)}
   .cell.d1{background:var(--d1)}.cell.d2{background:var(--d2)}.cell.d3{background:var(--d3)}.cell.d4{background:var(--d4)}
   .cell.here{box-shadow:0 0 0 2px var(--ink)}
   .cell:focus-visible{outline:2px solid var(--ink);outline-offset:1px}
@@ -267,6 +267,15 @@
     .tabs button{padding:6px 8px;font-size:14px}
     .tabs button span{display:none}
   }
+  /* ── nguồn tin ── */
+  .srcbox{margin-top:28px;padding-top:15px;border-top:1px dashed var(--rule)}
+  .srcbox h3{font-family:var(--mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink3);margin:0 0 11px;font-weight:400}
+  .srcitem{margin-bottom:11px;font-size:13px;line-height:1.5}
+  .srcitem a{color:var(--teal);text-decoration:none;border-bottom:1px solid var(--rule)}
+  .srcitem a:hover{border-bottom-color:var(--teal)}
+  .srcitem .role{font-family:var(--mono);font-size:9px;letter-spacing:.08em;text-transform:uppercase;background:var(--field);color:var(--ink2);padding:2px 6px;border-radius:3px;margin-right:7px;white-space:nowrap}
+  .srcitem .meta{font-family:var(--mono);font-size:10px;color:var(--ink3);margin-top:3px;letter-spacing:.02em;line-height:1.5}
+  .adapt{font-size:11.5px;color:var(--ink3);line-height:1.6;margin:13px 0 0;padding:10px 12px;background:var(--field);border-radius:6px}
   @media (prefers-reduced-motion:reduce){ .sheet,.backdrop{transition:none} }
 </style>
 </head>
@@ -276,10 +285,10 @@
   <!-- ══════════ 1. LIBRARY ══════════ -->
   <div class="screen on" id="s-library">
     <div class="head">
-      <div class="eyebrow">當代中文課程 · Sách 1 &amp; 2</div>
+      <div class="eyebrow">當代中文課程 · Sách 1–3 &amp; tin tức</div>
       <h1>书架<span>Thư viện</span></h1>
       <div class="stats">
-        <div class="stat"><b id="st-lessons">30<em>/30</em></b><i>bài đã nạp</i></div>
+        <div class="stat"><b id="st-lessons">—</b><i>bài đã nạp</i></div>
         <div class="stat"><b id="st-words">0<em></em></b><i>từ trong kho</i></div>
         <div class="stat"><b id="st-seen">0</b><i>từ đã mở</i></div>
       </div>
@@ -337,7 +346,7 @@
   <!-- ══════════ 3. VOCABULARY ══════════ -->
   <div class="screen" id="s-vocab">
     <div class="head" style="padding-bottom:16px">
-      <div class="eyebrow">Tra cứu toàn bộ Sách 1 &amp; 2</div>
+      <div class="eyebrow">Tra cứu toàn bộ Sách 1–3 &amp; tin tức</div>
       <h1>词库<span>Kho từ</span></h1>
     </div>
     <div class="search">
@@ -348,6 +357,8 @@
         <button data-f="extra" aria-pressed="false">TỪ HỖ TRỢ</button>
         <button data-f="b1" aria-pressed="false">SÁCH 1</button>
         <button data-f="b2" aria-pressed="false">SÁCH 2</button>
+        <button data-f="b3" aria-pressed="false">SÁCH 3</button>
+        <button data-f="news" aria-pressed="false">TIN TỨC</button>
         <button data-f="seen" aria-pressed="false">ĐÃ MỞ</button>
         <button data-f="unseen" aria-pressed="false">CHƯA MỞ</button>
       </div>
@@ -375,7 +386,7 @@
    ───────────────────────────────────────────────────────── */
 var DB = JSON.parse(document.getElementById('data').textContent);
 var DICT = DB.dict, NAMES = DB.names, LESSONS = DB.lessons;
-var BOOKS = [
+var BOOKS = DB.books || [
   {b:1, title:'基础', vn:'Nền tảng'},
   {b:2, title:'生活', vn:'Đời sống'},
   {b:3, title:'社会', vn:'Xã hội'}
@@ -428,7 +439,7 @@ function renderShelf(){
   $('#shelf-rows').innerHTML = BOOKS.map(function(bk){
     var ls = LESSONS.filter(function(l){ return l.book===bk.b; });
     var done = ls.filter(function(l){ return progressOf(l)>=.85; }).length;
-    return '<div class="brow"><span class="blabel">B'+bk.b+'</span><div class="cells">' +
+    return '<div class="brow"><span class="blabel">'+esc(bk.label||('B'+bk.b))+'</span><div class="cells">' +
       ls.map(function(l){
         var p = progressOf(l);
         return '<button class="cell '+dclass(p)+(l.id===cur?' here':'')+
@@ -448,11 +459,14 @@ function renderLibrary(){
     '<circle cx="22" cy="22" r="18" fill="none" stroke="var(--red)" stroke-width="4" stroke-linecap="round" ' +
     'stroke-dasharray="'+(2*Math.PI*18)+'" stroke-dashoffset="'+(2*Math.PI*18*(1-p))+'"/></svg><b>'+pct+'%</b></div>';
   $('#st-seen').textContent = totalSeen();
+  var nNews = LESSONS.filter(function(l){ return !!l.src; }).length, nLesson = LESSONS.length-nNews;
+  $('#st-lessons').innerHTML = LESSONS.length+'<em>/'+LESSONS.length+'</em>';
   var nCore = Object.keys(DICT).filter(function(w){ return DICT[w].kind==='core'; }).length;
   $('#st-words').innerHTML = nCore+'<em>/'+Object.keys(DICT).length+'</em>';
   $('#shelf-h').textContent = 'Toàn bộ '+LESSONS.length+' bài · '+BOOKS.length+' sách';
   $('#demo-note').innerHTML =
-    'Toàn bộ hội thoại, đoản văn, từ mới và ngữ pháp của <b>'+LESSONS.length+' bài</b> đều rút trực tiếp từ bộ bài giảng gốc. ' +
+    'Hội thoại, đoản văn, từ mới và ngữ pháp của <b>'+nLesson+' bài giáo trình</b> rút trực tiếp từ bộ bài giảng gốc' +
+    (nNews ? '; <b>'+nNews+' bài tin</b> là bản phóng tác từ báo tiếng Trung, có ghi nguồn cuối bài' : '') + '. ' +
     'Bấm vào bất kỳ chữ nào trong bài để mở thẻ từ — trong thẻ có thêm <b>âm Hán Việt</b>. ' +
     'Tiến độ được lưu trên máy anh.';
 
@@ -490,6 +504,20 @@ function tokenHTML(t){
     return '<span class="name" data-n="'+esc(t.w)+'" role="button" tabindex="0">'+inner+'</span>';
   }
   return inner;
+}
+function srcHTML(l){
+  if(!l.src || !l.src.length) return '';
+  return '<div class="srcbox"><h3>来源 · Nguồn</h3>' +
+    l.src.map(function(s){
+      return '<div class="srcitem"><span class="role">'+
+        esc(s.role==='primary'?'nguồn chính':'đối chiếu')+'</span>' +
+        '<a href="'+esc(s.url)+'" target="_blank" rel="noopener">'+esc(s.title)+'</a>' +
+        '<div class="meta">'+esc(s.outlet)+((s.author&&s.author!==s.outlet)?' · '+esc(s.author):'')+
+        ' · đăng '+esc(s.date)+' · truy cập '+esc(s.accessed)+'</div></div>';
+    }).join('') +
+    '<p class="adapt">Bài đọc trên là <b>bản phóng tác tóm lược</b> viết lại cho người học, ' +
+    'không phải bản dịch hay trích nguyên văn. Số liệu và tên riêng giữ theo nguồn; ' +
+    'cách diễn đạt là của bản phóng tác.</p></div>';
 }
 function blockHTML(b){
   var body = b.tk.map(tokenHTML).join('');
@@ -551,7 +579,8 @@ function renderTabs(){
            esc(t.zh)+'<span>'+esc(t.vn)+'</span></button>';
   }).join('');
   if(l.grammar.length){
-    html += '<button role="tab" data-t="g" aria-selected="'+(tab==='g')+'">语法<span>NGỮ PHÁP</span></button>';
+    html += '<button role="tab" data-t="g" aria-selected="'+(tab==='g')+'">'+
+            (l.src?'语言点<span>ĐIỂM NGÔN NGỮ</span>':'语法<span>NGỮ PHÁP</span>')+'</button>';
   }
   $('#text-tabs').innerHTML = html;
 }
@@ -559,7 +588,8 @@ function renderTabs(){
 function renderRead(){
   var l = byId[cur];
   $('#lb-title').textContent = l.title;
-  $('#lb-no').textContent = 'SÁCH '+l.book+' · BÀI '+l.no+' · '+l.seq+'/'+LESSONS.length;
+  $('#lb-no').textContent = (l.src ? 'TIN · '+(l.date||l.id.slice(2)) : 'SÁCH '+l.book+' · BÀI '+l.no)
+                            + ' · '+l.seq+'/'+LESSONS.length;
   $('#btn-prev').disabled = l.seq<=1;
   $('#btn-next').disabled = l.seq>=LESSONS.length;
   renderTabs();
@@ -573,7 +603,7 @@ function renderRead(){
     gw.hidden = true; r.hidden = false;
     var t = l.texts[tab] || l.texts[0];
     r.className = 'read'+(t.kind==='essay'?' essay':'')+(pyOn?' py-on':'');
-    r.innerHTML = t.blocks.map(blockHTML).join('');
+    r.innerHTML = t.blocks.map(blockHTML).join('') + srcHTML(l);
   }
   var core = l.vocab.filter(function(w){ return DICT[w]; });
   var extra = [];
@@ -610,8 +640,9 @@ function matches(){
     var v = r.v;
     if(filter==='core'  && v.kind!=='core')  return false;
     if(filter==='extra' && v.kind!=='extra') return false;
-    if(filter==='b1' && !v.ls.some(function(x){return x.indexOf('B1')===0;})) return false;
-    if(filter==='b2' && !v.ls.some(function(x){return x.indexOf('B2')===0;})) return false;
+    if(/^b[0-9]$/.test(filter) && !v.ls.some(function(x){
+        return x.indexOf('B'+filter.slice(1))===0; })) return false;
+    if(filter==='news' && !v.ls.some(function(x){return x.indexOf('N-')===0;})) return false;
     if(filter==='seen'   && !seen[r.w]) return false;
     if(filter==='unseen' &&  seen[r.w]) return false;
     if(!q) return true;

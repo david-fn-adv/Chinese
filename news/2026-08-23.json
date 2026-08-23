@@ -1,0 +1,2102 @@
+{
+ "date": "2026-08-23",
+ "id": "N-20260823",
+ "draft": {
+  "title": "中国电信的算力生意",
+  "vn": "Cuộc làm ăn mới của China Telecom: bán sức tính toán",
+  "en": "China Telecom's compute business",
+  "paras": [
+   "8月20日，中国电信公布了2026年上半年的报告。上半年，公司的通信收入是2130亿元。这是它最老、也最大的一块生意，可是现在增长已经很慢了。",
+   "真正快起来的是另外一块：智能业务。上半年智能收入311亿元，占公司收入的12.8%。其中算力收入同比增长95%，差不多一年就多了一倍。",
+   "天翼云上半年收入618亿元，同比增长7.8%。公司的自由现金流是289亿元，比去年多了一倍还多。手里有钱，中国电信就一直往算力和数据中心里投入。",
+   "现在它自己有的，加上从外面接进来的算力，规模已经超过118.8 EFLOPS。这些算力就放在全国十几个很大的数据中心里。",
+   "其实中国几家大的电信公司现在做的事情差不多：老服务还得做下去，新技术上也要多花钱。对客户来说，这些变化一时看不出来；可是对市场来说，这是一家老公司想换一种做生意的办法。",
+   "卖电话的时代慢慢过去了，卖算力的时代才刚刚开始。",
+   "有意思的是，公司自己公布的报告里，只说了长得快的那几块。至于哪些生意在变小、小了多少，得看别人做的分析。看中国公司的报告，这一点要特别小心。",
+   "对做生意的人来说，这里面还有一个问题：自己主要的收入，五年以后会不会还是同一块生意？中国电信心里已经有了想法。"
+  ],
+  "points": [
+   {
+    "h": "I. 同比 — so với cùng kỳ năm trước",
+    "b": [
+     "Cách dùng:",
+     "同比 = so với CÙNG KỲ năm trước (cùng quý, cùng nửa năm). Khác 环比 = so với kỳ liền ngay trước. Báo cáo tài chính Trung Quốc dùng cặp này liên tục — đọc nhầm là hiểu sai hẳn con số.",
+     "其中算力收入同比增长95%。",
+     "Qízhōng suànlì shōurù tóngbǐ zēngzhǎng 95%.",
+     "Trong đó doanh thu sức tính toán tăng 95% so với cùng kỳ.",
+     "天翼云上半年收入618亿元，同比增长7.8%。",
+     "Tiānyì Yún shàngbànnián shōurù 618 yì yuán, tóngbǐ zēngzhǎng 7.8%.",
+     "Thiên Dực Vân nửa đầu năm doanh thu 618 tỉ đồng, tăng 7,8% so với cùng kỳ."
+    ]
+   },
+   {
+    "h": "II. A 占 B 的 X% — A chiếm X% của B",
+    "b": [
+     "Cách dùng:",
+     "Cấu trúc chuẩn để nói tỉ trọng. Trong báo cáo hay gặp dạng rút gọn 占收比 = tỉ trọng trên doanh thu.",
+     "上半年智能收入311亿元，占公司收入的12.8%。",
+     "Shàngbànnián zhìnéng shōurù 311 yì yuán, zhàn gōngsī shōurù de 12.8%.",
+     "Nửa đầu năm doanh thu mảng trí tuệ nhân tạo 311 tỉ đồng, chiếm 12,8% doanh thu công ty."
+    ]
+   },
+   {
+    "h": "III. 真正…的是… — cái thật sự… lại là…",
+    "b": [
+     "Cách dùng:",
+     "Dùng để lật trọng tâm: bề ngoài người ta nhìn vào A, nhưng cái đáng chú ý thật sự là B. Rất hay gặp trong bình luận kinh tế.",
+     "真正快起来的是另外一块：智能业务。",
+     "Zhēnzhèng kuài qǐlái de shì lìngwài yí kuài: zhìnéng yèwù.",
+     "Cái thật sự tăng tốc lại là một mảng khác: mảng trí tuệ nhân tạo."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "中国电信": {
+   "w": "中国电信",
+   "p": "Zhōngguó Diànxìn",
+   "hv": "Trung Quốc Điện Tín",
+   "note": "China Telecom — tập đoàn viễn thông nhà nước lớn nhất Trung Quốc, niêm yết tại Thượng Hải, mã 601728.SH"
+  },
+  "天翼云": {
+   "w": "天翼云",
+   "p": "Tiānyì Yún",
+   "hv": "Thiên Dực Vân",
+   "note": "Thiên Dực Vân — dịch vụ điện toán đám mây của China Telecom"
+  }
+ },
+ "dict": {
+  "公布": {
+   "w": "公布",
+   "p": "gōngbù",
+   "hv": "công bố",
+   "pos": "V",
+   "en": "to announce, to make public",
+   "vn": "công bố, thông báo",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260823"
+   ]
+  },
+  "通信": {
+   "w": "通信",
+   "p": "tōngxìn",
+   "hv": "thông tín",
+   "pos": "N",
+   "en": "communications, telecom",
+   "vn": "thông tin liên lạc, viễn thông",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260823"
+   ]
+  },
+  "元": {
+   "w": "元",
+   "p": "yuán",
+   "hv": "nguyên",
+   "pos": "M",
+   "en": "yuan, RMB",
+   "vn": "đồng (nhân dân tệ)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260823"
+   ]
+  },
+  "上半年": {
+   "w": "上半年",
+   "p": "shàngbànnián",
+   "hv": "thượng bán niên",
+   "pos": "N",
+   "en": "first half of the year",
+   "vn": "nửa đầu năm",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260823"
+   ]
+  },
+  "增长": {
+   "w": "增长",
+   "p": "zēngzhǎng",
+   "hv": "tăng trưởng",
+   "pos": "N/V",
+   "en": "growth; to grow",
+   "vn": "tăng trưởng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260823"
+   ]
+  },
+  "同比": {
+   "w": "同比",
+   "p": "tóngbǐ",
+   "hv": "đồng tỉ",
+   "pos": "Adv",
+   "en": "year-on-year, vs. same period last year",
+   "vn": "so với cùng kỳ năm trước",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260823"
+   ]
+  },
+  "智能": {
+   "w": "智能",
+   "p": "zhìnéng",
+   "hv": "trí năng",
+   "pos": "N",
+   "en": "intelligence; smart, AI",
+   "vn": "trí tuệ nhân tạo, thông minh",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260823"
+   ]
+  },
+  "业务": {
+   "w": "业务",
+   "p": "yèwù",
+   "hv": "nghiệp vụ",
+   "pos": "N",
+   "en": "line of business, operations",
+   "vn": "mảng kinh doanh, nghiệp vụ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260823"
+   ]
+  },
+  "算力": {
+   "w": "算力",
+   "p": "suànlì",
+   "hv": "toán lực",
+   "pos": "N",
+   "en": "computing power",
+   "vn": "sức tính toán, năng lực điện toán",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260823"
+   ]
+  },
+  "数据": {
+   "w": "数据",
+   "p": "shùjù",
+   "hv": "số cứ",
+   "pos": "N",
+   "en": "data",
+   "vn": "dữ liệu",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260823"
+   ]
+  },
+  "投入": {
+   "w": "投入",
+   "p": "tóurù",
+   "hv": "đầu nhập",
+   "pos": "V",
+   "en": "to put into, to invest in",
+   "vn": "rót vào, đầu tư vào",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260823"
+   ]
+  },
+  "规模": {
+   "w": "规模",
+   "p": "guīmó",
+   "hv": "quy mô",
+   "pos": "N",
+   "en": "scale, size",
+   "vn": "quy mô",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260823"
+   ]
+  },
+  "分析": {
+   "w": "分析",
+   "p": "fēnxī",
+   "hv": "phân tích",
+   "pos": "N/V",
+   "en": "analysis; to analyse",
+   "vn": "phân tích",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260823"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "零壹财经",
+   "author": "零壹财经",
+   "title": "智算收入暴增95%！中国电信半年报亮出AI底牌",
+   "date": "2026-08-21",
+   "url": "https://www.01caijing.com/ejinrong/344407.htm",
+   "accessed": "2026-08-23"
+  },
+  {
+   "role": "secondary",
+   "outlet": "新华网",
+   "author": "",
+   "title": "中国电信公布2026年中期业绩 全业务经营保持稳健",
+   "date": "2026-08-20",
+   "url": "http://www.news.cn/info/20260820/b2bb88fdbbc745ff82cf3ca2e01dee08/c.html",
+   "accessed": "2026-08-23"
+  }
+ ],
+ "lesson": {
+  "id": "N-20260823",
+  "book": 4,
+  "no": 1,
+  "date": "2026-08-23",
+  "seq": 43,
+  "title": "中国电信的算力生意",
+  "py": "zhōngguódiànxìndesuànlìshēngyì",
+  "en": "China Telecom's compute business",
+  "vn": "Cuộc làm ăn mới của China Telecom: bán sức tính toán",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "8",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "20",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "中国电信",
+        "p": "Zhōngguó Diànxìn",
+        "k": "name"
+       },
+       {
+        "w": "公布",
+        "p": "gōngbù",
+        "k": "core"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "2026",
+        "k": "plain"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "上半年",
+        "p": "shàngbànnián",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "报告",
+        "p": "bàogào",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "上半年",
+        "p": "shàngbànnián",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "通信",
+        "p": "tōngxìn",
+        "k": "core"
+       },
+       {
+        "w": "收入",
+        "p": "shōurù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "2130",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "老",
+        "p": "lǎo",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "块",
+        "p": "kuài",
+        "k": "extra"
+       },
+       {
+        "w": "生意",
+        "p": "shēngyì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "增长",
+        "p": "zēngzhǎng",
+        "k": "core"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "慢",
+        "p": "màn",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "真正",
+        "p": "zhēnzhèng",
+        "k": "extra"
+       },
+       {
+        "w": "快",
+        "p": "kuài",
+        "k": "extra"
+       },
+       {
+        "w": "起来",
+        "p": "qǐlái",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "另外",
+        "p": "lìngwài",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "块",
+        "p": "kuài",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "智能",
+        "p": "zhìnéng",
+        "k": "core"
+       },
+       {
+        "w": "业务",
+        "p": "yèwù",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "上半年",
+        "p": "shàngbànnián",
+        "k": "core"
+       },
+       {
+        "w": "智能",
+        "p": "zhìnéng",
+        "k": "core"
+       },
+       {
+        "w": "收入",
+        "p": "shōurù",
+        "k": "extra"
+       },
+       {
+        "w": "311",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "占",
+        "p": "zhàn",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "收入",
+        "p": "shōurù",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "12",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "8%",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "其中",
+        "p": "qízhōng",
+        "k": "extra"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "core"
+       },
+       {
+        "w": "收入",
+        "p": "shōurù",
+        "k": "extra"
+       },
+       {
+        "w": "同比",
+        "p": "tóngbǐ",
+        "k": "core"
+       },
+       {
+        "w": "增长",
+        "p": "zēngzhǎng",
+        "k": "core"
+       },
+       {
+        "w": "95%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "差不多",
+        "p": "chābùduō",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "倍",
+        "p": "bèi",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "天翼云",
+        "p": "Tiānyì Yún",
+        "k": "name"
+       },
+       {
+        "w": "上半年",
+        "p": "shàngbànnián",
+        "k": "core"
+       },
+       {
+        "w": "收入",
+        "p": "shōurù",
+        "k": "extra"
+       },
+       {
+        "w": "618",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "同比",
+        "p": "tóngbǐ",
+        "k": "core"
+       },
+       {
+        "w": "增长",
+        "p": "zēngzhǎng",
+        "k": "core"
+       },
+       {
+        "w": "7",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "8%",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "自由",
+        "p": "zìyóu",
+        "k": "extra"
+       },
+       {
+        "w": "现金",
+        "p": "xiànjīn",
+        "k": "extra"
+       },
+       {
+        "w": "流",
+        "p": "liú",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "289",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "去年",
+        "p": "qùnián",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "倍",
+        "p": "bèi",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "手",
+        "p": "shǒu",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "中国电信",
+        "p": "Zhōngguó Diànxìn",
+        "k": "name"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "一直",
+        "p": "yìzhí",
+        "k": "extra"
+       },
+       {
+        "w": "往",
+        "p": "wǎng",
+        "k": "extra"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "core"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "core"
+       },
+       {
+        "w": "中",
+        "p": "zhōng",
+        "k": "extra"
+       },
+       {
+        "w": "心",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "投入",
+        "p": "tóurù",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "加",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "外面",
+        "p": "wàimiàn",
+        "k": "extra"
+       },
+       {
+        "w": "接",
+        "p": "jiē",
+        "k": "extra"
+       },
+       {
+        "w": "进",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "规模",
+        "p": "guīmó",
+        "k": "core"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "超过",
+        "p": "chāoguò",
+        "k": "extra"
+       },
+       {
+        "w": "118",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "8 EFLOPS",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "core"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "放",
+        "p": "fàng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "全",
+        "p": "quán",
+        "k": "extra"
+       },
+       {
+        "w": "国",
+        "p": "guó",
+        "k": "extra"
+       },
+       {
+        "w": "十",
+        "p": "shí",
+        "k": "extra"
+       },
+       {
+        "w": "几",
+        "p": "jǐ",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "core"
+       },
+       {
+        "w": "中",
+        "p": "zhōng",
+        "k": "extra"
+       },
+       {
+        "w": "心",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "其实",
+        "p": "qíshí",
+        "k": "extra"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "几",
+        "p": "jǐ",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "电信",
+        "p": "diànxìn",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "事情",
+        "p": "shìqíng",
+        "k": "extra"
+       },
+       {
+        "w": "差不多",
+        "p": "chābùduō",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "老",
+        "p": "lǎo",
+        "k": "extra"
+       },
+       {
+        "w": "服务",
+        "p": "fúwù",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "得",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "下去",
+        "p": "xiàqù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "技术",
+        "p": "jìshù",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "花",
+        "p": "huā",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "客户",
+        "p": "kèhù",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "变化",
+        "p": "biànhuà",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "时",
+        "p": "shí",
+        "k": "extra"
+       },
+       {
+        "w": "看不出来",
+        "p": "kàn bù chū lái",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "市场",
+        "p": "shìchǎng",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "老",
+        "p": "lǎo",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "想",
+        "p": "xiǎng",
+        "k": "extra"
+       },
+       {
+        "w": "换",
+        "p": "huàn",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "种",
+        "p": "zhǒng",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "生意",
+        "p": "shēngyì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "办法",
+        "p": "bànfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "电话",
+        "p": "diànhuà",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "时代",
+        "p": "shídài",
+        "k": "extra"
+       },
+       {
+        "w": "慢",
+        "p": "màn",
+        "k": "extra"
+       },
+       {
+        "w": "慢",
+        "p": "màn",
+        "k": "extra"
+       },
+       {
+        "w": "过",
+        "p": "guò",
+        "k": "extra"
+       },
+       {
+        "w": "去",
+        "p": "qù",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "时代",
+        "p": "shídài",
+        "k": "extra"
+       },
+       {
+        "w": "才",
+        "p": "cái",
+        "k": "extra"
+       },
+       {
+        "w": "刚刚",
+        "p": "gānggang",
+        "k": "extra"
+       },
+       {
+        "w": "开始",
+        "p": "kāishǐ",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "有意思",
+        "p": "yǒu yìsi",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "公布",
+        "p": "gōngbù",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "报告",
+        "p": "bàogào",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "长",
+        "p": "cháng",
+        "k": "extra"
+       },
+       {
+        "w": "得",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "快",
+        "p": "kuài",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "那",
+        "p": "nà",
+        "k": "extra"
+       },
+       {
+        "w": "几",
+        "p": "jǐ",
+        "k": "extra"
+       },
+       {
+        "w": "块",
+        "p": "kuài",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "至于",
+        "p": "zhìyú",
+        "k": "extra"
+       },
+       {
+        "w": "哪",
+        "p": "nǎ",
+        "k": "extra"
+       },
+       {
+        "w": "些",
+        "p": "xiē",
+        "k": "extra"
+       },
+       {
+        "w": "生意",
+        "p": "shēngyì",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "变",
+        "p": "biàn",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "得",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "别",
+        "p": "bié",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "分析",
+        "p": "fēnxī",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "报告",
+        "p": "bàogào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "一点",
+        "p": "yīdiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "特别",
+        "p": "tèbié",
+        "k": "extra"
+       },
+       {
+        "w": "小心",
+        "p": "xiǎoxīn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "生意",
+        "p": "shēngyì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这里",
+        "p": "zhèlǐ",
+        "k": "extra"
+       },
+       {
+        "w": "面",
+        "p": "miàn",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "问题",
+        "p": "wèntí",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "主要",
+        "p": "zhǔyào",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "收入",
+        "p": "shōurù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "五",
+        "p": "wǔ",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "还是",
+        "p": "háishì",
+        "k": "extra"
+       },
+       {
+        "w": "同",
+        "p": "tóng",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "块",
+        "p": "kuài",
+        "k": "extra"
+       },
+       {
+        "w": "生意",
+        "p": "shēngyì",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "中国电信",
+        "p": "Zhōngguó Diànxìn",
+        "k": "name"
+       },
+       {
+        "w": "心",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "想法",
+        "p": "xiǎngfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 同比 — so với cùng kỳ năm trước",
+    "b": [
+     "Cách dùng:",
+     "同比 = so với CÙNG KỲ năm trước (cùng quý, cùng nửa năm). Khác 环比 = so với kỳ liền ngay trước. Báo cáo tài chính Trung Quốc dùng cặp này liên tục — đọc nhầm là hiểu sai hẳn con số.",
+     "其中算力收入同比增长95%。",
+     "Qízhōng suànlì shōurù tóngbǐ zēngzhǎng 95%.",
+     "Trong đó doanh thu sức tính toán tăng 95% so với cùng kỳ.",
+     "天翼云上半年收入618亿元，同比增长7.8%。",
+     "Tiānyì Yún shàngbànnián shōurù 618 yì yuán, tóngbǐ zēngzhǎng 7.8%.",
+     "Thiên Dực Vân nửa đầu năm doanh thu 618 tỉ đồng, tăng 7,8% so với cùng kỳ."
+    ]
+   },
+   {
+    "h": "II. A 占 B 的 X% — A chiếm X% của B",
+    "b": [
+     "Cách dùng:",
+     "Cấu trúc chuẩn để nói tỉ trọng. Trong báo cáo hay gặp dạng rút gọn 占收比 = tỉ trọng trên doanh thu.",
+     "上半年智能收入311亿元，占公司收入的12.8%。",
+     "Shàngbànnián zhìnéng shōurù 311 yì yuán, zhàn gōngsī shōurù de 12.8%.",
+     "Nửa đầu năm doanh thu mảng trí tuệ nhân tạo 311 tỉ đồng, chiếm 12,8% doanh thu công ty."
+    ]
+   },
+   {
+    "h": "III. 真正…的是… — cái thật sự… lại là…",
+    "b": [
+     "Cách dùng:",
+     "Dùng để lật trọng tâm: bề ngoài người ta nhìn vào A, nhưng cái đáng chú ý thật sự là B. Rất hay gặp trong bình luận kinh tế.",
+     "真正快起来的是另外一块：智能业务。",
+     "Zhēnzhèng kuài qǐlái de shì lìngwài yí kuài: zhìnéng yèwù.",
+     "Cái thật sự tăng tốc lại là một mảng khác: mảng trí tuệ nhân tạo."
+    ]
+   }
+  ],
+  "vocab": [
+   "公布",
+   "通信",
+   "元",
+   "上半年",
+   "增长",
+   "同比",
+   "智能",
+   "业务",
+   "算力",
+   "数据",
+   "投入",
+   "规模",
+   "分析"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "零壹财经",
+    "author": "零壹财经",
+    "title": "智算收入暴增95%！中国电信半年报亮出AI底牌",
+    "date": "2026-08-21",
+    "url": "https://www.01caijing.com/ejinrong/344407.htm",
+    "accessed": "2026-08-23"
+   },
+   {
+    "role": "secondary",
+    "outlet": "新华网",
+    "author": "",
+    "title": "中国电信公布2026年中期业绩 全业务经营保持稳健",
+    "date": "2026-08-20",
+    "url": "http://www.news.cn/info/20260820/b2bb88fdbbc745ff82cf3ca2e01dee08/c.html",
+    "accessed": "2026-08-23"
+   }
+  ]
+ }
+}
