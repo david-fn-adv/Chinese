@@ -1,0 +1,2050 @@
+{
+ "date": "2026-08-24",
+ "id": "N-20260824",
+ "draft": {
+  "title": "算力也有高峰和低谷",
+  "vn": "Sức tính toán cũng có giờ cao điểm và thấp điểm",
+  "en": "Compute has peak hours too",
+  "paras": [
+   "8月，DeepSeek把自己的价格改了两次。这家做AI模型的中国公司，先在8月6日说要涨价——新价格比原来高了不少；8月17日，新价格开始用。8月22日晚上，它又公布了一个新办法：从23日起，周末两天全天都按最低的价格收费。",
+   "新的收费办法，是把一天分成“高峰时段”和“低谷时段”。9点到12点、14点到18点是高峰，价格最高；别的时间是低谷，价格只有高峰的一半。周末全天都算低谷。这个办法不是新的——很多国家的电，早就是按时段收钱的。",
+   "拿它最大的模型来说：高峰时段，每100万个token的输出价格是27元；到了低谷时段，一样的东西只要13.5元。其中变化最大的一个价格，从0.025元调整到了0.3元，是原来的12倍。",
+   "为什么要这样做？因为白天用AI的用户多，半夜用的人少，可是那些算力白天晚上都开着。公司想用价格把一些用户搬到没有人用的时段去，让算力每个小时都有事做。这跟卖电的公司让大家半夜用电，是一样的办法。",
+   "昨天的课文里，中国电信在卖算力；今天，DeepSeek在给算力定价。算力越来越像电：什么时候用、怎么用，价格就不一样。会看时段买东西，也是做生意的人要上的一门课。"
+  ],
+  "points": [
+   {
+    "h": "I. 从…起 — từ (mốc thời gian) trở đi",
+    "b": [
+     "Cách dùng:",
+     "Cấu trúc chuẩn của thông báo, quy định, biểu giá: nêu mốc thời gian mà một quy tắc mới bắt đầu có hiệu lực. Đọc công văn, bảng giá, điều khoản hợp đồng tiếng Trung sẽ gặp liên tục.",
+     "从23日起，周末两天全天都按最低的价格收费。",
+     "Cóng 23 rì qǐ, zhōumò liǎng tiān quántiān dōu àn zuì dī de jiàgé shōufèi.",
+     "Từ ngày 23 trở đi, hai ngày cuối tuần thu phí cả ngày theo mức giá thấp nhất."
+    ]
+   },
+   {
+    "h": "II. 按…收费 — thu phí theo…",
+    "b": [
+     "Cách dùng:",
+     "按 = theo, căn cứ vào. 按 + tiêu chí + động từ là khung câu của mọi quy định tính tiền: 按时段收费 (thu theo khung giờ), 按次收费 (thu theo lượt). Trong hợp đồng tài chính gặp ở dạng 按月 / 按年.",
+     "周末两天全天都按最低的价格收费。",
+     "Zhōumò liǎng tiān quántiān dōu àn zuì dī de jiàgé shōufèi.",
+     "Cuối tuần cả ngày đều thu phí theo mức giá thấp nhất."
+    ]
+   },
+   {
+    "h": "III. 拿…来说 — lấy… mà nói (ví dụ như)",
+    "b": [
+     "Cách dùng:",
+     "Đưa một trường hợp cụ thể ra làm ví dụ. Cùng họ với 对…来说 (đối với… mà nói) đã gặp ở bài hôm qua — 拿 nhấn vào việc chọn ví dụ, 对 nhấn vào góc nhìn.",
+     "拿它最大的模型来说：高峰时段，每100万个token的输出价格是27元。",
+     "Ná tā zuì dà de móxíng lái shuō: gāofēng shíduàn, měi 100 wàn gè token de shūchū jiàgé shì 27 yuán.",
+     "Lấy mô hình lớn nhất của nó mà nói: giờ cao điểm, giá đầu ra mỗi 1 triệu token là 27 tệ."
+    ]
+   }
+  ]
+ },
+ "names": {},
+ "dict": {
+  "涨价": {
+   "w": "涨价",
+   "p": "zhǎngjià",
+   "hv": "trướng giá",
+   "pos": "V-sep",
+   "en": "to raise prices",
+   "vn": "tăng giá",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260824"
+   ]
+  },
+  "高峰": {
+   "w": "高峰",
+   "p": "gāofēng",
+   "hv": "cao phong",
+   "pos": "N",
+   "en": "peak; rush hour",
+   "vn": "cao điểm, đỉnh",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260824"
+   ]
+  },
+  "低谷": {
+   "w": "低谷",
+   "p": "dīgǔ",
+   "hv": "đê cốc",
+   "pos": "N",
+   "en": "trough; off-peak",
+   "vn": "thấp điểm, đáy",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260824"
+   ]
+  },
+  "时段": {
+   "w": "时段",
+   "p": "shíduàn",
+   "hv": "thời đoạn",
+   "pos": "N",
+   "en": "time slot, time window",
+   "vn": "khung giờ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260824"
+   ]
+  },
+  "收费": {
+   "w": "收费",
+   "p": "shōufèi",
+   "hv": "thu phí",
+   "pos": "V-sep",
+   "en": "to charge a fee",
+   "vn": "thu phí",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260824"
+   ]
+  },
+  "按": {
+   "w": "按",
+   "p": "àn",
+   "hv": "án",
+   "pos": "Prep",
+   "en": "according to, by",
+   "vn": "theo, căn cứ vào",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260824"
+   ]
+  },
+  "用户": {
+   "w": "用户",
+   "p": "yònghù",
+   "hv": "dụng hộ",
+   "pos": "N",
+   "en": "user, subscriber",
+   "vn": "người dùng, khách dùng dịch vụ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260824"
+   ]
+  },
+  "模型": {
+   "w": "模型",
+   "p": "móxíng",
+   "hv": "mô hình",
+   "pos": "N",
+   "en": "model (AI model)",
+   "vn": "mô hình (mô hình AI)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260824"
+   ]
+  },
+  "输出": {
+   "w": "输出",
+   "p": "shūchū",
+   "hv": "thâu xuất",
+   "pos": "N/V",
+   "en": "output; to output",
+   "vn": "đầu ra, xuất ra",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260824"
+   ]
+  },
+  "定价": {
+   "w": "定价",
+   "p": "dìngjià",
+   "hv": "định giá",
+   "pos": "N/V",
+   "en": "pricing; to set a price",
+   "vn": "định giá",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260824"
+   ]
+  },
+  "调整": {
+   "w": "调整",
+   "p": "tiáozhěng",
+   "hv": "điều chỉnh",
+   "pos": "V/N",
+   "en": "to adjust; adjustment",
+   "vn": "điều chỉnh",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260824"
+   ]
+  },
+  "一半": {
+   "w": "一半",
+   "p": "yíbàn",
+   "hv": "nhất bán",
+   "pos": "N",
+   "en": "half",
+   "vn": "một nửa",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20260824"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "IT之家",
+   "author": "",
+   "title": "DeepSeek 调整 API 周末计费：周六日全天统一按低谷价收费",
+   "date": "2026-08-22",
+   "url": "https://m.ithome.com/html/993095.htm",
+   "accessed": "2026-08-24"
+  },
+  {
+   "role": "secondary",
+   "outlet": "中华网",
+   "author": "",
+   "title": "DeepSeek调价生效 涨幅最高达1100% 引入峰谷定价机制",
+   "date": "2026-08-17",
+   "url": "https://news.china.com/socialgd/10000169/20260817/49678839.html",
+   "accessed": "2026-08-24"
+  }
+ ],
+ "lesson": {
+  "id": "N-20260824",
+  "book": 4,
+  "no": 2,
+  "date": "2026-08-24",
+  "seq": 44,
+  "title": "算力也有高峰和低谷",
+  "py": "suànlìyěyǒugāofēnghédīgǔ",
+  "en": "Compute has peak hours too",
+  "vn": "Sức tính toán cũng có giờ cao điểm và thấp điểm",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "8",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "DeepSeek",
+        "k": "plain"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "改",
+        "p": "gǎi",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "两",
+        "p": "liǎng",
+        "k": "extra"
+       },
+       {
+        "w": "次",
+        "p": "cì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "模型",
+        "p": "móxíng",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "先",
+        "p": "xiān",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "8",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "6",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "涨价",
+        "p": "zhǎngjià",
+        "k": "core"
+       },
+       {
+        "w": "—",
+        "k": "punct"
+       },
+       {
+        "w": "—",
+        "k": "punct"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "原来",
+        "p": "yuánlái",
+        "k": "extra"
+       },
+       {
+        "w": "高",
+        "p": "gāo",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "8",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "17",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "开始",
+        "p": "kāishǐ",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "8",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "22",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "晚上",
+        "p": "wǎnshàng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "又",
+        "p": "yòu",
+        "k": "extra"
+       },
+       {
+        "w": "公布",
+        "p": "gōngbù",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "办法",
+        "p": "bànfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "23",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "起",
+        "p": "qǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "周末",
+        "p": "zhōumò",
+        "k": "extra"
+       },
+       {
+        "w": "两",
+        "p": "liǎng",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "全",
+        "p": "quán",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "按",
+        "p": "àn",
+        "k": "core"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "低",
+        "p": "dī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "收费",
+        "p": "shōufèi",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "收费",
+        "p": "shōufèi",
+        "k": "core"
+       },
+       {
+        "w": "办法",
+        "p": "bànfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "天分",
+        "p": "tiānfèn",
+        "k": "extra"
+       },
+       {
+        "w": "成",
+        "p": "chéng",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "高峰",
+        "p": "gāofēng",
+        "k": "core"
+       },
+       {
+        "w": "时段",
+        "p": "shíduàn",
+        "k": "core"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "低谷",
+        "p": "dīgǔ",
+        "k": "core"
+       },
+       {
+        "w": "时段",
+        "p": "shíduàn",
+        "k": "core"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "9",
+        "k": "plain"
+       },
+       {
+        "w": "点",
+        "p": "diǎn",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "12",
+        "k": "plain"
+       },
+       {
+        "w": "点",
+        "p": "diǎn",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "14",
+        "k": "plain"
+       },
+       {
+        "w": "点",
+        "p": "diǎn",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "18",
+        "k": "plain"
+       },
+       {
+        "w": "点",
+        "p": "diǎn",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "高峰",
+        "p": "gāofēng",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "高",
+        "p": "gāo",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "别的",
+        "p": "biéde",
+        "k": "extra"
+       },
+       {
+        "w": "时间",
+        "p": "shíjiān",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "低谷",
+        "p": "dīgǔ",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "高峰",
+        "p": "gāofēng",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "一半",
+        "p": "yíbàn",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "周末",
+        "p": "zhōumò",
+        "k": "extra"
+       },
+       {
+        "w": "全",
+        "p": "quán",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "算",
+        "p": "suàn",
+        "k": "extra"
+       },
+       {
+        "w": "低谷",
+        "p": "dīgǔ",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "办法",
+        "p": "bànfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "—",
+        "k": "punct"
+       },
+       {
+        "w": "—",
+        "k": "punct"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "国家",
+        "p": "guójiā",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "电",
+        "p": "diàn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "早",
+        "p": "zǎo",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "按",
+        "p": "àn",
+        "k": "core"
+       },
+       {
+        "w": "时段",
+        "p": "shíduàn",
+        "k": "core"
+       },
+       {
+        "w": "收",
+        "p": "shōu",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "模型",
+        "p": "móxíng",
+        "k": "core"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "高峰",
+        "p": "gāofēng",
+        "k": "core"
+       },
+       {
+        "w": "时段",
+        "p": "shíduàn",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "每",
+        "p": "měi",
+        "k": "extra"
+       },
+       {
+        "w": "100",
+        "k": "plain"
+       },
+       {
+        "w": "万",
+        "p": "wàn",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "token",
+        "k": "plain"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "输出",
+        "p": "shūchū",
+        "k": "core"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "27",
+        "k": "plain"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "低谷",
+        "p": "dīgǔ",
+        "k": "core"
+       },
+       {
+        "w": "时段",
+        "p": "shíduàn",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "一样",
+        "p": "yíyàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "东西",
+        "p": "dōngxi",
+        "k": "extra"
+       },
+       {
+        "w": "只要",
+        "p": "zhǐyào",
+        "k": "extra"
+       },
+       {
+        "w": "13",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "5",
+        "k": "plain"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "其中",
+        "p": "qízhōng",
+        "k": "extra"
+       },
+       {
+        "w": "变化",
+        "p": "biànhuà",
+        "k": "extra"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "0",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "025",
+        "k": "plain"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "调整",
+        "p": "tiáozhěng",
+        "k": "core"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "0",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "3",
+        "k": "plain"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "原来",
+        "p": "yuánlái",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "12",
+        "k": "plain"
+       },
+       {
+        "w": "倍",
+        "p": "bèi",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "为什么",
+        "p": "wèishénme",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "这样",
+        "p": "zhè yàng",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "因为",
+        "p": "yīnwèi",
+        "k": "extra"
+       },
+       {
+        "w": "白天",
+        "p": "báitiān",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "用户",
+        "p": "yònghù",
+        "k": "core"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "半夜",
+        "p": "bànyè",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "那",
+        "p": "nà",
+        "k": "extra"
+       },
+       {
+        "w": "些",
+        "p": "xiē",
+        "k": "extra"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "extra"
+       },
+       {
+        "w": "白天",
+        "p": "báitiān",
+        "k": "extra"
+       },
+       {
+        "w": "晚上",
+        "p": "wǎnshàng",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "开",
+        "p": "kāi",
+        "k": "extra"
+       },
+       {
+        "w": "着",
+        "p": "zhe",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "想",
+        "p": "xiǎng",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "一些",
+        "p": "yìxiē",
+        "k": "extra"
+       },
+       {
+        "w": "用户",
+        "p": "yònghù",
+        "k": "core"
+       },
+       {
+        "w": "搬",
+        "p": "bān",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "时段",
+        "p": "shíduàn",
+        "k": "core"
+       },
+       {
+        "w": "去",
+        "p": "qù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "extra"
+       },
+       {
+        "w": "每",
+        "p": "měi",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "小时",
+        "p": "xiǎoshí",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "有事",
+        "p": "yǒu shì",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "跟",
+        "p": "gēn",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "电",
+        "p": "diàn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "大家",
+        "p": "dàjiā",
+        "k": "extra"
+       },
+       {
+        "w": "半夜",
+        "p": "bànyè",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "电",
+        "p": "diàn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "一样",
+        "p": "yíyàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "办法",
+        "p": "bànfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "昨天",
+        "p": "zuótiān",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "课",
+        "p": "kè",
+        "k": "extra"
+       },
+       {
+        "w": "文",
+        "p": "wén",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "中国电信",
+        "p": "Zhōngguó Diànxìn",
+        "k": "name"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "今天",
+        "p": "jīntiān",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "DeepSeek",
+        "k": "plain"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "extra"
+       },
+       {
+        "w": "定价",
+        "p": "dìngjià",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "extra"
+       },
+       {
+        "w": "越来越",
+        "p": "yuèláiyuè",
+        "k": "extra"
+       },
+       {
+        "w": "像",
+        "p": "xiàng",
+        "k": "extra"
+       },
+       {
+        "w": "电",
+        "p": "diàn",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "什么",
+        "p": "shénme",
+        "k": "extra"
+       },
+       {
+        "w": "时候",
+        "p": "shíhòu",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "怎么",
+        "p": "zěnme",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "一样",
+        "p": "yíyàng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "时段",
+        "p": "shíduàn",
+        "k": "core"
+       },
+       {
+        "w": "买",
+        "p": "mǎi",
+        "k": "extra"
+       },
+       {
+        "w": "东西",
+        "p": "dōngxi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "生意",
+        "p": "shēngyì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "门",
+        "p": "Mén",
+        "k": "extra"
+       },
+       {
+        "w": "课",
+        "p": "kè",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 从…起 — từ (mốc thời gian) trở đi",
+    "b": [
+     "Cách dùng:",
+     "Cấu trúc chuẩn của thông báo, quy định, biểu giá: nêu mốc thời gian mà một quy tắc mới bắt đầu có hiệu lực. Đọc công văn, bảng giá, điều khoản hợp đồng tiếng Trung sẽ gặp liên tục.",
+     "从23日起，周末两天全天都按最低的价格收费。",
+     "Cóng 23 rì qǐ, zhōumò liǎng tiān quántiān dōu àn zuì dī de jiàgé shōufèi.",
+     "Từ ngày 23 trở đi, hai ngày cuối tuần thu phí cả ngày theo mức giá thấp nhất."
+    ]
+   },
+   {
+    "h": "II. 按…收费 — thu phí theo…",
+    "b": [
+     "Cách dùng:",
+     "按 = theo, căn cứ vào. 按 + tiêu chí + động từ là khung câu của mọi quy định tính tiền: 按时段收费 (thu theo khung giờ), 按次收费 (thu theo lượt). Trong hợp đồng tài chính gặp ở dạng 按月 / 按年.",
+     "周末两天全天都按最低的价格收费。",
+     "Zhōumò liǎng tiān quántiān dōu àn zuì dī de jiàgé shōufèi.",
+     "Cuối tuần cả ngày đều thu phí theo mức giá thấp nhất."
+    ]
+   },
+   {
+    "h": "III. 拿…来说 — lấy… mà nói (ví dụ như)",
+    "b": [
+     "Cách dùng:",
+     "Đưa một trường hợp cụ thể ra làm ví dụ. Cùng họ với 对…来说 (đối với… mà nói) đã gặp ở bài hôm qua — 拿 nhấn vào việc chọn ví dụ, 对 nhấn vào góc nhìn.",
+     "拿它最大的模型来说：高峰时段，每100万个token的输出价格是27元。",
+     "Ná tā zuì dà de móxíng lái shuō: gāofēng shíduàn, měi 100 wàn gè token de shūchū jiàgé shì 27 yuán.",
+     "Lấy mô hình lớn nhất của nó mà nói: giờ cao điểm, giá đầu ra mỗi 1 triệu token là 27 tệ."
+    ]
+   }
+  ],
+  "vocab": [
+   "涨价",
+   "高峰",
+   "低谷",
+   "时段",
+   "收费",
+   "按",
+   "用户",
+   "模型",
+   "输出",
+   "定价",
+   "调整",
+   "一半"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "IT之家",
+    "author": "",
+    "title": "DeepSeek 调整 API 周末计费：周六日全天统一按低谷价收费",
+    "date": "2026-08-22",
+    "url": "https://m.ithome.com/html/993095.htm",
+    "accessed": "2026-08-24"
+   },
+   {
+    "role": "secondary",
+    "outlet": "中华网",
+    "author": "",
+    "title": "DeepSeek调价生效 涨幅最高达1100% 引入峰谷定价机制",
+    "date": "2026-08-17",
+    "url": "https://news.china.com/socialgd/10000169/20260817/49678839.html",
+    "accessed": "2026-08-24"
+   }
+  ]
+ }
+}

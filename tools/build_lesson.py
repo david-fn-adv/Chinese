@@ -15,9 +15,10 @@ def build(path, write=True):
     known  = N.known_before(path)
     reader = N.load_reader()
 
-    dic = dict(reader['dict']); dic.update(newd)
-    lex = set(dic) | set(reader['names']) | set(names)
-    allnames = dict(reader['names']); allnames.update(names)
+    basedic, basenames = N.upto(path)
+    dic = dict(basedic); dic.update(newd)
+    allnames = dict(basenames); allnames.update(names)
+    lex = set(dic) | set(allnames)
 
     blocks, unknown = [], []
     for para in d['paras']:

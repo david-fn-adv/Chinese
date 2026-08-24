@@ -76,6 +76,20 @@ def load_news():
         out.append(d)
     return out
 
+def upto(path):
+    """(dict, names) tích luỹ: giáo trình + MỌI bài tin trước path.
+    Từ của bài tin cũ là từ đã học — bài sau phải tách được và tra được chúng
+    (hiện là 'extra'), đúng hợp đồng §6. Thiếu hàm này, bài ngày 2 trở đi sẽ
+    báo từ hôm qua là 'chưa tra được'."""
+    r = load_reader()
+    d = dict(r['dict']); nm = dict(r['names'])
+    base = os.path.basename(path)
+    for p in news_files():
+        if os.path.basename(p) >= base: break
+        with open(p, encoding='utf-8') as f: j = json.load(f)
+        d.update(j.get('dict', {})); nm.update(j.get('names', {}))
+    return d, nm
+
 def known_before(path):
     """Tập từ người học đã biết TRƯỚC bài này: 42 bài sách + mọi bài tin trước đó."""
     k = set(load_reader()['dict'])

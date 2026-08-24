@@ -18,9 +18,9 @@ def gate(path):
     hard, soft = [], []
     nf, unknown, (typ, tok, det) = build(path, write=False)
     L, dic, names = nf['lesson'], nf.get('dict', {}), nf.get('names', {})
-    reader = N.load_reader()
-    full = dict(reader['dict']); full.update(dic)
-    fullnames = dict(reader['names']); fullnames.update(names)
+    basedic, basenames = N.upto(path)
+    full = dict(basedic); full.update(dic)
+    fullnames = dict(basenames); fullnames.update(names)
 
     # ── 1..4: bốn điều kiện bắt buộc của đặc tả khuôn mẫu ──
     for t in L['texts']:
