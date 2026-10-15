@@ -151,6 +151,10 @@
   .w.on{background:var(--red-soft)}
   .name{color:var(--ink2);cursor:pointer;border-bottom:1px dotted var(--ink3);border-radius:2px}
   .name:hover{background:var(--field)}
+  .num{border-bottom:1px solid var(--ink3)}
+  .cv{display:inline-block;font-family:var(--mono);font-size:11px;line-height:1.5;letter-spacing:0;color:var(--ink2);background:var(--field);border-radius:3px;padding:0 5px;margin:0 3px;vertical-align:.25em;text-indent:0;white-space:nowrap;cursor:help}
+  .read:not(.cv-on) .cv{display:none}
+  body.test .cv{display:none}
 
   /* ── grammar ── */
   .gwrap{background:var(--paper);padding:8px 20px 26px}
@@ -327,6 +331,7 @@
       <div class="tabs" role="tablist" id="text-tabs"></div>
       <div class="switches">
         <button class="sw" id="sw-py" aria-pressed="false"><i></i>PINYIN</button>
+        <button class="sw" id="sw-cv" aria-pressed="true" title="万 = 10 nghìn · 亿 = 100 triệu · 万亿 = nghìn tỷ"><i></i>万/亿</button>
         <button class="sw" id="sw-test" aria-pressed="false"><i></i>ẨN NGHĨA</button>
       </div>
     </div>
@@ -400,14 +405,14 @@ LESSONS.forEach(function(l){
 });
 
 var seen = {};
-var cur = LESSONS[0].id, tab = 0, pyOn = false;
+var cur = LESSONS[0].id, tab = 0, pyOn = false, cvOn = true;
 var activeEl = null, lastFocus = null;
 
 /* ── lưu tiến độ ── */
 var KEY = 'reader-ccc-b12:v1';
 var Store = {
   save: function(){
-    var payload = JSON.stringify({seen:seen, cur:cur, py:pyOn});
+    var payload = JSON.stringify({seen:seen, cur:cur, py:pyOn, cv:cvOn});
     try{ localStorage.setItem(KEY, payload); }catch(e){}
     try{ if(window.storage) window.storage.set(KEY, payload); }catch(e){}
   },
@@ -417,7 +422,7 @@ var Store = {
     if(raw){ try{
       var o = JSON.parse(raw);
       seen = o.seen || {}; if(o.cur && byId[o.cur]) cur = o.cur;
-      pyOn = !!o.py;
+      pyOn = !!o.py; if('cv' in o) cvOn = !!o.cv;
     }catch(e){} }
   }
 };
@@ -519,8 +524,51 @@ function srcHTML(l){
     'không phải bản dịch hay trích nguyên văn. Số liệu và tên riêng giữ theo nguồn; ' +
     'cách diễn đạt là của bản phóng tác.</p></div>';
 }
+/* quy đổi số: 500亿元 -> "50 tỷ NDT ≈ 7 tỷ USD" — tương đối, chỉ để quen độ lớn */
+var CNY_PER_USD = 7.1;
+var UNIT = {'万':1e4, '亿':1e8, '万亿':1e12};
+var CUR  = {'元':'NDT', '人民币':'NDT', '美元':'USD'};
+function vnBig(n){
+  var f = new Intl.NumberFormat('vi-VN', {maximumSignificantDigits:3});
+  if(n >= 1e12) return f.format(n/1e12)+' nghìn tỷ';
+  if(n >= 1e9)  return f.format(n/1e9)+' tỷ';
+  if(n >= 1e6)  return f.format(n/1e6)+' triệu';
+  if(n >= 1e3)  return f.format(n/1e3)+' nghìn';
+  return f.format(n);
+}
+function numGroup(tk, i){
+  /* nhận "414" "." "5" "亿" "元" -> {end, n, cur}; null nếu không phải số có 万/亿 */
+  if(!tk[i] || tk[i].k!=='plain' || !/^\d[\d,]*$/.test(tk[i].w)) return null;
+  var s = tk[i].w.replace(/,/g,''), j = i+1;
+  if(tk[j] && tk[j].w==='.' && tk[j+1] && /^\d+$/.test(tk[j+1].w)){ s += '.'+tk[j+1].w; j += 2; }
+  var u = tk[j] && tk[j].w, mult = 0;
+  if(u==='万' && tk[j+1] && tk[j+1].w==='亿'){ mult = UNIT['万亿']; j += 2; }
+  else if(UNIT[u]){ mult = UNIT[u]; j += 1; }
+  if(!mult) return null;
+  var cur = tk[j] && CUR[tk[j].w];
+  if(cur) j += 1;
+  return {end:j, n:parseFloat(s)*mult, cur:cur||''};
+}
+function cvHTML(g){
+  var txt = vnBig(g.n)+(g.cur?' '+g.cur:'');
+  if(g.cur==='NDT') txt += ' ≈ '+vnBig(g.n/CNY_PER_USD)+' USD';
+  var tip = '万 = 10 nghìn · 亿 = 100 triệu · 万亿 = nghìn tỷ' +
+            (g.cur==='NDT' ? ' · tỉ giá ước 1 USD ≈ '+String(CNY_PER_USD).replace('.',',')+' NDT' : '');
+  return '<span class="cv" title="'+esc(tip)+'">= '+esc(txt)+'</span>';
+}
+function tokensHTML(tk){
+  var out = [], i = 0;
+  while(i < tk.length){
+    var g = numGroup(tk, i);
+    if(g){
+      out.push('<span class="num">'+tk.slice(i, g.end).map(tokenHTML).join('')+'</span>'+cvHTML(g));
+      i = g.end;
+    } else { out.push(tokenHTML(tk[i])); i++; }
+  }
+  return out.join('');
+}
 function blockHTML(b){
-  var body = b.tk.map(tokenHTML).join('');
+  var body = tokensHTML(b.tk);
   if(b.type==='para') return '<p class="line"><span class="han">'+body+'</span></p>';
   return '<div class="line"><div class="sp" data-n="'+esc(b.sp)+'">'+esc(b.sp)+
          '<em>'+esc(b.spp)+'</em></div><span class="han">'+body+'</span></div>';
@@ -602,7 +650,7 @@ function renderRead(){
   }else{
     gw.hidden = true; r.hidden = false;
     var t = l.texts[tab] || l.texts[0];
-    r.className = 'read'+(t.kind==='essay'?' essay':'')+(pyOn?' py-on':'');
+    r.className = 'read'+(t.kind==='essay'?' essay':'')+(pyOn?' py-on':'')+(cvOn?' cv-on':'');
     r.innerHTML = t.blocks.map(blockHTML).join('') + srcHTML(l);
   }
   var core = l.vocab.filter(function(w){ return DICT[w]; });
@@ -825,6 +873,11 @@ $('#sw-py').addEventListener('click', function(){
   $('#gwrap').classList.toggle('py-on', pyOn);
   Store.save();
 });
+$('#sw-cv').addEventListener('click', function(){
+  cvOn = !cvOn; this.setAttribute('aria-pressed', cvOn);
+  $('#read').classList.toggle('cv-on', cvOn);
+  Store.save();
+});
 $('#sw-test').addEventListener('click', function(){
   var on = this.getAttribute('aria-pressed')!=='true';
   this.setAttribute('aria-pressed', on);
@@ -834,6 +887,7 @@ $('#sw-test').addEventListener('click', function(){
 
 Store.load();
 $('#sw-py').setAttribute('aria-pressed', pyOn);
+$('#sw-cv').setAttribute('aria-pressed', cvOn);
 renderLibrary();
 })();
 </script>

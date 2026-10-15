@@ -244,3 +244,4 @@ Lỗi **mềm** (cảnh báo, vẫn qua): số chữ Hán ngoài khoảng 350–
 | 2026-08-23 | Dựng lại `index.html`, bỏ hướng vá regex | Claude (đã kiểm chứng byte-identical) |
 | 2026-08-23 | Cổng đạt/hỏng, bỏ điểm phần trăm tổng hợp | Claude |
 | 2026-08-24 | Sửa build_lesson + gate: bộ tách từ và kho tra cứu gộp mọi bài tin TRƯỚC đó — từ của bài cũ hiện là "từ hỗ trợ" (extra), đúng §6. Bug lộ ở bài ngày 2: 公布/元/算力 của hôm trước bị báo "chưa tra được" | Claude (bugfix, đã báo Dương) |
+| 2026-10-15 | App tự quy đổi cụm số + 万/亿/万亿 (+元) sang thang số Việt và USD ước tính (1 USD ≈ 7,1 NDT), hiện thành nhãn nhỏ sau con số, có nút 万/亿 bật/tắt. Chỉ ở lớp hiển thị (`build/template.html`), không đụng dữ liệu bài | Dương (yêu cầu), Claude (thiết kế) |
