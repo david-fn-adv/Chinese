@@ -1,0 +1,2153 @@
+{
+ "date": "2026-10-16",
+ "id": "N-20261016",
+ "draft": {
+  "title": "一家公司，两个市场",
+  "vn": "Một công ty, hai thị trường",
+  "en": "One company, two markets",
+  "paras": [
+   "据《证券日报》10月16日报道，今年来香港上市的A股公司越来越多。10月14日晚，做芯片材料的江丰电子发出公告，说要在香港再上一次市。它不是第一家，也不会是最后一家。",
+   "根据万得的数据，截至今年9月底，已经有38家A股公司在港交所上市，一共募资2612.3亿港元。同一时间，香港所有新上市的公司一共募资3855.66亿港元。也就是说，A股公司占了香港新上市公司募资的67.75%，差不多是三分之二。",
+   "这些公司里，很多是做AI算力和芯片的科技公司。其中最大的一家是中际旭创，它是做光通信的龙头公司。7月在香港上市以后，它一共募资614.22亿港元，是2019年阿里巴巴回香港上市以来最多的一次。",
+   "为什么已经在A股上市了，还要去香港再上一次？专家认为有三个原因。第一是政策：中国支持好公司去香港上市，香港也改了一些上市的规定。第二是钱：香港有很多海外投资者，不少人愿意长期投资，他们喜欢科技公司，也愿意等。第三是公司自己的计划：在香港上市，找钱的路多了一条，去海外做生意也更方便。",
+   "一家公司，两个市场，听起来很简单，其实不容易。在两个地方上市，就要同时面对两种投资者，让他们都相信这家公司。不过，中国的科技公司要走出去，先要让世界的资本认识自己。香港，就是它们的第一站。"
+  ],
+  "points": [
+   {
+    "h": "I. 截至… — tính đến …",
+    "b": [
+     "Cách dùng:",
+     "Đặt trước mốc thời gian để nói số liệu được tính đến lúc nào. Gặp trong hầu hết bản tin có số liệu: 截至9月底, 截至目前, 截至发稿.",
+     "截至今年9月底，已经有38家A股公司在港交所上市，一共募资2612.3亿港元。",
+     "Jiézhì jīnnián jiǔ yuè dǐ, yǐjīng yǒu sānshíbā jiā A-gǔ gōngsī zài Gǎngjiāosuǒ shàngshì, yígòng mùzī liǎngqiān liùbǎi yīshí'èr diǎn sān yì gǎngyuán.",
+     "Tính đến cuối tháng 9 năm nay, đã có 38 công ty A-share niêm yết trên HKEX, huy động tổng cộng 261,23 tỷ đô la Hồng Kông."
+    ]
+   },
+   {
+    "h": "II. A占(了)B的X% — A chiếm X% của B",
+    "b": [
+     "Cách dùng:",
+     "Khung chuẩn để nói tỉ trọng. B là cái tổng, X% là phần của A. Rất hay gặp trong báo cáo tài chính và bản tin thị trường.",
+     "也就是说，A股公司占了香港新上市公司募资的67.75%，差不多是三分之二。",
+     "Yě jiù shì shuō, A-gǔ gōngsī zhàn le Xiānggǎng xīn shàngshì gōngsī mùzī de bǎi fēn zhī liùshíqī diǎn qīwǔ, chàbuduō shì sān fēn zhī èr.",
+     "Nói cách khác, các công ty A-share chiếm 67,75% số vốn mà các công ty mới niêm yết ở Hồng Kông huy động được, gần hai phần ba."
+    ]
+   },
+   {
+    "h": "III. …以来 — kể từ … đến nay",
+    "b": [
+     "Cách dùng:",
+     "Đặt sau một mốc thời gian hoặc sự kiện: 2019年以来, 今年以来, 上市以来. Thường đi với 最…, để nói “nhiều nhất/lớn nhất kể từ …”.",
+     "是2019年阿里巴巴回香港上市以来最多的一次。",
+     "Shì èr líng yī jiǔ nián Ālǐbābā huí Xiānggǎng shàngshì yǐlái zuì duō de yí cì.",
+     "Là lần huy động nhiều nhất kể từ khi Alibaba quay về Hồng Kông niêm yết năm 2019."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "证券日报": {
+   "w": "证券日报",
+   "p": "Zhèngquàn Rìbào",
+   "hv": "Chứng Khoán Nhật Báo",
+   "note": "Securities Daily — nhật báo chứng khoán của TQ, nguồn gốc bài này"
+  },
+  "江丰电子": {
+   "w": "江丰电子",
+   "p": "Jiāngfēng Diànzǐ",
+   "hv": "Giang Phong Điện Tử",
+   "note": "Ningbo Jiangfeng Electronic Materials — làm vật liệu đích phún xạ cho sản xuất chip, niêm yết sàn Thâm Quyến (300666)"
+  },
+  "万得": {
+   "w": "万得",
+   "p": "Wàndé",
+   "hv": "Vạn Đắc",
+   "note": "Wind — nhà cung cấp dữ liệu tài chính lớn nhất TQ"
+  },
+  "港交所": {
+   "w": "港交所",
+   "p": "Gǎngjiāosuǒ",
+   "hv": "Cảng Giao Sở",
+   "note": "HKEX — Sở Giao dịch Chứng khoán Hồng Kông (viết tắt của 香港交易所)"
+  },
+  "中际旭创": {
+   "w": "中际旭创",
+   "p": "Zhōngjì Xùchuàng",
+   "hv": "Trung Tế Húc Sáng",
+   "note": "Zhongji Innolight — hãng module quang lớn của TQ, cung cấp cho trung tâm dữ liệu AI"
+  },
+  "阿里巴巴": {
+   "w": "阿里巴巴",
+   "p": "Ālǐbābā",
+   "hv": "A Lý Ba Ba",
+   "note": "Alibaba — năm 2019 niêm yết thứ cấp ở Hồng Kông"
+  }
+ },
+ "dict": {
+  "上市": {
+   "w": "上市",
+   "p": "shàngshì",
+   "hv": "thượng thị",
+   "pos": "V",
+   "en": "to go public, be listed",
+   "vn": "niêm yết (cổ phiếu lên sàn)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261016"
+   ]
+  },
+  "募资": {
+   "w": "募资",
+   "p": "mùzī",
+   "hv": "mộ tư",
+   "pos": "V/N",
+   "en": "to raise capital (esp. via share sale)",
+   "vn": "huy động vốn (qua phát hành cổ phiếu)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261016"
+   ]
+  },
+  "公告": {
+   "w": "公告",
+   "p": "gōnggào",
+   "hv": "công cáo",
+   "pos": "N/V",
+   "en": "announcement; to announce",
+   "vn": "thông báo chính thức (của công ty niêm yết)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261016"
+   ]
+  },
+  "截至": {
+   "w": "截至",
+   "p": "jiézhì",
+   "hv": "tiệt chí",
+   "pos": "Prep",
+   "en": "as of, up to (a date)",
+   "vn": "tính đến (ngày…)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261016"
+   ]
+  },
+  "龙头": {
+   "w": "龙头",
+   "p": "lóngtóu",
+   "hv": "long đầu",
+   "pos": "N",
+   "en": "industry leader",
+   "vn": "doanh nghiệp đầu ngành",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261016"
+   ]
+  },
+  "以来": {
+   "w": "以来",
+   "p": "yǐlái",
+   "hv": "dĩ lai",
+   "pos": "N",
+   "en": "since",
+   "vn": "kể từ … đến nay",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261016"
+   ]
+  },
+  "海外": {
+   "w": "海外",
+   "p": "hǎiwài",
+   "hv": "hải ngoại",
+   "pos": "N",
+   "en": "overseas",
+   "vn": "nước ngoài, hải ngoại",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261016"
+   ]
+  },
+  "投资者": {
+   "w": "投资者",
+   "p": "tóuzīzhě",
+   "hv": "đầu tư giả",
+   "pos": "N",
+   "en": "investor",
+   "vn": "nhà đầu tư",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261016"
+   ]
+  },
+  "长期": {
+   "w": "长期",
+   "p": "chángqī",
+   "hv": "trường kỳ",
+   "pos": "Adj",
+   "en": "long-term",
+   "vn": "dài hạn",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261016"
+   ]
+  },
+  "资本": {
+   "w": "资本",
+   "p": "zīběn",
+   "hv": "tư bản",
+   "pos": "N",
+   "en": "capital",
+   "vn": "vốn, tư bản (资本市场 = thị trường vốn)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261016"
+   ]
+  },
+  "港元": {
+   "w": "港元",
+   "p": "gǎngyuán",
+   "hv": "cảng nguyên",
+   "pos": "N",
+   "en": "Hong Kong dollar",
+   "vn": "đô la Hồng Kông (HKD)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261016"
+   ]
+  },
+  "股": {
+   "w": "股",
+   "p": "gǔ",
+   "hv": "cổ",
+   "pos": "N",
+   "en": "share, stock (A股 = A-shares)",
+   "vn": "cổ phiếu, cổ phần (A股 = cổ phiếu A, niêm yết ở Thượng Hải/Thâm Quyến)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261016"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "证券日报",
+   "author": "",
+   "title": "A股赴港上市是一场双向奔赴",
+   "date": "2026-10-16",
+   "url": "http://stock.10jqka.com.cn/20261016/c680750213.shtml",
+   "accessed": "2026-10-16"
+  },
+  {
+   "role": "secondary",
+   "outlet": "财联社",
+   "author": "",
+   "title": "港股前三季度IPO募资额达3855亿港元 “A+H”股占近七成",
+   "date": "2026-10-05",
+   "url": "https://www.cls.cn/detail/2497936",
+   "accessed": "2026-10-16"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261016",
+  "book": 4,
+  "no": 5,
+  "date": "2026-10-16",
+  "seq": 47,
+  "title": "一家公司，两个市场",
+  "py": "yījiāgōngsī，liǎnggèshìchǎng",
+  "en": "One company, two markets",
+  "vn": "Một công ty, hai thị trường",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "《",
+        "k": "punct"
+       },
+       {
+        "w": "证券日报",
+        "p": "Zhèngquàn Rìbào",
+        "k": "name"
+       },
+       {
+        "w": "》",
+        "k": "punct"
+       },
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "16",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "香港",
+        "p": "Xiānggǎng",
+        "k": "extra"
+       },
+       {
+        "w": "上市",
+        "p": "shàngshì",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "A",
+        "k": "plain"
+       },
+       {
+        "w": "股",
+        "p": "gǔ",
+        "k": "core"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "越来越",
+        "p": "yuèláiyuè",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "14",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "晚",
+        "p": "wǎn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "材料",
+        "p": "cáiliào",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "江丰电子",
+        "p": "Jiāngfēng Diànzǐ",
+        "k": "name"
+       },
+       {
+        "w": "发",
+        "p": "fā",
+        "k": "extra"
+       },
+       {
+        "w": "出",
+        "p": "chū",
+        "k": "extra"
+       },
+       {
+        "w": "公告",
+        "p": "gōnggào",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "香港",
+        "p": "Xiānggǎng",
+        "k": "extra"
+       },
+       {
+        "w": "再",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "次",
+        "p": "cì",
+        "k": "extra"
+       },
+       {
+        "w": "市",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "最后",
+        "p": "zuìhòu",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "根据",
+        "p": "gēnjù",
+        "k": "extra"
+       },
+       {
+        "w": "万得",
+        "p": "Wàndé",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "截至",
+        "p": "jiézhì",
+        "k": "core"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "9",
+        "k": "plain"
+       },
+       {
+        "w": "月底",
+        "p": "yuèdǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "38",
+        "k": "plain"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "A",
+        "k": "plain"
+       },
+       {
+        "w": "股",
+        "p": "gǔ",
+        "k": "core"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "港交所",
+        "p": "Gǎngjiāosuǒ",
+        "k": "name"
+       },
+       {
+        "w": "上市",
+        "p": "shàngshì",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "一共",
+        "p": "yígòng",
+        "k": "extra"
+       },
+       {
+        "w": "募资",
+        "p": "mùzī",
+        "k": "core"
+       },
+       {
+        "w": "2612",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "3",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "港元",
+        "p": "gǎngyuán",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "同",
+        "p": "tóng",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "时间",
+        "p": "shíjiān",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "香港",
+        "p": "Xiānggǎng",
+        "k": "extra"
+       },
+       {
+        "w": "所有",
+        "p": "suǒyǒu",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "上市",
+        "p": "shàngshì",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "一共",
+        "p": "yígòng",
+        "k": "extra"
+       },
+       {
+        "w": "募资",
+        "p": "mùzī",
+        "k": "core"
+       },
+       {
+        "w": "3855",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "66",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "港元",
+        "p": "gǎngyuán",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "A",
+        "k": "plain"
+       },
+       {
+        "w": "股",
+        "p": "gǔ",
+        "k": "core"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "占",
+        "p": "zhàn",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "香港",
+        "p": "Xiānggǎng",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "上市",
+        "p": "shàngshì",
+        "k": "core"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "募资",
+        "p": "mùzī",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "67",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "75%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "差不多",
+        "p": "chābùduō",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "分之",
+        "p": "fēn zhī",
+        "k": "extra"
+       },
+       {
+        "w": "二",
+        "p": "èr",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "科技",
+        "p": "kējì",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "其中",
+        "p": "qízhōng",
+        "k": "extra"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "中际旭创",
+        "p": "Zhōngjì Xùchuàng",
+        "k": "name"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "光",
+        "p": "guāng",
+        "k": "extra"
+       },
+       {
+        "w": "通信",
+        "p": "tōngxìn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "龙头",
+        "p": "lóngtóu",
+        "k": "core"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "7",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "香港",
+        "p": "Xiānggǎng",
+        "k": "extra"
+       },
+       {
+        "w": "上市",
+        "p": "shàngshì",
+        "k": "core"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "一共",
+        "p": "yígòng",
+        "k": "extra"
+       },
+       {
+        "w": "募资",
+        "p": "mùzī",
+        "k": "core"
+       },
+       {
+        "w": "614",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "22",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "港元",
+        "p": "gǎngyuán",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "2019",
+        "k": "plain"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "阿里巴巴",
+        "p": "Ālǐbābā",
+        "k": "name"
+       },
+       {
+        "w": "回",
+        "p": "huí",
+        "k": "extra"
+       },
+       {
+        "w": "香港",
+        "p": "Xiānggǎng",
+        "k": "extra"
+       },
+       {
+        "w": "上市",
+        "p": "shàngshì",
+        "k": "core"
+       },
+       {
+        "w": "以来",
+        "p": "yǐlái",
+        "k": "core"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "次",
+        "p": "cì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "为什么",
+        "p": "wèishénme",
+        "k": "extra"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "A",
+        "k": "plain"
+       },
+       {
+        "w": "股",
+        "p": "gǔ",
+        "k": "core"
+       },
+       {
+        "w": "上市",
+        "p": "shàngshì",
+        "k": "core"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "去",
+        "p": "qù",
+        "k": "extra"
+       },
+       {
+        "w": "香港",
+        "p": "Xiānggǎng",
+        "k": "extra"
+       },
+       {
+        "w": "再",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "次",
+        "p": "cì",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "专家",
+        "p": "zhuānjiā",
+        "k": "extra"
+       },
+       {
+        "w": "认为",
+        "p": "rènwéi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "原因",
+        "p": "yuányīn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "政策",
+        "p": "zhèngcè",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "支持",
+        "p": "zhīchí",
+        "k": "extra"
+       },
+       {
+        "w": "好",
+        "p": "hǎo",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "去",
+        "p": "qù",
+        "k": "extra"
+       },
+       {
+        "w": "香港",
+        "p": "Xiānggǎng",
+        "k": "extra"
+       },
+       {
+        "w": "上市",
+        "p": "shàngshì",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "香港",
+        "p": "Xiānggǎng",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "改",
+        "p": "gǎi",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一些",
+        "p": "yìxiē",
+        "k": "extra"
+       },
+       {
+        "w": "上市",
+        "p": "shàngshì",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "规定",
+        "p": "guīdìng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "二",
+        "p": "èr",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "香港",
+        "p": "Xiānggǎng",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "海外",
+        "p": "hǎiwài",
+        "k": "core"
+       },
+       {
+        "w": "投资者",
+        "p": "tóuzīzhě",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "愿意",
+        "p": "yuànyì",
+        "k": "extra"
+       },
+       {
+        "w": "长期",
+        "p": "chángqī",
+        "k": "core"
+       },
+       {
+        "w": "投资",
+        "p": "tóuzī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "他们",
+        "p": "tāmen",
+        "k": "extra"
+       },
+       {
+        "w": "喜欢",
+        "p": "xǐhuān",
+        "k": "extra"
+       },
+       {
+        "w": "科技",
+        "p": "kējì",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "愿意",
+        "p": "yuànyì",
+        "k": "extra"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "计划",
+        "p": "jìhuà",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "香港",
+        "p": "Xiānggǎng",
+        "k": "extra"
+       },
+       {
+        "w": "上市",
+        "p": "shàngshì",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "找",
+        "p": "zhǎo",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "路",
+        "p": "lù",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "条",
+        "p": "tiáo",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "去",
+        "p": "qù",
+        "k": "extra"
+       },
+       {
+        "w": "海外",
+        "p": "hǎiwài",
+        "k": "core"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "生意",
+        "p": "shēngyì",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "方便",
+        "p": "fāngbiàn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "两",
+        "p": "liǎng",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "市场",
+        "p": "shìchǎng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "听起来",
+        "p": "tīng qǐlái",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "简单",
+        "p": "jiǎndān",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "其实",
+        "p": "qíshí",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "容易",
+        "p": "róngyì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "两",
+        "p": "liǎng",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "地方",
+        "p": "dìfāng",
+        "k": "extra"
+       },
+       {
+        "w": "上市",
+        "p": "shàngshì",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "同",
+        "p": "tóng",
+        "k": "extra"
+       },
+       {
+        "w": "时",
+        "p": "shí",
+        "k": "extra"
+       },
+       {
+        "w": "面",
+        "p": "miàn",
+        "k": "extra"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "两",
+        "p": "liǎng",
+        "k": "extra"
+       },
+       {
+        "w": "种",
+        "p": "zhǒng",
+        "k": "extra"
+       },
+       {
+        "w": "投资者",
+        "p": "tóuzīzhě",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "他们",
+        "p": "tāmen",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "相信",
+        "p": "xiāngxìn",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "不过",
+        "p": "búguò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "科技",
+        "p": "kējì",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "走",
+        "p": "zǒu",
+        "k": "extra"
+       },
+       {
+        "w": "出去",
+        "p": "chūqù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "先",
+        "p": "xiān",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "世界",
+        "p": "shìjiè",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "资本",
+        "p": "zīběn",
+        "k": "core"
+       },
+       {
+        "w": "认识",
+        "p": "rènshì",
+        "k": "extra"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "香港",
+        "p": "Xiānggǎng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "们",
+        "p": "men",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "站",
+        "p": "zhàn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 截至… — tính đến …",
+    "b": [
+     "Cách dùng:",
+     "Đặt trước mốc thời gian để nói số liệu được tính đến lúc nào. Gặp trong hầu hết bản tin có số liệu: 截至9月底, 截至目前, 截至发稿.",
+     "截至今年9月底，已经有38家A股公司在港交所上市，一共募资2612.3亿港元。",
+     "Jiézhì jīnnián jiǔ yuè dǐ, yǐjīng yǒu sānshíbā jiā A-gǔ gōngsī zài Gǎngjiāosuǒ shàngshì, yígòng mùzī liǎngqiān liùbǎi yīshí'èr diǎn sān yì gǎngyuán.",
+     "Tính đến cuối tháng 9 năm nay, đã có 38 công ty A-share niêm yết trên HKEX, huy động tổng cộng 261,23 tỷ đô la Hồng Kông."
+    ]
+   },
+   {
+    "h": "II. A占(了)B的X% — A chiếm X% của B",
+    "b": [
+     "Cách dùng:",
+     "Khung chuẩn để nói tỉ trọng. B là cái tổng, X% là phần của A. Rất hay gặp trong báo cáo tài chính và bản tin thị trường.",
+     "也就是说，A股公司占了香港新上市公司募资的67.75%，差不多是三分之二。",
+     "Yě jiù shì shuō, A-gǔ gōngsī zhàn le Xiānggǎng xīn shàngshì gōngsī mùzī de bǎi fēn zhī liùshíqī diǎn qīwǔ, chàbuduō shì sān fēn zhī èr.",
+     "Nói cách khác, các công ty A-share chiếm 67,75% số vốn mà các công ty mới niêm yết ở Hồng Kông huy động được, gần hai phần ba."
+    ]
+   },
+   {
+    "h": "III. …以来 — kể từ … đến nay",
+    "b": [
+     "Cách dùng:",
+     "Đặt sau một mốc thời gian hoặc sự kiện: 2019年以来, 今年以来, 上市以来. Thường đi với 最…, để nói “nhiều nhất/lớn nhất kể từ …”.",
+     "是2019年阿里巴巴回香港上市以来最多的一次。",
+     "Shì èr líng yī jiǔ nián Ālǐbābā huí Xiānggǎng shàngshì yǐlái zuì duō de yí cì.",
+     "Là lần huy động nhiều nhất kể từ khi Alibaba quay về Hồng Kông niêm yết năm 2019."
+    ]
+   }
+  ],
+  "vocab": [
+   "上市",
+   "募资",
+   "公告",
+   "截至",
+   "龙头",
+   "以来",
+   "海外",
+   "投资者",
+   "长期",
+   "资本",
+   "港元",
+   "股"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "证券日报",
+    "author": "",
+    "title": "A股赴港上市是一场双向奔赴",
+    "date": "2026-10-16",
+    "url": "http://stock.10jqka.com.cn/20261016/c680750213.shtml",
+    "accessed": "2026-10-16"
+   },
+   {
+    "role": "secondary",
+    "outlet": "财联社",
+    "author": "",
+    "title": "港股前三季度IPO募资额达3855亿港元 “A+H”股占近七成",
+    "date": "2026-10-05",
+    "url": "https://www.cls.cn/detail/2497936",
+    "accessed": "2026-10-16"
+   }
+  ]
+ }
+}
