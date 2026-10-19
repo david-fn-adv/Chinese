@@ -1,0 +1,2387 @@
+{
+ "date": "2026-10-19",
+ "id": "N-20261019",
+ "draft": {
+  "title": "赚得多，为什么还在下跌",
+  "vn": "Lãi nhiều thế, sao cổ phiếu vẫn giảm?",
+  "en": "Record profits, falling shares",
+  "paras": [
+   "据格隆汇10月19日报道，A股市值最大的公司又换了。这一天，做内存芯片的长鑫科技股价下跌6.69%，市值2.86万亿元；工商银行上涨1.30%，市值3.06万亿元，又回到了第一。三天里，第一的位子已经换了两次。",
+   "长鑫科技不是不赚钱。10月16日晚，它发出了业绩公告，说今年前三季度的营收会有2650亿到2700亿元，净利润会有1310亿到1325亿元。去年同一时间，它还亏损了52.8亿元。只看第三季度，它就赚了530多亿元，平均每天差不多6亿元。",
+   "既然赚了这么多，股价为什么还在下跌？原因在增长的速度。第二季度，它的净利润环比增长了113%；到了第三季度，环比只增长了1%到3.9%。利润还在增长，可是增长得越来越慢。对市场来说，今天赚多少很重要，明天能不能赚得更多也很重要。",
+   "长鑫科技做的是DRAM内存芯片。从2025年下半年开始，AI算力要用的内存越来越多，内存价格一直上涨，公司也从亏损变成了大赚。可是价格不会一直上涨，投资者担心，这样的好日子可能快到头了。从8月17日到10月15日，它的市值少了一万多亿元。",
+   "同一天，公司的董事长朱一明说，要拿出10亿到20亿元做回购，这是它上市以来第一次。不过，和近3万亿元的市值比，这点钱还不到千分之一。",
+   "银行赚钱慢，变化也慢；芯片公司赚钱快，变化也快。谁能坐在第一的位子上，不只看今天赚了多少，也要看市场相信它明天能赚多少。"
+  ],
+  "points": [
+   {
+    "h": "I. 环比 / 同比 — so với kỳ trước / so với cùng kỳ năm trước",
+    "b": [
+     "Cách dùng:",
+     "环比 so với kỳ liền trước (quý 3 so với quý 2); 同比 so với cùng kỳ năm trước. Bản tin kết quả kinh doanh gần như luôn đưa cả hai — muốn hiểu xu hướng ngắn hạn thì đọc 环比.",
+     "第二季度，它的净利润环比增长了113%；到了第三季度，环比只增长了1%到3.9%。",
+     "Dì-èr jìdù, tā de jìnglìrùn huánbǐ zēngzhǎng le bǎi fēn zhī yìbǎi yīshísān; dào le dì-sān jìdù, huánbǐ zhǐ zēngzhǎng le bǎi fēn zhī yī dào bǎi fēn zhī sān diǎn jiǔ.",
+     "Quý 2, lợi nhuận ròng của nó tăng 113% so với quý trước; đến quý 3, so với quý trước chỉ tăng 1% đến 3,9%."
+    ]
+   },
+   {
+    "h": "II. 既然…，为什么还… — đã … thì sao vẫn …?",
+    "b": [
+     "Cách dùng:",
+     "既然 nêu một sự thật đã rõ, vế sau hỏi vì sao kết quả lại trái với điều đó. Hay dùng để mở một đoạn phân tích.",
+     "既然赚了这么多，股价为什么还在下跌？",
+     "Jìrán zhuàn le zhème duō, gǔjià wèishénme hái zài xiàdiē?",
+     "Đã kiếm được nhiều như vậy, sao giá cổ phiếu vẫn đang giảm?"
+    ]
+   },
+   {
+    "h": "III. 只看A，就… — riêng A thôi đã …",
+    "b": [
+     "Cách dùng:",
+     "只看 khoanh lại một phần nhỏ, 就 nhấn mạnh riêng phần đó đã rất lớn. Hay dùng để làm con số nổi bật: 只看三季度, 只看中国市场.",
+     "只看第三季度，它就赚了530多亿元，平均每天差不多6亿元。",
+     "Zhǐ kàn dì-sān jìdù, tā jiù zhuàn le wǔbǎi sānshí duō yì yuán, píngjūn měi tiān chàbuduō liù yì yuán.",
+     "Riêng quý 3 thôi, nó đã lãi hơn 53 tỷ nhân dân tệ, trung bình gần 600 triệu nhân dân tệ mỗi ngày."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "格隆汇": {
+   "w": "格隆汇",
+   "p": "Gélónghuì",
+   "hv": "Cách Long Hối",
+   "note": "Gelonghui — trang tin tài chính – chứng khoán TQ/HK, nguồn gốc bài này"
+  },
+  "长鑫科技": {
+   "w": "长鑫科技",
+   "p": "Chángxīn Kējì",
+   "hv": "Trường Hâm Khoa Kỹ",
+   "note": "CXMT — nhà sản xuất chip nhớ DRAM lớn nhất TQ, niêm yết sàn STAR Thượng Hải (688825) tháng 7/2026"
+  },
+  "工商银行": {
+   "w": "工商银行",
+   "p": "Gōngshāng Yínháng",
+   "hv": "Công Thương Ngân Hàng",
+   "note": "ICBC — Ngân hàng Công Thương Trung Quốc, ngân hàng lớn nhất TQ"
+  },
+  "朱一明": {
+   "w": "朱一明",
+   "p": "Zhū Yìmíng",
+   "hv": "Chu Nhất Minh",
+   "note": "chủ tịch HĐQT của 长鑫科技"
+  }
+ },
+ "dict": {
+  "市值": {
+   "w": "市值",
+   "p": "shìzhí",
+   "hv": "thị trị",
+   "pos": "N",
+   "en": "market capitalisation",
+   "vn": "giá trị vốn hoá thị trường",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261019"
+   ]
+  },
+  "股价": {
+   "w": "股价",
+   "p": "gǔjià",
+   "hv": "cổ giá",
+   "pos": "N",
+   "en": "share price",
+   "vn": "giá cổ phiếu",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261019"
+   ]
+  },
+  "下跌": {
+   "w": "下跌",
+   "p": "xiàdiē",
+   "hv": "hạ điệt",
+   "pos": "V",
+   "en": "to fall, decline (prices)",
+   "vn": "giảm, đi xuống (giá)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261019"
+   ]
+  },
+  "上涨": {
+   "w": "上涨",
+   "p": "shàngzhǎng",
+   "hv": "thượng trướng",
+   "pos": "V",
+   "en": "to rise (prices)",
+   "vn": "tăng, đi lên (giá)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261019"
+   ]
+  },
+  "内存": {
+   "w": "内存",
+   "p": "nèicún",
+   "hv": "nội tồn",
+   "pos": "N",
+   "en": "memory (RAM)",
+   "vn": "bộ nhớ trong (RAM)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261019"
+   ]
+  },
+  "业绩": {
+   "w": "业绩",
+   "p": "yèjì",
+   "hv": "nghiệp tích",
+   "pos": "N",
+   "en": "business results, performance",
+   "vn": "kết quả kinh doanh",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261019"
+   ]
+  },
+  "营收": {
+   "w": "营收",
+   "p": "yíngshōu",
+   "hv": "doanh thu",
+   "pos": "N",
+   "en": "revenue",
+   "vn": "doanh thu",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261019"
+   ]
+  },
+  "亏损": {
+   "w": "亏损",
+   "p": "kuīsǔn",
+   "hv": "khuy tổn",
+   "pos": "V/N",
+   "en": "to make a loss; loss",
+   "vn": "thua lỗ; khoản lỗ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261019"
+   ]
+  },
+  "季度": {
+   "w": "季度",
+   "p": "jìdù",
+   "hv": "quý độ",
+   "pos": "N",
+   "en": "quarter (of a year)",
+   "vn": "quý (ba tháng)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261019"
+   ]
+  },
+  "环比": {
+   "w": "环比",
+   "p": "huánbǐ",
+   "hv": "hoàn tỉ",
+   "pos": "Adv",
+   "en": "compared with the previous period",
+   "vn": "so với kỳ liền trước",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261019"
+   ]
+  },
+  "董事长": {
+   "w": "董事长",
+   "p": "dǒngshìzhǎng",
+   "hv": "đổng sự trưởng",
+   "pos": "N",
+   "en": "chairman of the board",
+   "vn": "chủ tịch hội đồng quản trị",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261019"
+   ]
+  },
+  "回购": {
+   "w": "回购",
+   "p": "huígòu",
+   "hv": "hồi cấu",
+   "pos": "V/N",
+   "en": "(share) buyback",
+   "vn": "mua lại (cổ phiếu)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261019"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "格隆汇（新浪财经转载）",
+   "author": "",
+   "title": "A股“一哥”，又换人了",
+   "date": "2026-10-19",
+   "url": "https://finance.sina.cn/2026-10-19/detail-inivtpwr7555823.d.html",
+   "accessed": "2026-10-19"
+  },
+  {
+   "role": "secondary",
+   "outlet": "第一财经",
+   "author": "郑栩彤",
+   "title": "长鑫科技前三季度预计赚超1300亿元，董事长提议大笔回购",
+   "date": "2026-10-16",
+   "url": "https://www.yicai.com/news/103397432.html",
+   "accessed": "2026-10-19"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261019",
+  "book": 4,
+  "no": 7,
+  "date": "2026-10-19",
+  "seq": 49,
+  "title": "赚得多，为什么还在下跌",
+  "py": "zuàndeduō，wèishénmeháizàixiàdiē",
+  "en": "Record profits, falling shares",
+  "vn": "Lãi nhiều thế, sao cổ phiếu vẫn giảm?",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "格隆汇",
+        "p": "Gélónghuì",
+        "k": "name"
+       },
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "19",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "A",
+        "k": "plain"
+       },
+       {
+        "w": "股",
+        "p": "gǔ",
+        "k": "extra"
+       },
+       {
+        "w": "市值",
+        "p": "shìzhí",
+        "k": "core"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "又",
+        "p": "yòu",
+        "k": "extra"
+       },
+       {
+        "w": "换",
+        "p": "huàn",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "内存",
+        "p": "nèicún",
+        "k": "core"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "长鑫科技",
+        "p": "Chángxīn Kējì",
+        "k": "name"
+       },
+       {
+        "w": "股价",
+        "p": "gǔjià",
+        "k": "core"
+       },
+       {
+        "w": "下跌",
+        "p": "xiàdiē",
+        "k": "core"
+       },
+       {
+        "w": "6",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "69%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "市值",
+        "p": "shìzhí",
+        "k": "core"
+       },
+       {
+        "w": "2",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "86",
+        "k": "plain"
+       },
+       {
+        "w": "万",
+        "p": "wàn",
+        "k": "extra"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "工商银行",
+        "p": "Gōngshāng Yínháng",
+        "k": "name"
+       },
+       {
+        "w": "上涨",
+        "p": "shàngzhǎng",
+        "k": "core"
+       },
+       {
+        "w": "1",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "30%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "市值",
+        "p": "shìzhí",
+        "k": "core"
+       },
+       {
+        "w": "3",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "06",
+        "k": "plain"
+       },
+       {
+        "w": "万",
+        "p": "wàn",
+        "k": "extra"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "又",
+        "p": "yòu",
+        "k": "extra"
+       },
+       {
+        "w": "回",
+        "p": "huí",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "位子",
+        "p": "wèizi",
+        "k": "extra"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "换",
+        "p": "huàn",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "两",
+        "p": "liǎng",
+        "k": "extra"
+       },
+       {
+        "w": "次",
+        "p": "cì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "长鑫科技",
+        "p": "Chángxīn Kējì",
+        "k": "name"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "赚",
+        "p": "zhuàn",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "16",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "晚",
+        "p": "wǎn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "发",
+        "p": "fā",
+        "k": "extra"
+       },
+       {
+        "w": "出",
+        "p": "chū",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "业绩",
+        "p": "yèjì",
+        "k": "core"
+       },
+       {
+        "w": "公告",
+        "p": "gōnggào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "前",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "营收",
+        "p": "yíngshōu",
+        "k": "core"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "2650",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "2700",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "净利润",
+        "p": "jìnglìrùn",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "1310",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "1325",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "去年",
+        "p": "qùnián",
+        "k": "extra"
+       },
+       {
+        "w": "同",
+        "p": "tóng",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "时间",
+        "p": "shíjiān",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "亏损",
+        "p": "kuīsǔn",
+        "k": "core"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "52",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "8",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "赚",
+        "p": "zhuàn",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "530",
+        "k": "plain"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "平均",
+        "p": "píngjūn",
+        "k": "extra"
+       },
+       {
+        "w": "每",
+        "p": "měi",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "差不多",
+        "p": "chābùduō",
+        "k": "extra"
+       },
+       {
+        "w": "6",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "既然",
+        "p": "jìrán",
+        "k": "extra"
+       },
+       {
+        "w": "赚",
+        "p": "zhuàn",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "这么",
+        "p": "zhème",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "股价",
+        "p": "gǔjià",
+        "k": "core"
+       },
+       {
+        "w": "为什么",
+        "p": "wèishénme",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "下跌",
+        "p": "xiàdiē",
+        "k": "core"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "原因",
+        "p": "yuányīn",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "增长",
+        "p": "zēngzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "速度",
+        "p": "sùdù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "二",
+        "p": "èr",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "净利润",
+        "p": "jìnglìrùn",
+        "k": "extra"
+       },
+       {
+        "w": "环比",
+        "p": "huánbǐ",
+        "k": "core"
+       },
+       {
+        "w": "增长",
+        "p": "zēngzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "113%",
+        "k": "plain"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "环比",
+        "p": "huánbǐ",
+        "k": "core"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "增长",
+        "p": "zēngzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "1%",
+        "k": "plain"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "3",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "9%",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "利润",
+        "p": "lìrùn",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "增长",
+        "p": "zēngzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "增长",
+        "p": "zēngzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "得",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "越来越",
+        "p": "yuèláiyuè",
+        "k": "extra"
+       },
+       {
+        "w": "慢",
+        "p": "màn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "市场",
+        "p": "shìchǎng",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "今天",
+        "p": "jīntiān",
+        "k": "extra"
+       },
+       {
+        "w": "赚",
+        "p": "zhuàn",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "重要",
+        "p": "zhòngyào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "明天",
+        "p": "míngtiān",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "赚",
+        "p": "zhuàn",
+        "k": "extra"
+       },
+       {
+        "w": "得",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "重要",
+        "p": "zhòngyào",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "长鑫科技",
+        "p": "Chángxīn Kējì",
+        "k": "name"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "DRAM",
+        "k": "plain"
+       },
+       {
+        "w": "内存",
+        "p": "nèicún",
+        "k": "core"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "2025",
+        "k": "plain"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "下",
+        "p": "xià",
+        "k": "extra"
+       },
+       {
+        "w": "半",
+        "p": "bàn",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "开始",
+        "p": "kāishǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "内存",
+        "p": "nèicún",
+        "k": "core"
+       },
+       {
+        "w": "越来越",
+        "p": "yuèláiyuè",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "内存",
+        "p": "nèicún",
+        "k": "core"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "一直",
+        "p": "yìzhí",
+        "k": "extra"
+       },
+       {
+        "w": "上涨",
+        "p": "shàngzhǎng",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "亏损",
+        "p": "kuīsǔn",
+        "k": "core"
+       },
+       {
+        "w": "变成",
+        "p": "biànchéng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "赚",
+        "p": "zhuàn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "一直",
+        "p": "yìzhí",
+        "k": "extra"
+       },
+       {
+        "w": "上涨",
+        "p": "shàngzhǎng",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "投资者",
+        "p": "tóuzīzhě",
+        "k": "extra"
+       },
+       {
+        "w": "担心",
+        "p": "dānxīn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这样",
+        "p": "zhè yàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "好",
+        "p": "hǎo",
+        "k": "extra"
+       },
+       {
+        "w": "日子",
+        "p": "rìzi",
+        "k": "extra"
+       },
+       {
+        "w": "可能",
+        "p": "kěnéng",
+        "k": "extra"
+       },
+       {
+        "w": "快",
+        "p": "kuài",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "头",
+        "p": "tóu",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "8",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "17",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "15",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "市值",
+        "p": "shìzhí",
+        "k": "core"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "万",
+        "p": "wàn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "同",
+        "p": "tóng",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "董事长",
+        "p": "dǒngshìzhǎng",
+        "k": "core"
+       },
+       {
+        "w": "朱一明",
+        "p": "Zhū Yìmíng",
+        "k": "name"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "出",
+        "p": "chū",
+        "k": "extra"
+       },
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "20",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "回购",
+        "p": "huígòu",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "上市",
+        "p": "shàngshì",
+        "k": "extra"
+       },
+       {
+        "w": "以来",
+        "p": "yǐlái",
+        "k": "extra"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "次",
+        "p": "cì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "不过",
+        "p": "búguò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "近",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "3",
+        "k": "plain"
+       },
+       {
+        "w": "万",
+        "p": "wàn",
+        "k": "extra"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "市值",
+        "p": "shìzhí",
+        "k": "core"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "点",
+        "p": "diǎn",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "千",
+        "p": "qiān",
+        "k": "extra"
+       },
+       {
+        "w": "分之",
+        "p": "fēn zhī",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "赚",
+        "p": "zhuàn",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "慢",
+        "p": "màn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "变化",
+        "p": "biànhuà",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "慢",
+        "p": "màn",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "赚",
+        "p": "zhuàn",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "快",
+        "p": "kuài",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "变化",
+        "p": "biànhuà",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "快",
+        "p": "kuài",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "谁",
+        "p": "shéi",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "坐",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "位子",
+        "p": "wèizi",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "今天",
+        "p": "jīntiān",
+        "k": "extra"
+       },
+       {
+        "w": "赚",
+        "p": "zhuàn",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "市场",
+        "p": "shìchǎng",
+        "k": "extra"
+       },
+       {
+        "w": "相信",
+        "p": "xiāngxìn",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "明天",
+        "p": "míngtiān",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "赚",
+        "p": "zhuàn",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 环比 / 同比 — so với kỳ trước / so với cùng kỳ năm trước",
+    "b": [
+     "Cách dùng:",
+     "环比 so với kỳ liền trước (quý 3 so với quý 2); 同比 so với cùng kỳ năm trước. Bản tin kết quả kinh doanh gần như luôn đưa cả hai — muốn hiểu xu hướng ngắn hạn thì đọc 环比.",
+     "第二季度，它的净利润环比增长了113%；到了第三季度，环比只增长了1%到3.9%。",
+     "Dì-èr jìdù, tā de jìnglìrùn huánbǐ zēngzhǎng le bǎi fēn zhī yìbǎi yīshísān; dào le dì-sān jìdù, huánbǐ zhǐ zēngzhǎng le bǎi fēn zhī yī dào bǎi fēn zhī sān diǎn jiǔ.",
+     "Quý 2, lợi nhuận ròng của nó tăng 113% so với quý trước; đến quý 3, so với quý trước chỉ tăng 1% đến 3,9%."
+    ]
+   },
+   {
+    "h": "II. 既然…，为什么还… — đã … thì sao vẫn …?",
+    "b": [
+     "Cách dùng:",
+     "既然 nêu một sự thật đã rõ, vế sau hỏi vì sao kết quả lại trái với điều đó. Hay dùng để mở một đoạn phân tích.",
+     "既然赚了这么多，股价为什么还在下跌？",
+     "Jìrán zhuàn le zhème duō, gǔjià wèishénme hái zài xiàdiē?",
+     "Đã kiếm được nhiều như vậy, sao giá cổ phiếu vẫn đang giảm?"
+    ]
+   },
+   {
+    "h": "III. 只看A，就… — riêng A thôi đã …",
+    "b": [
+     "Cách dùng:",
+     "只看 khoanh lại một phần nhỏ, 就 nhấn mạnh riêng phần đó đã rất lớn. Hay dùng để làm con số nổi bật: 只看三季度, 只看中国市场.",
+     "只看第三季度，它就赚了530多亿元，平均每天差不多6亿元。",
+     "Zhǐ kàn dì-sān jìdù, tā jiù zhuàn le wǔbǎi sānshí duō yì yuán, píngjūn měi tiān chàbuduō liù yì yuán.",
+     "Riêng quý 3 thôi, nó đã lãi hơn 53 tỷ nhân dân tệ, trung bình gần 600 triệu nhân dân tệ mỗi ngày."
+    ]
+   }
+  ],
+  "vocab": [
+   "市值",
+   "股价",
+   "下跌",
+   "上涨",
+   "内存",
+   "业绩",
+   "营收",
+   "亏损",
+   "季度",
+   "环比",
+   "董事长",
+   "回购"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "格隆汇（新浪财经转载）",
+    "author": "",
+    "title": "A股“一哥”，又换人了",
+    "date": "2026-10-19",
+    "url": "https://finance.sina.cn/2026-10-19/detail-inivtpwr7555823.d.html",
+    "accessed": "2026-10-19"
+   },
+   {
+    "role": "secondary",
+    "outlet": "第一财经",
+    "author": "郑栩彤",
+    "title": "长鑫科技前三季度预计赚超1300亿元，董事长提议大笔回购",
+    "date": "2026-10-16",
+    "url": "https://www.yicai.com/news/103397432.html",
+    "accessed": "2026-10-19"
+   }
+  ]
+ }
+}

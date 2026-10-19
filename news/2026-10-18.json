@@ -1,0 +1,2233 @@
+{
+ "date": "2026-10-18",
+ "id": "N-20261018",
+ "draft": {
+  "title": "把算力变成信用",
+  "vn": "Biến sức tính toán thành tín dụng",
+  "en": "Turning compute into credit",
+  "paras": [
+   "据《经济参考报》10月16日报道，今年下半年以来，中国不少银行为人工智能公司推出了新的贷款产品，比如“Token贷款”。Token中文叫“词元”，是AI大模型计算时用的单位。8月，中国银行、中信银行和广州银行在广州推出了这种贷款。",
+   "过去，银行借钱给一家企业，先要看它的抵押物，比如有没有房子。可是很多AI公司都是新公司，没有多少房子，它们的钱大多花在了算力上。没有抵押物，银行就不知道该不该借钱给它们。",
+   "Token贷款的办法不一样。一家AI公司每天用了多少算力，消耗了多少词元，都有数据记录。用得越多，说明它的产品有人用，生意也在增长。银行就把这些数据当成它的信用，再决定借给它多少钱。除了这三家银行，工商银行和农业银行也把算力和Token消耗放进了授信评估里。",
+   "这也说明了一个更大的变化。央行数据显示，截至今年6月底，有30.56万家做科技的中小企业拿到了银行贷款，占这些企业的50.8%；这些贷款的余额是4.15万亿元，同比增长20.1%，增长的速度差不多是全部贷款平均水平的四倍。",
+   "不过，也有人担心：这些数据是真的吗？用了很多算力，就能说明一家公司有还款能力吗？对银行来说，最重要的还是借出去的钱能不能收回来。但是Token贷款让我们看到了一件事：在新的经济里，看不见的数据，也可以变成看得见的信用。"
+  ],
+  "points": [
+   {
+    "h": "I. 把A当成B — coi A là B",
+    "b": [
+     "Cách dùng:",
+     "Cấu trúc 把 + tân ngữ + 当成 + danh từ: coi/xem cái gì như cái gì. Rất hay gặp khi báo chí mô tả cách ngân hàng, doanh nghiệp đổi cách nhìn một thứ.",
+     "银行就把这些数据当成它的信用，再决定借给它多少钱。",
+     "Yínháng jiù bǎ zhèxiē shùjù dàngchéng tā de xìnyòng, zài juédìng jiè gěi tā duōshao qián.",
+     "Ngân hàng coi những số liệu này là tín dụng của công ty, rồi mới quyết định cho vay bao nhiêu."
+    ]
+   },
+   {
+    "h": "II. A是B的X倍 — A gấp X lần B",
+    "b": [
+     "Cách dùng:",
+     "Khung so sánh tốc độ/quy mô trong bản tin kinh tế. Đi cùng 差不多 (xấp xỉ) khi con số làm tròn.",
+     "增长的速度差不多是全部贷款平均水平的四倍。",
+     "Zēngzhǎng de sùdù chàbuduō shì quánbù dàikuǎn píngjūn shuǐpíng de sì bèi.",
+     "Tốc độ tăng xấp xỉ gấp bốn lần mức bình quân của toàn bộ khoản vay."
+    ]
+   },
+   {
+    "h": "III. 对…来说 — đối với … mà nói",
+    "b": [
+     "Cách dùng:",
+     "Nêu góc nhìn của một bên trước khi đưa ra nhận định. Thường đi với 最重要的是….",
+     "对银行来说，最重要的还是借出去的钱能不能收回来。",
+     "Duì yínháng lái shuō, zuì zhòngyào de háishi jiè chūqù de qián néng bu néng shōu huílái.",
+     "Đối với ngân hàng, điều quan trọng nhất vẫn là tiền cho vay ra có thu hồi được hay không."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "经济参考报": {
+   "w": "经济参考报",
+   "p": "Jīngjì Cānkǎo Bào",
+   "hv": "Kinh Tế Tham Khảo Báo",
+   "note": "Economic Information Daily — báo kinh tế thuộc Tân Hoa Xã, nguồn gốc bài này"
+  },
+  "中国银行": {
+   "w": "中国银行",
+   "p": "Zhōngguó Yínháng",
+   "hv": "Trung Quốc Ngân Hàng",
+   "note": "Bank of China — một trong bốn ngân hàng quốc doanh lớn nhất TQ"
+  },
+  "中信银行": {
+   "w": "中信银行",
+   "p": "Zhōngxìn Yínháng",
+   "hv": "Trung Tín Ngân Hàng",
+   "note": "China CITIC Bank — ngân hàng cổ phần thuộc tập đoàn CITIC"
+  },
+  "广州银行": {
+   "w": "广州银行",
+   "p": "Guǎngzhōu Yínháng",
+   "hv": "Quảng Châu Ngân Hàng",
+   "note": "Bank of Guangzhou — ngân hàng thương mại địa phương của Quảng Châu"
+  },
+  "广州": {
+   "w": "广州",
+   "p": "Guǎngzhōu",
+   "hv": "Quảng Châu",
+   "note": "Guangzhou — thủ phủ tỉnh Quảng Đông"
+  },
+  "工商银行": {
+   "w": "工商银行",
+   "p": "Gōngshāng Yínháng",
+   "hv": "Công Thương Ngân Hàng",
+   "note": "ICBC — Ngân hàng Công Thương Trung Quốc, ngân hàng lớn nhất TQ theo tài sản"
+  },
+  "农业银行": {
+   "w": "农业银行",
+   "p": "Nóngyè Yínháng",
+   "hv": "Nông Nghiệp Ngân Hàng",
+   "note": "Agricultural Bank of China (ABC) — một trong bốn ngân hàng quốc doanh lớn"
+  }
+ },
+ "dict": {
+  "词元": {
+   "w": "词元",
+   "p": "cíyuán",
+   "hv": "từ nguyên",
+   "pos": "N",
+   "en": "token (unit of AI model usage)",
+   "vn": "token — đơn vị tính lượng dùng của mô hình AI",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261018"
+   ]
+  },
+  "抵押物": {
+   "w": "抵押物",
+   "p": "dǐyāwù",
+   "hv": "để áp vật",
+   "pos": "N",
+   "en": "collateral",
+   "vn": "tài sản thế chấp",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261018"
+   ]
+  },
+  "消耗": {
+   "w": "消耗",
+   "p": "xiāohào",
+   "hv": "tiêu hao",
+   "pos": "V/N",
+   "en": "to consume; consumption",
+   "vn": "tiêu hao, tiêu thụ (tài nguyên)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261018"
+   ]
+  },
+  "记录": {
+   "w": "记录",
+   "p": "jìlù",
+   "hv": "ký lục",
+   "pos": "N/V",
+   "en": "record; to record",
+   "vn": "bản ghi, hồ sơ; ghi lại",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261018"
+   ]
+  },
+  "授信": {
+   "w": "授信",
+   "p": "shòuxìn",
+   "hv": "thụ tín",
+   "pos": "V/N",
+   "en": "to grant credit; credit line",
+   "vn": "cấp tín dụng; hạn mức tín dụng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261018"
+   ]
+  },
+  "评估": {
+   "w": "评估",
+   "p": "pínggū",
+   "hv": "bình cổ",
+   "pos": "V/N",
+   "en": "to assess; assessment",
+   "vn": "đánh giá, thẩm định",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261018"
+   ]
+  },
+  "央行": {
+   "w": "央行",
+   "p": "yāngháng",
+   "hv": "ương hàng",
+   "pos": "N",
+   "en": "central bank (PBoC)",
+   "vn": "ngân hàng trung ương (NHNN Trung Quốc)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261018"
+   ]
+  },
+  "显示": {
+   "w": "显示",
+   "p": "xiǎnshì",
+   "hv": "hiển thị",
+   "pos": "V",
+   "en": "to show, indicate (of data)",
+   "vn": "cho thấy (số liệu cho thấy…)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261018"
+   ]
+  },
+  "余额": {
+   "w": "余额",
+   "p": "yú'é",
+   "hv": "dư ngạch",
+   "pos": "N",
+   "en": "outstanding balance",
+   "vn": "dư nợ, số dư",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261018"
+   ]
+  },
+  "还款": {
+   "w": "还款",
+   "p": "huánkuǎn",
+   "hv": "hoàn khoản",
+   "pos": "V/N",
+   "en": "to repay a loan; repayment",
+   "vn": "trả nợ vay",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261018"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "经济参考报（新华网转载）",
+   "author": "于典",
+   "title": "从产品创新到投贷保联动 机构密集布局科技金融",
+   "date": "2026-10-16",
+   "url": "https://www.news.cn/fortune/20261016/307e71591fd64bae8c92d8d10af32154/c.html",
+   "accessed": "2026-10-18"
+  },
+  {
+   "role": "secondary",
+   "outlet": "21世纪经济报道",
+   "author": "",
+   "title": "上半年科技中小企业贷款增速超20% 央行报告揭示新旧动能转换",
+   "date": "2026-07-28",
+   "url": "https://m.sfccn.com/2026/7-28/2NMDE1MThfMjE5MjY2NQ.html",
+   "accessed": "2026-10-18"
+  },
+  {
+   "role": "secondary",
+   "outlet": "证券日报（中国证券网转载）",
+   "author": "熊悦",
+   "title": "词元消耗成授信依据 银行积极试水“词元贷”",
+   "date": "2026-08-18",
+   "url": "https://www.cs.com.cn/yh/04/2026/08/18/detail_2026081810032002.html",
+   "accessed": "2026-10-18"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261018",
+  "book": 4,
+  "no": 6,
+  "date": "2026-10-18",
+  "seq": 48,
+  "title": "把算力变成信用",
+  "py": "bǎsuànlìbiànchéngxìnyòng",
+  "en": "Turning compute into credit",
+  "vn": "Biến sức tính toán thành tín dụng",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "《",
+        "k": "punct"
+       },
+       {
+        "w": "经济参考报",
+        "p": "Jīngjì Cānkǎo Bào",
+        "k": "name"
+       },
+       {
+        "w": "》",
+        "k": "punct"
+       },
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "16",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "下",
+        "p": "xià",
+        "k": "extra"
+       },
+       {
+        "w": "半",
+        "p": "bàn",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "以来",
+        "p": "yǐlái",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "为",
+        "p": "wèi",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "工",
+        "p": "gōng",
+        "k": "extra"
+       },
+       {
+        "w": "智能",
+        "p": "zhìnéng",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "推出",
+        "p": "tuīchū",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "产品",
+        "p": "chǎnpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "如",
+        "p": "rú",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "Token",
+        "k": "plain"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "Token",
+        "k": "plain"
+       },
+       {
+        "w": "中文",
+        "p": "Zhōngwén",
+        "k": "extra"
+       },
+       {
+        "w": "叫",
+        "p": "jiào",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "词元",
+        "p": "cíyuán",
+        "k": "core"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "模型",
+        "p": "móxíng",
+        "k": "extra"
+       },
+       {
+        "w": "计",
+        "p": "jì",
+        "k": "extra"
+       },
+       {
+        "w": "算",
+        "p": "suàn",
+        "k": "extra"
+       },
+       {
+        "w": "时",
+        "p": "shí",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "单",
+        "p": "dān",
+        "k": "extra"
+       },
+       {
+        "w": "位",
+        "p": "wèi",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "8",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "中国银行",
+        "p": "Zhōngguó Yínháng",
+        "k": "name"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "中信银行",
+        "p": "Zhōngxìn Yínháng",
+        "k": "name"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "广州银行",
+        "p": "Guǎngzhōu Yínháng",
+        "k": "name"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "广州",
+        "p": "Guǎngzhōu",
+        "k": "name"
+       },
+       {
+        "w": "推出",
+        "p": "tuīchū",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "种",
+        "p": "zhǒng",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "过",
+        "p": "guò",
+        "k": "extra"
+       },
+       {
+        "w": "去",
+        "p": "qù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "先",
+        "p": "xiān",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "抵押物",
+        "p": "dǐyāwù",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "如",
+        "p": "rú",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "房子",
+        "p": "fángzi",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "房子",
+        "p": "fángzi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "们",
+        "p": "men",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "花",
+        "p": "huā",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "抵押物",
+        "p": "dǐyāwù",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "知道",
+        "p": "zhīdào",
+        "k": "extra"
+       },
+       {
+        "w": "该",
+        "p": "gāi",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "该",
+        "p": "gāi",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "们",
+        "p": "men",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "Token",
+        "k": "plain"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "办法",
+        "p": "bànfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "一样",
+        "p": "yíyàng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "每",
+        "p": "měi",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "消耗",
+        "p": "xiāohào",
+        "k": "core"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "词元",
+        "p": "cíyuán",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "记录",
+        "p": "jìlù",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "得",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "越",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "说明",
+        "p": "shuōmíng",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "产品",
+        "p": "chǎnpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "生意",
+        "p": "shēngyì",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "增长",
+        "p": "zēngzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "当成",
+        "p": "dāngchéng",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "信用",
+        "p": "xìnyòng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "再",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "决定",
+        "p": "juédìng",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "除了",
+        "p": "chúle",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "工商银行",
+        "p": "Gōngshāng Yínháng",
+        "k": "name"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "农业银行",
+        "p": "Nóngyè Yínháng",
+        "k": "name"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "Token",
+        "k": "plain"
+       },
+       {
+        "w": "消耗",
+        "p": "xiāohào",
+        "k": "core"
+       },
+       {
+        "w": "放",
+        "p": "fàng",
+        "k": "extra"
+       },
+       {
+        "w": "进",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "授信",
+        "p": "shòuxìn",
+        "k": "core"
+       },
+       {
+        "w": "评估",
+        "p": "pínggū",
+        "k": "core"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "说明",
+        "p": "shuōmíng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "变化",
+        "p": "biànhuà",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "央行",
+        "p": "yāngháng",
+        "k": "core"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "显示",
+        "p": "xiǎnshì",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "截至",
+        "p": "jiézhì",
+        "k": "extra"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "6",
+        "k": "plain"
+       },
+       {
+        "w": "月底",
+        "p": "yuèdǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "30",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "56",
+        "k": "plain"
+       },
+       {
+        "w": "万",
+        "p": "wàn",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "科技",
+        "p": "kējì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "中",
+        "p": "zhōng",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "占",
+        "p": "zhàn",
+        "k": "extra"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "50",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "8%",
+        "k": "plain"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "余额",
+        "p": "yú'é",
+        "k": "core"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "4",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "15",
+        "k": "plain"
+       },
+       {
+        "w": "万",
+        "p": "wàn",
+        "k": "extra"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "同比",
+        "p": "tóngbǐ",
+        "k": "extra"
+       },
+       {
+        "w": "增长",
+        "p": "zēngzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "20",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "1%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "增长",
+        "p": "zēngzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "速度",
+        "p": "sùdù",
+        "k": "extra"
+       },
+       {
+        "w": "差不多",
+        "p": "chābùduō",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "全",
+        "p": "quán",
+        "k": "extra"
+       },
+       {
+        "w": "部",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "平均",
+        "p": "píngjūn",
+        "k": "extra"
+       },
+       {
+        "w": "水平",
+        "p": "shuǐpíng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "四",
+        "p": "sì",
+        "k": "extra"
+       },
+       {
+        "w": "倍",
+        "p": "bèi",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "不过",
+        "p": "búguò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "担心",
+        "p": "dānxīn",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "真的",
+        "p": "zhēn de",
+        "k": "extra"
+       },
+       {
+        "w": "吗",
+        "p": "ma",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "说明",
+        "p": "shuōmíng",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "还款",
+        "p": "huánkuǎn",
+        "k": "core"
+       },
+       {
+        "w": "能力",
+        "p": "nénglì",
+        "k": "extra"
+       },
+       {
+        "w": "吗",
+        "p": "ma",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "重要",
+        "p": "zhòngyào",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "还是",
+        "p": "háishì",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "出去",
+        "p": "chūqù",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "收",
+        "p": "shōu",
+        "k": "extra"
+       },
+       {
+        "w": "回来",
+        "p": "huílái",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "但是",
+        "p": "dànshì",
+        "k": "extra"
+       },
+       {
+        "w": "Token",
+        "k": "plain"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "我们",
+        "p": "wǒmen",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "件",
+        "p": "jiàn",
+        "k": "extra"
+       },
+       {
+        "w": "事",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "经济",
+        "p": "jīngjì",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "不见",
+        "p": "bújiàn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "可以",
+        "p": "kěyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "变成",
+        "p": "biànchéng",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "得",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "见",
+        "p": "jiàn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "信用",
+        "p": "xìnyòng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 把A当成B — coi A là B",
+    "b": [
+     "Cách dùng:",
+     "Cấu trúc 把 + tân ngữ + 当成 + danh từ: coi/xem cái gì như cái gì. Rất hay gặp khi báo chí mô tả cách ngân hàng, doanh nghiệp đổi cách nhìn một thứ.",
+     "银行就把这些数据当成它的信用，再决定借给它多少钱。",
+     "Yínháng jiù bǎ zhèxiē shùjù dàngchéng tā de xìnyòng, zài juédìng jiè gěi tā duōshao qián.",
+     "Ngân hàng coi những số liệu này là tín dụng của công ty, rồi mới quyết định cho vay bao nhiêu."
+    ]
+   },
+   {
+    "h": "II. A是B的X倍 — A gấp X lần B",
+    "b": [
+     "Cách dùng:",
+     "Khung so sánh tốc độ/quy mô trong bản tin kinh tế. Đi cùng 差不多 (xấp xỉ) khi con số làm tròn.",
+     "增长的速度差不多是全部贷款平均水平的四倍。",
+     "Zēngzhǎng de sùdù chàbuduō shì quánbù dàikuǎn píngjūn shuǐpíng de sì bèi.",
+     "Tốc độ tăng xấp xỉ gấp bốn lần mức bình quân của toàn bộ khoản vay."
+    ]
+   },
+   {
+    "h": "III. 对…来说 — đối với … mà nói",
+    "b": [
+     "Cách dùng:",
+     "Nêu góc nhìn của một bên trước khi đưa ra nhận định. Thường đi với 最重要的是….",
+     "对银行来说，最重要的还是借出去的钱能不能收回来。",
+     "Duì yínháng lái shuō, zuì zhòngyào de háishi jiè chūqù de qián néng bu néng shōu huílái.",
+     "Đối với ngân hàng, điều quan trọng nhất vẫn là tiền cho vay ra có thu hồi được hay không."
+    ]
+   }
+  ],
+  "vocab": [
+   "词元",
+   "抵押物",
+   "消耗",
+   "记录",
+   "授信",
+   "评估",
+   "央行",
+   "显示",
+   "余额",
+   "还款"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "经济参考报（新华网转载）",
+    "author": "于典",
+    "title": "从产品创新到投贷保联动 机构密集布局科技金融",
+    "date": "2026-10-16",
+    "url": "https://www.news.cn/fortune/20261016/307e71591fd64bae8c92d8d10af32154/c.html",
+    "accessed": "2026-10-18"
+   },
+   {
+    "role": "secondary",
+    "outlet": "21世纪经济报道",
+    "author": "",
+    "title": "上半年科技中小企业贷款增速超20% 央行报告揭示新旧动能转换",
+    "date": "2026-07-28",
+    "url": "https://m.sfccn.com/2026/7-28/2NMDE1MThfMjE5MjY2NQ.html",
+    "accessed": "2026-10-18"
+   },
+   {
+    "role": "secondary",
+    "outlet": "证券日报（中国证券网转载）",
+    "author": "熊悦",
+    "title": "词元消耗成授信依据 银行积极试水“词元贷”",
+    "date": "2026-08-18",
+    "url": "https://www.cs.com.cn/yh/04/2026/08/18/detail_2026081810032002.html",
+    "accessed": "2026-10-18"
+   }
+  ]
+ }
+}
