@@ -1,0 +1,2080 @@
+{
+ "date": "2026-10-20",
+ "id": "N-20261020",
+ "draft": {
+  "title": "用还没收到的钱借钱",
+  "vn": "Vay tiền bằng khoản tiền chưa thu về",
+  "en": "Borrowing against money not yet received",
+  "paras": [
+   "据移动支付网10月19日报道，湖州银行最近给一家纺织企业办了一笔应收账款质押贷款，钱是用数字人民币放的。这家企业在浙江湖州的长兴县，做纺织产品。",
+   "纺织是很需要资金的行业。企业从上游买原料，要马上付现金；可是把产品卖给下游以后，常常要等三到六个月，有时候更长，才能收到钱。钱先出去，很久才回来，中间这段时间，企业的钱就不够用了。",
+   "这家企业以前已经用自己的房子做抵押，跟银行借过钱，能借的钱差不多到头了。它手里还有很多应收账款，可是买家很多，在不同的地方，什么时候付钱也说不好，这些钱暂时用不上。",
+   "湖州银行的办法是，拿这些应收账款来做质押。企业先在中征应收账款融资服务平台上留下自己的信息，银行在平台上看买卖合同，确认这些钱是真的。然后，银行在中国人民银行征信中心的平台上登记这笔质押，时间是十二个月，大家都可以查到。这样，企业不用再拿房子做抵押，用以后会收到的钱，就能借到今天要用的钱。",
+   "用数字人民币借钱给企业也有好处。钱马上到企业的钱包里，当天就能用，而且不收手续费。",
+   "对很多中小企业来说，最有用的东西不是房子，而是一笔笔还没收回来的钱。银行能不能看懂这些钱，决定了企业能不能借到钱。"
+  ],
+  "points": [
+   {
+    "h": "I. 抵押 / 质押 — thế chấp / cầm cố",
+    "b": [
+     "Cách dùng:",
+     "抵押 dùng cho bất động sản (nhà, đất): tài sản vẫn ở chỗ người vay. 质押 dùng cho động sản và quyền tài sản (khoản phải thu, cổ phiếu, tiền gửi): quyền kiểm soát chuyển sang bên cho vay, thường phải đăng ký công khai. Hồ sơ tín dụng SME ở TQ luôn ghi rõ là loại nào.",
+     "这家企业以前已经用自己的房子做抵押，跟银行借过钱，能借的钱差不多到头了。",
+     "Zhè jiā qǐyè yǐqián yǐjīng yòng zìjǐ de fángzi zuò dǐyā, gēn yínháng jiè guo qián, néng jiè de qián chàbuduō dào tóu le.",
+     "Doanh nghiệp này trước đây đã thế chấp nhà của mình để vay ngân hàng, số tiền có thể vay gần như đã chạm trần."
+    ]
+   },
+   {
+    "h": "II. 拿A来做B — lấy A để làm B",
+    "b": [
+     "Cách dùng:",
+     "拿 đưa ra một thứ, 来 nối với mục đích dùng nó. Hay gặp khi nói dùng tài sản gì để bảo đảm khoản vay: 拿房子来做抵押, 拿股票来做质押.",
+     "湖州银行的办法是，拿这些应收账款来做质押。",
+     "Húzhōu Yínháng de bànfǎ shì, ná zhèxiē yìngshōu zhàngkuǎn lái zuò zhìyā.",
+     "Cách của Ngân hàng Hồ Châu là lấy chính các khoản phải thu này làm tài sản cầm cố."
+    ]
+   },
+   {
+    "h": "III. 对A来说，最…的不是B，而是C — với A, điều … nhất không phải B mà là C",
+    "b": [
+     "Cách dùng:",
+     "对…来说 đặt góc nhìn; 不是…而是… gạt bỏ cách hiểu thông thường để nêu điều thật sự quan trọng. Hợp để chốt một đoạn phân tích.",
+     "对很多中小企业来说，最有用的东西不是房子，而是一笔笔还没收回来的钱。",
+     "Duì hěn duō zhōngxiǎo qǐyè lái shuō, zuì yǒuyòng de dōngxi bú shì fángzi, ér shì yì bǐbǐ hái méi shōu huílai de qián.",
+     "Với nhiều doanh nghiệp vừa và nhỏ, thứ hữu ích nhất không phải là căn nhà, mà là từng khoản tiền chưa thu về."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "移动支付网": {
+   "w": "移动支付网",
+   "p": "Yídòng Zhīfù Wǎng",
+   "hv": "Di Động Chi Phó Võng",
+   "note": "Mpaypass — trang tin chuyên về thanh toán di động và tiền số ở TQ, nguồn gốc bài này"
+  },
+  "湖州银行": {
+   "w": "湖州银行",
+   "p": "Húzhōu Yínháng",
+   "hv": "Hồ Châu Ngân Hàng",
+   "note": "Bank of Huzhou — ngân hàng thương mại địa phương ở Hồ Châu, Chiết Giang"
+  },
+  "湖州": {
+   "w": "湖州",
+   "p": "Húzhōu",
+   "hv": "Hồ Châu",
+   "note": "thành phố ở tỉnh Chiết Giang, giáp Thái Hồ"
+  },
+  "浙江": {
+   "w": "浙江",
+   "p": "Zhèjiāng",
+   "hv": "Chiết Giang",
+   "note": "tỉnh ven biển miền đông TQ, nhiều doanh nghiệp tư nhân và SME"
+  },
+  "长兴县": {
+   "w": "长兴县",
+   "p": "Chángxīng Xiàn",
+   "hv": "Trường Hưng Huyện",
+   "note": "huyện thuộc Hồ Châu, có cụm công nghiệp dệt ở trấn Giáp Phố"
+  },
+  "中征应收账款融资服务平台": {
+   "w": "中征应收账款融资服务平台",
+   "p": "Zhōngzhēng Yìngshōu Zhàngkuǎn Róngzī Fúwù Píngtái",
+   "hv": "Trung Trưng Ứng Thu Trướng Khoản Dung Tư Phục Vụ Bình Đài",
+   "note": "nền tảng tài trợ khoản phải thu của Trung tâm Tín dụng NHNN TQ — xác minh hợp đồng mua bán giữa doanh nghiệp và bên mua"
+  },
+  "中国人民银行征信中心": {
+   "w": "中国人民银行征信中心",
+   "p": "Zhōngguó Rénmín Yínháng Zhēngxìn Zhōngxīn",
+   "hv": "Trung Quốc Nhân Dân Ngân Hàng Trưng Tín Trung Tâm",
+   "note": "Trung tâm Thông tin tín dụng của NHNN TQ; vận hành hệ thống đăng ký công khai tài sản bảo đảm là động sản (中登网)"
+  }
+ },
+ "dict": {
+  "纺织": {
+   "w": "纺织",
+   "p": "fǎngzhī",
+   "hv": "phưởng chức",
+   "pos": "N",
+   "en": "textiles; to spin and weave",
+   "vn": "dệt may, ngành dệt",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261020"
+   ]
+  },
+  "应收账款": {
+   "w": "应收账款",
+   "p": "yìngshōu zhàngkuǎn",
+   "hv": "ứng thu trướng khoản",
+   "pos": "N",
+   "en": "accounts receivable",
+   "vn": "khoản phải thu",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261020"
+   ]
+  },
+  "质押": {
+   "w": "质押",
+   "p": "zhìyā",
+   "hv": "chất áp",
+   "pos": "V/N",
+   "en": "to pledge (movable property, receivables); pledge",
+   "vn": "cầm cố, thế chấp động sản / quyền đòi nợ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261020"
+   ]
+  },
+  "人民币": {
+   "w": "人民币",
+   "p": "rénmínbì",
+   "hv": "nhân dân tệ",
+   "pos": "N",
+   "en": "renminbi (RMB)",
+   "vn": "nhân dân tệ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261020"
+   ]
+  },
+  "资金": {
+   "w": "资金",
+   "p": "zījīn",
+   "hv": "tư kim",
+   "pos": "N",
+   "en": "funds, capital",
+   "vn": "vốn, tiền vốn",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261020"
+   ]
+  },
+  "原料": {
+   "w": "原料",
+   "p": "yuánliào",
+   "hv": "nguyên liệu",
+   "pos": "N",
+   "en": "raw material",
+   "vn": "nguyên liệu thô",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261020"
+   ]
+  },
+  "抵押": {
+   "w": "抵押",
+   "p": "dǐyā",
+   "hv": "để áp",
+   "pos": "V/N",
+   "en": "to mortgage (real property); mortgage",
+   "vn": "thế chấp (bất động sản)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261020"
+   ]
+  },
+  "信息": {
+   "w": "信息",
+   "p": "xìnxī",
+   "hv": "tín tức",
+   "pos": "N",
+   "en": "information",
+   "vn": "thông tin",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261020"
+   ]
+  },
+  "确认": {
+   "w": "确认",
+   "p": "quèrèn",
+   "hv": "xác nhận",
+   "pos": "V",
+   "en": "to confirm, verify",
+   "vn": "xác nhận",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261020"
+   ]
+  },
+  "登记": {
+   "w": "登记",
+   "p": "dēngjì",
+   "hv": "đăng ký",
+   "pos": "V",
+   "en": "to register, record officially",
+   "vn": "đăng ký (vào sổ chính thức)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261020"
+   ]
+  },
+  "手续费": {
+   "w": "手续费",
+   "p": "shǒuxùfèi",
+   "hv": "thủ tục phí",
+   "pos": "N",
+   "en": "service fee, handling charge",
+   "vn": "phí dịch vụ, phí giao dịch",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261020"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "移动支付网",
+   "author": "",
+   "title": "湖州银行落地纺织供应链数字人民币质押贷款",
+   "date": "2026-10-19",
+   "url": "https://www.mpaypass.com.cn/news/202610/19093657.html",
+   "accessed": "2026-10-20"
+  },
+  {
+   "role": "secondary",
+   "outlet": "数字法币研究社（新浪转载，来源：湖州银行）",
+   "author": "",
+   "title": "湖州银行落地纺织供应链数字人民币质押贷款",
+   "date": "2026-10-19",
+   "url": "http://k.sina.com.cn/article_5953740931_162dee083067042d4w.html",
+   "accessed": "2026-10-20"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261020",
+  "book": 4,
+  "no": 8,
+  "date": "2026-10-20",
+  "seq": 50,
+  "title": "用还没收到的钱借钱",
+  "py": "yòngháimòshōudàodeqiánjièqián",
+  "en": "Borrowing against money not yet received",
+  "vn": "Vay tiền bằng khoản tiền chưa thu về",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "移动支付网",
+        "p": "Yídòng Zhīfù Wǎng",
+        "k": "name"
+       },
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "19",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "湖州银行",
+        "p": "Húzhōu Yínháng",
+        "k": "name"
+       },
+       {
+        "w": "最近",
+        "p": "zuìjìn",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "纺织",
+        "p": "fǎngzhī",
+        "k": "core"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "办",
+        "p": "bàn",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "笔",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "应收账款",
+        "p": "yìngshōu zhàngkuǎn",
+        "k": "core"
+       },
+       {
+        "w": "质押",
+        "p": "zhìyā",
+        "k": "core"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "数字",
+        "p": "shùzì",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "core"
+       },
+       {
+        "w": "放",
+        "p": "fàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "浙江",
+        "p": "Zhèjiāng",
+        "k": "name"
+       },
+       {
+        "w": "湖州",
+        "p": "Húzhōu",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "长兴县",
+        "p": "Chángxīng Xiàn",
+        "k": "name"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "纺织",
+        "p": "fǎngzhī",
+        "k": "core"
+       },
+       {
+        "w": "产品",
+        "p": "chǎnpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "纺织",
+        "p": "fǎngzhī",
+        "k": "core"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "需要",
+        "p": "xūyào",
+        "k": "extra"
+       },
+       {
+        "w": "资金",
+        "p": "zījīn",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "行",
+        "p": "xíng",
+        "k": "extra"
+       },
+       {
+        "w": "业",
+        "p": "yè",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "游",
+        "p": "yóu",
+        "k": "extra"
+       },
+       {
+        "w": "买",
+        "p": "mǎi",
+        "k": "extra"
+       },
+       {
+        "w": "原料",
+        "p": "yuánliào",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "马上",
+        "p": "mǎshàng",
+        "k": "extra"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "现金",
+        "p": "xiànjīn",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "产品",
+        "p": "chǎnpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "下",
+        "p": "xià",
+        "k": "extra"
+       },
+       {
+        "w": "游",
+        "p": "yóu",
+        "k": "extra"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "常",
+        "p": "cháng",
+        "k": "extra"
+       },
+       {
+        "w": "常",
+        "p": "cháng",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "六",
+        "p": "liù",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "有时候",
+        "p": "yǒushíhòu",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "长",
+        "p": "cháng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "才",
+        "p": "cái",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "收到",
+        "p": "shōudào",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "先",
+        "p": "xiān",
+        "k": "extra"
+       },
+       {
+        "w": "出去",
+        "p": "chūqù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "久",
+        "p": "jiǔ",
+        "k": "extra"
+       },
+       {
+        "w": "才",
+        "p": "cái",
+        "k": "extra"
+       },
+       {
+        "w": "回来",
+        "p": "huílái",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "中",
+        "p": "zhōng",
+        "k": "extra"
+       },
+       {
+        "w": "间",
+        "p": "jiān",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "段",
+        "p": "duàn",
+        "k": "extra"
+       },
+       {
+        "w": "时间",
+        "p": "shíjiān",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "不够",
+        "p": "bú gòu",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "以前",
+        "p": "yǐqián",
+        "k": "extra"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "房子",
+        "p": "fángzi",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "抵押",
+        "p": "dǐyā",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "跟",
+        "p": "gēn",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "过",
+        "p": "guò",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "差不多",
+        "p": "chābùduō",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "头",
+        "p": "tóu",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "手",
+        "p": "shǒu",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "应收账款",
+        "p": "yìngshōu zhàngkuǎn",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "买",
+        "p": "mǎi",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "不同",
+        "p": "bùtóng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "地方",
+        "p": "dìfāng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "什么",
+        "p": "shénme",
+        "k": "extra"
+       },
+       {
+        "w": "时候",
+        "p": "shíhòu",
+        "k": "extra"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "不好",
+        "p": "bù hǎo",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "暂时",
+        "p": "Zhànshí",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "湖州银行",
+        "p": "Húzhōu Yínháng",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "办法",
+        "p": "bànfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "应收账款",
+        "p": "yìngshōu zhàngkuǎn",
+        "k": "core"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "质押",
+        "p": "zhìyā",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "先",
+        "p": "xiān",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "中征应收账款融资服务平台",
+        "p": "Zhōngzhēng Yìngshōu Zhàngkuǎn Róngzī Fúwù Píngtái",
+        "k": "name"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "留下",
+        "p": "liúxià",
+        "k": "extra"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "信息",
+        "p": "xìnxī",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "平",
+        "p": "píng",
+        "k": "extra"
+       },
+       {
+        "w": "台",
+        "p": "(Tái) jīn",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "买",
+        "p": "mǎi",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "合",
+        "p": "hé",
+        "k": "extra"
+       },
+       {
+        "w": "同",
+        "p": "tóng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "确认",
+        "p": "quèrèn",
+        "k": "core"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "真的",
+        "p": "zhēn de",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "然后",
+        "p": "ránhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "中国人民银行征信中心",
+        "p": "Zhōngguó Rénmín Yínháng Zhēngxìn Zhōngxīn",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "平",
+        "p": "píng",
+        "k": "extra"
+       },
+       {
+        "w": "台",
+        "p": "(Tái) jīn",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "登记",
+        "p": "dēngjì",
+        "k": "core"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "笔",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "质押",
+        "p": "zhìyā",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "时间",
+        "p": "shíjiān",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "十",
+        "p": "shí",
+        "k": "extra"
+       },
+       {
+        "w": "二",
+        "p": "èr",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "大家",
+        "p": "dàjiā",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "可以",
+        "p": "kěyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "查",
+        "p": "chá",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这样",
+        "p": "zhè yàng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "再",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "房子",
+        "p": "fángzi",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "抵押",
+        "p": "dǐyā",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "收到",
+        "p": "shōudào",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "今天",
+        "p": "jīntiān",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "数字",
+        "p": "shùzì",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "core"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "好处",
+        "p": "hǎochù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "马上",
+        "p": "mǎshàng",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "钱包",
+        "p": "qiánbāo",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "当",
+        "p": "dāng",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "而且",
+        "p": "érqiě",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "收",
+        "p": "shōu",
+        "k": "extra"
+       },
+       {
+        "w": "手续费",
+        "p": "shǒuxùfèi",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "中",
+        "p": "zhōng",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "东西",
+        "p": "dōngxi",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "房子",
+        "p": "fángzi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "而",
+        "p": "ér",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "笔",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "笔",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "收",
+        "p": "shōu",
+        "k": "extra"
+       },
+       {
+        "w": "回来",
+        "p": "huílái",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "懂",
+        "p": "dǒng",
+        "k": "extra"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "决定",
+        "p": "juédìng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 抵押 / 质押 — thế chấp / cầm cố",
+    "b": [
+     "Cách dùng:",
+     "抵押 dùng cho bất động sản (nhà, đất): tài sản vẫn ở chỗ người vay. 质押 dùng cho động sản và quyền tài sản (khoản phải thu, cổ phiếu, tiền gửi): quyền kiểm soát chuyển sang bên cho vay, thường phải đăng ký công khai. Hồ sơ tín dụng SME ở TQ luôn ghi rõ là loại nào.",
+     "这家企业以前已经用自己的房子做抵押，跟银行借过钱，能借的钱差不多到头了。",
+     "Zhè jiā qǐyè yǐqián yǐjīng yòng zìjǐ de fángzi zuò dǐyā, gēn yínháng jiè guo qián, néng jiè de qián chàbuduō dào tóu le.",
+     "Doanh nghiệp này trước đây đã thế chấp nhà của mình để vay ngân hàng, số tiền có thể vay gần như đã chạm trần."
+    ]
+   },
+   {
+    "h": "II. 拿A来做B — lấy A để làm B",
+    "b": [
+     "Cách dùng:",
+     "拿 đưa ra một thứ, 来 nối với mục đích dùng nó. Hay gặp khi nói dùng tài sản gì để bảo đảm khoản vay: 拿房子来做抵押, 拿股票来做质押.",
+     "湖州银行的办法是，拿这些应收账款来做质押。",
+     "Húzhōu Yínháng de bànfǎ shì, ná zhèxiē yìngshōu zhàngkuǎn lái zuò zhìyā.",
+     "Cách của Ngân hàng Hồ Châu là lấy chính các khoản phải thu này làm tài sản cầm cố."
+    ]
+   },
+   {
+    "h": "III. 对A来说，最…的不是B，而是C — với A, điều … nhất không phải B mà là C",
+    "b": [
+     "Cách dùng:",
+     "对…来说 đặt góc nhìn; 不是…而是… gạt bỏ cách hiểu thông thường để nêu điều thật sự quan trọng. Hợp để chốt một đoạn phân tích.",
+     "对很多中小企业来说，最有用的东西不是房子，而是一笔笔还没收回来的钱。",
+     "Duì hěn duō zhōngxiǎo qǐyè lái shuō, zuì yǒuyòng de dōngxi bú shì fángzi, ér shì yì bǐbǐ hái méi shōu huílai de qián.",
+     "Với nhiều doanh nghiệp vừa và nhỏ, thứ hữu ích nhất không phải là căn nhà, mà là từng khoản tiền chưa thu về."
+    ]
+   }
+  ],
+  "vocab": [
+   "纺织",
+   "应收账款",
+   "质押",
+   "人民币",
+   "资金",
+   "原料",
+   "抵押",
+   "信息",
+   "确认",
+   "登记",
+   "手续费"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "移动支付网",
+    "author": "",
+    "title": "湖州银行落地纺织供应链数字人民币质押贷款",
+    "date": "2026-10-19",
+    "url": "https://www.mpaypass.com.cn/news/202610/19093657.html",
+    "accessed": "2026-10-20"
+   },
+   {
+    "role": "secondary",
+    "outlet": "数字法币研究社（新浪转载，来源：湖州银行）",
+    "author": "",
+    "title": "湖州银行落地纺织供应链数字人民币质押贷款",
+    "date": "2026-10-19",
+    "url": "http://k.sina.com.cn/article_5953740931_162dee083067042d4w.html",
+    "accessed": "2026-10-20"
+   }
+  ]
+ }
+}

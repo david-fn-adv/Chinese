@@ -12,6 +12,7 @@ CHARS_EXT = """
 募:mộ 截:tiệt 者:giả 券:khoán 江:giang 丰:phong 旭:húc 创:sáng
 抵:để 押:áp 耗:hao 评:bình 央:ương 显:hiển
 董:đổng 损:tổn
+纺:phưởng 织:chức 账:trướng 币:tệ 登:đăng 浙:chiết 州:châu 县:huyện 确:xác
 """
 
 # Từ ghép có âm khác cách ghép từng chữ
