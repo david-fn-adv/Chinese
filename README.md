@@ -27,7 +27,9 @@ bài đọc mà không tra được.
   đã mở; tiến độ lưu trong `localStorage` của máy
 - **课文** — 3 tab mỗi bài: hai bài đọc + `语法`
   - `PINYIN` bật ruby pinyin cho **toàn bài**
-  - `ẨN NGHĨA` che nghĩa để tự kiểm tra
+  - `ẨN HÁN TỰ` ẩn cả đoạn chữ Hán để tập viết lại; bật thêm `PINYIN` thì đọc pinyin,
+    bấm vào từ pinyin để mở thẻ chữ Hán
+  - cuối bài có thanh **‹ Bài trước · 书架 · Bài sau ›** để chuyển bài hoặc về kệ
   - bấm chữ nào cũng mở thẻ từ, kèm **câu thật lấy từ trong bài** và nguồn
     (ví dụ `B3-L07 · 对话一 · 何雅婷`)
   - tên nhân vật bấm ra được giới thiệu là ai
