@@ -1,0 +1,1946 @@
+{
+ "date": "2026-10-21",
+ "id": "N-20261021",
+ "draft": {
+  "title": "八成交易在境外",
+  "vn": "Tám phần giao dịch nằm ở nước ngoài",
+  "en": "Eighty percent of the trading happens offshore",
+  "paras": [
+   "10月19日，中国人民银行行长潘功胜在2026金融街论坛年会上说，央行打算做一个试点：允许8家在境外的人民币清算行，到中国的银行间外汇市场上，直接买卖人民币。这8家银行里，有中国的银行，也有外国的银行。",
+   "什么是清算行？简单地说，在境外用人民币付钱、收钱，很多时候要靠这些银行来完成。它们就像人民币走出中国的一个个门。",
+   "潘功胜还给了几个数字：现在全球每天买卖人民币的外汇交易超过8000亿美元，可是大约80%发生在境外，不在中国。他还说，人民币已经是全球第二大贸易融资货币。",
+   "人民币在境外用得越来越多，境外银行手里要用的人民币也越来越多。以前，这些清算行想买卖人民币，主要在境外的市场上做。试点以后，它们可以直接到中国的市场来交易，而且按照国际上大家都用的做法来做。央行说，这样可以让境外的银行更方便地参加中国的外汇市场，让境内和境外两个市场慢慢走到一起。央行还说，以后会看试点的情况，再进一步开放外汇市场。",
+   "对做进出口生意的企业来说，这件事好像离自己有点远。可是，境外的银行越容易拿到人民币，用人民币做贸易融资就越方便。外汇市场每开放一步，企业的选择就多一点。"
+  ],
+  "points": [
+   {
+    "h": "I. 允许A做B — cho phép A làm B",
+    "b": [
+     "Cách dùng:",
+     "允许 + chủ thể + hành động: văn phong chính sách, hay đi với 试点 (thí điểm) — cơ quan quản lý 允许 một nhóm tổ chức làm một việc trước, xem kết quả rồi mới mở rộng.",
+     "央行打算做一个试点：允许8家在境外的人民币清算行，到中国的银行间外汇市场上，直接买卖人民币。",
+     "Yāngháng dǎsuàn zuò yí ge shìdiǎn: yǔnxǔ bā jiā zài jìngwài de rénmínbì qīngsuàn háng, dào Zhōngguó de yínháng jiān wàihuì shìchǎng shang, zhíjiē mǎimài rénmínbì.",
+     "NHTW định làm một đợt thí điểm: cho phép 8 ngân hàng thanh toán bù trừ nhân dân tệ ở nước ngoài vào thị trường ngoại hối liên ngân hàng của Trung Quốc để trực tiếp mua bán nhân dân tệ."
+    ]
+   },
+   {
+    "h": "II. 超过X，可是大约Y%发生在… — vượt X, nhưng khoảng Y% diễn ra ở…",
+    "b": [
+     "Cách dùng:",
+     "Nêu tổng quy mô trước (超过 + con số), rồi dùng 可是 lật sang phần đáng chú ý: tỷ lệ nằm ở đâu. Mẫu câu đọc số liệu rất hay gặp trong tin tài chính.",
+     "现在全球每天买卖人民币的外汇交易超过8000亿美元，可是大约80%发生在境外，不在中国。",
+     "Xiànzài quánqiú měi tiān mǎimài rénmínbì de wàihuì jiāoyì chāoguò bāqiān yì měiyuán, kěshì dàyuē bǎi fēn zhī bāshí fāshēng zài jìngwài, bú zài Zhōngguó.",
+     "Hiện nay giao dịch ngoại hối mua bán nhân dân tệ trên toàn cầu mỗi ngày vượt 800 tỷ USD, nhưng khoảng 80% diễn ra ở nước ngoài, không phải ở Trung Quốc."
+    ]
+   },
+   {
+    "h": "III. A越…，B就越… — A càng…, B càng…",
+    "b": [
+     "Cách dùng:",
+     "Hai vế cùng tăng theo nhau; 就 đứng trước 越 thứ hai. Dùng để nói quan hệ nhân quả giữa hai xu hướng.",
+     "境外的银行越容易拿到人民币，用人民币做贸易融资就越方便。",
+     "Jìngwài de yínháng yuè róngyì ná dào rénmínbì, yòng rénmínbì zuò màoyì róngzī jiù yuè fāngbiàn.",
+     "Ngân hàng nước ngoài càng dễ có nhân dân tệ, thì tài trợ thương mại bằng nhân dân tệ càng thuận tiện."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "中国人民银行": {
+   "w": "中国人民银行",
+   "p": "Zhōngguó Rénmín Yínháng",
+   "hv": "Trung Quốc Nhân Dân Ngân Hàng",
+   "note": "People's Bank of China — ngân hàng trung ương TQ"
+  },
+  "潘功胜": {
+   "w": "潘功胜",
+   "p": "Pān Gōngshèng",
+   "hv": "Phan Công Thắng",
+   "note": "Thống đốc NHNN Trung Quốc"
+  },
+  "金融街论坛": {
+   "w": "金融街论坛",
+   "p": "Jīnróngjiē Lùntán",
+   "hv": "Kim Dung Nhai Luận Đàn",
+   "note": "Financial Street Forum — diễn đàn tài chính thường niên ở Bắc Kinh, nơi lãnh đạo NHTW và cơ quan quản lý hay công bố chính sách"
+  }
+ },
+ "dict": {
+  "行长": {
+   "w": "行长",
+   "p": "hángzhǎng",
+   "hv": "hàng trưởng",
+   "pos": "N",
+   "en": "bank president, governor",
+   "vn": "thống đốc / chủ tịch ngân hàng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261021"
+   ]
+  },
+  "试点": {
+   "w": "试点",
+   "p": "shìdiǎn",
+   "hv": "thí điểm",
+   "pos": "N/V",
+   "en": "pilot (scheme); to run a pilot",
+   "vn": "thí điểm",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261021"
+   ]
+  },
+  "允许": {
+   "w": "允许",
+   "p": "yǔnxǔ",
+   "hv": "doãn hứa",
+   "pos": "V",
+   "en": "to allow, to permit",
+   "vn": "cho phép",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261021"
+   ]
+  },
+  "境外": {
+   "w": "境外",
+   "p": "jìngwài",
+   "hv": "cảnh ngoại",
+   "pos": "N",
+   "en": "outside the (Chinese) border, offshore",
+   "vn": "nước ngoài, ngoài lãnh thổ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261021"
+   ]
+  },
+  "境内": {
+   "w": "境内",
+   "p": "jìngnèi",
+   "hv": "cảnh nội",
+   "pos": "N",
+   "en": "within the (Chinese) border, onshore",
+   "vn": "trong nước, trong lãnh thổ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261021"
+   ]
+  },
+  "清算": {
+   "w": "清算",
+   "p": "qīngsuàn",
+   "hv": "thanh toán",
+   "pos": "V/N",
+   "en": "to clear (payments); clearing",
+   "vn": "thanh toán bù trừ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261021"
+   ]
+  },
+  "外汇": {
+   "w": "外汇",
+   "p": "wàihuì",
+   "hv": "ngoại hối",
+   "pos": "N",
+   "en": "foreign exchange",
+   "vn": "ngoại hối, ngoại tệ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261021"
+   ]
+  },
+  "全球": {
+   "w": "全球",
+   "p": "quánqiú",
+   "hv": "toàn cầu",
+   "pos": "N",
+   "en": "the whole world, global",
+   "vn": "toàn cầu",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261021"
+   ]
+  },
+  "交易": {
+   "w": "交易",
+   "p": "jiāoyì",
+   "hv": "giao dịch",
+   "pos": "N/V",
+   "en": "transaction, trade; to trade",
+   "vn": "giao dịch",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261021"
+   ]
+  },
+  "美元": {
+   "w": "美元",
+   "p": "měiyuán",
+   "hv": "mỹ nguyên",
+   "pos": "N",
+   "en": "US dollar",
+   "vn": "đô la Mỹ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261021"
+   ]
+  },
+  "货币": {
+   "w": "货币",
+   "p": "huòbì",
+   "hv": "hóa tệ",
+   "pos": "N",
+   "en": "currency, money",
+   "vn": "tiền tệ, đồng tiền",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261021"
+   ]
+  },
+  "开放": {
+   "w": "开放",
+   "p": "kāifàng",
+   "hv": "khai phóng",
+   "pos": "V",
+   "en": "to open up (a market)",
+   "vn": "mở cửa",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261021"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "21财经（来源：中国人民银行）",
+   "author": "",
+   "title": "中国人民银行行长潘功胜在2026金融街论坛年会上的主题演讲",
+   "date": "2026-10-19",
+   "url": "https://m.21jingji.com/article/20261019/herald/f6fdd22779d764fdee7bf54ec7b19ac3.html",
+   "accessed": "2026-10-21"
+  },
+  {
+   "role": "secondary",
+   "outlet": "界面新闻",
+   "author": "",
+   "title": "潘功胜：试点进一步便利境外金融机构在境内外汇市场开展人民币购售业务",
+   "date": "2026-10-19",
+   "url": "https://www.jiemian.com/article/15207486.html",
+   "accessed": "2026-10-21"
+  },
+  {
+   "role": "secondary",
+   "outlet": "新浪新闻（转载界面）",
+   "author": "",
+   "title": "中国人民银行行长潘功胜在2026金融街论坛年会上的主题演讲",
+   "date": "2026-10-19",
+   "url": "https://k.sina.cn/article_6192937794_17120bb4202002viwc.html",
+   "accessed": "2026-10-21"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261021",
+  "book": 4,
+  "no": 9,
+  "date": "2026-10-21",
+  "seq": 51,
+  "title": "八成交易在境外",
+  "py": "bāchéngjiāoyìzàijìngwài",
+  "en": "Eighty percent of the trading happens offshore",
+  "vn": "Tám phần giao dịch nằm ở nước ngoài",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "19",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "中国人民银行",
+        "p": "Zhōngguó Rénmín Yínháng",
+        "k": "name"
+       },
+       {
+        "w": "行长",
+        "p": "hángzhǎng",
+        "k": "core"
+       },
+       {
+        "w": "潘功胜",
+        "p": "Pān Gōngshèng",
+        "k": "name"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "2026",
+        "k": "plain"
+       },
+       {
+        "w": "金融街论坛",
+        "p": "Jīnróngjiē Lùntán",
+        "k": "name"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "央行",
+        "p": "yāngháng",
+        "k": "extra"
+       },
+       {
+        "w": "打算",
+        "p": "dǎsuàn",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "试点",
+        "p": "shìdiǎn",
+        "k": "core"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "允许",
+        "p": "yǔnxǔ",
+        "k": "core"
+       },
+       {
+        "w": "8",
+        "k": "plain"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "境外",
+        "p": "jìngwài",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "清算",
+        "p": "qīngsuàn",
+        "k": "core"
+       },
+       {
+        "w": "行",
+        "p": "xíng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "间",
+        "p": "jiān",
+        "k": "extra"
+       },
+       {
+        "w": "外汇",
+        "p": "wàihuì",
+        "k": "core"
+       },
+       {
+        "w": "市场",
+        "p": "shìchǎng",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "直接",
+        "p": "zhíjiē",
+        "k": "extra"
+       },
+       {
+        "w": "买",
+        "p": "mǎi",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "8",
+        "k": "plain"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "外",
+        "p": "wài",
+        "k": "extra"
+       },
+       {
+        "w": "国",
+        "p": "guó",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "什么",
+        "p": "shénme",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "清算",
+        "p": "qīngsuàn",
+        "k": "core"
+       },
+       {
+        "w": "行",
+        "p": "xíng",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "简单",
+        "p": "jiǎndān",
+        "k": "extra"
+       },
+       {
+        "w": "地",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "境外",
+        "p": "jìngwài",
+        "k": "core"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "收",
+        "p": "shōu",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "时候",
+        "p": "shíhòu",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "靠",
+        "p": "kào",
+        "k": "extra"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "完",
+        "p": "wán",
+        "k": "extra"
+       },
+       {
+        "w": "成",
+        "p": "chéng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "们",
+        "p": "men",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "像",
+        "p": "xiàng",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "走",
+        "p": "zǒu",
+        "k": "extra"
+       },
+       {
+        "w": "出",
+        "p": "chū",
+        "k": "extra"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "门",
+        "p": "Mén",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "潘功胜",
+        "p": "Pān Gōngshèng",
+        "k": "name"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "几",
+        "p": "jǐ",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "数字",
+        "p": "shùzì",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "全球",
+        "p": "quánqiú",
+        "k": "core"
+       },
+       {
+        "w": "每",
+        "p": "měi",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "买",
+        "p": "mǎi",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "外汇",
+        "p": "wàihuì",
+        "k": "core"
+       },
+       {
+        "w": "交易",
+        "p": "jiāoyì",
+        "k": "core"
+       },
+       {
+        "w": "超过",
+        "p": "chāoguò",
+        "k": "extra"
+       },
+       {
+        "w": "8000",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "约",
+        "p": "yuē",
+        "k": "extra"
+       },
+       {
+        "w": "80%",
+        "k": "plain"
+       },
+       {
+        "w": "发生",
+        "p": "fāshēng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "境外",
+        "p": "jìngwài",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "他",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "全球",
+        "p": "quánqiú",
+        "k": "core"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "二",
+        "p": "èr",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "贸易",
+        "p": "màoyì",
+        "k": "extra"
+       },
+       {
+        "w": "融资",
+        "p": "róngzī",
+        "k": "extra"
+       },
+       {
+        "w": "货币",
+        "p": "huòbì",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "境外",
+        "p": "jìngwài",
+        "k": "core"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "得",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "越来越",
+        "p": "yuèláiyuè",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "境外",
+        "p": "jìngwài",
+        "k": "core"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "手",
+        "p": "shǒu",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "越来越",
+        "p": "yuèláiyuè",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "以前",
+        "p": "yǐqián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "清算",
+        "p": "qīngsuàn",
+        "k": "core"
+       },
+       {
+        "w": "行",
+        "p": "xíng",
+        "k": "extra"
+       },
+       {
+        "w": "想",
+        "p": "xiǎng",
+        "k": "extra"
+       },
+       {
+        "w": "买",
+        "p": "mǎi",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "主要",
+        "p": "zhǔyào",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "境外",
+        "p": "jìngwài",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "市场",
+        "p": "shìchǎng",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "试点",
+        "p": "shìdiǎn",
+        "k": "core"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "们",
+        "p": "men",
+        "k": "extra"
+       },
+       {
+        "w": "可以",
+        "p": "kěyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "直接",
+        "p": "zhíjiē",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "市场",
+        "p": "shìchǎng",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "交易",
+        "p": "jiāoyì",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "而且",
+        "p": "érqiě",
+        "k": "extra"
+       },
+       {
+        "w": "按照",
+        "p": "ànzhào",
+        "k": "extra"
+       },
+       {
+        "w": "国际",
+        "p": "guójì",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "大家",
+        "p": "dàjiā",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "做法",
+        "p": "zuòfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "央行",
+        "p": "yāngháng",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这样",
+        "p": "zhè yàng",
+        "k": "extra"
+       },
+       {
+        "w": "可以",
+        "p": "kěyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "境外",
+        "p": "jìngwài",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "方便",
+        "p": "fāngbiàn",
+        "k": "extra"
+       },
+       {
+        "w": "地",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "参加",
+        "p": "cānjiā",
+        "k": "extra"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "外汇",
+        "p": "wàihuì",
+        "k": "core"
+       },
+       {
+        "w": "市场",
+        "p": "shìchǎng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "境内",
+        "p": "jìngnèi",
+        "k": "core"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "境外",
+        "p": "jìngwài",
+        "k": "core"
+       },
+       {
+        "w": "两",
+        "p": "liǎng",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "市场",
+        "p": "shìchǎng",
+        "k": "extra"
+       },
+       {
+        "w": "慢",
+        "p": "màn",
+        "k": "extra"
+       },
+       {
+        "w": "慢走",
+        "p": "màn zǒu",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "一起",
+        "p": "yìqǐ",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "央行",
+        "p": "yāngháng",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "试点",
+        "p": "shìdiǎn",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "情况",
+        "p": "qíngkuàng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "再",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "进一步",
+        "p": "jìn yī bù",
+        "k": "extra"
+       },
+       {
+        "w": "开放",
+        "p": "kāifàng",
+        "k": "core"
+       },
+       {
+        "w": "外汇",
+        "p": "wàihuì",
+        "k": "core"
+       },
+       {
+        "w": "市场",
+        "p": "shìchǎng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "进",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "出口",
+        "p": "chūkǒu",
+        "k": "extra"
+       },
+       {
+        "w": "生意",
+        "p": "shēngyì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "件",
+        "p": "jiàn",
+        "k": "extra"
+       },
+       {
+        "w": "事",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "好像",
+        "p": "hǎoxiàng",
+        "k": "extra"
+       },
+       {
+        "w": "离",
+        "p": "lí",
+        "k": "extra"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "点",
+        "p": "diǎn",
+        "k": "extra"
+       },
+       {
+        "w": "远",
+        "p": "yuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "境外",
+        "p": "jìngwài",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "越",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "容易",
+        "p": "róngyì",
+        "k": "extra"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "贸易",
+        "p": "màoyì",
+        "k": "extra"
+       },
+       {
+        "w": "融资",
+        "p": "róngzī",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "越",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "方便",
+        "p": "fāngbiàn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "外汇",
+        "p": "wàihuì",
+        "k": "core"
+       },
+       {
+        "w": "市场",
+        "p": "shìchǎng",
+        "k": "extra"
+       },
+       {
+        "w": "每",
+        "p": "měi",
+        "k": "extra"
+       },
+       {
+        "w": "开放",
+        "p": "kāifàng",
+        "k": "core"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "步",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "选择",
+        "p": "xuǎnzé",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "一点",
+        "p": "yīdiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 允许A做B — cho phép A làm B",
+    "b": [
+     "Cách dùng:",
+     "允许 + chủ thể + hành động: văn phong chính sách, hay đi với 试点 (thí điểm) — cơ quan quản lý 允许 một nhóm tổ chức làm một việc trước, xem kết quả rồi mới mở rộng.",
+     "央行打算做一个试点：允许8家在境外的人民币清算行，到中国的银行间外汇市场上，直接买卖人民币。",
+     "Yāngháng dǎsuàn zuò yí ge shìdiǎn: yǔnxǔ bā jiā zài jìngwài de rénmínbì qīngsuàn háng, dào Zhōngguó de yínháng jiān wàihuì shìchǎng shang, zhíjiē mǎimài rénmínbì.",
+     "NHTW định làm một đợt thí điểm: cho phép 8 ngân hàng thanh toán bù trừ nhân dân tệ ở nước ngoài vào thị trường ngoại hối liên ngân hàng của Trung Quốc để trực tiếp mua bán nhân dân tệ."
+    ]
+   },
+   {
+    "h": "II. 超过X，可是大约Y%发生在… — vượt X, nhưng khoảng Y% diễn ra ở…",
+    "b": [
+     "Cách dùng:",
+     "Nêu tổng quy mô trước (超过 + con số), rồi dùng 可是 lật sang phần đáng chú ý: tỷ lệ nằm ở đâu. Mẫu câu đọc số liệu rất hay gặp trong tin tài chính.",
+     "现在全球每天买卖人民币的外汇交易超过8000亿美元，可是大约80%发生在境外，不在中国。",
+     "Xiànzài quánqiú měi tiān mǎimài rénmínbì de wàihuì jiāoyì chāoguò bāqiān yì měiyuán, kěshì dàyuē bǎi fēn zhī bāshí fāshēng zài jìngwài, bú zài Zhōngguó.",
+     "Hiện nay giao dịch ngoại hối mua bán nhân dân tệ trên toàn cầu mỗi ngày vượt 800 tỷ USD, nhưng khoảng 80% diễn ra ở nước ngoài, không phải ở Trung Quốc."
+    ]
+   },
+   {
+    "h": "III. A越…，B就越… — A càng…, B càng…",
+    "b": [
+     "Cách dùng:",
+     "Hai vế cùng tăng theo nhau; 就 đứng trước 越 thứ hai. Dùng để nói quan hệ nhân quả giữa hai xu hướng.",
+     "境外的银行越容易拿到人民币，用人民币做贸易融资就越方便。",
+     "Jìngwài de yínháng yuè róngyì ná dào rénmínbì, yòng rénmínbì zuò màoyì róngzī jiù yuè fāngbiàn.",
+     "Ngân hàng nước ngoài càng dễ có nhân dân tệ, thì tài trợ thương mại bằng nhân dân tệ càng thuận tiện."
+    ]
+   }
+  ],
+  "vocab": [
+   "行长",
+   "试点",
+   "允许",
+   "境外",
+   "境内",
+   "清算",
+   "外汇",
+   "全球",
+   "交易",
+   "美元",
+   "货币",
+   "开放"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "21财经（来源：中国人民银行）",
+    "author": "",
+    "title": "中国人民银行行长潘功胜在2026金融街论坛年会上的主题演讲",
+    "date": "2026-10-19",
+    "url": "https://m.21jingji.com/article/20261019/herald/f6fdd22779d764fdee7bf54ec7b19ac3.html",
+    "accessed": "2026-10-21"
+   },
+   {
+    "role": "secondary",
+    "outlet": "界面新闻",
+    "author": "",
+    "title": "潘功胜：试点进一步便利境外金融机构在境内外汇市场开展人民币购售业务",
+    "date": "2026-10-19",
+    "url": "https://www.jiemian.com/article/15207486.html",
+    "accessed": "2026-10-21"
+   },
+   {
+    "role": "secondary",
+    "outlet": "新浪新闻（转载界面）",
+    "author": "",
+    "title": "中国人民银行行长潘功胜在2026金融街论坛年会上的主题演讲",
+    "date": "2026-10-19",
+    "url": "https://k.sina.cn/article_6192937794_17120bb4202002viwc.html",
+    "accessed": "2026-10-21"
+   }
+  ]
+ }
+}

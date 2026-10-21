@@ -13,10 +13,12 @@ CHARS_EXT = """
 抵:để 押:áp 耗:hao 评:bình 央:ương 显:hiển
 董:đổng 损:tổn
 纺:phưởng 织:chức 账:trướng 币:tệ 登:đăng 浙:chiết 州:châu 县:huyện 确:xác
+汇:hối 允:doãn 潘:phan 坛:đàn
 """
 
 # Từ ghép có âm khác cách ghép từng chữ
 WORD_EXT = {
     '增长': 'tăng trưởng',      # 長 ở đây đọc "trưởng", không phải "trường"
     '央行': 'ương hàng',        # 行 = ngân hàng đọc "hàng", không phải "hành"
+    '行长': 'hàng trưởng',      # 行 = ngân hàng, 長 = người đứng đầu
 }
