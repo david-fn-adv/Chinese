@@ -1,0 +1,1960 @@
+{
+ "date": "2026-10-22",
+ "id": "N-20261022",
+ "draft": {
+  "title": "账面上的利润",
+  "vn": "Lợi nhuận trên sổ sách",
+  "en": "Profit on paper",
+  "paras": [
+   "10月20日晚上，中国移动公布了今年第三季度的财报。这个季度，公司的营收是2423亿元，同比下降3.4%；净利润是273亿元，同比下降12.2%。第二天，中国移动在A股的股价下降了5%多，一天少了一千多亿元的市值。",
+   "可是，只看这两个数字，很容易看错。财报里还有一个数字：扣除一次性的收入和损失以后，这个季度的净利润是287亿元，比去年同一个季度只少了0.2%，几乎没有变化。为什么这个数字比273亿元还高？据新浪科技的分析，主要是因为公司手里有一些股票和别的资产，这个季度价格波动，账面上出现了亏损。这样的亏损不是每年都有，跟打电话、上网这些核心业务关系不大。",
+   "当然，这不是说中国移动一点问题都没有。前三季度，公司的营收是7803亿元，同比下降1.8%；净利润是1062亿元，同比下降7.9%。打电话、上网这些老业务的收入在慢慢减少，公司把很多钱投进了算力这样的新业务，可是新业务要真正赚到钱，还需要时间。",
+   "对给企业贷款的银行来说，这件事也很有用。看一家企业的财报，不能只看账面上的利润。应该先把一次性的东西扣除，看核心业务到底赚了多少钱，现金流好不好，然后再判断这家企业还钱的能力。"
+  ],
+  "points": [
+   {
+    "h": "I. 同比下降X% — giảm X% so với cùng kỳ",
+    "b": [
+     "Cách dùng:",
+     "同比 + 增长/下降 + tỉ lệ: so với cùng kỳ năm trước. Báo cáo tài chính Trung Quốc gần như luôn viết số liệu theo mẫu này: chỉ tiêu + 是 + con số + ，同比 + 增长/下降 + %.",
+     "这个季度，公司的营收是2423亿元，同比下降3.4%；净利润是273亿元，同比下降12.2%。",
+     "Zhège jìdù, gōngsī de yíngshōu shì liǎngqiān sìbǎi èrshísān yì yuán, tóngbǐ xiàjiàng bǎi fēn zhī sān diǎn sì; jìnglìrùn shì èrbǎi qīshísān yì yuán, tóngbǐ xiàjiàng bǎi fēn zhī shí'èr diǎn èr.",
+     "Quý này, doanh thu của công ty là 242,3 tỷ tệ, giảm 3,4% so với cùng kỳ; lợi nhuận ròng là 27,3 tỷ tệ, giảm 12,2% so với cùng kỳ."
+    ]
+   },
+   {
+    "h": "II. 扣除A以后 — sau khi trừ A ra",
+    "b": [
+     "Cách dùng:",
+     "扣除 + thứ bị trừ + 以后，+ kết quả: dùng khi tính lại một con số sau khi loại bỏ một phần. Trong báo cáo tài chính, 扣除非经常性损益 (viết tắt 扣非) là lợi nhuận sau khi trừ các khoản bất thường, chỉ dùng một lần.",
+     "扣除一次性的收入和损失以后，这个季度的净利润是287亿元，比去年同一个季度只少了0.2%。",
+     "Kòuchú yícìxìng de shōurù hé sǔnshī yǐhòu, zhège jìdù de jìnglìrùn shì èrbǎi bāshíqī yì yuán, bǐ qùnián tóng yí ge jìdù zhǐ shǎo le bǎi fēn zhī líng diǎn èr.",
+     "Sau khi trừ các khoản thu và lỗ chỉ phát sinh một lần, lợi nhuận ròng quý này là 28,7 tỷ tệ, chỉ ít hơn cùng kỳ năm ngoái 0,2%."
+    ]
+   },
+   {
+    "h": "III. 不能只看A，应该先…，然后再… — không thể chỉ nhìn A, nên… trước, rồi mới…",
+    "b": [
+     "Cách dùng:",
+     "Mẫu câu khuyên cách làm theo thứ tự: 不能只看 phủ định cách nhìn phiến diện; 先…然后再… sắp xếp các bước.",
+     "看一家企业的财报，不能只看账面上的利润。应该先把一次性的东西扣除，看核心业务到底赚了多少钱，现金流好不好，然后再判断这家企业还钱的能力。",
+     "Kàn yì jiā qǐyè de cáibào, bù néng zhǐ kàn zhàngmiàn shang de lìrùn. Yīnggāi xiān bǎ yícìxìng de dōngxi kòuchú, kàn héxīn yèwù dàodǐ zhuàn le duōshao qián, xiànjīnliú hǎo bu hǎo, ránhòu zài pànduàn zhè jiā qǐyè huán qián de nénglì.",
+     "Xem báo cáo tài chính của một doanh nghiệp, không thể chỉ nhìn lợi nhuận trên sổ sách. Nên trừ những khoản một lần ra trước, xem mảng kinh doanh cốt lõi rốt cuộc kiếm được bao nhiêu, dòng tiền tốt hay không, rồi mới đánh giá khả năng trả nợ của doanh nghiệp."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "中国移动": {
+   "w": "中国移动",
+   "p": "Zhōngguó Yídòng",
+   "hv": "Trung Quốc Di Động",
+   "note": "China Mobile — nhà mạng viễn thông lớn nhất TQ, niêm yết cả A-share và Hồng Kông"
+  },
+  "新浪科技": {
+   "w": "新浪科技",
+   "p": "Xīnlàng Kējì",
+   "hv": "Tân Lãng Khoa Kỹ",
+   "note": "Sina Tech — chuyên trang công nghệ của Sina"
+  }
+ },
+ "dict": {
+  "财报": {
+   "w": "财报",
+   "p": "cáibào",
+   "hv": "tài báo",
+   "pos": "N",
+   "en": "financial report",
+   "vn": "báo cáo tài chính",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261022"
+   ]
+  },
+  "下降": {
+   "w": "下降",
+   "p": "xiàjiàng",
+   "hv": "hạ giáng",
+   "pos": "V",
+   "en": "to fall, to decline",
+   "vn": "giảm, đi xuống",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261022"
+   ]
+  },
+  "股票": {
+   "w": "股票",
+   "p": "gǔpiào",
+   "hv": "cổ phiếu",
+   "pos": "N",
+   "en": "share, stock",
+   "vn": "cổ phiếu",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261022"
+   ]
+  },
+  "扣除": {
+   "w": "扣除",
+   "p": "kòuchú",
+   "hv": "khấu trừ",
+   "pos": "V",
+   "en": "to deduct, to exclude",
+   "vn": "trừ ra, khấu trừ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261022"
+   ]
+  },
+  "一次性": {
+   "w": "一次性",
+   "p": "yícìxìng",
+   "hv": "nhất thứ tính",
+   "pos": "Adj",
+   "en": "one-off, one-time",
+   "vn": "một lần, bất thường",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261022"
+   ]
+  },
+  "账面": {
+   "w": "账面",
+   "p": "zhàngmiàn",
+   "hv": "trướng diện",
+   "pos": "N",
+   "en": "book (value), on paper",
+   "vn": "sổ sách, trên giấy tờ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261022"
+   ]
+  },
+  "波动": {
+   "w": "波动",
+   "p": "bōdòng",
+   "hv": "ba động",
+   "pos": "V/N",
+   "en": "to fluctuate; fluctuation",
+   "vn": "biến động, dao động",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261022"
+   ]
+  },
+  "核心": {
+   "w": "核心",
+   "p": "héxīn",
+   "hv": "hạch tâm",
+   "pos": "N",
+   "en": "core",
+   "vn": "cốt lõi",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261022"
+   ]
+  },
+  "现金流": {
+   "w": "现金流",
+   "p": "xiànjīnliú",
+   "hv": "hiện kim lưu",
+   "pos": "N",
+   "en": "cash flow",
+   "vn": "dòng tiền",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261022"
+   ]
+  },
+  "损失": {
+   "w": "损失",
+   "p": "sǔnshī",
+   "hv": "tổn thất",
+   "pos": "N/V",
+   "en": "loss; to lose",
+   "vn": "tổn thất, khoản lỗ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261022"
+   ]
+  },
+  "判断": {
+   "w": "判断",
+   "p": "pànduàn",
+   "hv": "phán đoán",
+   "pos": "V/N",
+   "en": "to judge, to assess; judgement",
+   "vn": "đánh giá, phán đoán",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261022"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "南方都市报（搜狐转载）",
+   "author": "",
+   "title": "中国移动三季报：单季度归母净利润同比下降12.2%",
+   "date": "2026-10-21",
+   "url": "https://www.sohu.com/a/1090698337_161795",
+   "accessed": "2026-10-22"
+  },
+  {
+   "role": "secondary",
+   "outlet": "新浪科技",
+   "author": "",
+   "title": "单日市值蒸发超千亿：中国移动被“错杀”了吗？",
+   "date": "2026-10-21",
+   "url": "https://finance.sina.com.cn/tech/roll/2026-10-21/doc-inivzcqh8113928.shtml",
+   "accessed": "2026-10-22"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261022",
+  "book": 4,
+  "no": 10,
+  "date": "2026-10-22",
+  "seq": 52,
+  "title": "账面上的利润",
+  "py": "zhàngmiànshàngdelìrùn",
+  "en": "Profit on paper",
+  "vn": "Lợi nhuận trên sổ sách",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "20",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "晚上",
+        "p": "wǎnshàng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "中国移动",
+        "p": "Zhōngguó Yídòng",
+        "k": "name"
+       },
+       {
+        "w": "公布",
+        "p": "gōngbù",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "财报",
+        "p": "cáibào",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "营收",
+        "p": "yíngshōu",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "2423",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "同比",
+        "p": "tóngbǐ",
+        "k": "extra"
+       },
+       {
+        "w": "下降",
+        "p": "xiàjiàng",
+        "k": "core"
+       },
+       {
+        "w": "3",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "4%",
+        "k": "plain"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "净利润",
+        "p": "jìnglìrùn",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "273",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "同比",
+        "p": "tóngbǐ",
+        "k": "extra"
+       },
+       {
+        "w": "下降",
+        "p": "xiàjiàng",
+        "k": "core"
+       },
+       {
+        "w": "12",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "2%",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "二",
+        "p": "èr",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "中国移动",
+        "p": "Zhōngguó Yídòng",
+        "k": "name"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "A",
+        "k": "plain"
+       },
+       {
+        "w": "股",
+        "p": "gǔ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "股价",
+        "p": "gǔjià",
+        "k": "extra"
+       },
+       {
+        "w": "下降",
+        "p": "xiàjiàng",
+        "k": "core"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "5%",
+        "k": "plain"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "千",
+        "p": "qiān",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "市值",
+        "p": "shìzhí",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "两",
+        "p": "liǎng",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "数字",
+        "p": "shùzì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "容易",
+        "p": "róngyì",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "错",
+        "p": "cuò",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "财报",
+        "p": "cáibào",
+        "k": "core"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "数字",
+        "p": "shùzì",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "扣除",
+        "p": "kòuchú",
+        "k": "core"
+       },
+       {
+        "w": "一次性",
+        "p": "yícìxìng",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "收入",
+        "p": "shōurù",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "损失",
+        "p": "sǔnshī",
+        "k": "core"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "净利润",
+        "p": "jìnglìrùn",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "287",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "去年",
+        "p": "qùnián",
+        "k": "extra"
+       },
+       {
+        "w": "同",
+        "p": "tóng",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "extra"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "0",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "2%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "几乎",
+        "p": "jīhū",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "变化",
+        "p": "biànhuà",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "为什么",
+        "p": "wèishénme",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "数字",
+        "p": "shùzì",
+        "k": "extra"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "273",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "高",
+        "p": "gāo",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "新浪科技",
+        "p": "Xīnlàng Kējì",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "分析",
+        "p": "fēnxī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "主要",
+        "p": "zhǔyào",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "因为",
+        "p": "yīnwèi",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "手",
+        "p": "shǒu",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "一些",
+        "p": "yìxiē",
+        "k": "extra"
+       },
+       {
+        "w": "股票",
+        "p": "gǔpiào",
+        "k": "core"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "别的",
+        "p": "biéde",
+        "k": "extra"
+       },
+       {
+        "w": "资产",
+        "p": "zīchǎn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "extra"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "波动",
+        "p": "bōdòng",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "账面",
+        "p": "zhàngmiàn",
+        "k": "core"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "出现",
+        "p": "chūxiàn",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "亏损",
+        "p": "kuīsǔn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这样",
+        "p": "zhè yàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "亏损",
+        "p": "kuīsǔn",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "每",
+        "p": "měi",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "跟",
+        "p": "gēn",
+        "k": "extra"
+       },
+       {
+        "w": "打电话",
+        "p": "dǎ diànhuà",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "上网",
+        "p": "shàngwǎng",
+        "k": "extra"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "核心",
+        "p": "héxīn",
+        "k": "core"
+       },
+       {
+        "w": "业务",
+        "p": "yèwù",
+        "k": "extra"
+       },
+       {
+        "w": "关系",
+        "p": "guānxi",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "当然",
+        "p": "dāngrán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "中国移动",
+        "p": "Zhōngguó Yídòng",
+        "k": "name"
+       },
+       {
+        "w": "一点",
+        "p": "yīdiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "问题",
+        "p": "wèntí",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "前",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "营收",
+        "p": "yíngshōu",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "7803",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "同比",
+        "p": "tóngbǐ",
+        "k": "extra"
+       },
+       {
+        "w": "下降",
+        "p": "xiàjiàng",
+        "k": "core"
+       },
+       {
+        "w": "1",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "8%",
+        "k": "plain"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "净利润",
+        "p": "jìnglìrùn",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "1062",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "同比",
+        "p": "tóngbǐ",
+        "k": "extra"
+       },
+       {
+        "w": "下降",
+        "p": "xiàjiàng",
+        "k": "core"
+       },
+       {
+        "w": "7",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "9%",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "打电话",
+        "p": "dǎ diànhuà",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "上网",
+        "p": "shàngwǎng",
+        "k": "extra"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "老",
+        "p": "lǎo",
+        "k": "extra"
+       },
+       {
+        "w": "业务",
+        "p": "yèwù",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "收入",
+        "p": "shōurù",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "慢",
+        "p": "màn",
+        "k": "extra"
+       },
+       {
+        "w": "慢",
+        "p": "màn",
+        "k": "extra"
+       },
+       {
+        "w": "减少",
+        "p": "jiǎnshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "投",
+        "p": "tóu",
+        "k": "extra"
+       },
+       {
+        "w": "进",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "extra"
+       },
+       {
+        "w": "这样",
+        "p": "zhè yàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "业务",
+        "p": "yèwù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "业务",
+        "p": "yèwù",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "真正",
+        "p": "zhēnzhèng",
+        "k": "extra"
+       },
+       {
+        "w": "赚",
+        "p": "zhuàn",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "需要",
+        "p": "xūyào",
+        "k": "extra"
+       },
+       {
+        "w": "时间",
+        "p": "shíjiān",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "件",
+        "p": "jiàn",
+        "k": "extra"
+       },
+       {
+        "w": "事",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "财报",
+        "p": "cáibào",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "账面",
+        "p": "zhàngmiàn",
+        "k": "core"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "利润",
+        "p": "lìrùn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "应该",
+        "p": "yīnggāi",
+        "k": "extra"
+       },
+       {
+        "w": "先",
+        "p": "xiān",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "一次性",
+        "p": "yícìxìng",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "东西",
+        "p": "dōngxi",
+        "k": "extra"
+       },
+       {
+        "w": "扣除",
+        "p": "kòuchú",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "核心",
+        "p": "héxīn",
+        "k": "core"
+       },
+       {
+        "w": "业务",
+        "p": "yèwù",
+        "k": "extra"
+       },
+       {
+        "w": "到底",
+        "p": "dàodǐ",
+        "k": "extra"
+       },
+       {
+        "w": "赚",
+        "p": "zhuàn",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "现金流",
+        "p": "xiànjīnliú",
+        "k": "core"
+       },
+       {
+        "w": "好不好",
+        "p": "hǎobùhǎo",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "然后",
+        "p": "ránhòu",
+        "k": "extra"
+       },
+       {
+        "w": "再",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "判断",
+        "p": "pànduàn",
+        "k": "core"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "能力",
+        "p": "nénglì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 同比下降X% — giảm X% so với cùng kỳ",
+    "b": [
+     "Cách dùng:",
+     "同比 + 增长/下降 + tỉ lệ: so với cùng kỳ năm trước. Báo cáo tài chính Trung Quốc gần như luôn viết số liệu theo mẫu này: chỉ tiêu + 是 + con số + ，同比 + 增长/下降 + %.",
+     "这个季度，公司的营收是2423亿元，同比下降3.4%；净利润是273亿元，同比下降12.2%。",
+     "Zhège jìdù, gōngsī de yíngshōu shì liǎngqiān sìbǎi èrshísān yì yuán, tóngbǐ xiàjiàng bǎi fēn zhī sān diǎn sì; jìnglìrùn shì èrbǎi qīshísān yì yuán, tóngbǐ xiàjiàng bǎi fēn zhī shí'èr diǎn èr.",
+     "Quý này, doanh thu của công ty là 242,3 tỷ tệ, giảm 3,4% so với cùng kỳ; lợi nhuận ròng là 27,3 tỷ tệ, giảm 12,2% so với cùng kỳ."
+    ]
+   },
+   {
+    "h": "II. 扣除A以后 — sau khi trừ A ra",
+    "b": [
+     "Cách dùng:",
+     "扣除 + thứ bị trừ + 以后，+ kết quả: dùng khi tính lại một con số sau khi loại bỏ một phần. Trong báo cáo tài chính, 扣除非经常性损益 (viết tắt 扣非) là lợi nhuận sau khi trừ các khoản bất thường, chỉ dùng một lần.",
+     "扣除一次性的收入和损失以后，这个季度的净利润是287亿元，比去年同一个季度只少了0.2%。",
+     "Kòuchú yícìxìng de shōurù hé sǔnshī yǐhòu, zhège jìdù de jìnglìrùn shì èrbǎi bāshíqī yì yuán, bǐ qùnián tóng yí ge jìdù zhǐ shǎo le bǎi fēn zhī líng diǎn èr.",
+     "Sau khi trừ các khoản thu và lỗ chỉ phát sinh một lần, lợi nhuận ròng quý này là 28,7 tỷ tệ, chỉ ít hơn cùng kỳ năm ngoái 0,2%."
+    ]
+   },
+   {
+    "h": "III. 不能只看A，应该先…，然后再… — không thể chỉ nhìn A, nên… trước, rồi mới…",
+    "b": [
+     "Cách dùng:",
+     "Mẫu câu khuyên cách làm theo thứ tự: 不能只看 phủ định cách nhìn phiến diện; 先…然后再… sắp xếp các bước.",
+     "看一家企业的财报，不能只看账面上的利润。应该先把一次性的东西扣除，看核心业务到底赚了多少钱，现金流好不好，然后再判断这家企业还钱的能力。",
+     "Kàn yì jiā qǐyè de cáibào, bù néng zhǐ kàn zhàngmiàn shang de lìrùn. Yīnggāi xiān bǎ yícìxìng de dōngxi kòuchú, kàn héxīn yèwù dàodǐ zhuàn le duōshao qián, xiànjīnliú hǎo bu hǎo, ránhòu zài pànduàn zhè jiā qǐyè huán qián de nénglì.",
+     "Xem báo cáo tài chính của một doanh nghiệp, không thể chỉ nhìn lợi nhuận trên sổ sách. Nên trừ những khoản một lần ra trước, xem mảng kinh doanh cốt lõi rốt cuộc kiếm được bao nhiêu, dòng tiền tốt hay không, rồi mới đánh giá khả năng trả nợ của doanh nghiệp."
+    ]
+   }
+  ],
+  "vocab": [
+   "财报",
+   "下降",
+   "股票",
+   "扣除",
+   "一次性",
+   "账面",
+   "波动",
+   "核心",
+   "现金流",
+   "损失",
+   "判断"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "南方都市报（搜狐转载）",
+    "author": "",
+    "title": "中国移动三季报：单季度归母净利润同比下降12.2%",
+    "date": "2026-10-21",
+    "url": "https://www.sohu.com/a/1090698337_161795",
+    "accessed": "2026-10-22"
+   },
+   {
+    "role": "secondary",
+    "outlet": "新浪科技",
+    "author": "",
+    "title": "单日市值蒸发超千亿：中国移动被“错杀”了吗？",
+    "date": "2026-10-21",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-10-21/doc-inivzcqh8113928.shtml",
+    "accessed": "2026-10-22"
+   }
+  ]
+ }
+}
