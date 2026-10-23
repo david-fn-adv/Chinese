@@ -1,0 +1,2006 @@
+{
+ "date": "2026-10-23",
+ "id": "N-20261023",
+ "draft": {
+  "title": "不等你开口的助理",
+  "vn": "Trợ lý không chờ bạn mở lời",
+  "en": "The assistant that doesn't wait for you to ask",
+  "paras": [
+   "10月22日，据新京报等媒体的消息，一家叫Today AI的中国公司完成了超过2亿美元的融资。投资方很多，有IDG资本、腾讯、五源资本、蚂蚁集团、红杉中国、传音控股等。这家公司今年3月才在上海成立，它的产品9月才在中国上线，到现在还不到一个月。",
+   "公司的创始人叫齐俊元，是一个90后。据媒体的报道，他上大学的时候就开始创业，做了一个帮助团队一起工作的软件Teambition，后来卖给了阿里巴巴。到了字节跳动以后，他负责过飞书的产品，也负责过豆包在电脑上的产品。去年年底，他离开字节跳动，又开始了自己的创业。",
+   "Today AI做的是“个人AI助理”。现在很多AI产品是你问一句，它回一句；你不问，它就什么都不做。Today AI想做的不一样：用户同意以后，它可以打开用户的邮件和开会用的软件，知道用户的习惯和要做的事，不等用户开口，就主动提醒，甚至主动把事情做完。最基础的服务是免费的。",
+   "产品上线不到一个月就拿到这么多钱，说明投资方看的不只是产品，更是团队和方向。可是，主动的助理要先拿到用户的数据。用户愿不愿意把自己的邮件交给一家新公司，还是一个问题。对这家公司来说，钱已经有了，真正难的是让用户放心。"
+  ],
+  "points": [
+   {
+    "h": "I. 据X的消息/报道 — theo tin/bài của X",
+    "b": [
+     "Cách dùng:",
+     "据 + nguồn + 的消息/报道/分析，+ nội dung: dẫn nguồn tin. Báo chí Trung Quốc dùng mẫu này khi thông tin chưa phải công bố chính thức của chính công ty, hoặc chỉ một nguồn đưa.",
+     "据媒体的报道，他上大学的时候就开始创业，做了一个帮助团队一起工作的软件Teambition，后来卖给了阿里巴巴。",
+     "Jù méitǐ de bàodào, tā shàng dàxué de shíhou jiù kāishǐ chuàngyè, zuò le yí ge bāngzhù tuánduì yìqǐ gōngzuò de ruǎnjiàn Teambition, hòulái mài gěi le Ālǐbābā.",
+     "Theo bài báo của truyền thông, anh ấy bắt đầu khởi nghiệp từ khi còn học đại học, làm một phần mềm giúp các nhóm cùng làm việc là Teambition, sau đó bán cho Alibaba."
+    ]
+   },
+   {
+    "h": "II. 不只是A，更是B — không chỉ là A, mà hơn thế là B",
+    "b": [
+     "Cách dùng:",
+     "不只是 + A，更是 + B: nhấn mạnh B quan trọng hơn A. Hay gặp khi bình luận lý do nhà đầu tư rót vốn.",
+     "产品上线不到一个月就拿到这么多钱，说明投资方看的不只是产品，更是团队和方向。",
+     "Chǎnpǐn shàngxiàn bú dào yí ge yuè jiù ná dào zhème duō qián, shuōmíng tóuzīfāng kàn de bù zhǐ shì chǎnpǐn, gèng shì tuánduì hé fāngxiàng.",
+     "Sản phẩm ra mắt chưa tới một tháng đã nhận được nhiều tiền như vậy, cho thấy bên đầu tư nhìn vào không chỉ sản phẩm, mà hơn thế là đội ngũ và hướng đi."
+    ]
+   },
+   {
+    "h": "III. 不等A，就B — chưa đợi A, đã B",
+    "b": [
+     "Cách dùng:",
+     "不等 + sự việc，就 + hành động: hành động xảy ra trước khi điều kiện kia kịp đến. Dùng để nói về sự chủ động, đi trước một bước.",
+     "不等用户开口，就主动提醒，甚至主动把事情做完。",
+     "Bù děng yònghù kāikǒu, jiù zhǔdòng tíxǐng, shènzhì zhǔdòng bǎ shìqing zuò wán.",
+     "Không đợi người dùng mở lời đã chủ động nhắc, thậm chí chủ động làm xong việc."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "新京报": {
+   "w": "新京报",
+   "p": "Xīn Jīng Bào",
+   "hv": "Tân Kinh Báo",
+   "note": "Beijing News — nhật báo Bắc Kinh, chuyên trang tài chính 贝壳财经"
+  },
+  "五源资本": {
+   "w": "五源资本",
+   "p": "Wǔyuán Zīběn",
+   "hv": "Ngũ Nguyên Tư Bản",
+   "note": "5Y Capital — quỹ đầu tư mạo hiểm TQ"
+  },
+  "蚂蚁集团": {
+   "w": "蚂蚁集团",
+   "p": "Mǎyǐ Jítuán",
+   "hv": "Mã Nghĩ Tập Đoàn",
+   "note": "Ant Group — công ty fintech của hệ Alibaba (Alipay)"
+  },
+  "红杉中国": {
+   "w": "红杉中国",
+   "p": "Hóngshān Zhōngguó",
+   "hv": "Hồng Sam Trung Quốc",
+   "note": "HongShan (Sequoia China) — quỹ đầu tư mạo hiểm"
+  },
+  "传音控股": {
+   "w": "传音控股",
+   "p": "Chuányīn Kònggǔ",
+   "hv": "Truyền Âm Khống Cổ",
+   "note": "Transsion — hãng điện thoại TQ, mạnh ở châu Phi"
+  },
+  "齐俊元": {
+   "w": "齐俊元",
+   "p": "Qí Jùnyuán",
+   "hv": "Tề Tuấn Nguyên",
+   "note": "nhà sáng lập Today AI, từng làm Teambition, Phi Thư, Đậu Bao"
+  },
+  "字节跳动": {
+   "w": "字节跳动",
+   "p": "Zìjié Tiàodòng",
+   "hv": "Tự Tiết Khiêu Động",
+   "note": "ByteDance — công ty mẹ của TikTok/抖音"
+  },
+  "飞书": {
+   "w": "飞书",
+   "p": "Fēishū",
+   "hv": "Phi Thư",
+   "note": "Feishu/Lark — bộ công cụ làm việc của ByteDance"
+  },
+  "豆包": {
+   "w": "豆包",
+   "p": "Dòubāo",
+   "hv": "Đậu Bao",
+   "note": "Doubao — trợ lý AI/chatbot của ByteDance"
+  }
+ },
+ "dict": {
+  "创始人": {
+   "w": "创始人",
+   "p": "chuàngshǐrén",
+   "hv": "sáng thủy nhân",
+   "pos": "N",
+   "en": "founder",
+   "vn": "người sáng lập",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261023"
+   ]
+  },
+  "创业": {
+   "w": "创业",
+   "p": "chuàngyè",
+   "hv": "sáng nghiệp",
+   "pos": "V",
+   "en": "to start a business",
+   "vn": "khởi nghiệp",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261023"
+   ]
+  },
+  "团队": {
+   "w": "团队",
+   "p": "tuánduì",
+   "hv": "đoàn đội",
+   "pos": "N",
+   "en": "team",
+   "vn": "đội ngũ, nhóm",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261023"
+   ]
+  },
+  "软件": {
+   "w": "软件",
+   "p": "ruǎnjiàn",
+   "hv": "nhuyễn kiện",
+   "pos": "N",
+   "en": "software",
+   "vn": "phần mềm",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261023"
+   ]
+  },
+  "负责": {
+   "w": "负责",
+   "p": "fùzé",
+   "hv": "phụ trách",
+   "pos": "V",
+   "en": "to be in charge of",
+   "vn": "phụ trách, chịu trách nhiệm",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261023"
+   ]
+  },
+  "助理": {
+   "w": "助理",
+   "p": "zhùlǐ",
+   "hv": "trợ lý",
+   "pos": "N",
+   "en": "assistant",
+   "vn": "trợ lý",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261023"
+   ]
+  },
+  "主动": {
+   "w": "主动",
+   "p": "zhǔdòng",
+   "hv": "chủ động",
+   "pos": "Adj",
+   "en": "proactive, on one's own initiative",
+   "vn": "chủ động",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261023"
+   ]
+  },
+  "提醒": {
+   "w": "提醒",
+   "p": "tíxǐng",
+   "hv": "đề tỉnh",
+   "pos": "V",
+   "en": "to remind",
+   "vn": "nhắc nhở",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261023"
+   ]
+  },
+  "免费": {
+   "w": "免费",
+   "p": "miǎnfèi",
+   "hv": "miễn phí",
+   "pos": "Adj",
+   "en": "free of charge",
+   "vn": "miễn phí",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261023"
+   ]
+  },
+  "方向": {
+   "w": "方向",
+   "p": "fāngxiàng",
+   "hv": "phương hướng",
+   "pos": "N",
+   "en": "direction",
+   "vn": "hướng đi, phương hướng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261023"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "新京报贝壳财经（21经济网转载）",
+   "author": "罗亦丹",
+   "title": "AI公司“Today AI”完成超2亿美元融资",
+   "date": "2026-10-22",
+   "url": "https://www.21jingji.com/article/20261022/herald/61b4db3e19b331d0b329ec3066fb3885.html",
+   "accessed": "2026-10-23"
+  },
+  {
+   "role": "secondary",
+   "outlet": "36氪（新浪转载）",
+   "author": "",
+   "title": "前豆包负责人新 AI 上线就融 13 亿，主打主动式 Agent",
+   "date": "2026-10-22",
+   "url": "https://www.sina.cn/weibo/detail/5356809453306493.html",
+   "accessed": "2026-10-23"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261023",
+  "book": 4,
+  "no": 11,
+  "date": "2026-10-23",
+  "seq": 53,
+  "title": "不等你开口的助理",
+  "py": "bùděngnǐkāikǒudezhùlǐ",
+  "en": "The assistant that doesn't wait for you to ask",
+  "vn": "Trợ lý không chờ bạn mở lời",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "22",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "新京报",
+        "p": "Xīn Jīng Bào",
+        "k": "name"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "媒体",
+        "p": "méitǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "消息",
+        "p": "xiāoxí",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "叫",
+        "p": "jiào",
+        "k": "extra"
+       },
+       {
+        "w": "Today AI",
+        "k": "plain"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "完",
+        "p": "wán",
+        "k": "extra"
+       },
+       {
+        "w": "成",
+        "p": "chéng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "超过",
+        "p": "chāoguò",
+        "k": "extra"
+       },
+       {
+        "w": "2",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "融资",
+        "p": "róngzī",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "投资",
+        "p": "tóuzī",
+        "k": "extra"
+       },
+       {
+        "w": "方",
+        "p": "fāng",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "IDG",
+        "k": "plain"
+       },
+       {
+        "w": "资本",
+        "p": "zīběn",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "腾讯",
+        "p": "Téngxùn",
+        "k": "name"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "五源资本",
+        "p": "Wǔyuán Zīběn",
+        "k": "name"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "蚂蚁集团",
+        "p": "Mǎyǐ Jítuán",
+        "k": "name"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "红杉中国",
+        "p": "Hóngshān Zhōngguó",
+        "k": "name"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "传音控股",
+        "p": "Chuányīn Kònggǔ",
+        "k": "name"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "3",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "才",
+        "p": "cái",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "上海",
+        "p": "Shànghǎi",
+        "k": "extra"
+       },
+       {
+        "w": "成立",
+        "p": "chénglì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "产品",
+        "p": "chǎnpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "9",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "才",
+        "p": "cái",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "上线",
+        "p": "shàngxiàn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "创始人",
+        "p": "chuàngshǐrén",
+        "k": "core"
+       },
+       {
+        "w": "叫",
+        "p": "jiào",
+        "k": "extra"
+       },
+       {
+        "w": "齐俊元",
+        "p": "Qí Jùnyuán",
+        "k": "name"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "90",
+        "k": "plain"
+       },
+       {
+        "w": "后",
+        "p": "hòu",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "媒体",
+        "p": "méitǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "他",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "大学",
+        "p": "dàxué",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "时候",
+        "p": "shíhòu",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "开始",
+        "p": "kāishǐ",
+        "k": "extra"
+       },
+       {
+        "w": "创业",
+        "p": "chuàngyè",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "帮助",
+        "p": "bāngzhù",
+        "k": "extra"
+       },
+       {
+        "w": "团队",
+        "p": "tuánduì",
+        "k": "core"
+       },
+       {
+        "w": "一起",
+        "p": "yìqǐ",
+        "k": "extra"
+       },
+       {
+        "w": "工作",
+        "p": "gōngzuò",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "软件",
+        "p": "ruǎnjiàn",
+        "k": "core"
+       },
+       {
+        "w": "Teambition",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "后来",
+        "p": "hòulái",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "阿里巴巴",
+        "p": "Ālǐbābā",
+        "k": "name"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "字节跳动",
+        "p": "Zìjié Tiàodòng",
+        "k": "name"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "他",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "负责",
+        "p": "fùzé",
+        "k": "core"
+       },
+       {
+        "w": "过",
+        "p": "guò",
+        "k": "extra"
+       },
+       {
+        "w": "飞书",
+        "p": "Fēishū",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "产品",
+        "p": "chǎnpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "负责",
+        "p": "fùzé",
+        "k": "core"
+       },
+       {
+        "w": "过",
+        "p": "guò",
+        "k": "extra"
+       },
+       {
+        "w": "豆包",
+        "p": "Dòubāo",
+        "k": "name"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "电",
+        "p": "diàn",
+        "k": "extra"
+       },
+       {
+        "w": "脑",
+        "p": "nǎo",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "产品",
+        "p": "chǎnpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "去年",
+        "p": "qùnián",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "底",
+        "p": "dǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "他",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "离开",
+        "p": "líkāi",
+        "k": "extra"
+       },
+       {
+        "w": "字节跳动",
+        "p": "Zìjié Tiàodòng",
+        "k": "name"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "又",
+        "p": "yòu",
+        "k": "extra"
+       },
+       {
+        "w": "开始",
+        "p": "kāishǐ",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "创业",
+        "p": "chuàngyè",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "Today AI",
+        "k": "plain"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "助理",
+        "p": "zhùlǐ",
+        "k": "core"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "产品",
+        "p": "chǎnpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "你",
+        "p": "nǐ",
+        "k": "extra"
+       },
+       {
+        "w": "问",
+        "p": "wèn",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "句",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "回",
+        "p": "huí",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "句",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "你",
+        "p": "nǐ",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "问",
+        "p": "wèn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "什么",
+        "p": "shénme",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "Today AI",
+        "k": "plain"
+       },
+       {
+        "w": "想",
+        "p": "xiǎng",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "一样",
+        "p": "yíyàng",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "用户",
+        "p": "yònghù",
+        "k": "extra"
+       },
+       {
+        "w": "同意",
+        "p": "tóngyì",
+        "k": "extra"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "可以",
+        "p": "kěyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "打",
+        "p": "dǎ",
+        "k": "extra"
+       },
+       {
+        "w": "开",
+        "p": "kāi",
+        "k": "extra"
+       },
+       {
+        "w": "用户",
+        "p": "yònghù",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "邮件",
+        "p": "yóujiàn",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "开",
+        "p": "kāi",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "软件",
+        "p": "ruǎnjiàn",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "知道",
+        "p": "zhīdào",
+        "k": "extra"
+       },
+       {
+        "w": "用户",
+        "p": "yònghù",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "习惯",
+        "p": "xíguàn",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "事",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "用户",
+        "p": "yònghù",
+        "k": "extra"
+       },
+       {
+        "w": "开",
+        "p": "kāi",
+        "k": "extra"
+       },
+       {
+        "w": "口",
+        "p": "kǒu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "主动",
+        "p": "zhǔdòng",
+        "k": "core"
+       },
+       {
+        "w": "提醒",
+        "p": "tíxǐng",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "甚至",
+        "p": "shènzhì",
+        "k": "extra"
+       },
+       {
+        "w": "主动",
+        "p": "zhǔdòng",
+        "k": "core"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "事情",
+        "p": "shìqíng",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "完",
+        "p": "wán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "基础",
+        "p": "jīchǔ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "服务",
+        "p": "fúwù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "免费",
+        "p": "miǎnfèi",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "产品",
+        "p": "chǎnpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "上线",
+        "p": "shàngxiàn",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "这么",
+        "p": "zhème",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "说明",
+        "p": "shuōmíng",
+        "k": "extra"
+       },
+       {
+        "w": "投资",
+        "p": "tóuzī",
+        "k": "extra"
+       },
+       {
+        "w": "方",
+        "p": "fāng",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "产品",
+        "p": "chǎnpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "团队",
+        "p": "tuánduì",
+        "k": "core"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "方向",
+        "p": "fāngxiàng",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "主动",
+        "p": "zhǔdòng",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "助理",
+        "p": "zhùlǐ",
+        "k": "core"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "先",
+        "p": "xiān",
+        "k": "extra"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "用户",
+        "p": "yònghù",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "用户",
+        "p": "yònghù",
+        "k": "extra"
+       },
+       {
+        "w": "愿",
+        "p": "yuàn",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "愿意",
+        "p": "yuànyì",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "邮件",
+        "p": "yóujiàn",
+        "k": "extra"
+       },
+       {
+        "w": "交",
+        "p": "jiāo",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "还是",
+        "p": "háishì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "问题",
+        "p": "wèntí",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "真正",
+        "p": "zhēnzhèng",
+        "k": "extra"
+       },
+       {
+        "w": "难",
+        "p": "nán",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "用户",
+        "p": "yònghù",
+        "k": "extra"
+       },
+       {
+        "w": "放心",
+        "p": "fàngxīn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 据X的消息/报道 — theo tin/bài của X",
+    "b": [
+     "Cách dùng:",
+     "据 + nguồn + 的消息/报道/分析，+ nội dung: dẫn nguồn tin. Báo chí Trung Quốc dùng mẫu này khi thông tin chưa phải công bố chính thức của chính công ty, hoặc chỉ một nguồn đưa.",
+     "据媒体的报道，他上大学的时候就开始创业，做了一个帮助团队一起工作的软件Teambition，后来卖给了阿里巴巴。",
+     "Jù méitǐ de bàodào, tā shàng dàxué de shíhou jiù kāishǐ chuàngyè, zuò le yí ge bāngzhù tuánduì yìqǐ gōngzuò de ruǎnjiàn Teambition, hòulái mài gěi le Ālǐbābā.",
+     "Theo bài báo của truyền thông, anh ấy bắt đầu khởi nghiệp từ khi còn học đại học, làm một phần mềm giúp các nhóm cùng làm việc là Teambition, sau đó bán cho Alibaba."
+    ]
+   },
+   {
+    "h": "II. 不只是A，更是B — không chỉ là A, mà hơn thế là B",
+    "b": [
+     "Cách dùng:",
+     "不只是 + A，更是 + B: nhấn mạnh B quan trọng hơn A. Hay gặp khi bình luận lý do nhà đầu tư rót vốn.",
+     "产品上线不到一个月就拿到这么多钱，说明投资方看的不只是产品，更是团队和方向。",
+     "Chǎnpǐn shàngxiàn bú dào yí ge yuè jiù ná dào zhème duō qián, shuōmíng tóuzīfāng kàn de bù zhǐ shì chǎnpǐn, gèng shì tuánduì hé fāngxiàng.",
+     "Sản phẩm ra mắt chưa tới một tháng đã nhận được nhiều tiền như vậy, cho thấy bên đầu tư nhìn vào không chỉ sản phẩm, mà hơn thế là đội ngũ và hướng đi."
+    ]
+   },
+   {
+    "h": "III. 不等A，就B — chưa đợi A, đã B",
+    "b": [
+     "Cách dùng:",
+     "不等 + sự việc，就 + hành động: hành động xảy ra trước khi điều kiện kia kịp đến. Dùng để nói về sự chủ động, đi trước một bước.",
+     "不等用户开口，就主动提醒，甚至主动把事情做完。",
+     "Bù děng yònghù kāikǒu, jiù zhǔdòng tíxǐng, shènzhì zhǔdòng bǎ shìqing zuò wán.",
+     "Không đợi người dùng mở lời đã chủ động nhắc, thậm chí chủ động làm xong việc."
+    ]
+   }
+  ],
+  "vocab": [
+   "创始人",
+   "创业",
+   "团队",
+   "软件",
+   "负责",
+   "助理",
+   "主动",
+   "提醒",
+   "免费",
+   "方向"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "新京报贝壳财经（21经济网转载）",
+    "author": "罗亦丹",
+    "title": "AI公司“Today AI”完成超2亿美元融资",
+    "date": "2026-10-22",
+    "url": "https://www.21jingji.com/article/20261022/herald/61b4db3e19b331d0b329ec3066fb3885.html",
+    "accessed": "2026-10-23"
+   },
+   {
+    "role": "secondary",
+    "outlet": "36氪（新浪转载）",
+    "author": "",
+    "title": "前豆包负责人新 AI 上线就融 13 亿，主打主动式 Agent",
+    "date": "2026-10-22",
+    "url": "https://www.sina.cn/weibo/detail/5356809453306493.html",
+    "accessed": "2026-10-23"
+   }
+  ]
+ }
+}

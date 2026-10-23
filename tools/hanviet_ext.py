@@ -15,6 +15,7 @@ CHARS_EXT = """
 纺:phưởng 织:chức 账:trướng 币:tệ 登:đăng 浙:chiết 州:châu 县:huyện 确:xác
 汇:hối 允:doãn 潘:phan 坛:đàn
 降:giáng 判:phán
+软:nhuyễn 盘:bàn 醒:tỉnh
 """
 
 # Từ ghép có âm khác cách ghép từng chữ
