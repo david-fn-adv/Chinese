@@ -1,0 +1,2035 @@
+{
+ "date": "2026-10-25",
+ "id": "N-20261025",
+ "draft": {
+  "title": "人民币更好用了",
+  "vn": "Đồng nhân dân tệ dễ dùng hơn rồi",
+  "en": "The renminbi gets easier to use",
+  "paras": [
+   "10月23日，人民银行深圳市分行开了一个发布会。据介绍，今年1到9月，深圳的跨境人民币结算规模是5.9万亿元，同比增长36.9%，在全国是第三。这说明，越来越多的深圳企业跟外国公司做生意时，选择用人民币收钱和付钱。",
+   "增长最快的是货物贸易。前三个季度，深圳的货物贸易里用人民币结算的有13450亿元，同比增长56.1%。在货物贸易的全部结算中，人民币的比重提高了近5个百分点，达到31.5%。",
+   "企业为什么愿意用人民币？一个原因是汇率。用美元计价，企业要担心汇率波动带来的损失；用人民币计价，这个风险就小多了。另一个原因是成本。现在人民币的利率比较低，借人民币比借外币便宜。到9月底，深圳的银行在境外的人民币贷款余额是4142亿元，占全部境外贷款的近七成。",
+   "据e公司报道，有一家出海企业在巴西卖货，客户付的是当地的钱，在当地借钱利息很高。深圳的一家银行跟中国信保一起，用人民币直接买断了这家企业在巴西的应收账款。1到9月，这样的人民币融资一共为企业节省了约2亿元成本。招商银行深圳分行还借人民币给企业在海外的上下游客户：出口用人民币计价，对方借人民币买货，卖了货再还钱。对中小企业来说，用什么钱做生意，跟拿到订单一样重要。"
+  ],
+  "points": [
+   {
+    "h": "I. 增长最快的是A — cái tăng nhanh nhất là A",
+    "b": [
+     "Cách dùng:",
+     "Tính từ/động từ + 最 + 的 + 是 + A: đưa phần nổi bật nhất lên đầu câu, rồi mới nói đó là gì. Báo kinh tế dùng để mở một đoạn mới.",
+     "增长最快的是货物贸易。",
+     "Zēngzhǎng zuì kuài de shì huòwù màoyì.",
+     "Tăng nhanh nhất là thương mại hàng hoá."
+    ]
+   },
+   {
+    "h": "II. A的比重提高了X个百分点，达到Y% — tỉ trọng của A tăng X điểm phần trăm, đạt Y%",
+    "b": [
+     "Cách dùng:",
+     "比重 là tỉ trọng của một phần trong tổng thể. Thay đổi của tỉ trọng đo bằng 百分点; 达到 + mức mới cho biết tỉ trọng sau khi thay đổi.",
+     "在货物贸易的全部结算中，人民币的比重提高了近5个百分点，达到31.5%。",
+     "Zài huòwù màoyì de quánbù jiésuàn zhōng, rénmínbì de bǐzhòng tígāo le jìn 5 ge bǎifēndiǎn, dádào 31.5%.",
+     "Trong toàn bộ thanh toán của thương mại hàng hoá, tỉ trọng nhân dân tệ tăng gần 5 điểm phần trăm, đạt 31,5%."
+    ]
+   },
+   {
+    "h": "III. 用A计价 — định giá bằng A",
+    "b": [
+     "Cách dùng:",
+     "用 + đồng tiền + 计价: hợp đồng ghi giá bằng đồng tiền nào. Hai vế song song 用美元…；用人民币… để so sánh rủi ro.",
+     "用美元计价，企业要担心汇率波动带来的损失；用人民币计价，这个风险就小多了。",
+     "Yòng měiyuán jìjià, qǐyè yào dānxīn huìlǜ bōdòng dàilái de sǔnshī; yòng rénmínbì jìjià, zhège fēngxiǎn jiù xiǎo duō le.",
+     "Định giá bằng đô la Mỹ, doanh nghiệp phải lo khoản lỗ do tỷ giá biến động; định giá bằng nhân dân tệ, rủi ro này nhỏ hơn nhiều."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "人民银行": {
+   "w": "人民银行",
+   "p": "Rénmín Yínháng",
+   "hv": "Nhân Dân Ngân Hàng",
+   "note": "Ngân hàng Nhân dân Trung Quốc (PBOC) — ngân hàng trung ương"
+  },
+  "深圳": {
+   "w": "深圳",
+   "p": "Shēnzhèn",
+   "hv": "Thâm Quyến",
+   "note": "Thâm Quyến — thành phố cảng, trung tâm xuất khẩu và công nghệ ở Quảng Đông"
+  },
+  "巴西": {
+   "w": "巴西",
+   "p": "Bāxī",
+   "hv": "Ba Tây",
+   "note": "Brazil"
+  },
+  "中国信保": {
+   "w": "中国信保",
+   "p": "Zhōngguó Xìnbǎo",
+   "hv": "Trung Quốc Tín Bảo",
+   "note": "Sinosure — Tổng công ty Bảo hiểm Tín dụng Xuất khẩu Trung Quốc"
+  },
+  "招商银行": {
+   "w": "招商银行",
+   "p": "Zhāoshāng Yínháng",
+   "hv": "Chiêu Thương Ngân Hàng",
+   "note": "China Merchants Bank — ngân hàng thương mại cổ phần trụ sở ở Thâm Quyến"
+  }
+ },
+ "dict": {
+  "发布会": {
+   "w": "发布会",
+   "p": "fābùhuì",
+   "hv": "phát bố hội",
+   "pos": "N",
+   "en": "press conference",
+   "vn": "buổi họp báo",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261025"
+   ]
+  },
+  "跨境": {
+   "w": "跨境",
+   "p": "kuàjìng",
+   "hv": "khóa cảnh",
+   "pos": "Adj",
+   "en": "cross-border",
+   "vn": "xuyên biên giới",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261025"
+   ]
+  },
+  "结算": {
+   "w": "结算",
+   "p": "jiésuàn",
+   "hv": "kết toán",
+   "pos": "V/N",
+   "en": "to settle (payment); settlement",
+   "vn": "thanh toán, quyết toán",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261025"
+   ]
+  },
+  "货物": {
+   "w": "货物",
+   "p": "huòwù",
+   "hv": "hóa vật",
+   "pos": "N",
+   "en": "goods, cargo",
+   "vn": "hàng hoá",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261025"
+   ]
+  },
+  "比重": {
+   "w": "比重",
+   "p": "bǐzhòng",
+   "hv": "tỉ trọng",
+   "pos": "N",
+   "en": "proportion, share",
+   "vn": "tỉ trọng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261025"
+   ]
+  },
+  "汇率": {
+   "w": "汇率",
+   "p": "huìlǜ",
+   "hv": "hối suất",
+   "pos": "N",
+   "en": "exchange rate",
+   "vn": "tỷ giá hối đoái",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261025"
+   ]
+  },
+  "计价": {
+   "w": "计价",
+   "p": "jìjià",
+   "hv": "kế giá",
+   "pos": "V",
+   "en": "to price, to denominate",
+   "vn": "định giá, tính giá (bằng đồng tiền nào)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261025"
+   ]
+  },
+  "外币": {
+   "w": "外币",
+   "p": "wàibì",
+   "hv": "ngoại tệ",
+   "pos": "N",
+   "en": "foreign currency",
+   "vn": "ngoại tệ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261025"
+   ]
+  },
+  "出海": {
+   "w": "出海",
+   "p": "chūhǎi",
+   "hv": "xuất hải",
+   "pos": "V",
+   "en": "to go overseas (of a business)",
+   "vn": "(doanh nghiệp) ra nước ngoài",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261025"
+   ]
+  },
+  "买断": {
+   "w": "买断",
+   "p": "mǎiduàn",
+   "hv": "mãi đoạn",
+   "pos": "V",
+   "en": "to buy outright (without recourse)",
+   "vn": "mua đứt",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261025"
+   ]
+  },
+  "上下游": {
+   "w": "上下游",
+   "p": "shàngxiàyóu",
+   "hv": "thượng hạ du",
+   "pos": "N",
+   "en": "upstream and downstream (of a supply chain)",
+   "vn": "thượng nguồn và hạ nguồn (trong chuỗi cung ứng)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261025"
+   ]
+  },
+  "达到": {
+   "w": "达到",
+   "p": "dádào",
+   "hv": "đạt đáo",
+   "pos": "V",
+   "en": "to reach, to attain",
+   "vn": "đạt (tới)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261025"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "e公司（21财经转载）",
+   "author": "e公司",
+   "title": "结算5.9万亿元！企业出海，人民币更“好用”了！",
+   "date": "2026-10-24",
+   "url": "https://m.21jingji.com/article/20261024/herald/ed23785eceb0174b3aeb98f0a77abf40.html",
+   "accessed": "2026-10-25"
+  },
+  {
+   "role": "secondary",
+   "outlet": "上海证券报·中国证券网（同花顺转载）",
+   "author": "徐潇潇",
+   "title": "深圳前三季度跨境人民币结算达5.9万亿元，同比增长36.9%",
+   "date": "2026-10-23",
+   "url": "http://news.10jqka.com.cn/20261023/c681017402.shtml",
+   "accessed": "2026-10-25"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261025",
+  "book": 4,
+  "no": 13,
+  "date": "2026-10-25",
+  "seq": 55,
+  "title": "人民币更好用了",
+  "py": "rénmínbìgènghǎoyòngle",
+  "en": "The renminbi gets easier to use",
+  "vn": "Đồng nhân dân tệ dễ dùng hơn rồi",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "23",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "人民银行",
+        "p": "Rénmín Yínháng",
+        "k": "name"
+       },
+       {
+        "w": "深圳",
+        "p": "Shēnzhèn",
+        "k": "name"
+       },
+       {
+        "w": "市",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "分",
+        "p": "fēn",
+        "k": "extra"
+       },
+       {
+        "w": "行",
+        "p": "xíng",
+        "k": "extra"
+       },
+       {
+        "w": "开",
+        "p": "kāi",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "发布会",
+        "p": "fābùhuì",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "介绍",
+        "p": "jièshào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "1",
+        "k": "plain"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "9",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "深圳",
+        "p": "Shēnzhèn",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "跨境",
+        "p": "kuàjìng",
+        "k": "core"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "结算",
+        "p": "jiésuàn",
+        "k": "core"
+       },
+       {
+        "w": "规模",
+        "p": "guīmó",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "5",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "9",
+        "k": "plain"
+       },
+       {
+        "w": "万",
+        "p": "wàn",
+        "k": "extra"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "同比",
+        "p": "tóngbǐ",
+        "k": "extra"
+       },
+       {
+        "w": "增长",
+        "p": "zēngzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "36",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "9%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "全",
+        "p": "quán",
+        "k": "extra"
+       },
+       {
+        "w": "国",
+        "p": "guó",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "说明",
+        "p": "shuōmíng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "越来越",
+        "p": "yuèláiyuè",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "深圳",
+        "p": "Shēnzhèn",
+        "k": "name"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "跟",
+        "p": "gēn",
+        "k": "extra"
+       },
+       {
+        "w": "外",
+        "p": "wài",
+        "k": "extra"
+       },
+       {
+        "w": "国",
+        "p": "guó",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "生意",
+        "p": "shēngyì",
+        "k": "extra"
+       },
+       {
+        "w": "时",
+        "p": "shí",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "选择",
+        "p": "xuǎnzé",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "收",
+        "p": "shōu",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "增长",
+        "p": "zēngzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "快",
+        "p": "kuài",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "货物",
+        "p": "huòwù",
+        "k": "core"
+       },
+       {
+        "w": "贸易",
+        "p": "màoyì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "前",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "深圳",
+        "p": "Shēnzhèn",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "货物",
+        "p": "huòwù",
+        "k": "core"
+       },
+       {
+        "w": "贸易",
+        "p": "màoyì",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "结算",
+        "p": "jiésuàn",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "13450",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "同比",
+        "p": "tóngbǐ",
+        "k": "extra"
+       },
+       {
+        "w": "增长",
+        "p": "zēngzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "56",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "1%",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "货物",
+        "p": "huòwù",
+        "k": "core"
+       },
+       {
+        "w": "贸易",
+        "p": "màoyì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "全",
+        "p": "quán",
+        "k": "extra"
+       },
+       {
+        "w": "部",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "结算",
+        "p": "jiésuàn",
+        "k": "core"
+       },
+       {
+        "w": "中",
+        "p": "zhōng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "比重",
+        "p": "bǐzhòng",
+        "k": "core"
+       },
+       {
+        "w": "提高",
+        "p": "tígāo",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "近",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "5",
+        "k": "plain"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "百分点",
+        "p": "bǎifēndiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "达到",
+        "p": "dádào",
+        "k": "core"
+       },
+       {
+        "w": "31",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "5%",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "为什么",
+        "p": "wèishénme",
+        "k": "extra"
+       },
+       {
+        "w": "愿意",
+        "p": "yuànyì",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "原因",
+        "p": "yuányīn",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "汇率",
+        "p": "huìlǜ",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "计价",
+        "p": "jìjià",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "担心",
+        "p": "dānxīn",
+        "k": "extra"
+       },
+       {
+        "w": "汇率",
+        "p": "huìlǜ",
+        "k": "core"
+       },
+       {
+        "w": "波动",
+        "p": "bōdòng",
+        "k": "extra"
+       },
+       {
+        "w": "带",
+        "p": "dài",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "损失",
+        "p": "sǔnshī",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "计价",
+        "p": "jìjià",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "风险",
+        "p": "fēngxiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "另",
+        "p": "lìng",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "原因",
+        "p": "yuányīn",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "成本",
+        "p": "chéngběn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "利率",
+        "p": "lìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "比较",
+        "p": "bǐjiào",
+        "k": "extra"
+       },
+       {
+        "w": "低",
+        "p": "dī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "外币",
+        "p": "wàibì",
+        "k": "core"
+       },
+       {
+        "w": "便宜",
+        "p": "piányí",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "9",
+        "k": "plain"
+       },
+       {
+        "w": "月底",
+        "p": "yuèdǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "深圳",
+        "p": "Shēnzhèn",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "境外",
+        "p": "jìngwài",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "余额",
+        "p": "yú'é",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "4142",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "占",
+        "p": "zhàn",
+        "k": "extra"
+       },
+       {
+        "w": "全",
+        "p": "quán",
+        "k": "extra"
+       },
+       {
+        "w": "部",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "境外",
+        "p": "jìngwài",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "近",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "七",
+        "p": "qī",
+        "k": "extra"
+       },
+       {
+        "w": "成",
+        "p": "chéng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "e",
+        "k": "plain"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "出海",
+        "p": "chūhǎi",
+        "k": "core"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "巴西",
+        "p": "Bāxī",
+        "k": "name"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "货",
+        "p": "huò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "客户",
+        "p": "kèhù",
+        "k": "extra"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "当地",
+        "p": "dāngdì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "当地",
+        "p": "dāngdì",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "利息",
+        "p": "lìxī",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "高",
+        "p": "gāo",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "深圳",
+        "p": "Shēnzhèn",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "跟",
+        "p": "gēn",
+        "k": "extra"
+       },
+       {
+        "w": "中国信保",
+        "p": "Zhōngguó Xìnbǎo",
+        "k": "name"
+       },
+       {
+        "w": "一起",
+        "p": "yìqǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "直接",
+        "p": "zhíjiē",
+        "k": "extra"
+       },
+       {
+        "w": "买断",
+        "p": "mǎiduàn",
+        "k": "core"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "巴西",
+        "p": "Bāxī",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "应收账款",
+        "p": "yìngshōu zhàngkuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "1",
+        "k": "plain"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "9",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这样",
+        "p": "zhè yàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "融资",
+        "p": "róngzī",
+        "k": "extra"
+       },
+       {
+        "w": "一共",
+        "p": "yígòng",
+        "k": "extra"
+       },
+       {
+        "w": "为",
+        "p": "wèi",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "节省",
+        "p": "jiéshěng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "约",
+        "p": "yuē",
+        "k": "extra"
+       },
+       {
+        "w": "2",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "成本",
+        "p": "chéngběn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "招商银行",
+        "p": "Zhāoshāng Yínháng",
+        "k": "name"
+       },
+       {
+        "w": "深圳",
+        "p": "Shēnzhèn",
+        "k": "name"
+       },
+       {
+        "w": "分",
+        "p": "fēn",
+        "k": "extra"
+       },
+       {
+        "w": "行",
+        "p": "xíng",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "海外",
+        "p": "hǎiwài",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "上下游",
+        "p": "shàngxiàyóu",
+        "k": "core"
+       },
+       {
+        "w": "客户",
+        "p": "kèhù",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "出口",
+        "p": "chūkǒu",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "计价",
+        "p": "jìjià",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "方",
+        "p": "fāng",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "买",
+        "p": "mǎi",
+        "k": "extra"
+       },
+       {
+        "w": "货",
+        "p": "huò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "货",
+        "p": "huò",
+        "k": "extra"
+       },
+       {
+        "w": "再",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "中",
+        "p": "zhōng",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "什么",
+        "p": "shénme",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "生意",
+        "p": "shēngyì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "跟",
+        "p": "gēn",
+        "k": "extra"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "订单",
+        "p": "dìngdān",
+        "k": "extra"
+       },
+       {
+        "w": "一样",
+        "p": "yíyàng",
+        "k": "extra"
+       },
+       {
+        "w": "重要",
+        "p": "zhòngyào",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 增长最快的是A — cái tăng nhanh nhất là A",
+    "b": [
+     "Cách dùng:",
+     "Tính từ/động từ + 最 + 的 + 是 + A: đưa phần nổi bật nhất lên đầu câu, rồi mới nói đó là gì. Báo kinh tế dùng để mở một đoạn mới.",
+     "增长最快的是货物贸易。",
+     "Zēngzhǎng zuì kuài de shì huòwù màoyì.",
+     "Tăng nhanh nhất là thương mại hàng hoá."
+    ]
+   },
+   {
+    "h": "II. A的比重提高了X个百分点，达到Y% — tỉ trọng của A tăng X điểm phần trăm, đạt Y%",
+    "b": [
+     "Cách dùng:",
+     "比重 là tỉ trọng của một phần trong tổng thể. Thay đổi của tỉ trọng đo bằng 百分点; 达到 + mức mới cho biết tỉ trọng sau khi thay đổi.",
+     "在货物贸易的全部结算中，人民币的比重提高了近5个百分点，达到31.5%。",
+     "Zài huòwù màoyì de quánbù jiésuàn zhōng, rénmínbì de bǐzhòng tígāo le jìn 5 ge bǎifēndiǎn, dádào 31.5%.",
+     "Trong toàn bộ thanh toán của thương mại hàng hoá, tỉ trọng nhân dân tệ tăng gần 5 điểm phần trăm, đạt 31,5%."
+    ]
+   },
+   {
+    "h": "III. 用A计价 — định giá bằng A",
+    "b": [
+     "Cách dùng:",
+     "用 + đồng tiền + 计价: hợp đồng ghi giá bằng đồng tiền nào. Hai vế song song 用美元…；用人民币… để so sánh rủi ro.",
+     "用美元计价，企业要担心汇率波动带来的损失；用人民币计价，这个风险就小多了。",
+     "Yòng měiyuán jìjià, qǐyè yào dānxīn huìlǜ bōdòng dàilái de sǔnshī; yòng rénmínbì jìjià, zhège fēngxiǎn jiù xiǎo duō le.",
+     "Định giá bằng đô la Mỹ, doanh nghiệp phải lo khoản lỗ do tỷ giá biến động; định giá bằng nhân dân tệ, rủi ro này nhỏ hơn nhiều."
+    ]
+   }
+  ],
+  "vocab": [
+   "发布会",
+   "跨境",
+   "结算",
+   "货物",
+   "比重",
+   "汇率",
+   "计价",
+   "外币",
+   "出海",
+   "买断",
+   "上下游",
+   "达到"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "e公司（21财经转载）",
+    "author": "e公司",
+    "title": "结算5.9万亿元！企业出海，人民币更“好用”了！",
+    "date": "2026-10-24",
+    "url": "https://m.21jingji.com/article/20261024/herald/ed23785eceb0174b3aeb98f0a77abf40.html",
+    "accessed": "2026-10-25"
+   },
+   {
+    "role": "secondary",
+    "outlet": "上海证券报·中国证券网（同花顺转载）",
+    "author": "徐潇潇",
+    "title": "深圳前三季度跨境人民币结算达5.9万亿元，同比增长36.9%",
+    "date": "2026-10-23",
+    "url": "http://news.10jqka.com.cn/20261023/c681017402.shtml",
+    "accessed": "2026-10-25"
+   }
+  ]
+ }
+}
