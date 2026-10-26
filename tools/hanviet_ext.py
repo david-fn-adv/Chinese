@@ -16,6 +16,7 @@ CHARS_EXT = """
 汇:hối 允:doãn 潘:phan 坛:đàn
 降:giáng 判:phán
 软:nhuyễn 盘:bàn 醒:tỉnh
+宣:tuyên 审:thẩm 批:phê 效:hiệu 泄:tiết 露:lộ 监:giám 储:trữ 晓:hiểu
 """
 
 # Từ ghép có âm khác cách ghép từng chữ
