@@ -1,0 +1,2012 @@
+{
+ "date": "2026-10-27",
+ "id": "N-20261027",
+ "draft": {
+  "title": "手里的美元换不换",
+  "vn": "Đô-la trong tay: đổi hay không đổi",
+  "en": "Dollars in hand: convert or wait",
+  "paras": [
+   "10月26日，人民币对美元的汇率又到了一个新高。据澎湃新闻报道，当天下午四点半收盘的时候，一美元只能换6.6681元人民币，比前一天又上涨了一点，这是2022年6月以来的新高。同一天，央行公布的中间价是6.7162，今年以来人民币已经升值了4.45%。",
+   "什么是升值？简单地说，就是同样的人民币能换到更多的美元。对去国外玩的人来说，这是好事；可是对出口企业来说，事情就没有那么简单了。一家外贸公司卖出去一百万美元的货，现在能换到的人民币，比年初要少不少。公司的成本都是用人民币算的，收入却是美元，汇率一变，利润就少了。",
+   "过去几年，很多出口企业收到美元以后，并没有马上换成人民币，而是放在手里等。现在人民币一直在上涨，有的企业开始担心了，觉得再等下去损失会更大，就把美元卖给银行，这叫结汇。财通证券在研报里认为，企业结汇的需求是这次人民币升值的一个原因。",
+   "那么人民币还会继续上涨吗？财通证券预计，人民币还会温和升值，不过速度可能会放缓。对做外贸的企业来说，等汇率变好不如早做准备。签合同的时候可以用人民币结算，也可以跟银行一起用工具，先把以后的汇率决定好。这些办法都比把美元放在手里等更安全。"
+  ],
+  "points": [
+   {
+    "h": "I. 对A来说 — đối với A mà nói",
+    "b": [
+     "Cách dùng:",
+     "Đặt góc nhìn của một nhóm người lên đầu câu. Hai vế 对A来说…，对B来说… đặt cạnh nhau để so sánh: cùng một sự việc, mỗi bên thấy khác.",
+     "对去国外玩的人来说，这是好事；可是对出口企业来说，事情就没有那么简单了。",
+     "Duì qù guówài wán de rén lái shuō, zhè shì hǎoshì; kěshì duì chūkǒu qǐyè lái shuō, shìqing jiù méiyǒu nàme jiǎndān le.",
+     "Với người ra nước ngoài chơi, đây là chuyện tốt; nhưng với doanh nghiệp xuất khẩu, mọi chuyện không đơn giản như vậy."
+    ]
+   },
+   {
+    "h": "II. 并没有A，而是B — không hề A, mà là B",
+    "b": [
+     "Cách dùng:",
+     "并 nhấn mạnh phủ định, bác bỏ điều người nghe tưởng là đương nhiên; 而是 đưa ra điều thực sự xảy ra.",
+     "很多出口企业收到美元以后，并没有马上换成人民币，而是放在手里等。",
+     "Hěn duō chūkǒu qǐyè shōudào měiyuán yǐhòu, bìng méiyǒu mǎshàng huànchéng rénmínbì, ér shì fàng zài shǒu lǐ děng.",
+     "Nhiều doanh nghiệp xuất khẩu nhận được đô-la rồi không hề đổi ngay sang nhân dân tệ, mà giữ trong tay để chờ."
+    ]
+   },
+   {
+    "h": "III. A不如B — A không bằng B",
+    "b": [
+     "Cách dùng:",
+     "So sánh hai cách làm và chọn vế sau. Hay gặp trong bình luận kinh tế khi đưa ra lời khuyên ngắn gọn.",
+     "对做外贸的企业来说，等汇率变好不如早做准备。",
+     "Duì zuò wàimào de qǐyè lái shuō, děng huìlǜ biàn hǎo bùrú zǎo zuò zhǔnbèi.",
+     "Với doanh nghiệp làm ngoại thương, chờ tỉ giá tốt lên không bằng sớm chuẩn bị."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "澎湃新闻": {
+   "w": "澎湃新闻",
+   "p": "Péngpài Xīnwén",
+   "hv": "Bành Phái Tân Văn",
+   "note": "The Paper — báo điện tử ở Thượng Hải"
+  },
+  "财通证券": {
+   "w": "财通证券",
+   "p": "Cáitōng Zhèngquàn",
+   "hv": "Tài Thông Chứng Khoán",
+   "note": "Caitong Securities — công ty chứng khoán ở Chiết Giang"
+  }
+ },
+ "dict": {
+  "新高": {
+   "w": "新高",
+   "p": "xīngāo",
+   "hv": "tân cao",
+   "pos": "N",
+   "en": "new high",
+   "vn": "mức cao mới, đỉnh mới",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261027"
+   ]
+  },
+  "收盘": {
+   "w": "收盘",
+   "p": "shōupán",
+   "hv": "thu bàn",
+   "pos": "V",
+   "en": "(market) close",
+   "vn": "đóng cửa (phiên giao dịch)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261027"
+   ]
+  },
+  "中间价": {
+   "w": "中间价",
+   "p": "zhōngjiānjià",
+   "hv": "trung gian giá",
+   "pos": "N",
+   "en": "central parity rate",
+   "vn": "tỉ giá trung tâm (NHTW công bố)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261027"
+   ]
+  },
+  "升值": {
+   "w": "升值",
+   "p": "shēngzhí",
+   "hv": "thăng trị",
+   "pos": "V",
+   "en": "appreciate (in value)",
+   "vn": "tăng giá (đồng tiền)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261027"
+   ]
+  },
+  "年初": {
+   "w": "年初",
+   "p": "niánchū",
+   "hv": "niên sơ",
+   "pos": "N",
+   "en": "beginning of the year",
+   "vn": "đầu năm",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261027"
+   ]
+  },
+  "外贸": {
+   "w": "外贸",
+   "p": "wàimào",
+   "hv": "ngoại mậu",
+   "pos": "N",
+   "en": "foreign trade",
+   "vn": "ngoại thương",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261027"
+   ]
+  },
+  "结汇": {
+   "w": "结汇",
+   "p": "jiéhuì",
+   "hv": "kết hối",
+   "pos": "V",
+   "en": "sell foreign currency to a bank for RMB",
+   "vn": "kết hối (bán ngoại tệ cho ngân hàng lấy nội tệ)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261027"
+   ]
+  },
+  "研报": {
+   "w": "研报",
+   "p": "yánbào",
+   "hv": "nghiên báo",
+   "pos": "N",
+   "en": "research report",
+   "vn": "báo cáo phân tích",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261027"
+   ]
+  },
+  "预计": {
+   "w": "预计",
+   "p": "yùjì",
+   "hv": "dự kế",
+   "pos": "V",
+   "en": "estimate, forecast",
+   "vn": "dự kiến, dự báo",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261027"
+   ]
+  },
+  "温和": {
+   "w": "温和",
+   "p": "wēnhé",
+   "hv": "ôn hòa",
+   "pos": "Adj",
+   "en": "moderate, mild",
+   "vn": "ôn hòa, vừa phải",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261027"
+   ]
+  },
+  "放缓": {
+   "w": "放缓",
+   "p": "fànghuǎn",
+   "hv": "phóng hoãn",
+   "pos": "V",
+   "en": "slow down",
+   "vn": "chậm lại",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261027"
+   ]
+  },
+  "合同": {
+   "w": "合同",
+   "p": "hétong",
+   "hv": "hợp đồng",
+   "pos": "N",
+   "en": "contract",
+   "vn": "hợp đồng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261027"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "澎湃新闻",
+   "author": "陈月石",
+   "title": "人民币对美元即期汇率收盘升破6.67，创2022年6月8日以来新高",
+   "date": "2026-10-26",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34334548",
+   "accessed": "2026-10-27"
+  },
+  {
+   "role": "secondary",
+   "outlet": "FX168财经网",
+   "author": "FX168速递",
+   "title": "人民币兑美元汇率触及6.67，为2022年6月以来的最高水平",
+   "date": "2026-10-26",
+   "url": "https://www.fx168news.com/express/fastnews/1454990",
+   "accessed": "2026-10-27"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261027",
+  "book": 4,
+  "no": 15,
+  "date": "2026-10-27",
+  "seq": 57,
+  "title": "手里的美元换不换",
+  "py": "shǒulǐdeměiyuánhuànbùhuàn",
+  "en": "Dollars in hand: convert or wait",
+  "vn": "Đô-la trong tay: đổi hay không đổi",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "26",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "汇率",
+        "p": "huìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "又",
+        "p": "yòu",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "新高",
+        "p": "xīngāo",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "澎湃新闻",
+        "p": "Péngpài Xīnwén",
+        "k": "name"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "当",
+        "p": "dāng",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "下午",
+        "p": "xiàwǔ",
+        "k": "extra"
+       },
+       {
+        "w": "四",
+        "p": "sì",
+        "k": "extra"
+       },
+       {
+        "w": "点",
+        "p": "diǎn",
+        "k": "extra"
+       },
+       {
+        "w": "半",
+        "p": "bàn",
+        "k": "extra"
+       },
+       {
+        "w": "收盘",
+        "p": "shōupán",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "时候",
+        "p": "shíhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "换",
+        "p": "huàn",
+        "k": "extra"
+       },
+       {
+        "w": "6",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "6681",
+        "k": "plain"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "前",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "又",
+        "p": "yòu",
+        "k": "extra"
+       },
+       {
+        "w": "上涨",
+        "p": "shàngzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一点",
+        "p": "yīdiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "2022",
+        "k": "plain"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "6",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "以来",
+        "p": "yǐlái",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "新高",
+        "p": "xīngāo",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "同",
+        "p": "tóng",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "央行",
+        "p": "yāngháng",
+        "k": "extra"
+       },
+       {
+        "w": "公布",
+        "p": "gōngbù",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "中间价",
+        "p": "zhōngjiānjià",
+        "k": "core"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "6",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "7162",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "以来",
+        "p": "yǐlái",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "升值",
+        "p": "shēngzhí",
+        "k": "core"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "4",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "45%",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "什么",
+        "p": "shénme",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "升值",
+        "p": "shēngzhí",
+        "k": "core"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "简单",
+        "p": "jiǎndān",
+        "k": "extra"
+       },
+       {
+        "w": "地",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "同",
+        "p": "tóng",
+        "k": "extra"
+       },
+       {
+        "w": "样",
+        "p": "yàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "换",
+        "p": "huàn",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "去",
+        "p": "qù",
+        "k": "extra"
+       },
+       {
+        "w": "国外",
+        "p": "guówài",
+        "k": "extra"
+       },
+       {
+        "w": "玩",
+        "p": "wán",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "好",
+        "p": "hǎo",
+        "k": "extra"
+       },
+       {
+        "w": "事",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "出口",
+        "p": "chūkǒu",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "事情",
+        "p": "shìqíng",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "那么",
+        "p": "nàme",
+        "k": "extra"
+       },
+       {
+        "w": "简单",
+        "p": "jiǎndān",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "外贸",
+        "p": "wàimào",
+        "k": "core"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "出去",
+        "p": "chūqù",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "百",
+        "p": "bǎi",
+        "k": "extra"
+       },
+       {
+        "w": "万",
+        "p": "wàn",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "货",
+        "p": "huò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "换",
+        "p": "huàn",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "年初",
+        "p": "niánchū",
+        "k": "core"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "成本",
+        "p": "chéngběn",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "算",
+        "p": "suàn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "收入",
+        "p": "shōurù",
+        "k": "extra"
+       },
+       {
+        "w": "却",
+        "p": "què",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "汇率",
+        "p": "huìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "变",
+        "p": "biàn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "利润",
+        "p": "lìrùn",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "过",
+        "p": "guò",
+        "k": "extra"
+       },
+       {
+        "w": "去",
+        "p": "qù",
+        "k": "extra"
+       },
+       {
+        "w": "几",
+        "p": "jǐ",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "出口",
+        "p": "chūkǒu",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "收到",
+        "p": "shōudào",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "并",
+        "p": "bìng",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "马上",
+        "p": "mǎshàng",
+        "k": "extra"
+       },
+       {
+        "w": "换成",
+        "p": "huàn chéng",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "而",
+        "p": "ér",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "放",
+        "p": "fàng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "手",
+        "p": "shǒu",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "一直",
+        "p": "yìzhí",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "上涨",
+        "p": "shàngzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "开始",
+        "p": "kāishǐ",
+        "k": "extra"
+       },
+       {
+        "w": "担心",
+        "p": "dānxīn",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "觉得",
+        "p": "juéde",
+        "k": "extra"
+       },
+       {
+        "w": "再",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "下去",
+        "p": "xiàqù",
+        "k": "extra"
+       },
+       {
+        "w": "损失",
+        "p": "sǔnshī",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "叫",
+        "p": "jiào",
+        "k": "extra"
+       },
+       {
+        "w": "结汇",
+        "p": "jiéhuì",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "财通证券",
+        "p": "Cáitōng Zhèngquàn",
+        "k": "name"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "研报",
+        "p": "yánbào",
+        "k": "core"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "认为",
+        "p": "rènwéi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "结汇",
+        "p": "jiéhuì",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "需求",
+        "p": "xūqiú",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "这次",
+        "p": "zhè cì",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "升值",
+        "p": "shēngzhí",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "原因",
+        "p": "yuányīn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "那么",
+        "p": "nàme",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "继续",
+        "p": "jìxù",
+        "k": "extra"
+       },
+       {
+        "w": "上涨",
+        "p": "shàngzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "吗",
+        "p": "ma",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "财通证券",
+        "p": "Cáitōng Zhèngquàn",
+        "k": "name"
+       },
+       {
+        "w": "预计",
+        "p": "yùjì",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "温和",
+        "p": "wēnhé",
+        "k": "core"
+       },
+       {
+        "w": "升值",
+        "p": "shēngzhí",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "不过",
+        "p": "búguò",
+        "k": "extra"
+       },
+       {
+        "w": "速度",
+        "p": "sùdù",
+        "k": "extra"
+       },
+       {
+        "w": "可能",
+        "p": "kěnéng",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "放缓",
+        "p": "fànghuǎn",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "外贸",
+        "p": "wàimào",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "汇率",
+        "p": "huìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "变",
+        "p": "biàn",
+        "k": "extra"
+       },
+       {
+        "w": "好",
+        "p": "hǎo",
+        "k": "extra"
+       },
+       {
+        "w": "不如",
+        "p": "bùrú",
+        "k": "extra"
+       },
+       {
+        "w": "早",
+        "p": "zǎo",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "准备",
+        "p": "zhǔnbèi",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "签",
+        "p": "qiān",
+        "k": "extra"
+       },
+       {
+        "w": "合同",
+        "p": "hétong",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "时候",
+        "p": "shíhòu",
+        "k": "extra"
+       },
+       {
+        "w": "可以",
+        "p": "kěyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "结算",
+        "p": "jiésuàn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "可以",
+        "p": "kěyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "跟",
+        "p": "gēn",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "一起",
+        "p": "yìqǐ",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "工具",
+        "p": "gōngjù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "先",
+        "p": "xiān",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "汇率",
+        "p": "huìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "决定",
+        "p": "juédìng",
+        "k": "extra"
+       },
+       {
+        "w": "好",
+        "p": "hǎo",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "办法",
+        "p": "bànfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "放",
+        "p": "fàng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "手",
+        "p": "shǒu",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "安全",
+        "p": "ānquán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 对A来说 — đối với A mà nói",
+    "b": [
+     "Cách dùng:",
+     "Đặt góc nhìn của một nhóm người lên đầu câu. Hai vế 对A来说…，对B来说… đặt cạnh nhau để so sánh: cùng một sự việc, mỗi bên thấy khác.",
+     "对去国外玩的人来说，这是好事；可是对出口企业来说，事情就没有那么简单了。",
+     "Duì qù guówài wán de rén lái shuō, zhè shì hǎoshì; kěshì duì chūkǒu qǐyè lái shuō, shìqing jiù méiyǒu nàme jiǎndān le.",
+     "Với người ra nước ngoài chơi, đây là chuyện tốt; nhưng với doanh nghiệp xuất khẩu, mọi chuyện không đơn giản như vậy."
+    ]
+   },
+   {
+    "h": "II. 并没有A，而是B — không hề A, mà là B",
+    "b": [
+     "Cách dùng:",
+     "并 nhấn mạnh phủ định, bác bỏ điều người nghe tưởng là đương nhiên; 而是 đưa ra điều thực sự xảy ra.",
+     "很多出口企业收到美元以后，并没有马上换成人民币，而是放在手里等。",
+     "Hěn duō chūkǒu qǐyè shōudào měiyuán yǐhòu, bìng méiyǒu mǎshàng huànchéng rénmínbì, ér shì fàng zài shǒu lǐ děng.",
+     "Nhiều doanh nghiệp xuất khẩu nhận được đô-la rồi không hề đổi ngay sang nhân dân tệ, mà giữ trong tay để chờ."
+    ]
+   },
+   {
+    "h": "III. A不如B — A không bằng B",
+    "b": [
+     "Cách dùng:",
+     "So sánh hai cách làm và chọn vế sau. Hay gặp trong bình luận kinh tế khi đưa ra lời khuyên ngắn gọn.",
+     "对做外贸的企业来说，等汇率变好不如早做准备。",
+     "Duì zuò wàimào de qǐyè lái shuō, děng huìlǜ biàn hǎo bùrú zǎo zuò zhǔnbèi.",
+     "Với doanh nghiệp làm ngoại thương, chờ tỉ giá tốt lên không bằng sớm chuẩn bị."
+    ]
+   }
+  ],
+  "vocab": [
+   "新高",
+   "收盘",
+   "中间价",
+   "升值",
+   "年初",
+   "外贸",
+   "结汇",
+   "研报",
+   "预计",
+   "温和",
+   "放缓",
+   "合同"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "澎湃新闻",
+    "author": "陈月石",
+    "title": "人民币对美元即期汇率收盘升破6.67，创2022年6月8日以来新高",
+    "date": "2026-10-26",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34334548",
+    "accessed": "2026-10-27"
+   },
+   {
+    "role": "secondary",
+    "outlet": "FX168财经网",
+    "author": "FX168速递",
+    "title": "人民币兑美元汇率触及6.67，为2022年6月以来的最高水平",
+    "date": "2026-10-26",
+    "url": "https://www.fx168news.com/express/fastnews/1454990",
+    "accessed": "2026-10-27"
+   }
+  ]
+ }
+}
