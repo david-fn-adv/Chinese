@@ -1,0 +1,2161 @@
+{
+ "date": "2026-10-28",
+ "id": "N-20261028",
+ "draft": {
+  "title": "只用大脑开灯",
+  "vn": "Bật đèn chỉ bằng ý nghĩ",
+  "en": "Turning on the light with your brain",
+  "paras": [
+   "10月28日，脑机接口公司脑虎科技宣布，已经完成了7亿元人民币的B轮融资。据媒体报道，这一轮由国投聚力、深创投和勤智资本三家领投，还有十多家公司跟投，盛大和中平资本这些老股东也继续加了钱。有媒体认为，这一轮投钱的大多是国家的资本。",
+   "什么是脑机接口？简单地说，就是在大脑和电脑中间修一条路，让人不用说话，也不用手，只要“想”一下，设备就能开始工作。脑虎科技的系统把所有的东西都植入身体里面，外面看不到电线，电也是从外面送进去的。病人心里想做什么，系统就把这个想法告诉电脑。",
+   "据一家科技媒体报道，这个系统已经给65个病人做过临床试验。今年7月，它正式开始了为审批做的临床试验，由华山医院带着全国近20家大医院一起做。它要帮助的，是那些不能走路、不能说话的病人。9月，一位病人只用大脑和AI，就能开灯、关灯。",
+   "这7亿元会用在哪里？一是继续做临床试验，二是量产，三是研发新产品，还要试试把脑机接口和AI放在一起用。公司的目标是两年里让产品真正走进医院。不过，创始人陶虎也说，现在只有几十个病人的数据，还远远不够；要让算法对每个病人都有用，最少需要几百个，多的要几千个。对投资人来说，这是一门需要耐心等的生意。"
+  ],
+  "points": [
+   {
+    "h": "I. 由A领投 — do A dẫn đầu vòng vốn",
+    "b": [
+     "Cách dùng:",
+     "Mẫu câu chuẩn của tin gọi vốn: 由 + nhà đầu tư + 领投, sau đó thường thêm bên 跟投 (cùng rót vốn theo). Gặp gần như mỗi ngày trên 36氪, IT之家.",
+     "这一轮由国投聚力、深创投和勤智资本三家领投，还有十多家公司跟投……",
+     "Zhè yì lún yóu Guótóu Jùlì, Shēnchuàngtóu hé Qínzhì Zīběn sān jiā lǐngtóu, hái yǒu shí duō jiā gōngsī gēntóu.",
+     "Vòng này do ba bên SDIC Unity, Shenzhen Capital và Qinzhi Capital dẫn đầu, còn hơn mười công ty khác cùng rót vốn theo."
+    ]
+   },
+   {
+    "h": "II. 不用A，也不用B，只要C就D — không cần A, cũng không cần B, chỉ cần C là D",
+    "b": [
+     "Cách dùng:",
+     "Gạt bỏ hai điều kiện quen thuộc, rồi dùng 只要…就… để nêu điều kiện duy nhất còn lại. Hợp để giải thích một công nghệ mới làm gì.",
+     "让人不用说话，也不用手，只要“想”一下，设备就能开始工作。",
+     "Ràng rén búyòng shuōhuà, yě búyòng shǒu, zhǐyào “xiǎng” yíxià, shèbèi jiù néng kāishǐ gōngzuò.",
+     "Để con người không cần nói, cũng không cần dùng tay, chỉ cần “nghĩ” một cái là thiết bị đã bắt đầu làm việc."
+    ]
+   },
+   {
+    "h": "III. 一是A，二是B，三是C — một là A, hai là B, ba là C",
+    "b": [
+     "Cách dùng:",
+     "Liệt kê các hướng dùng tiền, các lý do, các biện pháp. Rất hay gặp trong thông cáo gọi vốn và báo cáo chính sách.",
+     "一是继续做临床试验，二是量产，三是研发新产品……",
+     "Yī shì jìxù zuò línchuáng shìyàn, èr shì liàngchǎn, sān shì yánfā xīn chǎnpǐn.",
+     "Một là tiếp tục thử nghiệm lâm sàng, hai là sản xuất hàng loạt, ba là nghiên cứu phát triển sản phẩm mới."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "脑虎科技": {
+   "w": "脑虎科技",
+   "p": "Nǎohǔ Kējì",
+   "hv": "Não Hổ Khoa Kỹ",
+   "note": "NeuroXess — công ty giao diện não–máy của Trung Quốc"
+  },
+  "国投聚力": {
+   "w": "国投聚力",
+   "p": "Guótóu Jùlì",
+   "hv": "Quốc Đầu Tụ Lực",
+   "note": "SDIC Unity Capital — quỹ thuộc Tập đoàn Đầu tư Phát triển Nhà nước"
+  },
+  "深创投": {
+   "w": "深创投",
+   "p": "Shēnchuàngtóu",
+   "hv": "Thâm Sáng Đầu",
+   "note": "Shenzhen Capital Group — quỹ đầu tư mạo hiểm quốc doanh Thâm Quyến"
+  },
+  "勤智资本": {
+   "w": "勤智资本",
+   "p": "Qínzhì Zīběn",
+   "hv": "Cần Trí Tư Bản",
+   "note": "Qinzhi Capital — quỹ đầu tư"
+  },
+  "盛大": {
+   "w": "盛大",
+   "p": "Shèngdà",
+   "hv": "Thịnh Đại",
+   "note": "Shanda — tập đoàn của Trần Thiên Kiều, cổ đông cũ"
+  },
+  "中平资本": {
+   "w": "中平资本",
+   "p": "Zhōngpíng Zīběn",
+   "hv": "Trung Bình Tư Bản",
+   "note": "Zhongping Capital — quỹ đầu tư, cổ đông cũ"
+  },
+  "华山医院": {
+   "w": "华山医院",
+   "p": "Huàshān Yīyuàn",
+   "hv": "Hoa Sơn Y Viện",
+   "note": "Bệnh viện Hoa Sơn, trực thuộc Đại học Phục Đán (Thượng Hải)"
+  },
+  "陶虎": {
+   "w": "陶虎",
+   "p": "Táo Hǔ",
+   "hv": "Đào Hổ",
+   "note": "nhà sáng lập kiêm nhà khoa học trưởng của 脑虎科技"
+  }
+ },
+ "dict": {
+  "脑机接口": {
+   "w": "脑机接口",
+   "p": "nǎojī jiēkǒu",
+   "hv": "não cơ tiếp khẩu",
+   "pos": "N",
+   "en": "brain-computer interface (BCI)",
+   "vn": "giao diện não–máy",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261028"
+   ]
+  },
+  "领投": {
+   "w": "领投",
+   "p": "lǐngtóu",
+   "hv": "lĩnh đầu",
+   "pos": "V",
+   "en": "to lead (an investment round)",
+   "vn": "dẫn đầu vòng gọi vốn",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261028"
+   ]
+  },
+  "设备": {
+   "w": "设备",
+   "p": "shèbèi",
+   "hv": "thiết bị",
+   "pos": "N",
+   "en": "equipment, device",
+   "vn": "thiết bị",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261028"
+   ]
+  },
+  "系统": {
+   "w": "系统",
+   "p": "xìtǒng",
+   "hv": "hệ thống",
+   "pos": "N",
+   "en": "system",
+   "vn": "hệ thống",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261028"
+   ]
+  },
+  "植入": {
+   "w": "植入",
+   "p": "zhírù",
+   "hv": "thực nhập",
+   "pos": "V",
+   "en": "to implant",
+   "vn": "cấy (vào cơ thể)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261028"
+   ]
+  },
+  "临床": {
+   "w": "临床",
+   "p": "línchuáng",
+   "hv": "lâm sàng",
+   "pos": "N",
+   "en": "clinical",
+   "vn": "lâm sàng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261028"
+   ]
+  },
+  "试验": {
+   "w": "试验",
+   "p": "shìyàn",
+   "hv": "thí nghiệm",
+   "pos": "N/V",
+   "en": "trial, test",
+   "vn": "thử nghiệm",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261028"
+   ]
+  },
+  "量产": {
+   "w": "量产",
+   "p": "liàngchǎn",
+   "hv": "lượng sản",
+   "pos": "V",
+   "en": "to mass-produce",
+   "vn": "sản xuất hàng loạt",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261028"
+   ]
+  },
+  "研发": {
+   "w": "研发",
+   "p": "yánfā",
+   "hv": "nghiên phát",
+   "pos": "V",
+   "en": "to research and develop (R&D)",
+   "vn": "nghiên cứu phát triển",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261028"
+   ]
+  },
+  "目标": {
+   "w": "目标",
+   "p": "mùbiāo",
+   "hv": "mục tiêu",
+   "pos": "N",
+   "en": "goal, target",
+   "vn": "mục tiêu",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261028"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "IT之家",
+   "author": "IT之家",
+   "title": "国产脑机接口公司脑虎科技完成 7 亿元 B 轮融资，国投聚力、深创投、勤智资本领投",
+   "date": "2026-10-28",
+   "url": "https://www.ithome.com/1/018/733.htm",
+   "accessed": "2026-10-28"
+  },
+  {
+   "role": "secondary",
+   "outlet": "36氪（网易号转载）",
+   "author": "胡香赟",
+   "title": "「脑虎科技」B轮融资7亿，“三全”脑机接口系统进入注册临床｜36氪首发",
+   "date": "2026-10-28",
+   "url": "https://www.163.com/dy/article/LAAJBCVJ05118DFD.html",
+   "accessed": "2026-10-28"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261028",
+  "book": 4,
+  "no": 16,
+  "date": "2026-10-28",
+  "seq": 58,
+  "title": "只用大脑开灯",
+  "py": "zhǐyòngdànǎokāidēng",
+  "en": "Turning on the light with your brain",
+  "vn": "Bật đèn chỉ bằng ý nghĩ",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "28",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "脑机接口",
+        "p": "nǎojī jiēkǒu",
+        "k": "core"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "脑虎科技",
+        "p": "Nǎohǔ Kējì",
+        "k": "name"
+       },
+       {
+        "w": "宣布",
+        "p": "xuānbù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "完",
+        "p": "wán",
+        "k": "extra"
+       },
+       {
+        "w": "成",
+        "p": "chéng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "7",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "B",
+        "k": "plain"
+       },
+       {
+        "w": "轮",
+        "p": "lún",
+        "k": "extra"
+       },
+       {
+        "w": "融资",
+        "p": "róngzī",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "媒体",
+        "p": "méitǐ",
+        "k": "extra"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "轮",
+        "p": "lún",
+        "k": "extra"
+       },
+       {
+        "w": "由",
+        "p": "yóu",
+        "k": "extra"
+       },
+       {
+        "w": "国投聚力",
+        "p": "Guótóu Jùlì",
+        "k": "name"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "深创投",
+        "p": "Shēnchuàngtóu",
+        "k": "name"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "勤智资本",
+        "p": "Qínzhì Zīběn",
+        "k": "name"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "领投",
+        "p": "lǐngtóu",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "十",
+        "p": "shí",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "跟",
+        "p": "gēn",
+        "k": "extra"
+       },
+       {
+        "w": "投",
+        "p": "tóu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "盛大",
+        "p": "Shèngdà",
+        "k": "name"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "中平资本",
+        "p": "Zhōngpíng Zīběn",
+        "k": "name"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "老",
+        "p": "lǎo",
+        "k": "extra"
+       },
+       {
+        "w": "股东",
+        "p": "gǔdōng",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "继续",
+        "p": "jìxù",
+        "k": "extra"
+       },
+       {
+        "w": "加",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "媒体",
+        "p": "méitǐ",
+        "k": "extra"
+       },
+       {
+        "w": "认为",
+        "p": "rènwéi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "轮",
+        "p": "lún",
+        "k": "extra"
+       },
+       {
+        "w": "投",
+        "p": "tóu",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "国家",
+        "p": "guójiā",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "资本",
+        "p": "zīběn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "什么",
+        "p": "shénme",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "脑机接口",
+        "p": "nǎojī jiēkǒu",
+        "k": "core"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "简单",
+        "p": "jiǎndān",
+        "k": "extra"
+       },
+       {
+        "w": "地",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "脑",
+        "p": "nǎo",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "电",
+        "p": "diàn",
+        "k": "extra"
+       },
+       {
+        "w": "脑",
+        "p": "nǎo",
+        "k": "extra"
+       },
+       {
+        "w": "中",
+        "p": "zhōng",
+        "k": "extra"
+       },
+       {
+        "w": "间",
+        "p": "jiān",
+        "k": "extra"
+       },
+       {
+        "w": "修",
+        "p": "xiū",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "条",
+        "p": "tiáo",
+        "k": "extra"
+       },
+       {
+        "w": "路",
+        "p": "lù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "说话",
+        "p": "shuōhuà",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "手",
+        "p": "shǒu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "只要",
+        "p": "zhǐyào",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "想",
+        "p": "xiǎng",
+        "k": "extra"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "下",
+        "p": "xià",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "设备",
+        "p": "shèbèi",
+        "k": "core"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "开始",
+        "p": "kāishǐ",
+        "k": "extra"
+       },
+       {
+        "w": "工作",
+        "p": "gōngzuò",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "脑虎科技",
+        "p": "Nǎohǔ Kējì",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "系统",
+        "p": "xìtǒng",
+        "k": "core"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "所有",
+        "p": "suǒyǒu",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "东西",
+        "p": "dōngxi",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "植入",
+        "p": "zhírù",
+        "k": "core"
+       },
+       {
+        "w": "身体",
+        "p": "shēntǐ",
+        "k": "extra"
+       },
+       {
+        "w": "里面",
+        "p": "lǐmiàn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "外面",
+        "p": "wàimiàn",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "电",
+        "p": "diàn",
+        "k": "extra"
+       },
+       {
+        "w": "线",
+        "p": "xiàn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "电",
+        "p": "diàn",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "外面",
+        "p": "wàimiàn",
+        "k": "extra"
+       },
+       {
+        "w": "送",
+        "p": "sòng",
+        "k": "extra"
+       },
+       {
+        "w": "进",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "去",
+        "p": "qù",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "病人",
+        "p": "bìngrén",
+        "k": "extra"
+       },
+       {
+        "w": "心",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "想",
+        "p": "xiǎng",
+        "k": "extra"
+       },
+       {
+        "w": "做什么",
+        "p": "zuò shénme",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "系统",
+        "p": "xìtǒng",
+        "k": "core"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "想法",
+        "p": "xiǎngfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "告诉",
+        "p": "gàosù",
+        "k": "extra"
+       },
+       {
+        "w": "电",
+        "p": "diàn",
+        "k": "extra"
+       },
+       {
+        "w": "脑",
+        "p": "nǎo",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "科技",
+        "p": "kējì",
+        "k": "extra"
+       },
+       {
+        "w": "媒体",
+        "p": "méitǐ",
+        "k": "extra"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "系统",
+        "p": "xìtǒng",
+        "k": "core"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "65",
+        "k": "plain"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "病人",
+        "p": "bìngrén",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "过",
+        "p": "guò",
+        "k": "extra"
+       },
+       {
+        "w": "临床",
+        "p": "línchuáng",
+        "k": "core"
+       },
+       {
+        "w": "试验",
+        "p": "shìyàn",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "7",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "正式",
+        "p": "zhèngshì",
+        "k": "extra"
+       },
+       {
+        "w": "开始",
+        "p": "kāishǐ",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "为",
+        "p": "wèi",
+        "k": "extra"
+       },
+       {
+        "w": "审批",
+        "p": "shěnpī",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "临床",
+        "p": "línchuáng",
+        "k": "core"
+       },
+       {
+        "w": "试验",
+        "p": "shìyàn",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "由",
+        "p": "yóu",
+        "k": "extra"
+       },
+       {
+        "w": "华山医院",
+        "p": "Huàshān Yīyuàn",
+        "k": "name"
+       },
+       {
+        "w": "带",
+        "p": "dài",
+        "k": "extra"
+       },
+       {
+        "w": "着",
+        "p": "zhe",
+        "k": "extra"
+       },
+       {
+        "w": "全",
+        "p": "quán",
+        "k": "extra"
+       },
+       {
+        "w": "国",
+        "p": "guó",
+        "k": "extra"
+       },
+       {
+        "w": "近",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "20",
+        "k": "plain"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "医院",
+        "p": "yīyuàn",
+        "k": "extra"
+       },
+       {
+        "w": "一起",
+        "p": "yìqǐ",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "帮助",
+        "p": "bāngzhù",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "那",
+        "p": "nà",
+        "k": "extra"
+       },
+       {
+        "w": "些",
+        "p": "xiē",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "走路",
+        "p": "zǒulù",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "说话",
+        "p": "shuōhuà",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "病人",
+        "p": "bìngrén",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "9",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "位",
+        "p": "wèi",
+        "k": "extra"
+       },
+       {
+        "w": "病人",
+        "p": "bìngrén",
+        "k": "extra"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "脑",
+        "p": "nǎo",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "开",
+        "p": "kāi",
+        "k": "extra"
+       },
+       {
+        "w": "灯",
+        "p": "dēng",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "关",
+        "p": "guān",
+        "k": "extra"
+       },
+       {
+        "w": "灯",
+        "p": "dēng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "7",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "哪里",
+        "p": "nǎlǐ",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "继续",
+        "p": "jìxù",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "临床",
+        "p": "línchuáng",
+        "k": "core"
+       },
+       {
+        "w": "试验",
+        "p": "shìyàn",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "二",
+        "p": "èr",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "量产",
+        "p": "liàngchǎn",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "研发",
+        "p": "yánfā",
+        "k": "core"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "产品",
+        "p": "chǎnpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "试",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "试",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "脑机接口",
+        "p": "nǎojī jiēkǒu",
+        "k": "core"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "放",
+        "p": "fàng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "一起",
+        "p": "yìqǐ",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "目标",
+        "p": "mùbiāo",
+        "k": "core"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "两",
+        "p": "liǎng",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "产品",
+        "p": "chǎnpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "真正",
+        "p": "zhēnzhèng",
+        "k": "extra"
+       },
+       {
+        "w": "走",
+        "p": "zǒu",
+        "k": "extra"
+       },
+       {
+        "w": "进",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "医院",
+        "p": "yīyuàn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "不过",
+        "p": "búguò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "创始人",
+        "p": "chuàngshǐrén",
+        "k": "extra"
+       },
+       {
+        "w": "陶虎",
+        "p": "Táo Hǔ",
+        "k": "name"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "几",
+        "p": "jǐ",
+        "k": "extra"
+       },
+       {
+        "w": "十",
+        "p": "shí",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "病人",
+        "p": "bìngrén",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "远",
+        "p": "yuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "远",
+        "p": "yuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "不够",
+        "p": "bú gòu",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "算法",
+        "p": "suànfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "每",
+        "p": "měi",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "病人",
+        "p": "bìngrén",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "需要",
+        "p": "xūyào",
+        "k": "extra"
+       },
+       {
+        "w": "几",
+        "p": "jǐ",
+        "k": "extra"
+       },
+       {
+        "w": "百",
+        "p": "bǎi",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "几",
+        "p": "jǐ",
+        "k": "extra"
+       },
+       {
+        "w": "千",
+        "p": "qiān",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "投资",
+        "p": "tóuzī",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "门",
+        "p": "Mén",
+        "k": "extra"
+       },
+       {
+        "w": "需要",
+        "p": "xūyào",
+        "k": "extra"
+       },
+       {
+        "w": "耐心",
+        "p": "nàixīn",
+        "k": "extra"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "生意",
+        "p": "shēngyì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 由A领投 — do A dẫn đầu vòng vốn",
+    "b": [
+     "Cách dùng:",
+     "Mẫu câu chuẩn của tin gọi vốn: 由 + nhà đầu tư + 领投, sau đó thường thêm bên 跟投 (cùng rót vốn theo). Gặp gần như mỗi ngày trên 36氪, IT之家.",
+     "这一轮由国投聚力、深创投和勤智资本三家领投，还有十多家公司跟投……",
+     "Zhè yì lún yóu Guótóu Jùlì, Shēnchuàngtóu hé Qínzhì Zīběn sān jiā lǐngtóu, hái yǒu shí duō jiā gōngsī gēntóu.",
+     "Vòng này do ba bên SDIC Unity, Shenzhen Capital và Qinzhi Capital dẫn đầu, còn hơn mười công ty khác cùng rót vốn theo."
+    ]
+   },
+   {
+    "h": "II. 不用A，也不用B，只要C就D — không cần A, cũng không cần B, chỉ cần C là D",
+    "b": [
+     "Cách dùng:",
+     "Gạt bỏ hai điều kiện quen thuộc, rồi dùng 只要…就… để nêu điều kiện duy nhất còn lại. Hợp để giải thích một công nghệ mới làm gì.",
+     "让人不用说话，也不用手，只要“想”一下，设备就能开始工作。",
+     "Ràng rén búyòng shuōhuà, yě búyòng shǒu, zhǐyào “xiǎng” yíxià, shèbèi jiù néng kāishǐ gōngzuò.",
+     "Để con người không cần nói, cũng không cần dùng tay, chỉ cần “nghĩ” một cái là thiết bị đã bắt đầu làm việc."
+    ]
+   },
+   {
+    "h": "III. 一是A，二是B，三是C — một là A, hai là B, ba là C",
+    "b": [
+     "Cách dùng:",
+     "Liệt kê các hướng dùng tiền, các lý do, các biện pháp. Rất hay gặp trong thông cáo gọi vốn và báo cáo chính sách.",
+     "一是继续做临床试验，二是量产，三是研发新产品……",
+     "Yī shì jìxù zuò línchuáng shìyàn, èr shì liàngchǎn, sān shì yánfā xīn chǎnpǐn.",
+     "Một là tiếp tục thử nghiệm lâm sàng, hai là sản xuất hàng loạt, ba là nghiên cứu phát triển sản phẩm mới."
+    ]
+   }
+  ],
+  "vocab": [
+   "脑机接口",
+   "领投",
+   "设备",
+   "系统",
+   "植入",
+   "临床",
+   "试验",
+   "量产",
+   "研发",
+   "目标"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "IT之家",
+    "author": "IT之家",
+    "title": "国产脑机接口公司脑虎科技完成 7 亿元 B 轮融资，国投聚力、深创投、勤智资本领投",
+    "date": "2026-10-28",
+    "url": "https://www.ithome.com/1/018/733.htm",
+    "accessed": "2026-10-28"
+   },
+   {
+    "role": "secondary",
+    "outlet": "36氪（网易号转载）",
+    "author": "胡香赟",
+    "title": "「脑虎科技」B轮融资7亿，“三全”脑机接口系统进入注册临床｜36氪首发",
+    "date": "2026-10-28",
+    "url": "https://www.163.com/dy/article/LAAJBCVJ05118DFD.html",
+    "accessed": "2026-10-28"
+   }
+  ]
+ }
+}
