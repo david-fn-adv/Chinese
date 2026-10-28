@@ -15,9 +15,7 @@ BOOKS_BASE = [{'b': 1, 'title': '基础', 'vn': 'Nền tảng'},
 
 def main():
     db = N.merge()
-    books = list(BOOKS_BASE)
-    if any(l['book'] == N.NEWS_BOOK for l in db['lessons']):
-        books.append(dict(N.NEWS_LABEL))
+    books = list(BOOKS_BASE) + db.pop('news_books')
     db['books'] = books
 
     tpl = io.open(N.TPL, encoding='utf-8').read()
@@ -26,7 +24,7 @@ def main():
     assert '__DATA__' not in html, 'template thiếu chỗ cắm __DATA__'
     io.open(N.OUT, 'w', encoding='utf-8', newline='\n').write(html)
 
-    nnews = sum(1 for l in db['lessons'] if l['book'] == N.NEWS_BOOK)
+    nnews = sum(1 for l in db['lessons'] if l.get('src'))
     print('index.html   %.2f MB' % (os.path.getsize(N.OUT) / 1048576.0))
     print('bài          %d  (giáo trình %d + tin %d)'
           % (len(db['lessons']), len(db['lessons']) - nnews, nnews))

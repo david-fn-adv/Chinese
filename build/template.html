@@ -74,7 +74,7 @@
   .shelf h2{margin:0 0 3px;font-size:13px;font-weight:700}
   .shelf p{margin:0 0 16px;font-size:12.5px;color:var(--ink2)}
   .brow{display:flex;align-items:center;gap:8px;margin-bottom:6px}
-  .blabel{font-family:var(--mono);font-size:10px;color:var(--ink3);width:20px;flex:none;letter-spacing:.04em}
+  .blabel{font-family:var(--mono);font-size:10px;color:var(--ink3);width:34px;flex:none;letter-spacing:.02em;white-space:nowrap}
   .cells{display:flex;gap:3px;flex:1;flex-wrap:nowrap;justify-content:flex-start}
   .cell{flex:1 1 0;max-width:34px;height:16px;border-radius:2px;background:var(--d0);cursor:pointer;min-width:0;position:relative;border:0;padding:0;box-shadow:inset 0 0 0 1px var(--cell-bd)}
   .cell.d1{background:var(--d1)}.cell.d2{background:var(--d2)}.cell.d3{background:var(--d3)}.cell.d4{background:var(--d4)}
@@ -101,8 +101,8 @@
   details.book>summary::-webkit-details-marker{display:none}
   details.book>summary::after{content:"\203A";margin-left:auto;color:var(--ink3);font-size:18px;transform:rotate(90deg)}
   details.book[open]>summary::after{transform:rotate(-90deg)}
-  .bk{font-family:var(--mono);font-size:10px;letter-spacing:.1em;color:var(--ink3)}
-  .bt{font-family:var(--han);font-size:16px;font-weight:700}
+  .bk{font-family:var(--mono);font-size:10px;letter-spacing:.1em;color:var(--ink3);white-space:nowrap}
+  .bt{font-family:var(--han);font-size:16px;font-weight:700;white-space:nowrap}
   .bmeta{font-family:var(--mono);font-size:10px;color:var(--ink3);margin-left:6px}
   .lrow{display:flex;align-items:center;gap:11px;padding:11px 15px;border-top:1px solid var(--rule);width:100%;background:var(--paper);border-left:0;border-right:0;border-bottom:0;text-align:left;font:inherit;cursor:pointer}
   .lrow:hover{background:var(--hover)}
@@ -496,8 +496,8 @@ function renderLibrary(){
     var ls = LESSONS.filter(function(l){ return l.book===bk.b; });
     var open = byId[cur].book===bk.b;
     return '<details class="book"'+(open?' open':'')+'><summary>' +
-      '<span class="bk">SÁCH '+bk.b+'</span><span class="bt">'+bk.title+'</span>' +
-      '<span class="bmeta">'+ls.length+' bài · '+bk.vn+'</span></summary>' +
+      '<span class="bk">'+(bk.kind==='news' ? 'TIN' : 'SÁCH '+bk.b)+'</span><span class="bt">'+esc(bk.title)+'</span>' +
+      '<span class="bmeta">'+ls.length+' bài · '+esc(bk.vn)+'</span></summary>' +
       ls.map(function(l){
         var p = progressOf(l);
         var pill = l.id===cur ? '<span class="pill live">ĐANG HỌC</span>'

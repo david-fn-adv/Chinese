@@ -8,8 +8,7 @@ NEWSDIR = os.path.join(ROOT, 'news')
 TPL     = os.path.join(ROOT, 'build', 'template.html')
 OUT     = os.path.join(ROOT, 'index.html')
 
-NEWS_BOOK  = 4
-NEWS_LABEL = {'b': NEWS_BOOK, 'title': '新闻', 'vn': 'Tin tức', 'label': 'TIN'}
+NEWS_BOOK  = 4      # số sách gốc ghi trong file bài tin; khi dựng app được thay bằng quyển theo tháng
 
 HAN_RE  = re.compile(r'[㐀-䶿一-鿿]')
 PUNCT   = set('，。！？；：、“”‘’（）《》〈〉…—·「」【】〔〕％'
@@ -189,6 +188,28 @@ def merge():
                 db['dict'][w] = v
         db['names'].update(nf.get('names', {}))
         l = nf['lesson']; seq += 1
-        l['seq'] = seq; l['book'] = NEWS_BOOK
+        l['seq'] = seq
         db['lessons'].append(l)
+    db['news_books'] = month_books([l for l in db['lessons'] if l.get('src')])
     return db
+
+def month_books(news):
+    """Gom bài tin thành từng quyển theo tháng (mỗi quyển ≈ 30 bài với nhịp 1 bài/ngày).
+
+    Quyển đầu tiên là sách số NEWS_BOOK, các tháng sau nối tiếp 5, 6, … theo thứ tự thời gian.
+    Gán lại l['book'] và l['no'] (số thứ tự trong tháng) cho từng bài — chỉ ở lớp dựng app,
+    không ghi vào file news/*.json.
+    """
+    books, by_ym = [], {}
+    for l in sorted(news, key=lambda x: x['date']):
+        y, m = l['date'][:4], l['date'][5:7]
+        ym = y + '-' + m
+        if ym not in by_ym:
+            by_ym[ym] = {'b': NEWS_BOOK + len(books), 'kind': 'news', 'ym': ym,
+                         'title': '%s年%d月' % (y, int(m)), 'vn': 'tháng %d/%s' % (int(m), y),
+                         'label': '%s/%s' % (m, y[2:]), 'n': 0}
+            books.append(by_ym[ym])
+        bk = by_ym[ym]; bk['n'] += 1
+        l['book'] = bk['b']; l['no'] = bk['n']
+    for bk in books: del bk['n']
+    return books
