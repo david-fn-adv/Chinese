@@ -1,0 +1,2105 @@
+{
+ "date": "2026-10-30",
+ "id": "N-20261030",
+ "draft": {
+  "title": "机器人干了多少活",
+  "vn": "Robot đã làm được bao nhiêu việc",
+  "en": "How much work did the robot do",
+  "paras": [
+   "10月29日，机器人公司智元在上海开了一年一次的大会。会上，创始人彭志辉问大家：机器人越来越多了，可是我们应该拿什么来衡量一台机器人的价值？他的办法是一个新的单位，叫Worken，中文叫“有效智能工时”。",
+   "彭志辉说，在数字AI的时代，大家用token来算AI“想”了多少；机器人走进真的世界以后，也需要一个新的单位，来算它们“做”了多少。Worken的算法并不难：有多少台机器人在工作，乘以它们自己工作了多长时间，再乘以它们做事的效率。也就是说，只看卖出了多少台已经不够了，还要看这些机器人自己干成了多少事。",
+   "智元也公布了一些数字。据每日经济新闻和上海证券报报道，2026年上半年，智元的收入接近20亿元；在全球人形机器人市场上，它占了43%的份额；到现在，公司已经做出了大约2万台机器人。",
+   "为什么要有这样一个指标？有行业里的人认为，以前工厂里的机器人一直做同一件事，看它多少钱、开了多少小时，就能算出回报。可是人形机器人要去的地方更多，要做的事情也更难，只看价钱和时间，很难说清楚它到底有多少价值。",
+   "智元也想用真的工作来证明自己。据上海证券报报道，11月2日到3日，公司会让6台机器人走进一家商店，一直工作24个小时，给客人打包、拿东西。机器人好不好，最后还是要看它在店里能干多少活。"
+  ],
+  "points": [
+   {
+    "h": "I. A乘以B，再乘以C — A nhân với B, rồi nhân tiếp với C",
+    "b": [
+     "Cách dùng:",
+     "Cách đọc một công thức thành lời: 乘以 (nhân với), 再乘以 (rồi nhân tiếp). Gặp nhiều khi báo chí giải thích một chỉ số mới hoặc cách tính doanh thu.",
+     "有多少台机器人在工作，乘以它们自己工作了多长时间，再乘以它们做事的效率。",
+     "Yǒu duōshǎo tái jīqìrén zài gōngzuò, chéngyǐ tāmen zìjǐ gōngzuò le duō cháng shíjiān, zài chéngyǐ tāmen zuòshì de xiàolǜ.",
+     "Có bao nhiêu robot đang làm việc, nhân với thời gian chúng tự làm việc, rồi nhân tiếp với hiệu suất làm việc của chúng."
+    ]
+   },
+   {
+    "h": "II. 在…市场上，A占了X%的份额 — trên thị trường…, A chiếm X% thị phần",
+    "b": [
+     "Cách dùng:",
+     "Mẫu câu chuẩn để nói thị phần: 在 + thị trường + 上，chủ thể + 占(了) + X% + 的份额. Dùng lại được cho ngân hàng, ví điện tử, hàng xuất khẩu…",
+     "在全球人形机器人市场上，它占了43%的份额",
+     "Zài quánqiú rénxíng jīqìrén shìchǎng shang, tā zhàn le bǎi fēn zhī sìshísān de fèn'é",
+     "Trên thị trường robot hình người toàn cầu, nó chiếm 43% thị phần"
+    ]
+   },
+   {
+    "h": "III. 只看A已经不够了，还要看B — chỉ nhìn A thì không còn đủ nữa, còn phải xem B",
+    "b": [
+     "Cách dùng:",
+     "Dùng khi lập luận rằng một thước đo cũ không đủ và cần thêm tiêu chí mới. 已经…了 nhấn mạnh tình hình đã thay đổi.",
+     "只看卖出了多少台已经不够了，还要看这些机器人自己干成了多少事。",
+     "Zhǐ kàn mài chū le duōshǎo tái yǐjīng bú gòu le, hái yào kàn zhèxiē jīqìrén zìjǐ gàn chéng le duōshǎo shì.",
+     "Chỉ nhìn bán ra bao nhiêu chiếc thì không còn đủ nữa, còn phải xem những robot này tự mình làm xong được bao nhiêu việc."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "智元": {
+   "w": "智元",
+   "p": "Zhìyuán",
+   "hv": "Trí Nguyên",
+   "note": "AgiBot — công ty robot hình người của Trung Quốc, trụ sở Thượng Hải"
+  },
+  "彭志辉": {
+   "w": "彭志辉",
+   "p": "Péng Zhìhuī",
+   "hv": "Bành Chí Huy",
+   "note": "đồng sáng lập, chủ tịch kiêm CTO của 智元 (biệt danh 稚晖君)"
+  },
+  "有效智能工时": {
+   "w": "有效智能工时",
+   "p": "yǒuxiào zhìnéng gōngshí",
+   "hv": "hữu hiệu trí năng công thời",
+   "note": "tên tiếng Trung của Worken: “giờ công thông minh hữu hiệu”"
+  },
+  "每日经济新闻": {
+   "w": "每日经济新闻",
+   "p": "Měirì Jīngjì Xīnwén",
+   "hv": "Mỗi Nhật Kinh Tế Tân Văn",
+   "note": "National Business Daily (NBD) — nhật báo kinh tế"
+  },
+  "上海证券报": {
+   "w": "上海证券报",
+   "p": "Shànghǎi Zhèngquàn Bào",
+   "hv": "Thượng Hải Chứng Khoán Báo",
+   "note": "Shanghai Securities News — báo chứng khoán"
+  }
+ },
+ "dict": {
+  "机器人": {
+   "w": "机器人",
+   "p": "jīqìrén",
+   "hv": "cơ khí nhân",
+   "pos": "N",
+   "en": "robot",
+   "vn": "robot, người máy",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261030"
+   ]
+  },
+  "衡量": {
+   "w": "衡量",
+   "p": "héngliáng",
+   "hv": "hành lượng",
+   "pos": "V",
+   "en": "to measure, to weigh up",
+   "vn": "đo lường, đánh giá",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261030"
+   ]
+  },
+  "价值": {
+   "w": "价值",
+   "p": "jiàzhí",
+   "hv": "giá trị",
+   "pos": "N",
+   "en": "value",
+   "vn": "giá trị",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261030"
+   ]
+  },
+  "单位": {
+   "w": "单位",
+   "p": "dānwèi",
+   "hv": "đơn vị",
+   "pos": "N",
+   "en": "unit (of measurement)",
+   "vn": "đơn vị (đo lường)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261030"
+   ]
+  },
+  "乘以": {
+   "w": "乘以",
+   "p": "chéngyǐ",
+   "hv": "thừa dĩ",
+   "pos": "V",
+   "en": "to multiply by",
+   "vn": "nhân với",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261030"
+   ]
+  },
+  "人形机器人": {
+   "w": "人形机器人",
+   "p": "rénxíng jīqìrén",
+   "hv": "nhân hình cơ khí nhân",
+   "pos": "N",
+   "en": "humanoid robot",
+   "vn": "robot hình người",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261030"
+   ]
+  },
+  "份额": {
+   "w": "份额",
+   "p": "fèn'é",
+   "hv": "phần ngạch",
+   "pos": "N",
+   "en": "share (of a market)",
+   "vn": "thị phần, phần",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261030"
+   ]
+  },
+  "指标": {
+   "w": "指标",
+   "p": "zhǐbiāo",
+   "hv": "chỉ tiêu",
+   "pos": "N",
+   "en": "indicator, metric",
+   "vn": "chỉ tiêu, chỉ số",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261030"
+   ]
+  },
+  "工厂": {
+   "w": "工厂",
+   "p": "gōngchǎng",
+   "hv": "công xưởng",
+   "pos": "N",
+   "en": "factory",
+   "vn": "nhà máy",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261030"
+   ]
+  },
+  "证明": {
+   "w": "证明",
+   "p": "zhèngmíng",
+   "hv": "chứng minh",
+   "pos": "V",
+   "en": "to prove",
+   "vn": "chứng minh",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261030"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "每日经济新闻",
+   "author": "温梦华",
+   "title": "机器人也有“考核标准”了 智元发布首个“工时KPI”Worken",
+   "date": "2026-10-29",
+   "url": "https://www.nbd.com.cn/articles/2026-10-29/4626383.html",
+   "accessed": "2026-10-30"
+  },
+  {
+   "role": "secondary",
+   "outlet": "上海证券报（21经济网转载）",
+   "author": "宋薇萍",
+   "title": "从Token到Worken，智元提出物理AI“度量衡”",
+   "date": "2026-10-29",
+   "url": "https://www.21jingji.com/article/20261029/herald/9b55323d4f6d518defc008b2318a504e.html",
+   "accessed": "2026-10-30"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261030",
+  "book": 4,
+  "no": 18,
+  "date": "2026-10-30",
+  "seq": 60,
+  "title": "机器人干了多少活",
+  "py": "jīqìréngànleduōshǎohuó",
+  "en": "How much work did the robot do",
+  "vn": "Robot đã làm được bao nhiêu việc",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "29",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "机器人",
+        "p": "jīqìrén",
+        "k": "core"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "智元",
+        "p": "Zhìyuán",
+        "k": "name"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "上海",
+        "p": "Shànghǎi",
+        "k": "extra"
+       },
+       {
+        "w": "开",
+        "p": "kāi",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "次",
+        "p": "cì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "创始人",
+        "p": "chuàngshǐrén",
+        "k": "extra"
+       },
+       {
+        "w": "彭志辉",
+        "p": "Péng Zhìhuī",
+        "k": "name"
+       },
+       {
+        "w": "问",
+        "p": "wèn",
+        "k": "extra"
+       },
+       {
+        "w": "大家",
+        "p": "dàjiā",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "机器人",
+        "p": "jīqìrén",
+        "k": "core"
+       },
+       {
+        "w": "越来越",
+        "p": "yuèláiyuè",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "我们",
+        "p": "wǒmen",
+        "k": "extra"
+       },
+       {
+        "w": "应该",
+        "p": "yīnggāi",
+        "k": "extra"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "什么",
+        "p": "shénme",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "衡量",
+        "p": "héngliáng",
+        "k": "core"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "台",
+        "p": "(Tái) jīn",
+        "k": "extra"
+       },
+       {
+        "w": "机器人",
+        "p": "jīqìrén",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "价值",
+        "p": "jiàzhí",
+        "k": "core"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "他",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "办法",
+        "p": "bànfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "单位",
+        "p": "dānwèi",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "叫",
+        "p": "jiào",
+        "k": "extra"
+       },
+       {
+        "w": "Worken",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "中文",
+        "p": "Zhōngwén",
+        "k": "extra"
+       },
+       {
+        "w": "叫",
+        "p": "jiào",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "有效智能工时",
+        "p": "yǒuxiào zhìnéng gōngshí",
+        "k": "name"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "彭志辉",
+        "p": "Péng Zhìhuī",
+        "k": "name"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "数字",
+        "p": "shùzì",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "时代",
+        "p": "shídài",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "大家",
+        "p": "dàjiā",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "token",
+        "k": "plain"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "算",
+        "p": "suàn",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "想",
+        "p": "xiǎng",
+        "k": "extra"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "机器人",
+        "p": "jīqìrén",
+        "k": "core"
+       },
+       {
+        "w": "走",
+        "p": "zǒu",
+        "k": "extra"
+       },
+       {
+        "w": "进",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "真的",
+        "p": "zhēn de",
+        "k": "extra"
+       },
+       {
+        "w": "世界",
+        "p": "shìjiè",
+        "k": "extra"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "需要",
+        "p": "xūyào",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "单位",
+        "p": "dānwèi",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "算",
+        "p": "suàn",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "们",
+        "p": "men",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "Worken",
+        "k": "plain"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "算法",
+        "p": "suànfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "并",
+        "p": "bìng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "难",
+        "p": "nán",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "台",
+        "p": "(Tái) jīn",
+        "k": "extra"
+       },
+       {
+        "w": "机器人",
+        "p": "jīqìrén",
+        "k": "core"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "工作",
+        "p": "gōngzuò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "乘以",
+        "p": "chéngyǐ",
+        "k": "core"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "们",
+        "p": "men",
+        "k": "extra"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "工作",
+        "p": "gōngzuò",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "长",
+        "p": "cháng",
+        "k": "extra"
+       },
+       {
+        "w": "时间",
+        "p": "shíjiān",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "再",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "乘以",
+        "p": "chéngyǐ",
+        "k": "core"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "们",
+        "p": "men",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "事",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "效率",
+        "p": "xiàolǜ",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "出",
+        "p": "chū",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "台",
+        "p": "(Tái) jīn",
+        "k": "extra"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "不够",
+        "p": "bú gòu",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "机器人",
+        "p": "jīqìrén",
+        "k": "core"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "干",
+        "p": "gān",
+        "k": "extra"
+       },
+       {
+        "w": "成",
+        "p": "chéng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "事",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "智元",
+        "p": "Zhìyuán",
+        "k": "name"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "公布",
+        "p": "gōngbù",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一些",
+        "p": "yìxiē",
+        "k": "extra"
+       },
+       {
+        "w": "数字",
+        "p": "shùzì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "每日经济新闻",
+        "p": "Měirì Jīngjì Xīnwén",
+        "k": "name"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "上海证券报",
+        "p": "Shànghǎi Zhèngquàn Bào",
+        "k": "name"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "2026",
+        "k": "plain"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "上半年",
+        "p": "shàngbànnián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "智元",
+        "p": "Zhìyuán",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "收入",
+        "p": "shōurù",
+        "k": "extra"
+       },
+       {
+        "w": "接近",
+        "p": "jiējìn",
+        "k": "extra"
+       },
+       {
+        "w": "20",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "全球",
+        "p": "quánqiú",
+        "k": "extra"
+       },
+       {
+        "w": "人形机器人",
+        "p": "rénxíng jīqìrén",
+        "k": "core"
+       },
+       {
+        "w": "市场",
+        "p": "shìchǎng",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "占",
+        "p": "zhàn",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "43%",
+        "k": "plain"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "份额",
+        "p": "fèn'é",
+        "k": "core"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "出",
+        "p": "chū",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "约",
+        "p": "yuē",
+        "k": "extra"
+       },
+       {
+        "w": "2",
+        "k": "plain"
+       },
+       {
+        "w": "万",
+        "p": "wàn",
+        "k": "extra"
+       },
+       {
+        "w": "台",
+        "p": "(Tái) jīn",
+        "k": "extra"
+       },
+       {
+        "w": "机器人",
+        "p": "jīqìrén",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "为什么",
+        "p": "wèishénme",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "这样",
+        "p": "zhè yàng",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "指标",
+        "p": "zhǐbiāo",
+        "k": "core"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "行",
+        "p": "xíng",
+        "k": "extra"
+       },
+       {
+        "w": "业",
+        "p": "yè",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "认为",
+        "p": "rènwéi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "以前",
+        "p": "yǐqián",
+        "k": "extra"
+       },
+       {
+        "w": "工厂",
+        "p": "gōngchǎng",
+        "k": "core"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "机器人",
+        "p": "jīqìrén",
+        "k": "core"
+       },
+       {
+        "w": "一直",
+        "p": "yìzhí",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "同",
+        "p": "tóng",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "件",
+        "p": "jiàn",
+        "k": "extra"
+       },
+       {
+        "w": "事",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "开",
+        "p": "kāi",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "小时",
+        "p": "xiǎoshí",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "算",
+        "p": "suàn",
+        "k": "extra"
+       },
+       {
+        "w": "出",
+        "p": "chū",
+        "k": "extra"
+       },
+       {
+        "w": "回",
+        "p": "huí",
+        "k": "extra"
+       },
+       {
+        "w": "报",
+        "p": "bào",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "人形机器人",
+        "p": "rénxíng jīqìrén",
+        "k": "core"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "去",
+        "p": "qù",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "地方",
+        "p": "dìfāng",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "事情",
+        "p": "shìqíng",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "难",
+        "p": "nán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "价钱",
+        "p": "jiàqián",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "时间",
+        "p": "shíjiān",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "难",
+        "p": "nán",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "清楚",
+        "p": "qīngchǔ",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "到底",
+        "p": "dàodǐ",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "价值",
+        "p": "jiàzhí",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "智元",
+        "p": "Zhìyuán",
+        "k": "name"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "想",
+        "p": "xiǎng",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "真的",
+        "p": "zhēn de",
+        "k": "extra"
+       },
+       {
+        "w": "工作",
+        "p": "gōngzuò",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "证明",
+        "p": "zhèngmíng",
+        "k": "core"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "上海证券报",
+        "p": "Shànghǎi Zhèngquàn Bào",
+        "k": "name"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "11",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "2",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "3",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "6",
+        "k": "plain"
+       },
+       {
+        "w": "台",
+        "p": "(Tái) jīn",
+        "k": "extra"
+       },
+       {
+        "w": "机器人",
+        "p": "jīqìrén",
+        "k": "core"
+       },
+       {
+        "w": "走",
+        "p": "zǒu",
+        "k": "extra"
+       },
+       {
+        "w": "进",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "商店",
+        "p": "shāngdiàn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "一直",
+        "p": "yìzhí",
+        "k": "extra"
+       },
+       {
+        "w": "工作",
+        "p": "gōngzuò",
+        "k": "extra"
+       },
+       {
+        "w": "24",
+        "k": "plain"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "小时",
+        "p": "xiǎoshí",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "客人",
+        "p": "kèrén",
+        "k": "extra"
+       },
+       {
+        "w": "打",
+        "p": "dǎ",
+        "k": "extra"
+       },
+       {
+        "w": "包",
+        "p": "bāo",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "东西",
+        "p": "dōngxi",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "机器人",
+        "p": "jīqìrén",
+        "k": "core"
+       },
+       {
+        "w": "好不好",
+        "p": "hǎobùhǎo",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "最后",
+        "p": "zuìhòu",
+        "k": "extra"
+       },
+       {
+        "w": "还是",
+        "p": "háishì",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "店",
+        "p": "diàn",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "干",
+        "p": "gān",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "活",
+        "p": "huó",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. A乘以B，再乘以C — A nhân với B, rồi nhân tiếp với C",
+    "b": [
+     "Cách dùng:",
+     "Cách đọc một công thức thành lời: 乘以 (nhân với), 再乘以 (rồi nhân tiếp). Gặp nhiều khi báo chí giải thích một chỉ số mới hoặc cách tính doanh thu.",
+     "有多少台机器人在工作，乘以它们自己工作了多长时间，再乘以它们做事的效率。",
+     "Yǒu duōshǎo tái jīqìrén zài gōngzuò, chéngyǐ tāmen zìjǐ gōngzuò le duō cháng shíjiān, zài chéngyǐ tāmen zuòshì de xiàolǜ.",
+     "Có bao nhiêu robot đang làm việc, nhân với thời gian chúng tự làm việc, rồi nhân tiếp với hiệu suất làm việc của chúng."
+    ]
+   },
+   {
+    "h": "II. 在…市场上，A占了X%的份额 — trên thị trường…, A chiếm X% thị phần",
+    "b": [
+     "Cách dùng:",
+     "Mẫu câu chuẩn để nói thị phần: 在 + thị trường + 上，chủ thể + 占(了) + X% + 的份额. Dùng lại được cho ngân hàng, ví điện tử, hàng xuất khẩu…",
+     "在全球人形机器人市场上，它占了43%的份额",
+     "Zài quánqiú rénxíng jīqìrén shìchǎng shang, tā zhàn le bǎi fēn zhī sìshísān de fèn'é",
+     "Trên thị trường robot hình người toàn cầu, nó chiếm 43% thị phần"
+    ]
+   },
+   {
+    "h": "III. 只看A已经不够了，还要看B — chỉ nhìn A thì không còn đủ nữa, còn phải xem B",
+    "b": [
+     "Cách dùng:",
+     "Dùng khi lập luận rằng một thước đo cũ không đủ và cần thêm tiêu chí mới. 已经…了 nhấn mạnh tình hình đã thay đổi.",
+     "只看卖出了多少台已经不够了，还要看这些机器人自己干成了多少事。",
+     "Zhǐ kàn mài chū le duōshǎo tái yǐjīng bú gòu le, hái yào kàn zhèxiē jīqìrén zìjǐ gàn chéng le duōshǎo shì.",
+     "Chỉ nhìn bán ra bao nhiêu chiếc thì không còn đủ nữa, còn phải xem những robot này tự mình làm xong được bao nhiêu việc."
+    ]
+   }
+  ],
+  "vocab": [
+   "机器人",
+   "衡量",
+   "价值",
+   "单位",
+   "乘以",
+   "人形机器人",
+   "份额",
+   "指标",
+   "工厂",
+   "证明"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "每日经济新闻",
+    "author": "温梦华",
+    "title": "机器人也有“考核标准”了 智元发布首个“工时KPI”Worken",
+    "date": "2026-10-29",
+    "url": "https://www.nbd.com.cn/articles/2026-10-29/4626383.html",
+    "accessed": "2026-10-30"
+   },
+   {
+    "role": "secondary",
+    "outlet": "上海证券报（21经济网转载）",
+    "author": "宋薇萍",
+    "title": "从Token到Worken，智元提出物理AI“度量衡”",
+    "date": "2026-10-29",
+    "url": "https://www.21jingji.com/article/20261029/herald/9b55323d4f6d518defc008b2318a504e.html",
+    "accessed": "2026-10-30"
+   }
+  ]
+ }
+}

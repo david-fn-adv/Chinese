@@ -1,0 +1,2188 @@
+{
+ "date": "2026-10-31",
+ "id": "N-20261031",
+ "draft": {
+  "title": "两万张卡的大单",
+  "vn": "Đơn hàng lớn hai vạn thẻ AI",
+  "en": "A 20,000-card order",
+  "paras": [
+   "10月28日，中国移动公示了一次很大的采购：从2026年到2027年，它要买很多新的AI超节点设备，一共20480张AI卡，还有448台交换机和82套存储设备。最后有五家企业中标，它们的报价都在116亿元到117亿元之间。按117亿元来算，平均一张卡大约57万元。",
+   "这次招标是9月29日开始的。中国移动没有把这次采购分成几个小部分，而是一次选出四到五家公司，再按排名来分份额。排名第一的是华鲲振宇，据科技首条报道，它拿到了30%；宝德是第二，拿到25%；华启智慧是第三，拿到20%。另外两家是百信和神州鲲泰。",
+   "有意思的是，五家公司的报价差得很少。据科技首条报道，报价最低的是宝德，最高的两家都报了117.02亿元，两边只差1.03亿元，还不到1%。也就是说，大家都不愿意用更便宜的价格来拿这个订单。可见在这样的大单里，价格也许不是最重要的东西。",
+   "华启智慧也值得注意。它是大华股份的子公司，2022年10月才成立。今年4月，中国移动第一次采购AI超节点设备，那一次一共只有6208张卡，华启智慧只是第五；这一次，它已经到了第三。",
+   "从6208张到20480张，只用了半年。这说明中国的大公司对算力的需求还在很快地增加。对卖设备的公司来说，能不能拿到这样的大单，也变得越来越重要了。"
+  ],
+  "points": [
+   {
+    "h": "I. 都在A到B之间 — đều nằm trong khoảng từ A đến B",
+    "b": [
+     "Cách dùng:",
+     "Mẫu câu báo chí để nói một nhóm con số dao động trong khoảng nào: chủ thể + 都在 + A + 到 + B + 之间. Dùng được cho giá, lãi suất, tăng trưởng…",
+     "它们的报价都在116亿元到117亿元之间。",
+     "Tāmen de bàojià dōu zài yìbǎi yīshíliù yì yuán dào yìbǎi yīshíqī yì yuán zhī jiān.",
+     "Giá chào thầu của họ đều nằm trong khoảng từ 11,6 tỷ đến 11,7 tỷ tệ (116 đến 117 trăm triệu tệ)."
+    ]
+   },
+   {
+    "h": "II. 没有…，而是… — không…, mà là…",
+    "b": [
+     "Cách dùng:",
+     "Phủ định cách làm thứ nhất rồi nêu cách làm thực tế. 而是 luôn đi sau một vế phủ định (没有/不是).",
+     "中国移动没有把这次采购分成几个小部分，而是一次选出四到五家公司，再按排名来分份额。",
+     "Zhōngguó Yídòng méiyǒu bǎ zhè cì cǎigòu fēn chéng jǐ gè xiǎo bùfen, ér shì yí cì xuǎn chū sì dào wǔ jiā gōngsī, zài àn páimíng lái fēn fèn'é.",
+     "China Mobile không chia đợt mua sắm này thành mấy phần nhỏ, mà chọn một lần bốn đến năm công ty, rồi chia thị phần theo thứ hạng."
+    ]
+   },
+   {
+    "h": "III. 从A到B，只用了… — từ A lên B chỉ mất…",
+    "b": [
+     "Cách dùng:",
+     "Nhấn mạnh tốc độ thay đổi: 从 + mốc cũ + 到 + mốc mới + ，只用了 + thời gian. Hay gặp khi viết về tăng trưởng quy mô.",
+     "从6208张到20480张，只用了半年。",
+     "Cóng liùqiān èrbǎi líng bā zhāng dào liǎngwàn líng sìbǎi bāshí zhāng, zhǐ yòng le bàn nián.",
+     "Từ 6.208 thẻ lên 20.480 thẻ, chỉ mất nửa năm."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "中国移动": {
+   "w": "中国移动",
+   "p": "Zhōngguó Yídòng",
+   "hv": "Trung Quốc Di Động",
+   "note": "China Mobile — nhà mạng viễn thông lớn nhất Trung Quốc, doanh nghiệp nhà nước"
+  },
+  "华鲲振宇": {
+   "w": "华鲲振宇",
+   "p": "Huákūn Zhènyǔ",
+   "hv": "Hoa Côn Chấn Vũ",
+   "note": "Tứ Xuyên Hoa Côn Chấn Vũ — hãng máy chủ AI trong hệ sinh thái Huawei Ascend (昇腾)"
+  },
+  "宝德": {
+   "w": "宝德",
+   "p": "Bǎodé",
+   "hv": "Bảo Đức",
+   "note": "PowerLeader (宝德计算机) — hãng máy chủ ở Thâm Quyến"
+  },
+  "华启智慧": {
+   "w": "华启智慧",
+   "p": "Huáqǐ Zhìhuì",
+   "hv": "Hoa Khải Trí Tuệ",
+   "note": "Chiết Giang Hoa Khải Trí Tuệ — công ty con của Dahua, lập tháng 10/2022"
+  },
+  "百信": {
+   "w": "百信",
+   "p": "Bǎixìn",
+   "hv": "Bách Tín",
+   "note": "Bách Tín Tín Tức (百信信息) — hãng máy chủ"
+  },
+  "神州鲲泰": {
+   "w": "神州鲲泰",
+   "p": "Shénzhōu Kūntài",
+   "hv": "Thần Châu Côn Thái",
+   "note": "Bắc Kinh Thần Châu Côn Thái — hãng máy chủ thuộc Digital China"
+  },
+  "大华股份": {
+   "w": "大华股份",
+   "p": "Dàhuá Gǔfèn",
+   "hv": "Đại Hoa Cổ Phần",
+   "note": "Dahua Technology — tập đoàn camera giám sát ở Hàng Châu"
+  },
+  "科技首条": {
+   "w": "科技首条",
+   "p": "Kējì Shǒutiáo",
+   "hv": "Khoa Kỹ Thủ Điều",
+   "note": "kênh tin công nghệ, đăng lại trên Sina"
+  }
+ },
+ "dict": {
+  "采购": {
+   "w": "采购",
+   "p": "cǎigòu",
+   "hv": "thái cấu",
+   "pos": "动/名",
+   "en": "to procure; procurement",
+   "vn": "mua sắm (thu mua theo đợt, của doanh nghiệp/nhà nước)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261031"
+   ]
+  },
+  "招标": {
+   "w": "招标",
+   "p": "zhāobiāo",
+   "hv": "chiêu tiêu",
+   "pos": "动",
+   "en": "to invite bids; tender",
+   "vn": "mời thầu, gọi thầu",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261031"
+   ]
+  },
+  "中标": {
+   "w": "中标",
+   "p": "zhòngbiāo",
+   "hv": "trúng tiêu",
+   "pos": "动",
+   "en": "to win a bid",
+   "vn": "trúng thầu",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261031"
+   ]
+  },
+  "报价": {
+   "w": "报价",
+   "p": "bàojià",
+   "hv": "báo giá",
+   "pos": "名/动",
+   "en": "quoted price; to quote",
+   "vn": "giá chào, báo giá",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261031"
+   ]
+  },
+  "公示": {
+   "w": "公示",
+   "p": "gōngshì",
+   "hv": "công thị",
+   "pos": "动",
+   "en": "to publicly announce (for objection period)",
+   "vn": "công bố công khai (để lấy ý kiến, chờ khiếu nại)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261031"
+   ]
+  },
+  "排名": {
+   "w": "排名",
+   "p": "páimíng",
+   "hv": "bài danh",
+   "pos": "名/动",
+   "en": "ranking; to rank",
+   "vn": "thứ hạng; xếp hạng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261031"
+   ]
+  },
+  "子公司": {
+   "w": "子公司",
+   "p": "zǐgōngsī",
+   "hv": "tử công ty",
+   "pos": "名",
+   "en": "subsidiary",
+   "vn": "công ty con",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261031"
+   ]
+  },
+  "交换机": {
+   "w": "交换机",
+   "p": "jiāohuànjī",
+   "hv": "giao hoán cơ",
+   "pos": "名",
+   "en": "network switch",
+   "vn": "bộ chuyển mạch (switch mạng)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261031"
+   ]
+  },
+  "存储": {
+   "w": "存储",
+   "p": "cúnchǔ",
+   "hv": "tồn trữ",
+   "pos": "动/名",
+   "en": "storage; to store",
+   "vn": "lưu trữ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261031"
+   ]
+  },
+  "超节点": {
+   "w": "超节点",
+   "p": "chāojiédiǎn",
+   "hv": "siêu tiết điểm",
+   "pos": "名",
+   "en": "supernode (rack of tightly linked AI chips)",
+   "vn": "siêu nút (cụm rất nhiều chip AI nối với nhau như một máy)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261031"
+   ]
+  },
+  "之间": {
+   "w": "之间",
+   "p": "zhījiān",
+   "hv": "chi gian",
+   "pos": "名",
+   "en": "between",
+   "vn": "giữa; trong khoảng (A 到 B 之间)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261031"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "科技首条（新浪转载）",
+   "author": "",
+   "title": "真花大钱呀！中国移动买大量人工智能芯片和交换机 最高报价117亿！少的也报115亿 都不肯低价",
+   "date": "2026-10-30",
+   "url": "http://k.sina.com.cn/article_5953466437_162dab0450670bgh4q.html",
+   "accessed": "2026-10-31"
+  },
+  {
+   "role": "secondary",
+   "outlet": "C114通信网（新浪科技转载）",
+   "author": "九九",
+   "title": "117亿元！中国移动AI超节点设备集采，华鲲振宇等五家中标",
+   "date": "2026-10-28",
+   "url": "https://finance.sina.com.cn/tech/roll/2026-10-28/doc-iniwuqvs6564306.shtml",
+   "accessed": "2026-10-31"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261031",
+  "book": 4,
+  "no": 19,
+  "date": "2026-10-31",
+  "seq": 61,
+  "title": "两万张卡的大单",
+  "py": "liǎngwànzhāngkǎdedàdān",
+  "en": "A 20,000-card order",
+  "vn": "Đơn hàng lớn hai vạn thẻ AI",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "28",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "中国移动",
+        "p": "Zhōngguó Yídòng",
+        "k": "name"
+       },
+       {
+        "w": "公示",
+        "p": "gōngshì",
+        "k": "core"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "次",
+        "p": "cì",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "采购",
+        "p": "cǎigòu",
+        "k": "core"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "2026",
+        "k": "plain"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "2027",
+        "k": "plain"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "买",
+        "p": "mǎi",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "超节点",
+        "p": "chāojiédiǎn",
+        "k": "core"
+       },
+       {
+        "w": "设备",
+        "p": "shèbèi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "一共",
+        "p": "yígòng",
+        "k": "extra"
+       },
+       {
+        "w": "20480",
+        "k": "plain"
+       },
+       {
+        "w": "张",
+        "p": "zhāng",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "卡",
+        "p": "kǎ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "448",
+        "k": "plain"
+       },
+       {
+        "w": "台",
+        "p": "(Tái) jīn",
+        "k": "extra"
+       },
+       {
+        "w": "交换机",
+        "p": "jiāohuànjī",
+        "k": "core"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "82",
+        "k": "plain"
+       },
+       {
+        "w": "套",
+        "p": "tào",
+        "k": "extra"
+       },
+       {
+        "w": "存储",
+        "p": "cúnchǔ",
+        "k": "core"
+       },
+       {
+        "w": "设备",
+        "p": "shèbèi",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "最后",
+        "p": "zuìhòu",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "五",
+        "p": "wǔ",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "中标",
+        "p": "zhòngbiāo",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "们",
+        "p": "men",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "报价",
+        "p": "bàojià",
+        "k": "core"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "116",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "117",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "之间",
+        "p": "zhījiān",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "按",
+        "p": "àn",
+        "k": "extra"
+       },
+       {
+        "w": "117",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "算",
+        "p": "suàn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "平均",
+        "p": "píngjūn",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "张",
+        "p": "zhāng",
+        "k": "extra"
+       },
+       {
+        "w": "卡",
+        "p": "kǎ",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "约",
+        "p": "yuē",
+        "k": "extra"
+       },
+       {
+        "w": "57",
+        "k": "plain"
+       },
+       {
+        "w": "万",
+        "p": "wàn",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "这次",
+        "p": "zhè cì",
+        "k": "extra"
+       },
+       {
+        "w": "招标",
+        "p": "zhāobiāo",
+        "k": "core"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "9",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "29",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "开始",
+        "p": "kāishǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "中国移动",
+        "p": "Zhōngguó Yídòng",
+        "k": "name"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "这次",
+        "p": "zhè cì",
+        "k": "extra"
+       },
+       {
+        "w": "采购",
+        "p": "cǎigòu",
+        "k": "core"
+       },
+       {
+        "w": "分",
+        "p": "fēn",
+        "k": "extra"
+       },
+       {
+        "w": "成",
+        "p": "chéng",
+        "k": "extra"
+       },
+       {
+        "w": "几",
+        "p": "jǐ",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "部",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "分",
+        "p": "fēn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "而",
+        "p": "ér",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "次",
+        "p": "cì",
+        "k": "extra"
+       },
+       {
+        "w": "选",
+        "p": "xuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "出",
+        "p": "chū",
+        "k": "extra"
+       },
+       {
+        "w": "四",
+        "p": "sì",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "五",
+        "p": "wǔ",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "再",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "按",
+        "p": "àn",
+        "k": "extra"
+       },
+       {
+        "w": "排名",
+        "p": "páimíng",
+        "k": "core"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "分",
+        "p": "fēn",
+        "k": "extra"
+       },
+       {
+        "w": "份额",
+        "p": "fèn'é",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "排名",
+        "p": "páimíng",
+        "k": "core"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "华鲲振宇",
+        "p": "Huákūn Zhènyǔ",
+        "k": "name"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "科技首条",
+        "p": "Kējì Shǒutiáo",
+        "k": "name"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "30%",
+        "k": "plain"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "宝德",
+        "p": "Bǎodé",
+        "k": "name"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "二",
+        "p": "èr",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "25%",
+        "k": "plain"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "华启智慧",
+        "p": "Huáqǐ Zhìhuì",
+        "k": "name"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "20%",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "另外",
+        "p": "lìngwài",
+        "k": "extra"
+       },
+       {
+        "w": "两",
+        "p": "liǎng",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "百信",
+        "p": "Bǎixìn",
+        "k": "name"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "神州鲲泰",
+        "p": "Shénzhōu Kūntài",
+        "k": "name"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "有意思",
+        "p": "yǒu yìsi",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "五",
+        "p": "wǔ",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "报价",
+        "p": "bàojià",
+        "k": "core"
+       },
+       {
+        "w": "差",
+        "p": "chā",
+        "k": "extra"
+       },
+       {
+        "w": "得",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "科技首条",
+        "p": "Kējì Shǒutiáo",
+        "k": "name"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "报价",
+        "p": "bàojià",
+        "k": "core"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "低",
+        "p": "dī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "宝德",
+        "p": "Bǎodé",
+        "k": "name"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "高",
+        "p": "gāo",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "两",
+        "p": "liǎng",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "报",
+        "p": "bào",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "117",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "02",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "两边",
+        "p": "liǎngbiān",
+        "k": "extra"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "差",
+        "p": "chā",
+        "k": "extra"
+       },
+       {
+        "w": "1",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "03",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "1%",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "大家",
+        "p": "dàjiā",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "愿意",
+        "p": "yuànyì",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "便宜",
+        "p": "piányí",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "订单",
+        "p": "dìngdān",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "可",
+        "p": "kě",
+        "k": "extra"
+       },
+       {
+        "w": "见",
+        "p": "jiàn",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "这样",
+        "p": "zhè yàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "单",
+        "p": "dān",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "也许",
+        "p": "yěxǔ",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "重要",
+        "p": "zhòngyào",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "东西",
+        "p": "dōngxi",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "华启智慧",
+        "p": "Huáqǐ Zhìhuì",
+        "k": "name"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "值得",
+        "p": "zhíde",
+        "k": "extra"
+       },
+       {
+        "w": "注意",
+        "p": "zhùyì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "大华股份",
+        "p": "Dàhuá Gǔfèn",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "子公司",
+        "p": "zǐgōngsī",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "2022",
+        "k": "plain"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "才",
+        "p": "cái",
+        "k": "extra"
+       },
+       {
+        "w": "成立",
+        "p": "chénglì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "4",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "中国移动",
+        "p": "Zhōngguó Yídòng",
+        "k": "name"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "次",
+        "p": "cì",
+        "k": "extra"
+       },
+       {
+        "w": "采购",
+        "p": "cǎigòu",
+        "k": "core"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "超节点",
+        "p": "chāojiédiǎn",
+        "k": "core"
+       },
+       {
+        "w": "设备",
+        "p": "shèbèi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "那",
+        "p": "nà",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "次",
+        "p": "cì",
+        "k": "extra"
+       },
+       {
+        "w": "一共",
+        "p": "yígòng",
+        "k": "extra"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "6208",
+        "k": "plain"
+       },
+       {
+        "w": "张",
+        "p": "zhāng",
+        "k": "extra"
+       },
+       {
+        "w": "卡",
+        "p": "kǎ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "华启智慧",
+        "p": "Huáqǐ Zhìhuì",
+        "k": "name"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "五",
+        "p": "wǔ",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "次",
+        "p": "cì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "6208",
+        "k": "plain"
+       },
+       {
+        "w": "张",
+        "p": "zhāng",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "20480",
+        "k": "plain"
+       },
+       {
+        "w": "张",
+        "p": "zhāng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "半",
+        "p": "bàn",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "说明",
+        "p": "shuōmíng",
+        "k": "extra"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "需求",
+        "p": "xūqiú",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "快",
+        "p": "kuài",
+        "k": "extra"
+       },
+       {
+        "w": "地",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "增加",
+        "p": "zēngjiā",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "设备",
+        "p": "shèbèi",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "这样",
+        "p": "zhè yàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "单",
+        "p": "dān",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "变",
+        "p": "biàn",
+        "k": "extra"
+       },
+       {
+        "w": "得",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "越来越",
+        "p": "yuèláiyuè",
+        "k": "extra"
+       },
+       {
+        "w": "重要",
+        "p": "zhòngyào",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 都在A到B之间 — đều nằm trong khoảng từ A đến B",
+    "b": [
+     "Cách dùng:",
+     "Mẫu câu báo chí để nói một nhóm con số dao động trong khoảng nào: chủ thể + 都在 + A + 到 + B + 之间. Dùng được cho giá, lãi suất, tăng trưởng…",
+     "它们的报价都在116亿元到117亿元之间。",
+     "Tāmen de bàojià dōu zài yìbǎi yīshíliù yì yuán dào yìbǎi yīshíqī yì yuán zhī jiān.",
+     "Giá chào thầu của họ đều nằm trong khoảng từ 11,6 tỷ đến 11,7 tỷ tệ (116 đến 117 trăm triệu tệ)."
+    ]
+   },
+   {
+    "h": "II. 没有…，而是… — không…, mà là…",
+    "b": [
+     "Cách dùng:",
+     "Phủ định cách làm thứ nhất rồi nêu cách làm thực tế. 而是 luôn đi sau một vế phủ định (没有/不是).",
+     "中国移动没有把这次采购分成几个小部分，而是一次选出四到五家公司，再按排名来分份额。",
+     "Zhōngguó Yídòng méiyǒu bǎ zhè cì cǎigòu fēn chéng jǐ gè xiǎo bùfen, ér shì yí cì xuǎn chū sì dào wǔ jiā gōngsī, zài àn páimíng lái fēn fèn'é.",
+     "China Mobile không chia đợt mua sắm này thành mấy phần nhỏ, mà chọn một lần bốn đến năm công ty, rồi chia thị phần theo thứ hạng."
+    ]
+   },
+   {
+    "h": "III. 从A到B，只用了… — từ A lên B chỉ mất…",
+    "b": [
+     "Cách dùng:",
+     "Nhấn mạnh tốc độ thay đổi: 从 + mốc cũ + 到 + mốc mới + ，只用了 + thời gian. Hay gặp khi viết về tăng trưởng quy mô.",
+     "从6208张到20480张，只用了半年。",
+     "Cóng liùqiān èrbǎi líng bā zhāng dào liǎngwàn líng sìbǎi bāshí zhāng, zhǐ yòng le bàn nián.",
+     "Từ 6.208 thẻ lên 20.480 thẻ, chỉ mất nửa năm."
+    ]
+   }
+  ],
+  "vocab": [
+   "采购",
+   "招标",
+   "中标",
+   "报价",
+   "公示",
+   "排名",
+   "子公司",
+   "交换机",
+   "存储",
+   "超节点",
+   "之间"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "科技首条（新浪转载）",
+    "author": "",
+    "title": "真花大钱呀！中国移动买大量人工智能芯片和交换机 最高报价117亿！少的也报115亿 都不肯低价",
+    "date": "2026-10-30",
+    "url": "http://k.sina.com.cn/article_5953466437_162dab0450670bgh4q.html",
+    "accessed": "2026-10-31"
+   },
+   {
+    "role": "secondary",
+    "outlet": "C114通信网（新浪科技转载）",
+    "author": "九九",
+    "title": "117亿元！中国移动AI超节点设备集采，华鲲振宇等五家中标",
+    "date": "2026-10-28",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-10-28/doc-iniwuqvs6564306.shtml",
+    "accessed": "2026-10-31"
+   }
+  ]
+ }
+}

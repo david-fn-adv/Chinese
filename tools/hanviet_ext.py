@@ -18,6 +18,9 @@ CHARS_EXT = """
 软:nhuyễn 盘:bàn 醒:tỉnh
 宣:tuyên 审:thẩm 批:phê 效:hiệu 泄:tiết 露:lộ 监:giám 储:trữ 晓:hiểu
 临:lâm 标:tiêu
+惠:huệ 衡:hành 乘:thừa 采:thái
+盈:doanh 披:phi 幅:phúc
+扩:khuếch 缩:súc
 """
 
 # Từ ghép có âm khác cách ghép từng chữ

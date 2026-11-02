@@ -1,0 +1,2081 @@
+{
+ "date": "2026-11-01",
+ "id": "N-20261101",
+ "draft": {
+  "title": "小企业更冷",
+  "vn": "Doanh nghiệp nhỏ thấy lạnh hơn",
+  "en": "Small firms feel the chill first",
+  "paras": [
+   "10月31日，国家统计局公布了10月份的PMI，也就是“采购经理指数”。这个指数每个月公布一次，是看经济冷热的重要数据。50是一条线：超过50，说明制造业在扩张；不到50，说明制造业在收缩。10月份制造业PMI是49.3%，比上个月下降了0.8个百分点，又不到50了。",
+   "为什么会下降呢？国家统计局的霍丽慧解释说，主要原因有两个：一是“十一”假期前，有一部分需求提前释放了，所以十月的订单就少了；二是国际环境复杂多变。数据显示，生产指数和新订单指数都比9月低，分别是49.8%和49.4%。",
+   "值得注意的是，企业的规模不同，感觉也很不一样。据国家统计局的数据，大企业的PMI是50.2%，还超过50；中等规模的企业是48.4%，小企业只有47.5%，比上个月分别下降了1.3个和1.4个百分点。也就是说，在同样的环境里，小企业感觉更冷。对银行来说，这也是一件值得注意的事：小企业的订单少了，手里的钱就更少，还贷款的压力也会更大。",
+   "也有好一点的消息。高技术制造业PMI是51.3%，装备制造业是50.6%，都还超过50。不过，服务业、建筑业这些非制造业的指数是49.7%，也不到50。中国物流与采购联合会的分析师张立群认为，现在最大的问题是需求不够，政府应该加大投资，让需求快一点回来。"
+  ],
+  "points": [
+   {
+    "h": "I. 比上个月下降了X个百分点 — giảm X điểm phần trăm so với tháng trước",
+    "b": [
+     "Cách dùng:",
+     "Mẫu câu chuẩn khi báo chí nói về chỉ số tính bằng %: A + 比 + mốc so sánh + 下降/上升 + 了 + số + 个百分点. Lưu ý: 百分点 là \"điểm phần trăm\" (49,3% so với 50,1% là giảm 0,8 điểm), khác với 下降了0.8%.",
+     "10月份制造业PMI是49.3%，比上个月下降了0.8个百分点，又不到50了。",
+     "Shí yuèfèn zhìzàoyè PMI shì bǎi fēn zhī sìshíjiǔ diǎn sān, bǐ shàng ge yuè xiàjiàng le líng diǎn bā ge bǎifēndiǎn, yòu bú dào wǔshí le.",
+     "PMI ngành chế tạo tháng 10 là 49,3%, giảm 0,8 điểm phần trăm so với tháng trước, lại xuống dưới 50."
+    ]
+   },
+   {
+    "h": "II. 分别是A和B / 分别下降了A和B — lần lượt là A và B",
+    "b": [
+     "Cách dùng:",
+     "分别 ghép từng con số với từng chủ thể đã nêu trước, theo đúng thứ tự. Rất hay gặp trong tin số liệu để gói nhiều chỉ số vào một câu.",
+     "生产指数和新订单指数都比9月低，分别是49.8%和49.4%。",
+     "Shēngchǎn zhǐshù hé xīn dìngdān zhǐshù dōu bǐ jiǔ yuè dī, fēnbié shì bǎi fēn zhī sìshíjiǔ diǎn bā hé bǎi fēn zhī sìshíjiǔ diǎn sì.",
+     "Chỉ số sản xuất và chỉ số đơn hàng mới đều thấp hơn tháng 9, lần lượt là 49,8% và 49,4%."
+    ]
+   },
+   {
+    "h": "III. 也就是说 — nói cách khác, tức là",
+    "b": [
+     "Cách dùng:",
+     "Đặt ở đầu câu để rút ra ý nghĩa của những con số vừa nêu, diễn đạt lại bằng lời dễ hiểu hơn.",
+     "也就是说，在同样的环境里，小企业感觉更冷。",
+     "Yě jiù shì shuō, zài tóngyàng de huánjìng lǐ, xiǎo qǐyè gǎnjué gèng lěng.",
+     "Nói cách khác, trong cùng một môi trường, doanh nghiệp nhỏ cảm thấy lạnh hơn."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "国家统计局": {
+   "w": "国家统计局",
+   "p": "Guójiā Tǒngjìjú",
+   "hv": "Quốc Gia Thống Kế Cục",
+   "note": "Cục Thống kê Quốc gia Trung Quốc (NBS) — nơi công bố PMI chính thức hằng tháng"
+  },
+  "霍丽慧": {
+   "w": "霍丽慧",
+   "p": "Huò Lìhuì",
+   "hv": "Hoắc Lệ Tuệ",
+   "note": "thống kê trưởng (首席统计师) Trung tâm điều tra ngành dịch vụ, Cục Thống kê Quốc gia"
+  },
+  "中国物流与采购联合会": {
+   "w": "中国物流与采购联合会",
+   "p": "Zhōngguó Wùliú yǔ Cǎigòu Liánhéhuì",
+   "hv": "Trung Quốc Vật Lưu Dữ Thái Cấu Liên Hợp Hội",
+   "note": "Liên đoàn Logistics và Mua sắm Trung Quốc (CFLP) — đơn vị cùng NBS làm khảo sát PMI"
+  },
+  "张立群": {
+   "w": "张立群",
+   "p": "Zhāng Lìqún",
+   "hv": "Trương Lập Quần",
+   "note": "chuyên gia phân tích đặc biệt (特约分析师) của CFLP"
+  }
+ },
+ "dict": {
+  "指数": {
+   "w": "指数",
+   "p": "zhǐshù",
+   "hv": "chỉ số",
+   "pos": "名",
+   "en": "index",
+   "vn": "chỉ số",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261101"
+   ]
+  },
+  "经理": {
+   "w": "经理",
+   "p": "jīnglǐ",
+   "hv": "kinh lý",
+   "pos": "名",
+   "en": "manager",
+   "vn": "giám đốc, người quản lý (经理 = manager)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261101"
+   ]
+  },
+  "制造业": {
+   "w": "制造业",
+   "p": "zhìzàoyè",
+   "hv": "chế tạo nghiệp",
+   "pos": "名",
+   "en": "manufacturing industry",
+   "vn": "ngành chế tạo, ngành sản xuất công nghiệp",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261101"
+   ]
+  },
+  "扩张": {
+   "w": "扩张",
+   "p": "kuòzhāng",
+   "hv": "khuếch trương",
+   "pos": "动",
+   "en": "to expand",
+   "vn": "mở rộng, khuếch trương",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261101"
+   ]
+  },
+  "收缩": {
+   "w": "收缩",
+   "p": "shōusuō",
+   "hv": "thu súc",
+   "pos": "动",
+   "en": "to contract, shrink",
+   "vn": "co lại, thu hẹp",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261101"
+   ]
+  },
+  "提前": {
+   "w": "提前",
+   "p": "tíqián",
+   "hv": "đề tiền",
+   "pos": "动/副",
+   "en": "in advance, ahead of time",
+   "vn": "trước thời hạn, sớm hơn dự kiến",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261101"
+   ]
+  },
+  "释放": {
+   "w": "释放",
+   "p": "shìfàng",
+   "hv": "thích phóng",
+   "pos": "动",
+   "en": "to release",
+   "vn": "giải phóng, bung ra (nhu cầu, áp lực…)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261101"
+   ]
+  },
+  "生产": {
+   "w": "生产",
+   "p": "shēngchǎn",
+   "hv": "sinh sản",
+   "pos": "动/名",
+   "en": "to produce; production",
+   "vn": "sản xuất",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261101"
+   ]
+  },
+  "装备": {
+   "w": "装备",
+   "p": "zhuāngbèi",
+   "hv": "trang bị",
+   "pos": "名",
+   "en": "equipment",
+   "vn": "trang thiết bị, máy móc thiết bị",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261101"
+   ]
+  },
+  "分析师": {
+   "w": "分析师",
+   "p": "fēnxīshī",
+   "hv": "phân tích sư",
+   "pos": "名",
+   "en": "analyst",
+   "vn": "nhà phân tích",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261101"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "东方财富网（转载国家统计局发布）",
+   "author": "国家统计局",
+   "title": "国家统计局：10月官方制造业PMI为49.3%",
+   "date": "2026-10-31",
+   "url": "https://finance.eastmoney.com/a/202610313917521468.html",
+   "accessed": "2026-11-01"
+  },
+  {
+   "role": "secondary",
+   "outlet": "新浪财经（券商中国）",
+   "author": "券商中国",
+   "title": "国家统计局，最新发布！10月PMI回落，解读来了",
+   "date": "2026-10-31",
+   "url": "https://finance.sina.com.cn/stock/zqgd/2026-10-31/doc-inixavkx7565226.shtml",
+   "accessed": "2026-11-01"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261101",
+  "book": 4,
+  "no": 20,
+  "date": "2026-11-01",
+  "seq": 62,
+  "title": "小企业更冷",
+  "py": "xiǎoqǐyègènglěng",
+  "en": "Small firms feel the chill first",
+  "vn": "Doanh nghiệp nhỏ thấy lạnh hơn",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "31",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "国家统计局",
+        "p": "Guójiā Tǒngjìjú",
+        "k": "name"
+       },
+       {
+        "w": "公布",
+        "p": "gōngbù",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "份",
+        "p": "fèn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "PMI",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "采购",
+        "p": "cǎigòu",
+        "k": "extra"
+       },
+       {
+        "w": "经理",
+        "p": "jīnglǐ",
+        "k": "core"
+       },
+       {
+        "w": "指数",
+        "p": "zhǐshù",
+        "k": "core"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "指数",
+        "p": "zhǐshù",
+        "k": "core"
+       },
+       {
+        "w": "每",
+        "p": "měi",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "公布",
+        "p": "gōngbù",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "次",
+        "p": "cì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "经济",
+        "p": "jīngjì",
+        "k": "extra"
+       },
+       {
+        "w": "冷",
+        "p": "lěng",
+        "k": "extra"
+       },
+       {
+        "w": "热",
+        "p": "rè",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "重要",
+        "p": "zhòngyào",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "50",
+        "k": "plain"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "条",
+        "p": "tiáo",
+        "k": "extra"
+       },
+       {
+        "w": "线",
+        "p": "xiàn",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "超过",
+        "p": "chāoguò",
+        "k": "extra"
+       },
+       {
+        "w": "50",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "说明",
+        "p": "shuōmíng",
+        "k": "extra"
+       },
+       {
+        "w": "制造业",
+        "p": "zhìzàoyè",
+        "k": "core"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "扩张",
+        "p": "kuòzhāng",
+        "k": "core"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "50",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "说明",
+        "p": "shuōmíng",
+        "k": "extra"
+       },
+       {
+        "w": "制造业",
+        "p": "zhìzàoyè",
+        "k": "core"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "收缩",
+        "p": "shōusuō",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "份",
+        "p": "fèn",
+        "k": "extra"
+       },
+       {
+        "w": "制造业",
+        "p": "zhìzàoyè",
+        "k": "core"
+       },
+       {
+        "w": "PMI",
+        "k": "plain"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "49",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "3%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "上个月",
+        "p": "shàngge yuè",
+        "k": "extra"
+       },
+       {
+        "w": "下降",
+        "p": "xiàjiàng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "0",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "8",
+        "k": "plain"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "百分点",
+        "p": "bǎifēndiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "又",
+        "p": "yòu",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "50",
+        "k": "plain"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "为什么",
+        "p": "wèishénme",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "下降",
+        "p": "xiàjiàng",
+        "k": "extra"
+       },
+       {
+        "w": "呢",
+        "p": "ne",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "国家统计局",
+        "p": "Guójiā Tǒngjìjú",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "霍丽慧",
+        "p": "Huò Lìhuì",
+        "k": "name"
+       },
+       {
+        "w": "解释",
+        "p": "jiěshì",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "主要",
+        "p": "zhǔyào",
+        "k": "extra"
+       },
+       {
+        "w": "原因",
+        "p": "yuányīn",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "两",
+        "p": "liǎng",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "十",
+        "p": "shí",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "假期",
+        "p": "jiàqí",
+        "k": "extra"
+       },
+       {
+        "w": "前",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "部",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "分",
+        "p": "fēn",
+        "k": "extra"
+       },
+       {
+        "w": "需求",
+        "p": "xūqiú",
+        "k": "extra"
+       },
+       {
+        "w": "提前",
+        "p": "tíqián",
+        "k": "core"
+       },
+       {
+        "w": "释放",
+        "p": "shìfàng",
+        "k": "core"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "所以",
+        "p": "suǒyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "十",
+        "p": "shí",
+        "k": "extra"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "订单",
+        "p": "dìngdān",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "二",
+        "p": "èr",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "国际",
+        "p": "guójì",
+        "k": "extra"
+       },
+       {
+        "w": "环境",
+        "p": "huánjìng",
+        "k": "extra"
+       },
+       {
+        "w": "复杂",
+        "p": "fùzá",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "变",
+        "p": "biàn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "显示",
+        "p": "xiǎnshì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "生产",
+        "p": "shēngchǎn",
+        "k": "core"
+       },
+       {
+        "w": "指数",
+        "p": "zhǐshù",
+        "k": "core"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "订单",
+        "p": "dìngdān",
+        "k": "extra"
+       },
+       {
+        "w": "指数",
+        "p": "zhǐshù",
+        "k": "core"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "9",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "低",
+        "p": "dī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "分",
+        "p": "fēn",
+        "k": "extra"
+       },
+       {
+        "w": "别",
+        "p": "bié",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "49",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "8%",
+        "k": "plain"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "49",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "4%",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "值得",
+        "p": "zhíde",
+        "k": "extra"
+       },
+       {
+        "w": "注意",
+        "p": "zhùyì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "规模",
+        "p": "guīmó",
+        "k": "extra"
+       },
+       {
+        "w": "不同",
+        "p": "bùtóng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "感觉",
+        "p": "gǎnjué",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "一样",
+        "p": "yíyàng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "国家统计局",
+        "p": "Guójiā Tǒngjìjú",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "PMI",
+        "k": "plain"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "50",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "2%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "超过",
+        "p": "chāoguò",
+        "k": "extra"
+       },
+       {
+        "w": "50",
+        "k": "plain"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "中",
+        "p": "zhōng",
+        "k": "extra"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "规模",
+        "p": "guīmó",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "48",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "4%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "47",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "5%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "上个月",
+        "p": "shàngge yuè",
+        "k": "extra"
+       },
+       {
+        "w": "分",
+        "p": "fēn",
+        "k": "extra"
+       },
+       {
+        "w": "别",
+        "p": "bié",
+        "k": "extra"
+       },
+       {
+        "w": "下降",
+        "p": "xiàjiàng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "1",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "3",
+        "k": "plain"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "1",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "4",
+        "k": "plain"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "百分点",
+        "p": "bǎifēndiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "同",
+        "p": "tóng",
+        "k": "extra"
+       },
+       {
+        "w": "样",
+        "p": "yàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "环境",
+        "p": "huánjìng",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "感觉",
+        "p": "gǎnjué",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "冷",
+        "p": "lěng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "件",
+        "p": "jiàn",
+        "k": "extra"
+       },
+       {
+        "w": "值得",
+        "p": "zhíde",
+        "k": "extra"
+       },
+       {
+        "w": "注意",
+        "p": "zhùyì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "事",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "订单",
+        "p": "dìngdān",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "手",
+        "p": "shǒu",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "压力",
+        "p": "yālì",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "好",
+        "p": "hǎo",
+        "k": "extra"
+       },
+       {
+        "w": "一点",
+        "p": "yīdiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "消息",
+        "p": "xiāoxí",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "高",
+        "p": "gāo",
+        "k": "extra"
+       },
+       {
+        "w": "技术",
+        "p": "jìshù",
+        "k": "extra"
+       },
+       {
+        "w": "制造业",
+        "p": "zhìzàoyè",
+        "k": "core"
+       },
+       {
+        "w": "PMI",
+        "k": "plain"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "51",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "3%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "装备",
+        "p": "zhuāngbèi",
+        "k": "core"
+       },
+       {
+        "w": "制造业",
+        "p": "zhìzàoyè",
+        "k": "core"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "50",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "6%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "超过",
+        "p": "chāoguò",
+        "k": "extra"
+       },
+       {
+        "w": "50",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "不过",
+        "p": "búguò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "服务",
+        "p": "fúwù",
+        "k": "extra"
+       },
+       {
+        "w": "业",
+        "p": "yè",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "建筑",
+        "p": "jiànzhú",
+        "k": "extra"
+       },
+       {
+        "w": "业",
+        "p": "yè",
+        "k": "extra"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "非",
+        "p": "fēi",
+        "k": "extra"
+       },
+       {
+        "w": "制造业",
+        "p": "zhìzàoyè",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "指数",
+        "p": "zhǐshù",
+        "k": "core"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "49",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "7%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "50",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "中国物流与采购联合会",
+        "p": "Zhōngguó Wùliú yǔ Cǎigòu Liánhéhuì",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "分析师",
+        "p": "fēnxīshī",
+        "k": "core"
+       },
+       {
+        "w": "张立群",
+        "p": "Zhāng Lìqún",
+        "k": "name"
+       },
+       {
+        "w": "认为",
+        "p": "rènwéi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "问题",
+        "p": "wèntí",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "需求",
+        "p": "xūqiú",
+        "k": "extra"
+       },
+       {
+        "w": "不够",
+        "p": "bú gòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "政府",
+        "p": "zhèngfǔ",
+        "k": "extra"
+       },
+       {
+        "w": "应该",
+        "p": "yīnggāi",
+        "k": "extra"
+       },
+       {
+        "w": "加",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "投资",
+        "p": "tóuzī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "需求",
+        "p": "xūqiú",
+        "k": "extra"
+       },
+       {
+        "w": "快",
+        "p": "kuài",
+        "k": "extra"
+       },
+       {
+        "w": "一点",
+        "p": "yīdiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "回来",
+        "p": "huílái",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 比上个月下降了X个百分点 — giảm X điểm phần trăm so với tháng trước",
+    "b": [
+     "Cách dùng:",
+     "Mẫu câu chuẩn khi báo chí nói về chỉ số tính bằng %: A + 比 + mốc so sánh + 下降/上升 + 了 + số + 个百分点. Lưu ý: 百分点 là \"điểm phần trăm\" (49,3% so với 50,1% là giảm 0,8 điểm), khác với 下降了0.8%.",
+     "10月份制造业PMI是49.3%，比上个月下降了0.8个百分点，又不到50了。",
+     "Shí yuèfèn zhìzàoyè PMI shì bǎi fēn zhī sìshíjiǔ diǎn sān, bǐ shàng ge yuè xiàjiàng le líng diǎn bā ge bǎifēndiǎn, yòu bú dào wǔshí le.",
+     "PMI ngành chế tạo tháng 10 là 49,3%, giảm 0,8 điểm phần trăm so với tháng trước, lại xuống dưới 50."
+    ]
+   },
+   {
+    "h": "II. 分别是A和B / 分别下降了A和B — lần lượt là A và B",
+    "b": [
+     "Cách dùng:",
+     "分别 ghép từng con số với từng chủ thể đã nêu trước, theo đúng thứ tự. Rất hay gặp trong tin số liệu để gói nhiều chỉ số vào một câu.",
+     "生产指数和新订单指数都比9月低，分别是49.8%和49.4%。",
+     "Shēngchǎn zhǐshù hé xīn dìngdān zhǐshù dōu bǐ jiǔ yuè dī, fēnbié shì bǎi fēn zhī sìshíjiǔ diǎn bā hé bǎi fēn zhī sìshíjiǔ diǎn sì.",
+     "Chỉ số sản xuất và chỉ số đơn hàng mới đều thấp hơn tháng 9, lần lượt là 49,8% và 49,4%."
+    ]
+   },
+   {
+    "h": "III. 也就是说 — nói cách khác, tức là",
+    "b": [
+     "Cách dùng:",
+     "Đặt ở đầu câu để rút ra ý nghĩa của những con số vừa nêu, diễn đạt lại bằng lời dễ hiểu hơn.",
+     "也就是说，在同样的环境里，小企业感觉更冷。",
+     "Yě jiù shì shuō, zài tóngyàng de huánjìng lǐ, xiǎo qǐyè gǎnjué gèng lěng.",
+     "Nói cách khác, trong cùng một môi trường, doanh nghiệp nhỏ cảm thấy lạnh hơn."
+    ]
+   }
+  ],
+  "vocab": [
+   "指数",
+   "经理",
+   "制造业",
+   "扩张",
+   "收缩",
+   "提前",
+   "释放",
+   "生产",
+   "装备",
+   "分析师"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "东方财富网（转载国家统计局发布）",
+    "author": "国家统计局",
+    "title": "国家统计局：10月官方制造业PMI为49.3%",
+    "date": "2026-10-31",
+    "url": "https://finance.eastmoney.com/a/202610313917521468.html",
+    "accessed": "2026-11-01"
+   },
+   {
+    "role": "secondary",
+    "outlet": "新浪财经（券商中国）",
+    "author": "券商中国",
+    "title": "国家统计局，最新发布！10月PMI回落，解读来了",
+    "date": "2026-10-31",
+    "url": "https://finance.sina.com.cn/stock/zqgd/2026-10-31/doc-inixavkx7565226.shtml",
+    "accessed": "2026-11-01"
+   }
+  ]
+ }
+}
