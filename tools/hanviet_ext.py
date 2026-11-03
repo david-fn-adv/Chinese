@@ -21,6 +21,7 @@ CHARS_EXT = """
 惠:huệ 衡:hành 乘:thừa 采:thái
 盈:doanh 披:phi 幅:phúc
 扩:khuếch 缩:súc
+供:cung 旦:đán 链:liên 巨:cự 徽:huy 豪:hào 杨:dương 蓉:dung 瑜:du 朱:chu 炯:quýnh
 """
 
 # Từ ghép có âm khác cách ghép từng chữ
@@ -28,4 +29,6 @@ WORD_EXT = {
     '增长': 'tăng trưởng',      # 長 ở đây đọc "trưởng", không phải "trường"
     '央行': 'ương hàng',        # 行 = ngân hàng đọc "hàng", không phải "hành"
     '行长': 'hàng trưởng',      # 行 = ngân hàng, 長 = người đứng đầu
+    '支行': 'chi hàng',         # 行 = ngân hàng
+    '分行': 'phân hàng',        # 行 = ngân hàng
 }
