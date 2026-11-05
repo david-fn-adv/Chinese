@@ -22,6 +22,7 @@ CHARS_EXT = """
 盈:doanh 披:phi 幅:phúc
 扩:khuếch 缩:súc
 供:cung 旦:đán 链:liên 巨:cự 徽:huy 豪:hào 杨:dương 蓉:dung 瑜:du 朱:chu 炯:quýnh
+构:cấu 锁:tỏa 唯:duy 伟:vĩ
 """
 
 # Từ ghép có âm khác cách ghép từng chữ
@@ -31,4 +32,5 @@ WORD_EXT = {
     '行长': 'hàng trưởng',      # 行 = ngân hàng, 長 = người đứng đầu
     '支行': 'chi hàng',         # 行 = ngân hàng
     '分行': 'phân hàng',        # 行 = ngân hàng
+    '参与': 'tham dự',          # 与 trong 参与 đọc "dự" (thanh 4), không phải "dữ"
 }

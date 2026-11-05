@@ -1,0 +1,2162 @@
+{
+ "date": "2026-11-05",
+ "id": "N-20261105",
+ "draft": {
+  "title": "只拿钱，不给权",
+  "vn": "Chỉ nhận tiền, không trao quyền",
+  "en": "Taking the money, keeping the control",
+  "paras": [
+   "10月15日，我们看过DeepSeek（深度求索）第二轮融资的新闻。那时候的报道说，这一轮要从500亿元扩大到1000亿元左右。到了11月，国外的媒体The Information透露了新的数字：这一轮最后的金额是1055亿元，有近30家机构参与，DeepSeek的估值到了6155亿元。新浪财经、投资界等网站也报道了这些数字。",
+   "投钱的是哪些公司？有做电池的宁德时代，做芯片和存储的中芯国际、长鑫存储，做汽车的吉利，做手机的vivo，做家电的美的，还有美团和小红书。它们大多在AI的供应链上：有的给AI提供芯片，有的要把AI用到自己的产品里。",
+   "钱这么多，投资者能得到什么？据财经天下WEEKLY的文章，这些机构是通过基金投钱的，拿到的是基金的份额，不是DeepSeek的股份。它们不能投票，也不能进董事会，钱还要锁定5年。也就是说，大家用钱换取的是以后的回报，不是在公司里的话语权。",
+   "为什么DeepSeek要这么多钱？据雷科技的文章，英伟达的芯片价格一年比一年高，能卖到中国的芯片也越来越少。做大模型，最花钱的就是芯片和算力。手里的钱多一些，公司才能走得更远。",
+   "这件事说明，在融资里，钱不是唯一的问题。公司强的时候，可以只拿钱，不给话语权。不过，这些数字都还是媒体的报道，DeepSeek没有正式证实，大家还要等公司自己公布。"
+  ],
+  "points": [
+   {
+    "h": "I. 据…的文章/报道 — theo bài viết/tin của …",
+    "b": [
+     "Cách dùng:",
+     "据 + nguồn + 的文章/报道/介绍, đặt đầu câu để ghi rõ thông tin lấy từ đâu. Tin tài chính chưa được công ty xác nhận thì luôn phải nói rõ nguồn — một thói quen tốt khi đọc tin gọi vốn.",
+     "据雷科技的文章，英伟达的芯片价格一年比一年高。",
+     "Jù Léi Kējì de wénzhāng, Yīngwěidá de xīnpiàn jiàgé yì nián bǐ yì nián gāo.",
+     "Theo bài của Leitech, giá chip của NVIDIA năm sau cao hơn năm trước."
+    ]
+   },
+   {
+    "h": "II. A换取的是B，不是C — thứ A đổi lấy là B, không phải C",
+    "b": [
+     "Cách dùng:",
+     "Cấu trúc …的是B，不是C nhấn mạnh bản chất của một giao dịch: bỏ ra cái gì, nhận về cái gì. Hợp để phân tích điều khoản đầu tư: tiền đổi lấy lợi nhuận hay đổi lấy quyền kiểm soát.",
+     "大家用钱换取的是以后的回报，不是在公司里的话语权。",
+     "Dàjiā yòng qián huànqǔ de shì yǐhòu de huíbào, bú shì zài gōngsī lǐ de huàyǔquán.",
+     "Thứ mọi người dùng tiền đổi lấy là lợi nhuận sau này, không phải tiếng nói trong công ty."
+    ]
+   },
+   {
+    "h": "III. 一年比一年 + tính từ — năm sau … hơn năm trước",
+    "b": [
+     "Cách dùng:",
+     "一 + lượng từ thời gian + 比 + 一 + lượng từ + tính từ diễn tả xu hướng tăng/giảm đều đặn (一天比一天、一年比一年). Hay gặp khi nói về giá cả, chi phí.",
+     "英伟达的芯片价格一年比一年高。",
+     "Yīngwěidá de xīnpiàn jiàgé yì nián bǐ yì nián gāo.",
+     "Giá chip của NVIDIA năm sau cao hơn năm trước."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "新浪财经": {
+   "w": "新浪财经",
+   "p": "Xīnlàng Cáijīng",
+   "hv": "Tân Lãng Tài Kinh",
+   "note": "Sina Finance — kênh tài chính của cổng Sina"
+  },
+  "中芯国际": {
+   "w": "中芯国际",
+   "p": "Zhōngxīn Guójì",
+   "hv": "Trung Tâm Quốc Tế",
+   "note": "SMIC — hãng đúc chip lớn nhất Trung Quốc"
+  },
+  "长鑫存储": {
+   "w": "长鑫存储",
+   "p": "Chángxīn Cúnchǔ",
+   "hv": "Trường Hâm Tồn Trữ",
+   "note": "CXMT — nhà sản xuất chip nhớ DRAM ở Hợp Phì"
+  },
+  "美的": {
+   "w": "美的",
+   "p": "Měidí",
+   "hv": "Mỹ Đích",
+   "note": "Midea — tập đoàn đồ gia dụng"
+  },
+  "美团": {
+   "w": "美团",
+   "p": "Měituán",
+   "hv": "Mỹ Đoàn",
+   "note": "Meituan — nền tảng giao đồ ăn, dịch vụ địa phương"
+  },
+  "小红书": {
+   "w": "小红书",
+   "p": "Xiǎohóngshū",
+   "hv": "Tiểu Hồng Thư",
+   "note": "Xiaohongshu (RedNote) — mạng xã hội chia sẻ lối sống"
+  },
+  "财经天下": {
+   "w": "财经天下",
+   "p": "Cáijīng Tiānxià",
+   "hv": "Tài Kinh Thiên Hạ",
+   "note": "Tạp chí 财经天下WEEKLY; bài gốc được 澎湃新闻 đăng lại"
+  },
+  "雷科技": {
+   "w": "雷科技",
+   "p": "Léi Kējì",
+   "hv": "Lôi Khoa Kỹ",
+   "note": "Leitech — trang tin công nghệ; bài đăng trên 新浪财经"
+  },
+  "英伟达": {
+   "w": "英伟达",
+   "p": "Yīngwěidá",
+   "hv": "Anh Vĩ Đạt",
+   "note": "NVIDIA — hãng chip AI của Mỹ"
+  }
+ },
+ "dict": {
+  "扩大": {
+   "w": "扩大",
+   "p": "kuòdà",
+   "hv": "khuếch đại",
+   "pos": "动",
+   "en": "to expand, enlarge",
+   "vn": "mở rộng, nâng lên",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261105"
+   ]
+  },
+  "透露": {
+   "w": "透露",
+   "p": "tòulù",
+   "hv": "thấu lộ",
+   "pos": "动",
+   "en": "to disclose, leak (news)",
+   "vn": "tiết lộ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261105"
+   ]
+  },
+  "机构": {
+   "w": "机构",
+   "p": "jīgòu",
+   "hv": "cơ cấu",
+   "pos": "名",
+   "en": "institution, organization",
+   "vn": "tổ chức, định chế (quỹ, ngân hàng…)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261105"
+   ]
+  },
+  "参与": {
+   "w": "参与",
+   "p": "cānyù",
+   "hv": "tham dự",
+   "pos": "动",
+   "en": "to participate in",
+   "vn": "tham gia",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261105"
+   ]
+  },
+  "电池": {
+   "w": "电池",
+   "p": "diànchí",
+   "hv": "điện trì",
+   "pos": "名",
+   "en": "battery",
+   "vn": "pin, ắc quy",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261105"
+   ]
+  },
+  "供应链": {
+   "w": "供应链",
+   "p": "gōngyìngliàn",
+   "hv": "cung ứng liên",
+   "pos": "名",
+   "en": "supply chain",
+   "vn": "chuỗi cung ứng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261105"
+   ]
+  },
+  "董事会": {
+   "w": "董事会",
+   "p": "dǒngshìhuì",
+   "hv": "đổng sự hội",
+   "pos": "名",
+   "en": "board of directors",
+   "vn": "hội đồng quản trị",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261105"
+   ]
+  },
+  "锁定": {
+   "w": "锁定",
+   "p": "suǒdìng",
+   "hv": "tỏa định",
+   "pos": "动",
+   "en": "to lock (in/up)",
+   "vn": "khóa lại, phong tỏa (vốn trong thời hạn)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261105"
+   ]
+  },
+  "换取": {
+   "w": "换取",
+   "p": "huànqǔ",
+   "hv": "hoán thủ",
+   "pos": "动",
+   "en": "to exchange for, get in return",
+   "vn": "đổi lấy",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261105"
+   ]
+  },
+  "话语权": {
+   "w": "话语权",
+   "p": "huàyǔquán",
+   "hv": "thoại ngữ quyền",
+   "pos": "名",
+   "en": "say, voice, influence",
+   "vn": "quyền lên tiếng, tiếng nói",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261105"
+   ]
+  },
+  "唯一": {
+   "w": "唯一",
+   "p": "wéiyī",
+   "hv": "duy nhất",
+   "pos": "形",
+   "en": "only, sole",
+   "vn": "duy nhất",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261105"
+   ]
+  },
+  "证实": {
+   "w": "证实",
+   "p": "zhèngshí",
+   "hv": "chứng thực",
+   "pos": "动",
+   "en": "to confirm, verify",
+   "vn": "xác nhận",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261105"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "澎湃新闻（转载财经天下WEEKLY）",
+   "author": "豆蔻",
+   "title": "1500亿，机构抢着给DeepSeek送钱",
+   "date": "2026-11-04",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34396487",
+   "accessed": "2026-11-05"
+  },
+  {
+   "role": "secondary",
+   "outlet": "新浪财经（雷科技）",
+   "author": "重嘉",
+   "title": "融资1055亿！DeepSeek豪华朋友圈曝光：AI竞争焦点变了",
+   "date": "2026-11-01",
+   "url": "https://finance.sina.com.cn/roll/2026-11-01/doc-inixfvpt0968132.shtml",
+   "accessed": "2026-11-05"
+  },
+  {
+   "role": "secondary",
+   "outlet": "投资界",
+   "author": "投资界24h",
+   "title": "投资界24h|小红书，投进DeepSeek",
+   "date": "2026-11-03",
+   "url": "https://news.pedaily.cn/202611/571245.shtml",
+   "accessed": "2026-11-05"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261105",
+  "book": 4,
+  "no": 23,
+  "date": "2026-11-05",
+  "seq": 65,
+  "title": "只拿钱，不给权",
+  "py": "zhǐnáqián，bùgěiquán",
+  "en": "Taking the money, keeping the control",
+  "vn": "Chỉ nhận tiền, không trao quyền",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "15",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "我们",
+        "p": "wǒmen",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "过",
+        "p": "guò",
+        "k": "extra"
+       },
+       {
+        "w": "DeepSeek",
+        "k": "plain"
+       },
+       {
+        "w": "（",
+        "k": "punct"
+       },
+       {
+        "w": "深度求索",
+        "p": "Shēndù Qiúsuǒ",
+        "k": "name"
+       },
+       {
+        "w": "）",
+        "k": "punct"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "二",
+        "p": "èr",
+        "k": "extra"
+       },
+       {
+        "w": "轮",
+        "p": "lún",
+        "k": "extra"
+       },
+       {
+        "w": "融资",
+        "p": "róngzī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "新闻",
+        "p": "xīnwén",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "那",
+        "p": "nà",
+        "k": "extra"
+       },
+       {
+        "w": "时候",
+        "p": "shíhòu",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "轮",
+        "p": "lún",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "500",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "扩大",
+        "p": "kuòdà",
+        "k": "core"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "1000",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "左右",
+        "p": "zuǒyòu",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "11",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "国外",
+        "p": "guówài",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "媒体",
+        "p": "méitǐ",
+        "k": "extra"
+       },
+       {
+        "w": "The Information",
+        "k": "plain"
+       },
+       {
+        "w": "透露",
+        "p": "tòulù",
+        "k": "core"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "数字",
+        "p": "shùzì",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "轮",
+        "p": "lún",
+        "k": "extra"
+       },
+       {
+        "w": "最后",
+        "p": "zuìhòu",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "金额",
+        "p": "jīn'é",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "1055",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "近",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "30",
+        "k": "plain"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "机构",
+        "p": "jīgòu",
+        "k": "core"
+       },
+       {
+        "w": "参与",
+        "p": "cānyù",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "DeepSeek",
+        "k": "plain"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "估值",
+        "p": "gūzhí",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "6155",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "新浪财经",
+        "p": "Xīnlàng Cáijīng",
+        "k": "name"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "投资界",
+        "p": "Tóuzījiè",
+        "k": "name"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "网站",
+        "p": "wǎngzhàn",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "数字",
+        "p": "shùzì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "投",
+        "p": "tóu",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "哪",
+        "p": "nǎ",
+        "k": "extra"
+       },
+       {
+        "w": "些",
+        "p": "xiē",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "电池",
+        "p": "diànchí",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "宁德时代",
+        "p": "Níngdé Shídài",
+        "k": "name"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "存储",
+        "p": "cúnchǔ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "中芯国际",
+        "p": "Zhōngxīn Guójì",
+        "k": "name"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "长鑫存储",
+        "p": "Chángxīn Cúnchǔ",
+        "k": "name"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "汽车",
+        "p": "qìchē",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "吉利",
+        "p": "Jílì",
+        "k": "name"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "手机",
+        "p": "shǒujī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "vivo",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "电",
+        "p": "diàn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "美的",
+        "p": "Měidí",
+        "k": "name"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "美团",
+        "p": "Měituán",
+        "k": "name"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "小红书",
+        "p": "Xiǎohóngshū",
+        "k": "name"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "们",
+        "p": "men",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "供应链",
+        "p": "gōngyìngliàn",
+        "k": "core"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "提供",
+        "p": "tígōng",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "产品",
+        "p": "chǎnpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "这么",
+        "p": "zhème",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "投资者",
+        "p": "tóuzīzhě",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "得到",
+        "p": "dédào",
+        "k": "extra"
+       },
+       {
+        "w": "什么",
+        "p": "shénme",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "财经天下",
+        "p": "Cáijīng Tiānxià",
+        "k": "name"
+       },
+       {
+        "w": "WEEKLY",
+        "k": "plain"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "文章",
+        "p": "wénzhāng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "机构",
+        "p": "jīgòu",
+        "k": "core"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "通过",
+        "p": "tōngguò",
+        "k": "extra"
+       },
+       {
+        "w": "基金",
+        "p": "jījīn",
+        "k": "extra"
+       },
+       {
+        "w": "投",
+        "p": "tóu",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "基金",
+        "p": "jījīn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "份额",
+        "p": "fèn'é",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "DeepSeek",
+        "k": "plain"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "股",
+        "p": "gǔ",
+        "k": "extra"
+       },
+       {
+        "w": "份",
+        "p": "fèn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "们",
+        "p": "men",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "投票",
+        "p": "tóupiào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "进",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "董事会",
+        "p": "dǒngshìhuì",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "锁定",
+        "p": "suǒdìng",
+        "k": "core"
+       },
+       {
+        "w": "5",
+        "k": "plain"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "大家",
+        "p": "dàjiā",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "换取",
+        "p": "huànqǔ",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "回",
+        "p": "huí",
+        "k": "extra"
+       },
+       {
+        "w": "报",
+        "p": "bào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "话语权",
+        "p": "huàyǔquán",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "为什么",
+        "p": "wèishénme",
+        "k": "extra"
+       },
+       {
+        "w": "DeepSeek",
+        "k": "plain"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "这么",
+        "p": "zhème",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "雷科技",
+        "p": "Léi Kējì",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "文章",
+        "p": "wénzhāng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "英伟达",
+        "p": "Yīngwěidá",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "高",
+        "p": "gāo",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "越来越",
+        "p": "yuèláiyuè",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "模型",
+        "p": "móxíng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "花",
+        "p": "huā",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "手",
+        "p": "shǒu",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "一些",
+        "p": "yìxiē",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "才",
+        "p": "cái",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "走",
+        "p": "zǒu",
+        "k": "extra"
+       },
+       {
+        "w": "得",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "远",
+        "p": "yuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "件",
+        "p": "jiàn",
+        "k": "extra"
+       },
+       {
+        "w": "事",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "说明",
+        "p": "shuōmíng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "融资",
+        "p": "róngzī",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "唯一",
+        "p": "wéiyī",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "问题",
+        "p": "wèntí",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "强",
+        "p": "qiáng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "时候",
+        "p": "shíhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "可以",
+        "p": "kěyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "话语权",
+        "p": "huàyǔquán",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "不过",
+        "p": "búguò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "数字",
+        "p": "shùzì",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "还是",
+        "p": "háishì",
+        "k": "extra"
+       },
+       {
+        "w": "媒体",
+        "p": "méitǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "DeepSeek",
+        "k": "plain"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "正式",
+        "p": "zhèngshì",
+        "k": "extra"
+       },
+       {
+        "w": "证实",
+        "p": "zhèngshí",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "大家",
+        "p": "dàjiā",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "公布",
+        "p": "gōngbù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 据…的文章/报道 — theo bài viết/tin của …",
+    "b": [
+     "Cách dùng:",
+     "据 + nguồn + 的文章/报道/介绍, đặt đầu câu để ghi rõ thông tin lấy từ đâu. Tin tài chính chưa được công ty xác nhận thì luôn phải nói rõ nguồn — một thói quen tốt khi đọc tin gọi vốn.",
+     "据雷科技的文章，英伟达的芯片价格一年比一年高。",
+     "Jù Léi Kējì de wénzhāng, Yīngwěidá de xīnpiàn jiàgé yì nián bǐ yì nián gāo.",
+     "Theo bài của Leitech, giá chip của NVIDIA năm sau cao hơn năm trước."
+    ]
+   },
+   {
+    "h": "II. A换取的是B，不是C — thứ A đổi lấy là B, không phải C",
+    "b": [
+     "Cách dùng:",
+     "Cấu trúc …的是B，不是C nhấn mạnh bản chất của một giao dịch: bỏ ra cái gì, nhận về cái gì. Hợp để phân tích điều khoản đầu tư: tiền đổi lấy lợi nhuận hay đổi lấy quyền kiểm soát.",
+     "大家用钱换取的是以后的回报，不是在公司里的话语权。",
+     "Dàjiā yòng qián huànqǔ de shì yǐhòu de huíbào, bú shì zài gōngsī lǐ de huàyǔquán.",
+     "Thứ mọi người dùng tiền đổi lấy là lợi nhuận sau này, không phải tiếng nói trong công ty."
+    ]
+   },
+   {
+    "h": "III. 一年比一年 + tính từ — năm sau … hơn năm trước",
+    "b": [
+     "Cách dùng:",
+     "一 + lượng từ thời gian + 比 + 一 + lượng từ + tính từ diễn tả xu hướng tăng/giảm đều đặn (一天比一天、一年比一年). Hay gặp khi nói về giá cả, chi phí.",
+     "英伟达的芯片价格一年比一年高。",
+     "Yīngwěidá de xīnpiàn jiàgé yì nián bǐ yì nián gāo.",
+     "Giá chip của NVIDIA năm sau cao hơn năm trước."
+    ]
+   }
+  ],
+  "vocab": [
+   "扩大",
+   "透露",
+   "机构",
+   "参与",
+   "电池",
+   "供应链",
+   "董事会",
+   "锁定",
+   "换取",
+   "话语权",
+   "唯一",
+   "证实"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "澎湃新闻（转载财经天下WEEKLY）",
+    "author": "豆蔻",
+    "title": "1500亿，机构抢着给DeepSeek送钱",
+    "date": "2026-11-04",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34396487",
+    "accessed": "2026-11-05"
+   },
+   {
+    "role": "secondary",
+    "outlet": "新浪财经（雷科技）",
+    "author": "重嘉",
+    "title": "融资1055亿！DeepSeek豪华朋友圈曝光：AI竞争焦点变了",
+    "date": "2026-11-01",
+    "url": "https://finance.sina.com.cn/roll/2026-11-01/doc-inixfvpt0968132.shtml",
+    "accessed": "2026-11-05"
+   },
+   {
+    "role": "secondary",
+    "outlet": "投资界",
+    "author": "投资界24h",
+    "title": "投资界24h|小红书，投进DeepSeek",
+    "date": "2026-11-03",
+    "url": "https://news.pedaily.cn/202611/571245.shtml",
+    "accessed": "2026-11-05"
+   }
+  ]
+ }
+}
