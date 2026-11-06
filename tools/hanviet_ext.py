@@ -23,6 +23,7 @@ CHARS_EXT = """
 扩:khuếch 缩:súc
 供:cung 旦:đán 链:liên 巨:cự 徽:huy 豪:hào 杨:dương 蓉:dung 瑜:du 朱:chu 炯:quýnh
 构:cấu 锁:tỏa 唯:duy 伟:vĩ
+呆:ngai 浦:phố 曹:tào 频:tần 兽:thú 络:lạc
 """
 
 # Từ ghép có âm khác cách ghép từng chữ

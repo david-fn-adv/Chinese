@@ -1,0 +1,2127 @@
+{
+ "date": "2026-11-06",
+ "id": "N-20261106",
+ "draft": {
+  "title": "十个月，三轮融资",
+  "vn": "Mười tháng, ba vòng gọi vốn",
+  "en": "Three funding rounds in ten months",
+  "paras": [
+   "11月5日，做视频大模型的公司Sand.ai（三呆科技）宣布，完成了2亿美元的A+轮融资。这一轮由基石资本和网宿科技联合领投，上海的国资机构浦东创投、上海国方也参加了。这是公司今年的第三轮融资，十个月里累计拿到3亿美元。这一轮以后，它成了一家“独角兽”。估值超过10亿美元的创业公司才叫独角兽。",
+   "这家公司2024年才成立，创始人曹越是清华大学毕业的。公司的大模型叫MAGI，可以生成视频的画面和声音。它把模型开源了，别人都可以免费使用。公司还有一个收费的产品VidMuse，用户要买会员，才能用它做音乐视频和商品广告。",
+   "网宿科技为什么要投钱？网宿是一家做网络和算力服务的上市公司。据《科创板日报》，网宿打算拿出3亿元人民币参加这一轮。两家公司还要合作：网宿提供算力和网络，Sand.ai提供视频模型，新的模型会先放到网宿的平台上。也就是说，网宿投的不只是钱，还有以后的生意。",
+   "不过，钱来得快，花得也快。《科创板日报》根据网宿科技的公告报道，Sand.ai今年上半年的收入是1739.8万元，亏损却有1.52亿元左右，差不多是收入的九倍。做大模型，算力很花钱，所以公司一年要融资三次。",
+   "对投资者来说，现在要看的不是公司今天赚了多少钱，而是它以后能不能做出更好的模型，找到更多愿意付钱的用户。"
+  ],
+  "points": [
+   {
+    "h": "I. 由A和B联合领投 — do A và B cùng dẫn dắt vòng đầu tư",
+    "b": [
+     "Cách dùng:",
+     "由 + chủ thể + động từ đưa người thực hiện hành động lên làm tiêu điểm. Trong tin gọi vốn, 由…领投 / 由…联合领投 là khuôn cố định để nói ai là nhà đầu tư dẫn dắt vòng (lead investor).",
+     "这一轮由基石资本和网宿科技联合领投，上海的国资机构浦东创投、上海国方也参加了。",
+     "Zhè yì lún yóu Jīshí Zīběn hé Wǎngsù Kējì liánhé lǐngtóu, Shànghǎi de guózī jīgòu Pǔdōng Chuàngtóu, Shànghǎi Guófāng yě cānjiā le.",
+     "Vòng này do Cornerstone Capital và Wangsu cùng dẫn dắt; các quỹ vốn nhà nước Thượng Hải là Pudong Venture và Shanghai Guofang cũng tham gia."
+    ]
+   },
+   {
+    "h": "II. A差不多是B的X倍 — A gần bằng X lần B",
+    "b": [
+     "Cách dùng:",
+     "So sánh hai con số bằng bội số: A是B的X倍. Thêm 差不多 khi số làm tròn. Rất hay dùng khi đọc báo cáo tài chính: lỗ so với doanh thu, chi phí so với lợi nhuận.",
+     "亏损却有1.52亿元左右，差不多是收入的九倍。",
+     "Kuīsǔn què yǒu yì diǎn wǔ èr yì yuán zuǒyòu, chàbuduō shì shōurù de jiǔ bèi.",
+     "Còn lỗ thì khoảng 152 triệu tệ, gần gấp chín lần doanh thu."
+    ]
+   },
+   {
+    "h": "III. 要看的不是A，而是B — điều cần xem không phải A, mà là B",
+    "b": [
+     "Cách dùng:",
+     "不是A，而是B gạt bỏ một cách hiểu và nêu cách hiểu đúng. Ghép với 要看的 để nói tiêu chí đánh giá — kiểu câu quen thuộc khi bàn về định giá startup.",
+     "现在要看的不是公司今天赚了多少钱，而是它以后能不能做出更好的模型，找到更多愿意付钱的用户。",
+     "Xiànzài yào kàn de bú shì gōngsī jīntiān zhuànle duōshao qián, ér shì tā yǐhòu néng bu néng zuò chū gèng hǎo de móxíng, zhǎodào gèng duō yuànyì fù qián de yònghù.",
+     "Điều cần xem bây giờ không phải hôm nay công ty kiếm được bao nhiêu tiền, mà là sau này nó có làm ra mô hình tốt hơn, tìm được nhiều người dùng chịu trả tiền hơn hay không."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "三呆科技": {
+   "w": "三呆科技",
+   "p": "Sāndāi Kējì",
+   "hv": "Tam Ngai Khoa Kỹ",
+   "note": "Tên tiếng Trung của Sand.ai — startup mô hình tạo video, Bắc Kinh/Thượng Hải, thành lập 2024"
+  },
+  "基石资本": {
+   "w": "基石资本",
+   "p": "Jīshí Zīběn",
+   "hv": "Cơ Thạch Tư Bản",
+   "note": "Cornerstone Capital — quỹ đầu tư tư nhân ở Thâm Quyến"
+  },
+  "网宿科技": {
+   "w": "网宿科技",
+   "p": "Wǎngsù Kējì",
+   "hv": "Võng Túc Khoa Kỹ",
+   "note": "Wangsu Science & Technology (300017.SZ) — công ty CDN, mạng và điện toán biên niêm yết ở Thâm Quyến"
+  },
+  "网宿": {
+   "w": "网宿",
+   "p": "Wǎngsù",
+   "hv": "Võng Túc",
+   "note": "Gọi tắt của 网宿科技"
+  },
+  "浦东创投": {
+   "w": "浦东创投",
+   "p": "Pǔdōng Chuàngtóu",
+   "hv": "Phố Đông Sáng Đầu",
+   "note": "Quỹ đầu tư mạo hiểm vốn nhà nước của quận Phố Đông, Thượng Hải"
+  },
+  "上海国方": {
+   "w": "上海国方",
+   "p": "Shànghǎi Guófāng",
+   "hv": "Thượng Hải Quốc Phương",
+   "note": "Quỹ đầu tư có vốn nhà nước Thượng Hải"
+  },
+  "曹越": {
+   "w": "曹越",
+   "p": "Cáo Yuè",
+   "hv": "Tào Việt",
+   "note": "Nhà sáng lập kiêm CEO Sand.ai; tốt nghiệp Thanh Hoa, từng là nghiên cứu viên chính ở Microsoft Research Asia"
+  },
+  "清华大学": {
+   "w": "清华大学",
+   "p": "Qīnghuá Dàxué",
+   "hv": "Thanh Hoa Đại Học",
+   "note": "Đại học Thanh Hoa, Bắc Kinh"
+  },
+  "科创板日报": {
+   "w": "科创板日报",
+   "p": "Kēchuàngbǎn Rìbào",
+   "hv": "Khoa Sáng Bản Nhật Báo",
+   "note": "Nhật báo STAR Market — thuộc nhóm 财联社 (Cailian Press)"
+  }
+ },
+ "dict": {
+  "视频": {
+   "w": "视频",
+   "p": "shìpín",
+   "hv": "thị tần",
+   "pos": "名",
+   "en": "video",
+   "vn": "video",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261106"
+   ]
+  },
+  "联合": {
+   "w": "联合",
+   "p": "liánhé",
+   "hv": "liên hợp",
+   "pos": "动",
+   "en": "to unite; jointly",
+   "vn": "liên kết, cùng nhau (cùng làm)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261106"
+   ]
+  },
+  "国资": {
+   "w": "国资",
+   "p": "guózī",
+   "hv": "quốc tư",
+   "pos": "名",
+   "en": "state-owned capital",
+   "vn": "vốn nhà nước",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261106"
+   ]
+  },
+  "独角兽": {
+   "w": "独角兽",
+   "p": "dújiǎoshòu",
+   "hv": "độc giác thú",
+   "pos": "名",
+   "en": "unicorn (startup valued over US$1bn)",
+   "vn": "kỳ lân (startup định giá trên 1 tỷ USD)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261106"
+   ]
+  },
+  "开源": {
+   "w": "开源",
+   "p": "kāiyuán",
+   "hv": "khai nguyên",
+   "pos": "动",
+   "en": "to open-source",
+   "vn": "mã nguồn mở, công khai mã nguồn",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261106"
+   ]
+  },
+  "会员": {
+   "w": "会员",
+   "p": "huìyuán",
+   "hv": "hội viên",
+   "pos": "名",
+   "en": "member; membership",
+   "vn": "hội viên, thành viên (gói trả phí)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261106"
+   ]
+  },
+  "网络": {
+   "w": "网络",
+   "p": "wǎngluò",
+   "hv": "võng lạc",
+   "pos": "名",
+   "en": "network; internet",
+   "vn": "mạng, mạng lưới",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261106"
+   ]
+  },
+  "合作": {
+   "w": "合作",
+   "p": "hézuò",
+   "hv": "hợp tác",
+   "pos": "动",
+   "en": "to cooperate",
+   "vn": "hợp tác",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261106"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "网易（转载《科创板日报》/财联社）",
+   "author": "敖瑾",
+   "title": "AI视频独角兽+1，Sand AI落地2亿美元A+轮融资",
+   "date": "2026-11-06",
+   "url": "https://www.163.com/dy/article/LB0RV8QL05198CJN.html",
+   "accessed": "2026-11-06"
+  },
+  {
+   "role": "secondary",
+   "outlet": "澎湃新闻",
+   "author": "喻琰",
+   "title": "视频大模型企业Sand.ai完成2亿美元A+轮融资",
+   "date": "2026-11-05",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34410374",
+   "accessed": "2026-11-06"
+  },
+  {
+   "role": "secondary",
+   "outlet": "网易科技（网易智能）",
+   "author": "网易智能",
+   "title": "Sand.ai完成2亿美元A+轮融资 10个月累计融资3亿美元",
+   "date": "2026-11-05",
+   "url": "https://www.163.com/tech/article/LAVDBT3700098IEO.html",
+   "accessed": "2026-11-06"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261106",
+  "book": 4,
+  "no": 24,
+  "date": "2026-11-06",
+  "seq": 66,
+  "title": "十个月，三轮融资",
+  "py": "shígèyuè，sānlúnróngzī",
+  "en": "Three funding rounds in ten months",
+  "vn": "Mười tháng, ba vòng gọi vốn",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "11",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "5",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "视频",
+        "p": "shìpín",
+        "k": "core"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "模型",
+        "p": "móxíng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "Sand",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "ai",
+        "k": "plain"
+       },
+       {
+        "w": "（",
+        "k": "punct"
+       },
+       {
+        "w": "三呆科技",
+        "p": "Sāndāi Kējì",
+        "k": "name"
+       },
+       {
+        "w": "）",
+        "k": "punct"
+       },
+       {
+        "w": "宣布",
+        "p": "xuānbù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "完",
+        "p": "wán",
+        "k": "extra"
+       },
+       {
+        "w": "成",
+        "p": "chéng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "2",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "A+",
+        "k": "plain"
+       },
+       {
+        "w": "轮",
+        "p": "lún",
+        "k": "extra"
+       },
+       {
+        "w": "融资",
+        "p": "róngzī",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "轮",
+        "p": "lún",
+        "k": "extra"
+       },
+       {
+        "w": "由",
+        "p": "yóu",
+        "k": "extra"
+       },
+       {
+        "w": "基石资本",
+        "p": "Jīshí Zīběn",
+        "k": "name"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "网宿科技",
+        "p": "Wǎngsù Kējì",
+        "k": "name"
+       },
+       {
+        "w": "联合",
+        "p": "liánhé",
+        "k": "core"
+       },
+       {
+        "w": "领投",
+        "p": "lǐngtóu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "上海",
+        "p": "Shànghǎi",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "国资",
+        "p": "guózī",
+        "k": "core"
+       },
+       {
+        "w": "机构",
+        "p": "jīgòu",
+        "k": "extra"
+       },
+       {
+        "w": "浦东创投",
+        "p": "Pǔdōng Chuàngtóu",
+        "k": "name"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "上海国方",
+        "p": "Shànghǎi Guófāng",
+        "k": "name"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "参加",
+        "p": "cānjiā",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "轮",
+        "p": "lún",
+        "k": "extra"
+       },
+       {
+        "w": "融资",
+        "p": "róngzī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "十",
+        "p": "shí",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "累",
+        "p": "lèi",
+        "k": "extra"
+       },
+       {
+        "w": "计",
+        "p": "jì",
+        "k": "extra"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "3",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "轮",
+        "p": "lún",
+        "k": "extra"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "成",
+        "p": "chéng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "独角兽",
+        "p": "dújiǎoshòu",
+        "k": "core"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "估值",
+        "p": "gūzhí",
+        "k": "extra"
+       },
+       {
+        "w": "超过",
+        "p": "chāoguò",
+        "k": "extra"
+       },
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "创业",
+        "p": "chuàngyè",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "才",
+        "p": "cái",
+        "k": "extra"
+       },
+       {
+        "w": "叫",
+        "p": "jiào",
+        "k": "extra"
+       },
+       {
+        "w": "独角兽",
+        "p": "dújiǎoshòu",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "2024",
+        "k": "plain"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "才",
+        "p": "cái",
+        "k": "extra"
+       },
+       {
+        "w": "成立",
+        "p": "chénglì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "创始人",
+        "p": "chuàngshǐrén",
+        "k": "extra"
+       },
+       {
+        "w": "曹越",
+        "p": "Cáo Yuè",
+        "k": "name"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "清华大学",
+        "p": "Qīnghuá Dàxué",
+        "k": "name"
+       },
+       {
+        "w": "毕业",
+        "p": "bìyè",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "模型",
+        "p": "móxíng",
+        "k": "extra"
+       },
+       {
+        "w": "叫",
+        "p": "jiào",
+        "k": "extra"
+       },
+       {
+        "w": "MAGI",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "可以",
+        "p": "kěyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "生",
+        "p": "shēng",
+        "k": "extra"
+       },
+       {
+        "w": "成",
+        "p": "chéng",
+        "k": "extra"
+       },
+       {
+        "w": "视频",
+        "p": "shìpín",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "画",
+        "p": "huà",
+        "k": "extra"
+       },
+       {
+        "w": "面",
+        "p": "miàn",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "声音",
+        "p": "shēngyīn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "模型",
+        "p": "móxíng",
+        "k": "extra"
+       },
+       {
+        "w": "开源",
+        "p": "kāiyuán",
+        "k": "core"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "别",
+        "p": "bié",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "可以",
+        "p": "kěyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "免费",
+        "p": "miǎnfèi",
+        "k": "extra"
+       },
+       {
+        "w": "使用",
+        "p": "shǐyòng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "收费",
+        "p": "shōufèi",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "产品",
+        "p": "chǎnpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "VidMuse",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "用户",
+        "p": "yònghù",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "买",
+        "p": "mǎi",
+        "k": "extra"
+       },
+       {
+        "w": "会员",
+        "p": "huìyuán",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "才",
+        "p": "cái",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "音乐",
+        "p": "yīnyuè",
+        "k": "extra"
+       },
+       {
+        "w": "视频",
+        "p": "shìpín",
+        "k": "core"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "商品",
+        "p": "shāngpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "广告",
+        "p": "guǎnggào",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "网宿科技",
+        "p": "Wǎngsù Kējì",
+        "k": "name"
+       },
+       {
+        "w": "为什么",
+        "p": "wèishénme",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "投",
+        "p": "tóu",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "网宿",
+        "p": "Wǎngsù",
+        "k": "name"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "网络",
+        "p": "wǎngluò",
+        "k": "core"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "extra"
+       },
+       {
+        "w": "服务",
+        "p": "fúwù",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "上市",
+        "p": "shàngshì",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "《",
+        "k": "punct"
+       },
+       {
+        "w": "科创板日报",
+        "p": "Kēchuàngbǎn Rìbào",
+        "k": "name"
+       },
+       {
+        "w": "》",
+        "k": "punct"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "网宿",
+        "p": "Wǎngsù",
+        "k": "name"
+       },
+       {
+        "w": "打算",
+        "p": "dǎsuàn",
+        "k": "extra"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "出",
+        "p": "chū",
+        "k": "extra"
+       },
+       {
+        "w": "3",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "参加",
+        "p": "cānjiā",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "轮",
+        "p": "lún",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "两",
+        "p": "liǎng",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "合作",
+        "p": "hézuò",
+        "k": "core"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "网宿",
+        "p": "Wǎngsù",
+        "k": "name"
+       },
+       {
+        "w": "提供",
+        "p": "tígōng",
+        "k": "extra"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "网络",
+        "p": "wǎngluò",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "Sand",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "ai",
+        "k": "plain"
+       },
+       {
+        "w": "提供",
+        "p": "tígōng",
+        "k": "extra"
+       },
+       {
+        "w": "视频",
+        "p": "shìpín",
+        "k": "core"
+       },
+       {
+        "w": "模型",
+        "p": "móxíng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "模型",
+        "p": "móxíng",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "先",
+        "p": "xiān",
+        "k": "extra"
+       },
+       {
+        "w": "放",
+        "p": "fàng",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "网宿",
+        "p": "Wǎngsù",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "平",
+        "p": "píng",
+        "k": "extra"
+       },
+       {
+        "w": "台",
+        "p": "(Tái) jīn",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "网宿",
+        "p": "Wǎngsù",
+        "k": "name"
+       },
+       {
+        "w": "投",
+        "p": "tóu",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "生意",
+        "p": "shēngyì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "不过",
+        "p": "búguò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "得",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "快",
+        "p": "kuài",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "花",
+        "p": "huā",
+        "k": "extra"
+       },
+       {
+        "w": "得",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "快",
+        "p": "kuài",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "《",
+        "k": "punct"
+       },
+       {
+        "w": "科创板日报",
+        "p": "Kēchuàngbǎn Rìbào",
+        "k": "name"
+       },
+       {
+        "w": "》",
+        "k": "punct"
+       },
+       {
+        "w": "根据",
+        "p": "gēnjù",
+        "k": "extra"
+       },
+       {
+        "w": "网宿科技",
+        "p": "Wǎngsù Kējì",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "公告",
+        "p": "gōnggào",
+        "k": "extra"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "Sand",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "ai",
+        "k": "plain"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "上半年",
+        "p": "shàngbànnián",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "收入",
+        "p": "shōurù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "1739",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "8",
+        "k": "plain"
+       },
+       {
+        "w": "万",
+        "p": "wàn",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "亏损",
+        "p": "kuīsǔn",
+        "k": "extra"
+       },
+       {
+        "w": "却",
+        "p": "què",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "1",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "52",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "左右",
+        "p": "zuǒyòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "差不多",
+        "p": "chābùduō",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "收入",
+        "p": "shōurù",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "九",
+        "p": "jiǔ",
+        "k": "extra"
+       },
+       {
+        "w": "倍",
+        "p": "bèi",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "模型",
+        "p": "móxíng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "花",
+        "p": "huā",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "所以",
+        "p": "suǒyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "融资",
+        "p": "róngzī",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "次",
+        "p": "cì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "投资者",
+        "p": "tóuzīzhě",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "今天",
+        "p": "jīntiān",
+        "k": "extra"
+       },
+       {
+        "w": "赚",
+        "p": "zhuàn",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "而",
+        "p": "ér",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "出",
+        "p": "chū",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "好的",
+        "p": "hǎode",
+        "k": "extra"
+       },
+       {
+        "w": "模型",
+        "p": "móxíng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "找",
+        "p": "zhǎo",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "愿意",
+        "p": "yuànyì",
+        "k": "extra"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "用户",
+        "p": "yònghù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 由A和B联合领投 — do A và B cùng dẫn dắt vòng đầu tư",
+    "b": [
+     "Cách dùng:",
+     "由 + chủ thể + động từ đưa người thực hiện hành động lên làm tiêu điểm. Trong tin gọi vốn, 由…领投 / 由…联合领投 là khuôn cố định để nói ai là nhà đầu tư dẫn dắt vòng (lead investor).",
+     "这一轮由基石资本和网宿科技联合领投，上海的国资机构浦东创投、上海国方也参加了。",
+     "Zhè yì lún yóu Jīshí Zīběn hé Wǎngsù Kējì liánhé lǐngtóu, Shànghǎi de guózī jīgòu Pǔdōng Chuàngtóu, Shànghǎi Guófāng yě cānjiā le.",
+     "Vòng này do Cornerstone Capital và Wangsu cùng dẫn dắt; các quỹ vốn nhà nước Thượng Hải là Pudong Venture và Shanghai Guofang cũng tham gia."
+    ]
+   },
+   {
+    "h": "II. A差不多是B的X倍 — A gần bằng X lần B",
+    "b": [
+     "Cách dùng:",
+     "So sánh hai con số bằng bội số: A是B的X倍. Thêm 差不多 khi số làm tròn. Rất hay dùng khi đọc báo cáo tài chính: lỗ so với doanh thu, chi phí so với lợi nhuận.",
+     "亏损却有1.52亿元左右，差不多是收入的九倍。",
+     "Kuīsǔn què yǒu yì diǎn wǔ èr yì yuán zuǒyòu, chàbuduō shì shōurù de jiǔ bèi.",
+     "Còn lỗ thì khoảng 152 triệu tệ, gần gấp chín lần doanh thu."
+    ]
+   },
+   {
+    "h": "III. 要看的不是A，而是B — điều cần xem không phải A, mà là B",
+    "b": [
+     "Cách dùng:",
+     "不是A，而是B gạt bỏ một cách hiểu và nêu cách hiểu đúng. Ghép với 要看的 để nói tiêu chí đánh giá — kiểu câu quen thuộc khi bàn về định giá startup.",
+     "现在要看的不是公司今天赚了多少钱，而是它以后能不能做出更好的模型，找到更多愿意付钱的用户。",
+     "Xiànzài yào kàn de bú shì gōngsī jīntiān zhuànle duōshao qián, ér shì tā yǐhòu néng bu néng zuò chū gèng hǎo de móxíng, zhǎodào gèng duō yuànyì fù qián de yònghù.",
+     "Điều cần xem bây giờ không phải hôm nay công ty kiếm được bao nhiêu tiền, mà là sau này nó có làm ra mô hình tốt hơn, tìm được nhiều người dùng chịu trả tiền hơn hay không."
+    ]
+   }
+  ],
+  "vocab": [
+   "视频",
+   "联合",
+   "国资",
+   "独角兽",
+   "开源",
+   "会员",
+   "网络",
+   "合作"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "网易（转载《科创板日报》/财联社）",
+    "author": "敖瑾",
+    "title": "AI视频独角兽+1，Sand AI落地2亿美元A+轮融资",
+    "date": "2026-11-06",
+    "url": "https://www.163.com/dy/article/LB0RV8QL05198CJN.html",
+    "accessed": "2026-11-06"
+   },
+   {
+    "role": "secondary",
+    "outlet": "澎湃新闻",
+    "author": "喻琰",
+    "title": "视频大模型企业Sand.ai完成2亿美元A+轮融资",
+    "date": "2026-11-05",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34410374",
+    "accessed": "2026-11-06"
+   },
+   {
+    "role": "secondary",
+    "outlet": "网易科技（网易智能）",
+    "author": "网易智能",
+    "title": "Sand.ai完成2亿美元A+轮融资 10个月累计融资3亿美元",
+    "date": "2026-11-05",
+    "url": "https://www.163.com/tech/article/LAVDBT3700098IEO.html",
+    "accessed": "2026-11-06"
+   }
+  ]
+ }
+}
