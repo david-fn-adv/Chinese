@@ -1,0 +1,2195 @@
+{
+ "date": "2026-11-07",
+ "id": "N-20261107",
+ "draft": {
+  "title": "没有司机的卡车",
+  "vn": "Xe tải không có tài xế",
+  "en": "Trucks without drivers",
+  "paras": [
+   "前几天，上海的一家新公司易博图宣布，已经拿到两轮融资，合计近4亿元人民币。投资方里有知名投资人葛卫东，还有辰韬资本、弘毅投资和零一汽车等。让人没想到的是，这家公司今年2月才成立，不到一年就拿到了这么多钱。",
+   "易博图做的是“物理AI”。一般的大模型在电脑里聊天、写文章，物理AI却要走出电脑，到外面去干活。易博图先从大卡车的无人驾驶开始，也就是说，让卡车在没有司机的时候自己开。公司的很多人以前在华为、理想汽车、苹果等企业工作过，做过无人驾驶的技术。",
+   "据36氪报道，易博图现在已经在运营一百多台大卡车，跑六十条线路，主要在三百公里以内送原料和货物。公司还在新疆、内蒙古等地方做测试，那里的路很复杂。公司的办法是先用自己的车队跑，把技术和成本算清楚，再把卡车、软件和运营的经验一起卖给客户。",
+   "公司认为，现在是做这件事的好时机。以前的无人驾驶主要靠人写规则，现在越来越多靠AI自己学习。新公司不用走老路，可能跑得更快。以后，它还想把技术用到矿山、港口、电厂这些工业场景，从卡车扩大到更多的大设备。",
+   "不过，钱多，路不一定好走。公司还没有公布收入。对投资者来说，真正要看的是这些卡车能不能安全地跑下去，成本能不能比用司机更低。"
+  ],
+  "points": [
+   {
+    "h": "I. A才…，就… — mới… mà đã…",
+    "b": [
+     "Cách dùng:",
+     "才 đứng trước động từ nhấn mạnh việc xảy ra muộn/gần đây; 就 ở vế sau nhấn mạnh kết quả đến sớm, nhanh. Ghép lại để nói “mới thế này mà đã thế kia” — rất hay gặp trong tin startup gọi vốn nhanh.",
+     "这家公司今年2月才成立，不到一年就拿到了这么多钱。",
+     "Zhè jiā gōngsī jīnnián èr yuè cái chénglì, bú dào yì nián jiù ná dào le zhème duō qián.",
+     "Công ty này tháng 2 năm nay mới thành lập, chưa đầy một năm đã nhận được nhiều tiền như vậy."
+    ]
+   },
+   {
+    "h": "II. 先A，再B — trước A, rồi B",
+    "b": [
+     "Cách dùng:",
+     "先…再… nói trình tự hai bước. Trong tin kinh doanh thường dùng để mô tả lộ trình thương mại hoá: tự chạy thử trước, bán cho khách sau.",
+     "公司的办法是先用自己的车队跑，把技术和成本算清楚，再把卡车、软件和运营的经验一起卖给客户。",
+     "Gōngsī de bànfǎ shì xiān yòng zìjǐ de chēduì pǎo, bǎ jìshù hé chéngběn suàn qīngchu, zài bǎ kǎchē, ruǎnjiàn hé yùnyíng de jīngyàn yìqǐ mài gěi kèhù.",
+     "Cách của công ty là trước hết dùng đội xe của mình chạy, tính cho rõ công nghệ và chi phí, rồi mới bán xe tải, phần mềm và kinh nghiệm vận hành cho khách hàng."
+    ]
+   },
+   {
+    "h": "III. 对…来说，真正要看的是… — đối với…, điều thật sự cần xem là…",
+    "b": [
+     "Cách dùng:",
+     "对 + người + 来说 nêu góc nhìn; 真正要看的是 đưa ra tiêu chí then chốt. Khuôn câu dùng được khi kết luận một bài phân tích đầu tư.",
+     "对投资者来说，真正要看的是这些卡车能不能安全地跑下去，成本能不能比用司机更低。",
+     "Duì tóuzīzhě lái shuō, zhēnzhèng yào kàn de shì zhèxiē kǎchē néng bu néng ānquán de pǎo xiàqu, chéngběn néng bu néng bǐ yòng sījī gèng dī.",
+     "Với nhà đầu tư, điều thật sự cần xem là những chiếc xe tải này có chạy an toàn lâu dài được không, chi phí có thấp hơn dùng tài xế hay không."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "易博图": {
+   "w": "易博图",
+   "p": "Yìbótú",
+   "hv": "Dịch Bác Đồ",
+   "note": "EABOT (上海易博图科技) — startup AI vật lý cho xe tải hạng nặng, Thượng Hải, thành lập 2/2026"
+  },
+  "葛卫东": {
+   "w": "葛卫东",
+   "p": "Gě Wèidōng",
+   "hv": "Cát Vệ Đông",
+   "note": "Nhà đầu tư cá nhân nổi tiếng (“牛散”) trên thị trường chứng khoán Trung Quốc"
+  },
+  "辰韬资本": {
+   "w": "辰韬资本",
+   "p": "Chéntāo Zīběn",
+   "hv": "Thần Thao Tư Bản",
+   "note": "Quỹ đầu tư mạo hiểm Thượng Hải, chuyên công nghệ ô tô/lái tự động"
+  },
+  "弘毅投资": {
+   "w": "弘毅投资",
+   "p": "Hóngyì Tóuzī",
+   "hv": "Hoằng Nghị Đầu Tư",
+   "note": "Hony Capital — quỹ cổ phần tư nhân lớn, Bắc Kinh"
+  },
+  "零一汽车": {
+   "w": "零一汽车",
+   "p": "Língyī Qìchē",
+   "hv": "Linh Nhất Khí Xa",
+   "note": "Zeron — startup xe tải điện/thông minh hạng nặng"
+  },
+  "华为": {
+   "w": "华为",
+   "p": "Huáwéi",
+   "hv": "Hoa Vi",
+   "note": "Huawei"
+  },
+  "理想汽车": {
+   "w": "理想汽车",
+   "p": "Lǐxiǎng Qìchē",
+   "hv": "Lý Tưởng Khí Xa",
+   "note": "Li Auto — hãng xe điện Trung Quốc"
+  },
+  "苹果": {
+   "w": "苹果",
+   "p": "Píngguǒ",
+   "hv": "Bình Quả",
+   "note": "Apple (nghĩa gốc: quả táo)"
+  },
+  "新疆": {
+   "w": "新疆",
+   "p": "Xīnjiāng",
+   "hv": "Tân Cương",
+   "note": "Khu tự trị Tân Cương, tây bắc Trung Quốc"
+  },
+  "内蒙古": {
+   "w": "内蒙古",
+   "p": "Nèiměnggǔ",
+   "hv": "Nội Mông Cổ",
+   "note": "Khu tự trị Nội Mông, bắc Trung Quốc"
+  },
+  "氪": {
+   "w": "氪",
+   "p": "Kè",
+   "hv": "Khắc",
+   "note": "Chữ 氪 trong tên 36氪 (36Kr) — trang tin công nghệ, startup và đầu tư"
+  }
+ },
+ "dict": {
+  "物理": {
+   "w": "物理",
+   "p": "wùlǐ",
+   "hv": "vật lý",
+   "pos": "名",
+   "en": "physics; physical",
+   "vn": "vật lý; (物理AI) AI vật lý — AI làm việc trong thế giới thật",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261107"
+   ]
+  },
+  "无人驾驶": {
+   "w": "无人驾驶",
+   "p": "wúrén jiàshǐ",
+   "hv": "vô nhân giá sử",
+   "pos": "名",
+   "en": "driverless; autonomous driving",
+   "vn": "lái tự động, không người lái",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261107"
+   ]
+  },
+  "司机": {
+   "w": "司机",
+   "p": "sījī",
+   "hv": "ty cơ",
+   "pos": "名",
+   "en": "driver",
+   "vn": "tài xế",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261107"
+   ]
+  },
+  "运营": {
+   "w": "运营",
+   "p": "yùnyíng",
+   "hv": "vận doanh",
+   "pos": "动",
+   "en": "to operate (a business, fleet)",
+   "vn": "vận hành, khai thác (kinh doanh)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261107"
+   ]
+  },
+  "测试": {
+   "w": "测试",
+   "p": "cèshì",
+   "hv": "trắc thí",
+   "pos": "动",
+   "en": "to test; test",
+   "vn": "thử nghiệm, kiểm thử",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261107"
+   ]
+  },
+  "时机": {
+   "w": "时机",
+   "p": "shíjī",
+   "hv": "thời cơ",
+   "pos": "名",
+   "en": "timing; opportune moment",
+   "vn": "thời cơ, thời điểm",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261107"
+   ]
+  },
+  "矿山": {
+   "w": "矿山",
+   "p": "kuàngshān",
+   "hv": "khoáng sơn",
+   "pos": "名",
+   "en": "mine",
+   "vn": "mỏ, khu mỏ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261107"
+   ]
+  },
+  "港口": {
+   "w": "港口",
+   "p": "gǎngkǒu",
+   "hv": "cảng khẩu",
+   "pos": "名",
+   "en": "port; harbour",
+   "vn": "cảng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261107"
+   ]
+  },
+  "场景": {
+   "w": "场景",
+   "p": "chǎngjǐng",
+   "hv": "trường cảnh",
+   "pos": "名",
+   "en": "scenario; use case",
+   "vn": "bối cảnh, kịch bản sử dụng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261107"
+   ]
+  },
+  "公里": {
+   "w": "公里",
+   "p": "gōnglǐ",
+   "hv": "công lý",
+   "pos": "量",
+   "en": "kilometre",
+   "vn": "ki-lô-mét",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261107"
+   ]
+  },
+  "车队": {
+   "w": "车队",
+   "p": "chēduì",
+   "hv": "xa đội",
+   "pos": "名",
+   "en": "fleet (of vehicles)",
+   "vn": "đội xe",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261107"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "36氪（硬氪）",
+   "author": "乔钰杰",
+   "title": "36氪首发丨重载物理AI公司成立一年内融资近4亿，核心成员来自华为、理想，已运营车辆超百台",
+   "date": "2026-11-06",
+   "url": "https://www.36kr.com/p/4057656248685701",
+   "accessed": "2026-11-07"
+  },
+  {
+   "role": "secondary",
+   "outlet": "财联社",
+   "author": "财联社",
+   "title": "“牛散”葛卫东出手无人重卡，成立不到一年的易博图融近4亿元",
+   "date": "2026-11-05",
+   "url": "https://www.cls.cn/detail/2526650",
+   "accessed": "2026-11-07"
+  },
+  {
+   "role": "secondary",
+   "outlet": "东方财富网",
+   "author": "东方财富网",
+   "title": "物理AI模型商易博图完成两轮近4亿元融资",
+   "date": "2026-11-05",
+   "url": "https://finance.eastmoney.com/a/202611053923343641.html",
+   "accessed": "2026-11-07"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261107",
+  "book": 4,
+  "no": 25,
+  "date": "2026-11-07",
+  "seq": 67,
+  "title": "没有司机的卡车",
+  "py": "méiyǒusījīdekǎchē",
+  "en": "Trucks without drivers",
+  "vn": "Xe tải không có tài xế",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "前",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "几",
+        "p": "jǐ",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "上海",
+        "p": "Shànghǎi",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "易博图",
+        "p": "Yìbótú",
+        "k": "name"
+       },
+       {
+        "w": "宣布",
+        "p": "xuānbù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "两",
+        "p": "liǎng",
+        "k": "extra"
+       },
+       {
+        "w": "轮",
+        "p": "lún",
+        "k": "extra"
+       },
+       {
+        "w": "融资",
+        "p": "róngzī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "合",
+        "p": "hé",
+        "k": "extra"
+       },
+       {
+        "w": "计",
+        "p": "jì",
+        "k": "extra"
+       },
+       {
+        "w": "近",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "4",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "投资",
+        "p": "tóuzī",
+        "k": "extra"
+       },
+       {
+        "w": "方",
+        "p": "fāng",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "知名",
+        "p": "zhīmíng",
+        "k": "extra"
+       },
+       {
+        "w": "投资",
+        "p": "tóuzī",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "葛卫东",
+        "p": "Gě Wèidōng",
+        "k": "name"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "辰韬资本",
+        "p": "Chéntāo Zīběn",
+        "k": "name"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "弘毅投资",
+        "p": "Hóngyì Tóuzī",
+        "k": "name"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "零一汽车",
+        "p": "Língyī Qìchē",
+        "k": "name"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "没想到",
+        "p": "méi xiǎngdào",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "2",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "才",
+        "p": "cái",
+        "k": "extra"
+       },
+       {
+        "w": "成立",
+        "p": "chénglì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "这么",
+        "p": "zhème",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "易博图",
+        "p": "Yìbótú",
+        "k": "name"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "物理",
+        "p": "wùlǐ",
+        "k": "core"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "一般",
+        "p": "yìbān",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "模型",
+        "p": "móxíng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "电",
+        "p": "diàn",
+        "k": "extra"
+       },
+       {
+        "w": "脑",
+        "p": "nǎo",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "聊天",
+        "p": "liáotiān",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "写",
+        "p": "xiě",
+        "k": "extra"
+       },
+       {
+        "w": "文章",
+        "p": "wénzhāng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "物理",
+        "p": "wùlǐ",
+        "k": "core"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "却",
+        "p": "què",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "走",
+        "p": "zǒu",
+        "k": "extra"
+       },
+       {
+        "w": "出",
+        "p": "chū",
+        "k": "extra"
+       },
+       {
+        "w": "电",
+        "p": "diàn",
+        "k": "extra"
+       },
+       {
+        "w": "脑",
+        "p": "nǎo",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "外面",
+        "p": "wàimiàn",
+        "k": "extra"
+       },
+       {
+        "w": "去",
+        "p": "qù",
+        "k": "extra"
+       },
+       {
+        "w": "干",
+        "p": "gān",
+        "k": "extra"
+       },
+       {
+        "w": "活",
+        "p": "huó",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "易博图",
+        "p": "Yìbótú",
+        "k": "name"
+       },
+       {
+        "w": "先",
+        "p": "xiān",
+        "k": "extra"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "卡",
+        "p": "kǎ",
+        "k": "extra"
+       },
+       {
+        "w": "车",
+        "p": "chē",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "无人驾驶",
+        "p": "wúrén jiàshǐ",
+        "k": "core"
+       },
+       {
+        "w": "开始",
+        "p": "kāishǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "卡",
+        "p": "kǎ",
+        "k": "extra"
+       },
+       {
+        "w": "车",
+        "p": "chē",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "司机",
+        "p": "sījī",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "时候",
+        "p": "shíhòu",
+        "k": "extra"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "开",
+        "p": "kāi",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "以前",
+        "p": "yǐqián",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "华为",
+        "p": "Huáwéi",
+        "k": "name"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "理想汽车",
+        "p": "Lǐxiǎng Qìchē",
+        "k": "name"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "苹果",
+        "p": "Píngguǒ",
+        "k": "name"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "工作",
+        "p": "gōngzuò",
+        "k": "extra"
+       },
+       {
+        "w": "过",
+        "p": "guò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "过",
+        "p": "guò",
+        "k": "extra"
+       },
+       {
+        "w": "无人驾驶",
+        "p": "wúrén jiàshǐ",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "技术",
+        "p": "jìshù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "36",
+        "k": "plain"
+       },
+       {
+        "w": "氪",
+        "p": "Kè",
+        "k": "name"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "易博图",
+        "p": "Yìbótú",
+        "k": "name"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "运营",
+        "p": "yùnyíng",
+        "k": "core"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "百",
+        "p": "bǎi",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "台",
+        "p": "(Tái) jīn",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "卡",
+        "p": "kǎ",
+        "k": "extra"
+       },
+       {
+        "w": "车",
+        "p": "chē",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "跑",
+        "p": "pǎo",
+        "k": "extra"
+       },
+       {
+        "w": "六",
+        "p": "liù",
+        "k": "extra"
+       },
+       {
+        "w": "十",
+        "p": "shí",
+        "k": "extra"
+       },
+       {
+        "w": "条",
+        "p": "tiáo",
+        "k": "extra"
+       },
+       {
+        "w": "线",
+        "p": "xiàn",
+        "k": "extra"
+       },
+       {
+        "w": "路",
+        "p": "lù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "主要",
+        "p": "zhǔyào",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "百",
+        "p": "bǎi",
+        "k": "extra"
+       },
+       {
+        "w": "公里",
+        "p": "gōnglǐ",
+        "k": "core"
+       },
+       {
+        "w": "以内",
+        "p": "yǐnèi",
+        "k": "extra"
+       },
+       {
+        "w": "送",
+        "p": "sòng",
+        "k": "extra"
+       },
+       {
+        "w": "原料",
+        "p": "yuánliào",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "货物",
+        "p": "huòwù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "新疆",
+        "p": "Xīnjiāng",
+        "k": "name"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "内蒙古",
+        "p": "Nèiměnggǔ",
+        "k": "name"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "地方",
+        "p": "dìfāng",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "测试",
+        "p": "cèshì",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "那里",
+        "p": "nàlǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "路",
+        "p": "lù",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "复杂",
+        "p": "fùzá",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "办法",
+        "p": "bànfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "先",
+        "p": "xiān",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "车队",
+        "p": "chēduì",
+        "k": "core"
+       },
+       {
+        "w": "跑",
+        "p": "pǎo",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "技术",
+        "p": "jìshù",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "成本",
+        "p": "chéngběn",
+        "k": "extra"
+       },
+       {
+        "w": "算",
+        "p": "suàn",
+        "k": "extra"
+       },
+       {
+        "w": "清楚",
+        "p": "qīngchǔ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "再",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "卡",
+        "p": "kǎ",
+        "k": "extra"
+       },
+       {
+        "w": "车",
+        "p": "chē",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "软件",
+        "p": "ruǎnjiàn",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "运营",
+        "p": "yùnyíng",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "经验",
+        "p": "jīngyàn",
+        "k": "extra"
+       },
+       {
+        "w": "一起",
+        "p": "yìqǐ",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "客户",
+        "p": "kèhù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "认为",
+        "p": "rènwéi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "件",
+        "p": "jiàn",
+        "k": "extra"
+       },
+       {
+        "w": "事",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "好",
+        "p": "hǎo",
+        "k": "extra"
+       },
+       {
+        "w": "时机",
+        "p": "shíjī",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "以前",
+        "p": "yǐqián",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "无人驾驶",
+        "p": "wúrén jiàshǐ",
+        "k": "core"
+       },
+       {
+        "w": "主要",
+        "p": "zhǔyào",
+        "k": "extra"
+       },
+       {
+        "w": "靠",
+        "p": "kào",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "写",
+        "p": "xiě",
+        "k": "extra"
+       },
+       {
+        "w": "规则",
+        "p": "guīzé",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "越来越",
+        "p": "yuèláiyuè",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "靠",
+        "p": "kào",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "学习",
+        "p": "xuéxí",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "走",
+        "p": "zǒu",
+        "k": "extra"
+       },
+       {
+        "w": "老",
+        "p": "lǎo",
+        "k": "extra"
+       },
+       {
+        "w": "路",
+        "p": "lù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "可能",
+        "p": "kěnéng",
+        "k": "extra"
+       },
+       {
+        "w": "跑",
+        "p": "pǎo",
+        "k": "extra"
+       },
+       {
+        "w": "得",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "快",
+        "p": "kuài",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "想",
+        "p": "xiǎng",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "技术",
+        "p": "jìshù",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "矿山",
+        "p": "kuàngshān",
+        "k": "core"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "港口",
+        "p": "gǎngkǒu",
+        "k": "core"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "电厂",
+        "p": "diànchǎng",
+        "k": "extra"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "工",
+        "p": "gōng",
+        "k": "extra"
+       },
+       {
+        "w": "业",
+        "p": "yè",
+        "k": "extra"
+       },
+       {
+        "w": "场景",
+        "p": "chǎngjǐng",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "卡",
+        "p": "kǎ",
+        "k": "extra"
+       },
+       {
+        "w": "车",
+        "p": "chē",
+        "k": "extra"
+       },
+       {
+        "w": "扩大",
+        "p": "kuòdà",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "设备",
+        "p": "shèbèi",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "不过",
+        "p": "búguò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "路",
+        "p": "lù",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "一定",
+        "p": "yídìng",
+        "k": "extra"
+       },
+       {
+        "w": "好",
+        "p": "hǎo",
+        "k": "extra"
+       },
+       {
+        "w": "走",
+        "p": "zǒu",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "公布",
+        "p": "gōngbù",
+        "k": "extra"
+       },
+       {
+        "w": "收入",
+        "p": "shōurù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "投资者",
+        "p": "tóuzīzhě",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "真正",
+        "p": "zhēnzhèng",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "卡",
+        "p": "kǎ",
+        "k": "extra"
+       },
+       {
+        "w": "车",
+        "p": "chē",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "安全",
+        "p": "ānquán",
+        "k": "extra"
+       },
+       {
+        "w": "地",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "跑",
+        "p": "pǎo",
+        "k": "extra"
+       },
+       {
+        "w": "下去",
+        "p": "xiàqù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "成本",
+        "p": "chéngběn",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "司机",
+        "p": "sījī",
+        "k": "core"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "低",
+        "p": "dī",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. A才…，就… — mới… mà đã…",
+    "b": [
+     "Cách dùng:",
+     "才 đứng trước động từ nhấn mạnh việc xảy ra muộn/gần đây; 就 ở vế sau nhấn mạnh kết quả đến sớm, nhanh. Ghép lại để nói “mới thế này mà đã thế kia” — rất hay gặp trong tin startup gọi vốn nhanh.",
+     "这家公司今年2月才成立，不到一年就拿到了这么多钱。",
+     "Zhè jiā gōngsī jīnnián èr yuè cái chénglì, bú dào yì nián jiù ná dào le zhème duō qián.",
+     "Công ty này tháng 2 năm nay mới thành lập, chưa đầy một năm đã nhận được nhiều tiền như vậy."
+    ]
+   },
+   {
+    "h": "II. 先A，再B — trước A, rồi B",
+    "b": [
+     "Cách dùng:",
+     "先…再… nói trình tự hai bước. Trong tin kinh doanh thường dùng để mô tả lộ trình thương mại hoá: tự chạy thử trước, bán cho khách sau.",
+     "公司的办法是先用自己的车队跑，把技术和成本算清楚，再把卡车、软件和运营的经验一起卖给客户。",
+     "Gōngsī de bànfǎ shì xiān yòng zìjǐ de chēduì pǎo, bǎ jìshù hé chéngběn suàn qīngchu, zài bǎ kǎchē, ruǎnjiàn hé yùnyíng de jīngyàn yìqǐ mài gěi kèhù.",
+     "Cách của công ty là trước hết dùng đội xe của mình chạy, tính cho rõ công nghệ và chi phí, rồi mới bán xe tải, phần mềm và kinh nghiệm vận hành cho khách hàng."
+    ]
+   },
+   {
+    "h": "III. 对…来说，真正要看的是… — đối với…, điều thật sự cần xem là…",
+    "b": [
+     "Cách dùng:",
+     "对 + người + 来说 nêu góc nhìn; 真正要看的是 đưa ra tiêu chí then chốt. Khuôn câu dùng được khi kết luận một bài phân tích đầu tư.",
+     "对投资者来说，真正要看的是这些卡车能不能安全地跑下去，成本能不能比用司机更低。",
+     "Duì tóuzīzhě lái shuō, zhēnzhèng yào kàn de shì zhèxiē kǎchē néng bu néng ānquán de pǎo xiàqu, chéngběn néng bu néng bǐ yòng sījī gèng dī.",
+     "Với nhà đầu tư, điều thật sự cần xem là những chiếc xe tải này có chạy an toàn lâu dài được không, chi phí có thấp hơn dùng tài xế hay không."
+    ]
+   }
+  ],
+  "vocab": [
+   "物理",
+   "无人驾驶",
+   "司机",
+   "运营",
+   "测试",
+   "时机",
+   "矿山",
+   "港口",
+   "场景",
+   "公里",
+   "车队"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "36氪（硬氪）",
+    "author": "乔钰杰",
+    "title": "36氪首发丨重载物理AI公司成立一年内融资近4亿，核心成员来自华为、理想，已运营车辆超百台",
+    "date": "2026-11-06",
+    "url": "https://www.36kr.com/p/4057656248685701",
+    "accessed": "2026-11-07"
+   },
+   {
+    "role": "secondary",
+    "outlet": "财联社",
+    "author": "财联社",
+    "title": "“牛散”葛卫东出手无人重卡，成立不到一年的易博图融近4亿元",
+    "date": "2026-11-05",
+    "url": "https://www.cls.cn/detail/2526650",
+    "accessed": "2026-11-07"
+   },
+   {
+    "role": "secondary",
+    "outlet": "东方财富网",
+    "author": "东方财富网",
+    "title": "物理AI模型商易博图完成两轮近4亿元融资",
+    "date": "2026-11-05",
+    "url": "https://finance.eastmoney.com/a/202611053923343641.html",
+    "accessed": "2026-11-07"
+   }
+  ]
+ }
+}
