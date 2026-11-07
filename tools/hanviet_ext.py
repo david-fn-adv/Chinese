@@ -25,6 +25,7 @@ CHARS_EXT = """
 构:cấu 锁:tỏa 唯:duy 伟:vĩ
 呆:ngai 浦:phố 曹:tào 频:tần 兽:thú 络:lạc
 驾:giá 驶:sử 测:trắc 矿:khoáng 葛:cát 辰:thần 韬:thao 弘:hoằng 毅:nghị 苹:bình 疆:cương 蒙:mông 氪:khắc
+债:trái 涛:đào
 """
 
 # Từ ghép có âm khác cách ghép từng chữ

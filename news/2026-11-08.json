@@ -1,0 +1,2113 @@
+{
+ "date": "2026-11-08",
+ "id": "N-20261108",
+ "draft": {
+  "title": "美元涨了，外储也涨了",
+  "vn": "Đô la tăng, dự trữ ngoại hối cũng tăng",
+  "en": "The dollar rose, and so did the reserves",
+  "paras": [
+   "11月7日，国家外汇管理局公布了新的数据：到10月底，中国的外汇储备是34052亿美元，比9月底多了49亿美元，上升0.14%。外汇储备就是国家手里的外国钱和外国的资产，可以用来应对风险，也能让市场对人民币更有信心。",
+   "让人想不到的是，10月美元在涨，外储也跟着涨。中国的外汇储备虽然用美元来算，但是里面不只有美元，还有欧元等别的货币。美元一涨，这些货币折算成美元就变少了。据第一财经报道，经济学家管涛认为，10月欧元对美元跌了1.5%，所以汇率这一块，可能是让外储变少的因素。",
+   "那么，多出来的钱是从哪里来的？是资产价格。外储里有很多外国债券，10月全球的债券价格整体上涨，账面上的价值就多了。一边少，一边多，加在一起，结果是增加了一点。这就是常说的“估值效应”：钱没有多买，也没有多卖，只是价格变了。",
+   "同一天，央行的数据显示，黄金储备也在增加。据第一财经报道，这已经是央行连续第24个月增加黄金。分析师王青说，三年前外储大约是3.1万亿美元，现在是3.4万亿美元，主要原因也是资产价格上涨。",
+   "对做外贸的企业来说，外储稳定是个好消息。不过，估值效应有涨就有跌。看外储，不能只看一个月的数字，更要看长期的变化。"
+  ],
+  "points": [
+   {
+    "h": "I. 据…报道 — theo… đưa tin",
+    "b": [
+     "Cách dùng:",
+     "据 + nguồn tin + 报道 đặt đầu câu để ghi rõ thông tin lấy từ đâu. Dùng khi con số hay nhận định chỉ có một nguồn — đúng thói quen của báo tài chính.",
+     "据第一财经报道，这已经是央行连续第24个月增加黄金。",
+     "Jù Dìyī Cáijīng bàodào, zhè yǐjīng shì yāngháng liánxù dì èrshísì ge yuè zēngjiā huángjīn.",
+     "Theo Đệ Nhất Tài Kinh đưa tin, đây đã là tháng thứ 24 liên tiếp ngân hàng trung ương tăng lượng vàng."
+    ]
+   },
+   {
+    "h": "II. 一边A，一边B — bên này A, bên kia B",
+    "b": [
+     "Cách dùng:",
+     "Đặt hai vế ngắn cạnh nhau để nói hai lực ngược chiều xảy ra cùng lúc, rồi nêu kết quả sau cùng. Hay dùng khi giải thích vì sao một con số chỉ nhích nhẹ.",
+     "一边少，一边多，加在一起，结果是增加了一点。",
+     "Yìbiān shǎo, yìbiān duō, jiā zài yìqǐ, jiéguǒ shì zēngjiā le yìdiǎn.",
+     "Bên này giảm, bên kia tăng, cộng lại thì kết quả là tăng một chút."
+    ]
+   },
+   {
+    "h": "III. 不能只看A，更要看B — không thể chỉ nhìn A, càng phải nhìn B",
+    "b": [
+     "Cách dùng:",
+     "Phủ định cách nhìn hẹp (只看) rồi đưa ra góc nhìn đúng hơn (更要看). Khuôn câu kết luận rất hợp khi bình luận số liệu tháng.",
+     "看外储，不能只看一个月的数字，更要看长期的变化。",
+     "Kàn wàichǔ, bù néng zhǐ kàn yí ge yuè de shùzì, gèng yào kàn chángqī de biànhuà.",
+     "Nhìn dự trữ ngoại hối, không thể chỉ xem con số của một tháng, mà càng phải xem biến động dài hạn."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "国家外汇管理局": {
+   "w": "国家外汇管理局",
+   "p": "Guójiā Wàihuì Guǎnlǐjú",
+   "hv": "Quốc gia Ngoại hối Quản lý Cục",
+   "note": "SAFE — Cục Quản lý Ngoại hối Nhà nước Trung Quốc, cơ quan công bố số liệu dự trữ ngoại hối"
+  },
+  "第一财经": {
+   "w": "第一财经",
+   "p": "Dìyī Cáijīng",
+   "hv": "Đệ Nhất Tài Kinh",
+   "note": "Yicai — tập đoàn truyền thông tài chính, Thượng Hải"
+  },
+  "管涛": {
+   "w": "管涛",
+   "p": "Guǎn Tāo",
+   "hv": "Quản Đào",
+   "note": "Kinh tế trưởng Công ty chứng khoán Hoa Phúc (华福证券), nguyên quan chức SAFE"
+  },
+  "王青": {
+   "w": "王青",
+   "p": "Wáng Qīng",
+   "hv": "Vương Thanh",
+   "note": "Chuyên gia phân tích vĩ mô trưởng của Đông Phương Kim Thành (东方金诚)"
+  }
+ },
+ "dict": {
+  "储备": {
+   "w": "储备",
+   "p": "chǔbèi",
+   "hv": "trữ bị",
+   "pos": "名",
+   "en": "reserve(s)",
+   "vn": "dự trữ (外汇储备: dự trữ ngoại hối)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261108"
+   ]
+  },
+  "涨": {
+   "w": "涨",
+   "p": "zhǎng",
+   "hv": "trướng",
+   "pos": "动",
+   "en": "to rise (price)",
+   "vn": "tăng (giá)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261108"
+   ]
+  },
+  "跌": {
+   "w": "跌",
+   "p": "diē",
+   "hv": "điệt",
+   "pos": "动",
+   "en": "to fall (price)",
+   "vn": "giảm, rớt (giá)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261108"
+   ]
+  },
+  "欧元": {
+   "w": "欧元",
+   "p": "ōuyuán",
+   "hv": "âu nguyên",
+   "pos": "名",
+   "en": "euro",
+   "vn": "đồng euro",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261108"
+   ]
+  },
+  "债券": {
+   "w": "债券",
+   "p": "zhàiquàn",
+   "hv": "trái khoán",
+   "pos": "名",
+   "en": "bond",
+   "vn": "trái phiếu",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261108"
+   ]
+  },
+  "效应": {
+   "w": "效应",
+   "p": "xiàoyìng",
+   "hv": "hiệu ứng",
+   "pos": "名",
+   "en": "effect",
+   "vn": "hiệu ứng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261108"
+   ]
+  },
+  "因素": {
+   "w": "因素",
+   "p": "yīnsù",
+   "hv": "nhân tố",
+   "pos": "名",
+   "en": "factor",
+   "vn": "nhân tố, yếu tố",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261108"
+   ]
+  },
+  "黄金": {
+   "w": "黄金",
+   "p": "huángjīn",
+   "hv": "hoàng kim",
+   "pos": "名",
+   "en": "gold",
+   "vn": "vàng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261108"
+   ]
+  },
+  "连续": {
+   "w": "连续",
+   "p": "liánxù",
+   "hv": "liên tục",
+   "pos": "副",
+   "en": "consecutively",
+   "vn": "liên tục, liền",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261108"
+   ]
+  },
+  "信心": {
+   "w": "信心",
+   "p": "xìnxīn",
+   "hv": "tín tâm",
+   "pos": "名",
+   "en": "confidence",
+   "vn": "niềm tin, lòng tin",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261108"
+   ]
+  },
+  "外储": {
+   "w": "外储",
+   "p": "wàichǔ",
+   "hv": "ngoại trữ",
+   "pos": "名",
+   "en": "FX reserves (short for 外汇储备)",
+   "vn": "dự trữ ngoại hối (cách nói tắt của 外汇储备 trên báo chí)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261108"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "第一财经",
+   "author": "杜川",
+   "title": "外储连续七个月站稳3.4万亿关口",
+   "date": "2026-11-07",
+   "url": "https://www.yicai.com/news/103430741.html",
+   "accessed": "2026-11-08"
+  },
+  {
+   "role": "secondary",
+   "outlet": "国家外汇管理局",
+   "author": "国家外汇管理局",
+   "title": "国家外汇管理局公布2026年10月末外汇储备规模数据",
+   "date": "2026-11-07",
+   "url": "https://www.safe.gov.cn/safe/2026/1106/28067.html",
+   "accessed": "2026-11-08"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261108",
+  "book": 4,
+  "no": 26,
+  "date": "2026-11-08",
+  "seq": 68,
+  "title": "美元涨了，外储也涨了",
+  "py": "měiyuánzhǎngle，wàichǔyězhǎngle",
+  "en": "The dollar rose, and so did the reserves",
+  "vn": "Đô la tăng, dự trữ ngoại hối cũng tăng",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "11",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "7",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "国家外汇管理局",
+        "p": "Guójiā Wàihuì Guǎnlǐjú",
+        "k": "name"
+       },
+       {
+        "w": "公布",
+        "p": "gōngbù",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月底",
+        "p": "yuèdǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "外汇",
+        "p": "wàihuì",
+        "k": "extra"
+       },
+       {
+        "w": "储备",
+        "p": "chǔbèi",
+        "k": "core"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "34052",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "9",
+        "k": "plain"
+       },
+       {
+        "w": "月底",
+        "p": "yuèdǐ",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "49",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "升",
+        "p": "shēng",
+        "k": "extra"
+       },
+       {
+        "w": "0",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "14%",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "外汇",
+        "p": "wàihuì",
+        "k": "extra"
+       },
+       {
+        "w": "储备",
+        "p": "chǔbèi",
+        "k": "core"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "国家",
+        "p": "guójiā",
+        "k": "extra"
+       },
+       {
+        "w": "手",
+        "p": "shǒu",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "外",
+        "p": "wài",
+        "k": "extra"
+       },
+       {
+        "w": "国",
+        "p": "guó",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "外",
+        "p": "wài",
+        "k": "extra"
+       },
+       {
+        "w": "国",
+        "p": "guó",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "资产",
+        "p": "zīchǎn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "可以",
+        "p": "kěyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "应",
+        "p": "yīng",
+        "k": "extra"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "风险",
+        "p": "fēngxiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "市场",
+        "p": "shìchǎng",
+        "k": "extra"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "信心",
+        "p": "xìnxīn",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "想",
+        "p": "xiǎng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月美",
+        "p": "Yuè Měi",
+        "k": "name"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "涨",
+        "p": "zhǎng",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "外储",
+        "p": "wàichǔ",
+        "k": "core"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "跟",
+        "p": "gēn",
+        "k": "extra"
+       },
+       {
+        "w": "着",
+        "p": "zhe",
+        "k": "extra"
+       },
+       {
+        "w": "涨",
+        "p": "zhǎng",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "外汇",
+        "p": "wàihuì",
+        "k": "extra"
+       },
+       {
+        "w": "储备",
+        "p": "chǔbèi",
+        "k": "core"
+       },
+       {
+        "w": "虽然",
+        "p": "suīrán",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "算",
+        "p": "suàn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "但是",
+        "p": "dànshì",
+        "k": "extra"
+       },
+       {
+        "w": "里面",
+        "p": "lǐmiàn",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "欧元",
+        "p": "ōuyuán",
+        "k": "core"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "别的",
+        "p": "biéde",
+        "k": "extra"
+       },
+       {
+        "w": "货币",
+        "p": "huòbì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "涨",
+        "p": "zhǎng",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "货币",
+        "p": "huòbì",
+        "k": "extra"
+       },
+       {
+        "w": "折",
+        "p": "zhé",
+        "k": "extra"
+       },
+       {
+        "w": "算",
+        "p": "suàn",
+        "k": "extra"
+       },
+       {
+        "w": "成",
+        "p": "chéng",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "变",
+        "p": "biàn",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "第一财经",
+        "p": "Dìyī Cáijīng",
+        "k": "name"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "经济",
+        "p": "jīngjì",
+        "k": "extra"
+       },
+       {
+        "w": "学",
+        "p": "xué",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "管涛",
+        "p": "Guǎn Tāo",
+        "k": "name"
+       },
+       {
+        "w": "认为",
+        "p": "rènwéi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "欧元",
+        "p": "ōuyuán",
+        "k": "core"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "跌",
+        "p": "diē",
+        "k": "core"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "1",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "5%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "所以",
+        "p": "suǒyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "汇率",
+        "p": "huìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "块",
+        "p": "kuài",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "可能",
+        "p": "kěnéng",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "外储",
+        "p": "wàichǔ",
+        "k": "core"
+       },
+       {
+        "w": "变",
+        "p": "biàn",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "因素",
+        "p": "yīnsù",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "那么",
+        "p": "nàme",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "出",
+        "p": "chū",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "哪里",
+        "p": "nǎlǐ",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "资产",
+        "p": "zīchǎn",
+        "k": "extra"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "外储",
+        "p": "wàichǔ",
+        "k": "core"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "外",
+        "p": "wài",
+        "k": "extra"
+       },
+       {
+        "w": "国",
+        "p": "guó",
+        "k": "extra"
+       },
+       {
+        "w": "债券",
+        "p": "zhàiquàn",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "全球",
+        "p": "quánqiú",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "债券",
+        "p": "zhàiquàn",
+        "k": "core"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "整体",
+        "p": "zhěngtǐ",
+        "k": "extra"
+       },
+       {
+        "w": "上涨",
+        "p": "shàngzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "账面",
+        "p": "zhàngmiàn",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "价值",
+        "p": "jiàzhí",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "一边",
+        "p": "yìbiān",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "一边",
+        "p": "yìbiān",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "加",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "一起",
+        "p": "yìqǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "结果",
+        "p": "jiéguǒ",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "增加",
+        "p": "zēngjiā",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一点",
+        "p": "yīdiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "常",
+        "p": "cháng",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "估值",
+        "p": "gūzhí",
+        "k": "extra"
+       },
+       {
+        "w": "效应",
+        "p": "xiàoyìng",
+        "k": "core"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "买",
+        "p": "mǎi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "变",
+        "p": "biàn",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "同",
+        "p": "tóng",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "央行",
+        "p": "yāngháng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "显示",
+        "p": "xiǎnshì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "黄金",
+        "p": "huángjīn",
+        "k": "core"
+       },
+       {
+        "w": "储备",
+        "p": "chǔbèi",
+        "k": "core"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "增加",
+        "p": "zēngjiā",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "第一财经",
+        "p": "Dìyī Cáijīng",
+        "k": "name"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "央行",
+        "p": "yāngháng",
+        "k": "extra"
+       },
+       {
+        "w": "连续",
+        "p": "liánxù",
+        "k": "core"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "24",
+        "k": "plain"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "增加",
+        "p": "zēngjiā",
+        "k": "extra"
+       },
+       {
+        "w": "黄金",
+        "p": "huángjīn",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "分析师",
+        "p": "fēnxīshī",
+        "k": "extra"
+       },
+       {
+        "w": "王青",
+        "p": "Wáng Qīng",
+        "k": "name"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "前",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "外储",
+        "p": "wàichǔ",
+        "k": "core"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "约",
+        "p": "yuē",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "3",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "1",
+        "k": "plain"
+       },
+       {
+        "w": "万",
+        "p": "wàn",
+        "k": "extra"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "3",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "4",
+        "k": "plain"
+       },
+       {
+        "w": "万",
+        "p": "wàn",
+        "k": "extra"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "美元",
+        "p": "měiyuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "主要",
+        "p": "zhǔyào",
+        "k": "extra"
+       },
+       {
+        "w": "原因",
+        "p": "yuányīn",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "资产",
+        "p": "zīchǎn",
+        "k": "extra"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "上涨",
+        "p": "shàngzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "外贸",
+        "p": "wàimào",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "外储",
+        "p": "wàichǔ",
+        "k": "core"
+       },
+       {
+        "w": "稳定",
+        "p": "wěndìng",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "好",
+        "p": "hǎo",
+        "k": "extra"
+       },
+       {
+        "w": "消息",
+        "p": "xiāoxí",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "不过",
+        "p": "búguò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "估值",
+        "p": "gūzhí",
+        "k": "extra"
+       },
+       {
+        "w": "效应",
+        "p": "xiàoyìng",
+        "k": "core"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "涨",
+        "p": "zhǎng",
+        "k": "core"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "跌",
+        "p": "diē",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "外储",
+        "p": "wàichǔ",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "数字",
+        "p": "shùzì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "长期",
+        "p": "chángqī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "变化",
+        "p": "biànhuà",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 据…报道 — theo… đưa tin",
+    "b": [
+     "Cách dùng:",
+     "据 + nguồn tin + 报道 đặt đầu câu để ghi rõ thông tin lấy từ đâu. Dùng khi con số hay nhận định chỉ có một nguồn — đúng thói quen của báo tài chính.",
+     "据第一财经报道，这已经是央行连续第24个月增加黄金。",
+     "Jù Dìyī Cáijīng bàodào, zhè yǐjīng shì yāngháng liánxù dì èrshísì ge yuè zēngjiā huángjīn.",
+     "Theo Đệ Nhất Tài Kinh đưa tin, đây đã là tháng thứ 24 liên tiếp ngân hàng trung ương tăng lượng vàng."
+    ]
+   },
+   {
+    "h": "II. 一边A，一边B — bên này A, bên kia B",
+    "b": [
+     "Cách dùng:",
+     "Đặt hai vế ngắn cạnh nhau để nói hai lực ngược chiều xảy ra cùng lúc, rồi nêu kết quả sau cùng. Hay dùng khi giải thích vì sao một con số chỉ nhích nhẹ.",
+     "一边少，一边多，加在一起，结果是增加了一点。",
+     "Yìbiān shǎo, yìbiān duō, jiā zài yìqǐ, jiéguǒ shì zēngjiā le yìdiǎn.",
+     "Bên này giảm, bên kia tăng, cộng lại thì kết quả là tăng một chút."
+    ]
+   },
+   {
+    "h": "III. 不能只看A，更要看B — không thể chỉ nhìn A, càng phải nhìn B",
+    "b": [
+     "Cách dùng:",
+     "Phủ định cách nhìn hẹp (只看) rồi đưa ra góc nhìn đúng hơn (更要看). Khuôn câu kết luận rất hợp khi bình luận số liệu tháng.",
+     "看外储，不能只看一个月的数字，更要看长期的变化。",
+     "Kàn wàichǔ, bù néng zhǐ kàn yí ge yuè de shùzì, gèng yào kàn chángqī de biànhuà.",
+     "Nhìn dự trữ ngoại hối, không thể chỉ xem con số của một tháng, mà càng phải xem biến động dài hạn."
+    ]
+   }
+  ],
+  "vocab": [
+   "储备",
+   "涨",
+   "跌",
+   "欧元",
+   "债券",
+   "效应",
+   "因素",
+   "黄金",
+   "连续",
+   "信心",
+   "外储"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "第一财经",
+    "author": "杜川",
+    "title": "外储连续七个月站稳3.4万亿关口",
+    "date": "2026-11-07",
+    "url": "https://www.yicai.com/news/103430741.html",
+    "accessed": "2026-11-08"
+   },
+   {
+    "role": "secondary",
+    "outlet": "国家外汇管理局",
+    "author": "国家外汇管理局",
+    "title": "国家外汇管理局公布2026年10月末外汇储备规模数据",
+    "date": "2026-11-07",
+    "url": "https://www.safe.gov.cn/safe/2026/1106/28067.html",
+    "accessed": "2026-11-08"
+   }
+  ]
+ }
+}
