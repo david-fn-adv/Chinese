@@ -26,6 +26,7 @@ CHARS_EXT = """
 呆:ngai 浦:phố 曹:tào 频:tần 兽:thú 络:lạc
 驾:giá 驶:sử 测:trắc 矿:khoáng 葛:cát 辰:thần 韬:thao 弘:hoằng 毅:nghị 苹:bình 疆:cương 蒙:mông 氪:khắc
 债:trái 涛:đào
+峡:hiệp 杰:kiệt
 """
 
 # Từ ghép có âm khác cách ghép từng chữ
@@ -35,5 +36,7 @@ WORD_EXT = {
     '行长': 'hàng trưởng',      # 行 = ngân hàng, 長 = người đứng đầu
     '支行': 'chi hàng',         # 行 = ngân hàng
     '分行': 'phân hàng',        # 行 = ngân hàng
-    '参与': 'tham dự',          # 与 trong 参与 đọc "dự" (thanh 4), không phải "dữ"
+    '参与': 'tham dự',
+    '交易额': 'giao dịch ngạch', # 易 trong 交易 đọc "dịch", không phải "dị"
+    '用处': 'dụng xứ',          # 处 = chỗ, chốn, đọc "xứ"          # 与 trong 参与 đọc "dự" (thanh 4), không phải "dữ"
 }
