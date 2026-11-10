@@ -1,0 +1,2023 @@
+{
+ "date": "2026-11-10",
+ "id": "N-20261110",
+ "draft": {
+  "title": "一张保单，换一笔贷款",
+  "vn": "Một tờ bảo hiểm, đổi lấy một khoản vay",
+  "en": "An insurance policy in exchange for a loan",
+  "paras": [
+   "11月7日，在进博会上，建设银行和中国信保在上海签约，一起发布了一个新方案。这个方案专门为两种企业服务：一种是做跨境电商的企业，另一种是在国外建海外仓的企业。",
+   "海外仓就是中国企业放在国外的仓库。货物先送过去，国外的客人在网上下单以后，两三天就能收到。现在越来越多的中国企业在网上把东西卖到国外，海外仓越来越重要。",
+   "可是，这些企业借钱常常很难。做跨境电商的公司大多不大，没有工厂，也没有房子，银行找不到可以抵押的东西。在国外建仓库，要花很多钱。货卖出去了，买家不付钱怎么办？银行也担心这个风险。",
+   "新方案的办法是让保险和贷款一起走。据第一财经报道，中国信保先给企业的生意上保险，银行再看保单和企业的交易数据，决定给多少额度。如果买家不付钱，保险公司会赔。银行的风险小了，就敢多借一些。方案里有三个服务包，分别叫“用仓无忧”“用仓扩额”“建仓助力”。新华财经的报道也说，建设银行这次把海外投资的保险跟银行贷款放在一起，从建仓库一直服务到运营。",
+   "方案还把保险、贷款和政府的审批放在一起办，企业不用一家一家地跑。",
+   "对没有抵押的小企业来说，真正有用的往往不是房子，而是一张保单和一份真实的交易记录。"
+  ],
+  "points": [
+   {
+    "h": "I. 一种是A，另一种是B — một loại là A, loại kia là B",
+    "b": [
+     "Cách dùng:",
+     "Liệt kê hai nhóm đối tượng sau khi đã nêu tổng số (两种). Rất hay gặp khi báo chí giới thiệu một chính sách hay sản phẩm phục vụ cho ai.",
+     "这个方案专门为两种企业服务：一种是做跨境电商的企业，另一种是在国外建海外仓的企业。",
+     "Zhège fāng'àn zhuānmén wèi liǎng zhǒng qǐyè fúwù: yì zhǒng shì zuò kuàjìng diànshāng de qǐyè, lìng yì zhǒng shì zài guówài jiàn hǎiwàicāng de qǐyè.",
+     "Phương án này phục vụ riêng cho hai loại doanh nghiệp: một loại là doanh nghiệp làm thương mại điện tử xuyên biên giới, loại kia là doanh nghiệp xây kho ở nước ngoài."
+    ]
+   },
+   {
+    "h": "II. A了，就敢B — A rồi thì mới dám B",
+    "b": [
+     "Cách dùng:",
+     "Vế trước nêu điều kiện đã thay đổi (了), vế sau dùng 就敢 để nói hệ quả: chủ thể bớt lo nên sẵn sàng hành động. Dùng nhiều khi nói về rủi ro tín dụng.",
+     "银行的风险小了，就敢多借一些。",
+     "Yínháng de fēngxiǎn xiǎo le, jiù gǎn duō jiè yìxiē.",
+     "Rủi ro của ngân hàng nhỏ đi rồi, thì ngân hàng mới dám cho vay nhiều hơn một chút."
+    ]
+   },
+   {
+    "h": "III. 从A一直B到C — từ A suốt cho đến C",
+    "b": [
+     "Cách dùng:",
+     "Nói phạm vi bao trùm cả một chuỗi, từ khâu đầu đến khâu cuối. 一直 nhấn mạnh tính liên tục, không bỏ khâu nào.",
+     "建设银行这次把海外投资的保险跟银行贷款放在一起，从建仓库一直服务到运营。",
+     "Jiànshè Yínháng zhè cì bǎ hǎiwài tóuzī de bǎoxiǎn gēn yínháng dàikuǎn fàng zài yìqǐ, cóng jiàn cāngkù yìzhí fúwù dào yùnyíng.",
+     "Lần này Ngân hàng Xây dựng gộp bảo hiểm đầu tư ở nước ngoài với khoản vay ngân hàng, phục vụ liên tục từ khâu xây kho cho đến khâu vận hành."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "进博会": {
+   "w": "进博会",
+   "p": "Jìnbóhuì",
+   "hv": "Tiến Bác Hội",
+   "note": "Hội chợ Nhập khẩu Quốc tế Trung Quốc (CIIE), tổ chức hằng năm ở Thượng Hải; năm 2026 là lần thứ 9"
+  },
+  "建设银行": {
+   "w": "建设银行",
+   "p": "Jiànshè Yínháng",
+   "hv": "Kiến Thiết Ngân Hàng",
+   "note": "China Construction Bank (CCB) — một trong bốn ngân hàng quốc doanh lớn nhất Trung Quốc"
+  },
+  "中国信保": {
+   "w": "中国信保",
+   "p": "Zhōngguó Xìnbǎo",
+   "hv": "Trung Quốc Tín Bảo",
+   "note": "Sinosure — Tổng công ty Bảo hiểm Tín dụng Xuất khẩu Trung Quốc (中国出口信用保险公司)"
+  },
+  "第一财经": {
+   "w": "第一财经",
+   "p": "Dìyī Cáijīng",
+   "hv": "Đệ Nhất Tài Kinh",
+   "note": "Yicai — tập đoàn truyền thông tài chính ở Thượng Hải"
+  },
+  "新华财经": {
+   "w": "新华财经",
+   "p": "Xīnhuá Cáijīng",
+   "hv": "Tân Hoa Tài Kinh",
+   "note": "Kênh tin tài chính của Tân Hoa xã"
+  },
+  "用仓无忧": {
+   "w": "用仓无忧",
+   "p": "Yòng Cāng Wú Yōu",
+   "hv": "Dụng Thương Vô Ưu",
+   "note": "Gói dịch vụ “dùng kho không lo” cho doanh nghiệp thuê kho ở nước ngoài"
+  },
+  "用仓扩额": {
+   "w": "用仓扩额",
+   "p": "Yòng Cāng Kuò É",
+   "hv": "Dụng Thương Khuếch Ngạch",
+   "note": "Gói dịch vụ “dùng kho, nới hạn mức”"
+  },
+  "建仓助力": {
+   "w": "建仓助力",
+   "p": "Jiàn Cāng Zhùlì",
+   "hv": "Kiến Thương Trợ Lực",
+   "note": "Gói dịch vụ “hỗ trợ xây kho” cho doanh nghiệp đầu tư kho ở nước ngoài"
+  }
+ },
+ "dict": {
+  "方案": {
+   "w": "方案",
+   "p": "fāng'àn",
+   "hv": "phương án",
+   "pos": "名",
+   "en": "plan, scheme, package",
+   "vn": "phương án, gói giải pháp",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261110"
+   ]
+  },
+  "专门": {
+   "w": "专门",
+   "p": "zhuānmén",
+   "hv": "chuyên môn",
+   "pos": "副",
+   "en": "specially, specifically",
+   "vn": "chuyên, riêng cho",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261110"
+   ]
+  },
+  "电商": {
+   "w": "电商",
+   "p": "diànshāng",
+   "hv": "điện thương",
+   "pos": "名",
+   "en": "e-commerce",
+   "vn": "thương mại điện tử",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261110"
+   ]
+  },
+  "仓库": {
+   "w": "仓库",
+   "p": "cāngkù",
+   "hv": "thương khố",
+   "pos": "名",
+   "en": "warehouse",
+   "vn": "nhà kho",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261110"
+   ]
+  },
+  "海外仓": {
+   "w": "海外仓",
+   "p": "hǎiwàicāng",
+   "hv": "hải ngoại thương",
+   "pos": "名",
+   "en": "overseas warehouse",
+   "vn": "kho ở nước ngoài (của doanh nghiệp xuất khẩu)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261110"
+   ]
+  },
+  "下单": {
+   "w": "下单",
+   "p": "xiàdān",
+   "hv": "hạ đơn",
+   "pos": "动",
+   "en": "to place an order",
+   "vn": "đặt hàng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261110"
+   ]
+  },
+  "买家": {
+   "w": "买家",
+   "p": "mǎijiā",
+   "hv": "mãi gia",
+   "pos": "名",
+   "en": "buyer",
+   "vn": "người mua, bên mua",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261110"
+   ]
+  },
+  "保单": {
+   "w": "保单",
+   "p": "bǎodān",
+   "hv": "bảo đơn",
+   "pos": "名",
+   "en": "insurance policy",
+   "vn": "hợp đồng bảo hiểm, đơn bảo hiểm",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261110"
+   ]
+  },
+  "赔": {
+   "w": "赔",
+   "p": "péi",
+   "hv": "bồi",
+   "pos": "动",
+   "en": "to compensate, pay out",
+   "vn": "bồi thường, đền",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261110"
+   ]
+  },
+  "真实": {
+   "w": "真实",
+   "p": "zhēnshí",
+   "hv": "chân thực",
+   "pos": "形",
+   "en": "real, genuine",
+   "vn": "thật, chân thực",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261110"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "第一财经",
+   "author": "齐琦",
+   "title": "银保协同赋能外贸新业态，多方合力护航企业平稳出海",
+   "date": "2026-11-08",
+   "url": "https://www.yicai.com/news/103431482.html",
+   "accessed": "2026-11-10"
+  },
+  {
+   "role": "secondary",
+   "outlet": "新华财经（搜狐转载）",
+   "author": "邓侃",
+   "title": "进博九年：建设银行以跨境金融之桥联通中国与世界",
+   "date": "2026-11-06",
+   "url": "https://www.sohu.com/a/1098114792_122014422",
+   "accessed": "2026-11-10"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261110",
+  "book": 4,
+  "no": 28,
+  "date": "2026-11-10",
+  "seq": 70,
+  "title": "一张保单，换一笔贷款",
+  "py": "yīzhāngbǎodān，huànyībǐdàikuǎn",
+  "en": "An insurance policy in exchange for a loan",
+  "vn": "Một tờ bảo hiểm, đổi lấy một khoản vay",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "11",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "7",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "进博会",
+        "p": "Jìnbóhuì",
+        "k": "name"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "建设银行",
+        "p": "Jiànshè Yínháng",
+        "k": "name"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "中国信保",
+        "p": "Zhōngguó Xìnbǎo",
+        "k": "name"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "上海",
+        "p": "Shànghǎi",
+        "k": "extra"
+       },
+       {
+        "w": "签",
+        "p": "qiān",
+        "k": "extra"
+       },
+       {
+        "w": "约",
+        "p": "yuē",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "一起",
+        "p": "yìqǐ",
+        "k": "extra"
+       },
+       {
+        "w": "发布",
+        "p": "fābù",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "方案",
+        "p": "fāng'àn",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "方案",
+        "p": "fāng'àn",
+        "k": "core"
+       },
+       {
+        "w": "专门",
+        "p": "zhuānmén",
+        "k": "core"
+       },
+       {
+        "w": "为",
+        "p": "wèi",
+        "k": "extra"
+       },
+       {
+        "w": "两",
+        "p": "liǎng",
+        "k": "extra"
+       },
+       {
+        "w": "种",
+        "p": "zhǒng",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "服务",
+        "p": "fúwù",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "种",
+        "p": "zhǒng",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "跨境",
+        "p": "kuàjìng",
+        "k": "extra"
+       },
+       {
+        "w": "电商",
+        "p": "diànshāng",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "另",
+        "p": "lìng",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "种",
+        "p": "zhǒng",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "国外",
+        "p": "guówài",
+        "k": "extra"
+       },
+       {
+        "w": "建",
+        "p": "jiàn",
+        "k": "extra"
+       },
+       {
+        "w": "海外仓",
+        "p": "hǎiwàicāng",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "海外仓",
+        "p": "hǎiwàicāng",
+        "k": "core"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "放",
+        "p": "fàng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "国外",
+        "p": "guówài",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "仓库",
+        "p": "cāngkù",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "货物",
+        "p": "huòwù",
+        "k": "extra"
+       },
+       {
+        "w": "先",
+        "p": "xiān",
+        "k": "extra"
+       },
+       {
+        "w": "送",
+        "p": "sòng",
+        "k": "extra"
+       },
+       {
+        "w": "过",
+        "p": "guò",
+        "k": "extra"
+       },
+       {
+        "w": "去",
+        "p": "qù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "国外",
+        "p": "guówài",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "客人",
+        "p": "kèrén",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "网上",
+        "p": "wǎngshàng",
+        "k": "extra"
+       },
+       {
+        "w": "下单",
+        "p": "xiàdān",
+        "k": "core"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "两",
+        "p": "liǎng",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "收到",
+        "p": "shōudào",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "越来越",
+        "p": "yuèláiyuè",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "网上",
+        "p": "wǎngshàng",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "东西",
+        "p": "dōngxi",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "国外",
+        "p": "guówài",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "海外仓",
+        "p": "hǎiwàicāng",
+        "k": "core"
+       },
+       {
+        "w": "越来越",
+        "p": "yuèláiyuè",
+        "k": "extra"
+       },
+       {
+        "w": "重要",
+        "p": "zhòngyào",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "常",
+        "p": "cháng",
+        "k": "extra"
+       },
+       {
+        "w": "常",
+        "p": "cháng",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "难",
+        "p": "nán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "跨境",
+        "p": "kuàjìng",
+        "k": "extra"
+       },
+       {
+        "w": "电商",
+        "p": "diànshāng",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "工厂",
+        "p": "gōngchǎng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "房子",
+        "p": "fángzi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "找",
+        "p": "zhǎo",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "可以",
+        "p": "kěyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "抵押",
+        "p": "dǐyā",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "东西",
+        "p": "dōngxi",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "国外",
+        "p": "guówài",
+        "k": "extra"
+       },
+       {
+        "w": "建",
+        "p": "jiàn",
+        "k": "extra"
+       },
+       {
+        "w": "仓库",
+        "p": "cāngkù",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "花",
+        "p": "huā",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "货",
+        "p": "huò",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "出去",
+        "p": "chūqù",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "买家",
+        "p": "mǎijiā",
+        "k": "core"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "怎么办",
+        "p": "zěnmebàn",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "担心",
+        "p": "dānxīn",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "风险",
+        "p": "fēngxiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "方案",
+        "p": "fāng'àn",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "办法",
+        "p": "bànfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "保险",
+        "p": "bǎoxiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "一起",
+        "p": "yìqǐ",
+        "k": "extra"
+       },
+       {
+        "w": "走",
+        "p": "zǒu",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "第一财经",
+        "p": "Dìyī Cáijīng",
+        "k": "name"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "中国信保",
+        "p": "Zhōngguó Xìnbǎo",
+        "k": "name"
+       },
+       {
+        "w": "先",
+        "p": "xiān",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "生意",
+        "p": "shēngyì",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "保险",
+        "p": "bǎoxiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "再",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "保单",
+        "p": "bǎodān",
+        "k": "core"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "交易",
+        "p": "jiāoyì",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "决定",
+        "p": "juédìng",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "额度",
+        "p": "édù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "如果",
+        "p": "rúguǒ",
+        "k": "extra"
+       },
+       {
+        "w": "买家",
+        "p": "mǎijiā",
+        "k": "core"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "保险",
+        "p": "bǎoxiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "赔",
+        "p": "péi",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "风险",
+        "p": "fēngxiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "敢",
+        "p": "gǎn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "一些",
+        "p": "yìxiē",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "方案",
+        "p": "fāng'àn",
+        "k": "core"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "服务",
+        "p": "fúwù",
+        "k": "extra"
+       },
+       {
+        "w": "包",
+        "p": "bāo",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "分",
+        "p": "fēn",
+        "k": "extra"
+       },
+       {
+        "w": "别",
+        "p": "bié",
+        "k": "extra"
+       },
+       {
+        "w": "叫",
+        "p": "jiào",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "用仓无忧",
+        "p": "Yòng Cāng Wú Yōu",
+        "k": "name"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "用仓扩额",
+        "p": "Yòng Cāng Kuò É",
+        "k": "name"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "建仓助力",
+        "p": "Jiàn Cāng Zhùlì",
+        "k": "name"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "新华财经",
+        "p": "Xīnhuá Cáijīng",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "建设银行",
+        "p": "Jiànshè Yínháng",
+        "k": "name"
+       },
+       {
+        "w": "这次",
+        "p": "zhè cì",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "海外",
+        "p": "hǎiwài",
+        "k": "extra"
+       },
+       {
+        "w": "投资",
+        "p": "tóuzī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "保险",
+        "p": "bǎoxiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "跟",
+        "p": "gēn",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "放",
+        "p": "fàng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "一起",
+        "p": "yìqǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "建",
+        "p": "jiàn",
+        "k": "extra"
+       },
+       {
+        "w": "仓库",
+        "p": "cāngkù",
+        "k": "core"
+       },
+       {
+        "w": "一直",
+        "p": "yìzhí",
+        "k": "extra"
+       },
+       {
+        "w": "服务",
+        "p": "fúwù",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "运营",
+        "p": "yùnyíng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "方案",
+        "p": "fāng'àn",
+        "k": "core"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "保险",
+        "p": "bǎoxiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "政府",
+        "p": "zhèngfǔ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "审批",
+        "p": "shěnpī",
+        "k": "extra"
+       },
+       {
+        "w": "放",
+        "p": "fàng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "一起",
+        "p": "yìqǐ",
+        "k": "extra"
+       },
+       {
+        "w": "办",
+        "p": "bàn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "地",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "跑",
+        "p": "pǎo",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "抵押",
+        "p": "dǐyā",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "真正",
+        "p": "zhēnzhèng",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "往往",
+        "p": "wǎngwǎng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "房子",
+        "p": "fángzi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "而",
+        "p": "ér",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "张",
+        "p": "zhāng",
+        "k": "extra"
+       },
+       {
+        "w": "保单",
+        "p": "bǎodān",
+        "k": "core"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "份",
+        "p": "fèn",
+        "k": "extra"
+       },
+       {
+        "w": "真实",
+        "p": "zhēnshí",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "交易",
+        "p": "jiāoyì",
+        "k": "extra"
+       },
+       {
+        "w": "记录",
+        "p": "jìlù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 一种是A，另一种是B — một loại là A, loại kia là B",
+    "b": [
+     "Cách dùng:",
+     "Liệt kê hai nhóm đối tượng sau khi đã nêu tổng số (两种). Rất hay gặp khi báo chí giới thiệu một chính sách hay sản phẩm phục vụ cho ai.",
+     "这个方案专门为两种企业服务：一种是做跨境电商的企业，另一种是在国外建海外仓的企业。",
+     "Zhège fāng'àn zhuānmén wèi liǎng zhǒng qǐyè fúwù: yì zhǒng shì zuò kuàjìng diànshāng de qǐyè, lìng yì zhǒng shì zài guówài jiàn hǎiwàicāng de qǐyè.",
+     "Phương án này phục vụ riêng cho hai loại doanh nghiệp: một loại là doanh nghiệp làm thương mại điện tử xuyên biên giới, loại kia là doanh nghiệp xây kho ở nước ngoài."
+    ]
+   },
+   {
+    "h": "II. A了，就敢B — A rồi thì mới dám B",
+    "b": [
+     "Cách dùng:",
+     "Vế trước nêu điều kiện đã thay đổi (了), vế sau dùng 就敢 để nói hệ quả: chủ thể bớt lo nên sẵn sàng hành động. Dùng nhiều khi nói về rủi ro tín dụng.",
+     "银行的风险小了，就敢多借一些。",
+     "Yínháng de fēngxiǎn xiǎo le, jiù gǎn duō jiè yìxiē.",
+     "Rủi ro của ngân hàng nhỏ đi rồi, thì ngân hàng mới dám cho vay nhiều hơn một chút."
+    ]
+   },
+   {
+    "h": "III. 从A一直B到C — từ A suốt cho đến C",
+    "b": [
+     "Cách dùng:",
+     "Nói phạm vi bao trùm cả một chuỗi, từ khâu đầu đến khâu cuối. 一直 nhấn mạnh tính liên tục, không bỏ khâu nào.",
+     "建设银行这次把海外投资的保险跟银行贷款放在一起，从建仓库一直服务到运营。",
+     "Jiànshè Yínháng zhè cì bǎ hǎiwài tóuzī de bǎoxiǎn gēn yínháng dàikuǎn fàng zài yìqǐ, cóng jiàn cāngkù yìzhí fúwù dào yùnyíng.",
+     "Lần này Ngân hàng Xây dựng gộp bảo hiểm đầu tư ở nước ngoài với khoản vay ngân hàng, phục vụ liên tục từ khâu xây kho cho đến khâu vận hành."
+    ]
+   }
+  ],
+  "vocab": [
+   "方案",
+   "专门",
+   "电商",
+   "仓库",
+   "海外仓",
+   "下单",
+   "买家",
+   "保单",
+   "赔",
+   "真实"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "第一财经",
+    "author": "齐琦",
+    "title": "银保协同赋能外贸新业态，多方合力护航企业平稳出海",
+    "date": "2026-11-08",
+    "url": "https://www.yicai.com/news/103431482.html",
+    "accessed": "2026-11-10"
+   },
+   {
+    "role": "secondary",
+    "outlet": "新华财经（搜狐转载）",
+    "author": "邓侃",
+    "title": "进博九年：建设银行以跨境金融之桥联通中国与世界",
+    "date": "2026-11-06",
+    "url": "https://www.sohu.com/a/1098114792_122014422",
+    "accessed": "2026-11-10"
+   }
+  ]
+ }
+}

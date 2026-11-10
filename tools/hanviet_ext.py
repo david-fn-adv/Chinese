@@ -27,6 +27,7 @@ CHARS_EXT = """
 驾:giá 驶:sử 测:trắc 矿:khoáng 葛:cát 辰:thần 韬:thao 弘:hoằng 毅:nghị 苹:bình 疆:cương 蒙:mông 氪:khắc
 债:trái 涛:đào
 峡:hiệp 杰:kiệt
+仓:thương 库:khố 案:án 赔:bồi 忧:ưu
 """
 
 # Từ ghép có âm khác cách ghép từng chữ
