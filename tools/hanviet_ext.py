@@ -28,6 +28,7 @@ CHARS_EXT = """
 债:trái 涛:đào
 峡:hiệp 杰:kiệt
 仓:thương 库:khố 案:án 赔:bồi 忧:ưu
+优:ưu 双:song 淘:đào 苏:tô 武:vũ 泽:trạch
 """
 
 # Từ ghép có âm khác cách ghép từng chữ

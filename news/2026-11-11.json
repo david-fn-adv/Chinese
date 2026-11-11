@@ -1,0 +1,2122 @@
+{
+ "date": "2026-11-11",
+ "id": "N-20261111",
+ "draft": {
+  "title": "银行的双十一：不送卡，送分期",
+  "vn": "Ngày 11/11 của ngân hàng: không tặng thẻ, tặng trả góp",
+  "en": "The banks' Singles' Day: not giving away cards, giving away instalments",
+  "paras": [
+   "今天是双十一。这几天，六家大银行都在网上推出了信用卡优惠。据时代周报11月10日报道，在京东用建设银行的信用卡付钱，买满1000元，最多可以少付1111元；在淘宝用交通银行的信用卡分期，买满5000元可以少付200元。",
+   "有意思的是，记者去了北京几家银行的网点，问有没有双十一的活动，大家都说“没有，跟平时一样”。现在的优惠大多在网上，付钱的时候才能看到。",
+   "今年还有一个新办法：把优惠跟国家的财政贴息放在一起。从1月开始，信用卡的账单分期可以拿到贴息，一年1%。8月以后，买东西时直接分期也可以，一个人在一家银行一年最多拿5000元。",
+   "银行为什么这么重视分期？因为卡越来越少了。央行的数据显示，到今年二季度末，全国的信用卡一共有6.77亿张，已经连续15个季度下滑。2022年最多的时候是8.07亿张。今年上半年，平均每天有十万多张卡消失。",
+   "苏商银行的研究员武泽伟认为，以前银行比的是谁发的卡多，开卡就送礼物；现在比的是能赚多少利息，坏账有多少。所以营销的钱从送礼物转到了分期优惠和免息上。他也提醒，贴息政策到期以后，分期可能会很快减少；为了优惠才借钱的客户，风险也可能更高。",
+   "对银行来说，双十一真正要卖的，不是手机和电脑，而是分期。"
+  ],
+  "points": [
+   {
+    "h": "I. 最多可以… — nhiều nhất có thể…",
+    "b": [
+     "Cách dùng:",
+     "最多 + 可以 + động từ + số lượng: nêu mức trần của một ưu đãi, hạn mức hay khoản hỗ trợ. Báo chí dùng rất nhiều khi nói về khuyến mãi và chính sách.",
+     "一个人在一家银行一年最多拿5000元。",
+     "Yí ge rén zài yì jiā yínháng yì nián zuìduō ná wǔqiān yuán.",
+     "Mỗi người, ở mỗi ngân hàng, một năm nhận nhiều nhất 5.000 tệ."
+    ]
+   },
+   {
+    "h": "II. 连续 + số + 个季度 + 下滑 — giảm liên tiếp N quý",
+    "b": [
+     "Cách dùng:",
+     "连续 đứng trước số lượng kỳ (个季度, 个月, 年) để nhấn mạnh xu hướng kéo dài. Mẫu câu chuẩn trong tin số liệu kinh tế.",
+     "已经连续15个季度下滑。",
+     "Yǐjīng liánxù shíwǔ ge jìdù xiàhuá.",
+     "Đã giảm liên tiếp 15 quý."
+    ]
+   },
+   {
+    "h": "III. 以前比的是A，现在比的是B — trước đây so A, giờ so B",
+    "b": [
+     "Cách dùng:",
+     "比的是… (cái được đem ra so/cạnh tranh là…) — dùng để nói tiêu chí cạnh tranh của một ngành đã thay đổi.",
+     "以前银行比的是谁发的卡多，开卡就送礼物；现在比的是能赚多少利息，坏账有多少。",
+     "Yǐqián yínháng bǐ de shì shéi fā de kǎ duō, kāi kǎ jiù sòng lǐwù; xiànzài bǐ de shì néng zhuàn duōshao lìxī, huàizhàng yǒu duōshao.",
+     "Trước đây các ngân hàng đua xem ai phát hành được nhiều thẻ, mở thẻ là tặng quà; bây giờ đua xem kiếm được bao nhiêu tiền lãi, nợ xấu có bao nhiêu."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "双十一": {
+   "w": "双十一",
+   "p": "Shuāng Shíyī",
+   "hv": "Song Thập Nhất",
+   "note": "Ngày 11/11 — ngày hội mua sắm trực tuyến lớn nhất Trung Quốc (Singles' Day)"
+  },
+  "时代周报": {
+   "w": "时代周报",
+   "p": "Shídài Zhōubào",
+   "hv": "Thời Đại Chu Báo",
+   "note": "Time Weekly — tuần báo kinh tế ở Quảng Châu"
+  },
+  "京东": {
+   "w": "京东",
+   "p": "Jīngdōng",
+   "hv": "Kinh Đông",
+   "note": "JD.com — sàn thương mại điện tử lớn của Trung Quốc"
+  },
+  "淘宝": {
+   "w": "淘宝",
+   "p": "Táobǎo",
+   "hv": "Đào Bảo",
+   "note": "Taobao — sàn thương mại điện tử của Alibaba"
+  },
+  "建设银行": {
+   "w": "建设银行",
+   "p": "Jiànshè Yínháng",
+   "hv": "Kiến Thiết Ngân Hàng",
+   "note": "China Construction Bank (CCB) — một trong sáu ngân hàng quốc doanh lớn"
+  },
+  "交通银行": {
+   "w": "交通银行",
+   "p": "Jiāotōng Yínháng",
+   "hv": "Giao Thông Ngân Hàng",
+   "note": "Bank of Communications (BoCom) — một trong sáu ngân hàng quốc doanh lớn"
+  },
+  "苏商银行": {
+   "w": "苏商银行",
+   "p": "Sūshāng Yínháng",
+   "hv": "Tô Thương Ngân Hàng",
+   "note": "Jiangsu Suning Bank — ngân hàng số tư nhân ở Giang Tô"
+  },
+  "武泽伟": {
+   "w": "武泽伟",
+   "p": "Wǔ Zéwěi",
+   "hv": "Vũ Trạch Vĩ",
+   "note": "Nhà nghiên cứu (特约研究员) của 苏商银行"
+  },
+  "北京": {
+   "w": "北京",
+   "p": "Běijīng",
+   "hv": "Bắc Kinh",
+   "note": "Thủ đô Trung Quốc"
+  }
+ },
+ "dict": {
+  "优惠": {
+   "w": "优惠",
+   "p": "yōuhuì",
+   "hv": "ưu huệ",
+   "pos": "名",
+   "en": "discount, special offer",
+   "vn": "ưu đãi, khuyến mãi",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261111"
+   ]
+  },
+  "分期": {
+   "w": "分期",
+   "p": "fēnqī",
+   "hv": "phân kỳ",
+   "pos": "动",
+   "en": "to pay in instalments",
+   "vn": "trả góp, chia kỳ thanh toán",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261111"
+   ]
+  },
+  "记者": {
+   "w": "记者",
+   "p": "jìzhě",
+   "hv": "ký giả",
+   "pos": "名",
+   "en": "reporter, journalist",
+   "vn": "phóng viên, nhà báo",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261111"
+   ]
+  },
+  "网点": {
+   "w": "网点",
+   "p": "wǎngdiǎn",
+   "hv": "võng điểm",
+   "pos": "名",
+   "en": "branch outlet (of a bank)",
+   "vn": "điểm giao dịch, chi nhánh (ngân hàng)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261111"
+   ]
+  },
+  "财政": {
+   "w": "财政",
+   "p": "cáizhèng",
+   "hv": "tài chính",
+   "pos": "名",
+   "en": "public finance, fiscal",
+   "vn": "tài chính nhà nước, ngân sách",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261111"
+   ]
+  },
+  "贴息": {
+   "w": "贴息",
+   "p": "tiēxī",
+   "hv": "thiếp tức",
+   "pos": "名",
+   "en": "interest subsidy",
+   "vn": "bù lãi suất, hỗ trợ lãi vay",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261111"
+   ]
+  },
+  "账单": {
+   "w": "账单",
+   "p": "zhàngdān",
+   "hv": "trướng đơn",
+   "pos": "名",
+   "en": "bill, statement",
+   "vn": "hoá đơn, sao kê",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261111"
+   ]
+  },
+  "研究员": {
+   "w": "研究员",
+   "p": "yánjiūyuán",
+   "hv": "nghiên cứu viên",
+   "pos": "名",
+   "en": "researcher, research fellow",
+   "vn": "nhà nghiên cứu",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261111"
+   ]
+  },
+  "营销": {
+   "w": "营销",
+   "p": "yíngxiāo",
+   "hv": "doanh tiêu",
+   "pos": "名",
+   "en": "marketing",
+   "vn": "tiếp thị, marketing",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261111"
+   ]
+  },
+  "免息": {
+   "w": "免息",
+   "p": "miǎnxī",
+   "hv": "miễn tức",
+   "pos": "动",
+   "en": "interest-free",
+   "vn": "miễn lãi",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261111"
+   ]
+  },
+  "坏账": {
+   "w": "坏账",
+   "p": "huàizhàng",
+   "hv": "hoại trướng",
+   "pos": "名",
+   "en": "bad debt",
+   "vn": "nợ xấu, nợ khó đòi",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261111"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "时代周报（新浪财经转载）",
+   "author": "时代周报记者",
+   "title": "信用卡“双11”大促，六大行都来了：大额分期叠加财政贴息，最高立减1111元",
+   "date": "2026-11-10",
+   "url": "https://finance.sina.com.cn/jjxw/2026-11-10/doc-iniyhfqs5842001.shtml",
+   "accessed": "2026-11-11"
+  },
+  {
+   "role": "secondary",
+   "outlet": "东方财富网",
+   "author": "",
+   "title": "信用卡累计缩量超1.3亿张 行业加速转型质量优先",
+   "date": "2026-09-07",
+   "url": "https://wap.eastmoney.com/a/202609073866157572.html",
+   "accessed": "2026-11-11"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261111",
+  "book": 4,
+  "no": 29,
+  "date": "2026-11-11",
+  "seq": 71,
+  "title": "银行的双十一：不送卡，送分期",
+  "py": "yínhángdeshuāngshíyī：bùsòngkǎ，sòngfēnqī",
+  "en": "The banks' Singles' Day: not giving away cards, giving away instalments",
+  "vn": "Ngày 11/11 của ngân hàng: không tặng thẻ, tặng trả góp",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "今天",
+        "p": "jīntiān",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "双十一",
+        "p": "Shuāng Shíyī",
+        "k": "name"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "几",
+        "p": "jǐ",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "六",
+        "p": "liù",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "网上",
+        "p": "wǎngshàng",
+        "k": "extra"
+       },
+       {
+        "w": "推出",
+        "p": "tuīchū",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "信用",
+        "p": "xìnyòng",
+        "k": "extra"
+       },
+       {
+        "w": "卡",
+        "p": "kǎ",
+        "k": "extra"
+       },
+       {
+        "w": "优惠",
+        "p": "yōuhuì",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "时代周报",
+        "p": "Shídài Zhōubào",
+        "k": "name"
+       },
+       {
+        "w": "11",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "京东",
+        "p": "Jīngdōng",
+        "k": "name"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "建设银行",
+        "p": "Jiànshè Yínháng",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "信用",
+        "p": "xìnyòng",
+        "k": "extra"
+       },
+       {
+        "w": "卡",
+        "p": "kǎ",
+        "k": "extra"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "买",
+        "p": "mǎi",
+        "k": "extra"
+       },
+       {
+        "w": "满",
+        "p": "mǎn",
+        "k": "extra"
+       },
+       {
+        "w": "1000",
+        "k": "plain"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "可以",
+        "p": "kěyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "1111",
+        "k": "plain"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "淘宝",
+        "p": "Táobǎo",
+        "k": "name"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "交通银行",
+        "p": "Jiāotōng Yínháng",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "信用",
+        "p": "xìnyòng",
+        "k": "extra"
+       },
+       {
+        "w": "卡",
+        "p": "kǎ",
+        "k": "extra"
+       },
+       {
+        "w": "分期",
+        "p": "fēnqī",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "买",
+        "p": "mǎi",
+        "k": "extra"
+       },
+       {
+        "w": "满",
+        "p": "mǎn",
+        "k": "extra"
+       },
+       {
+        "w": "5000",
+        "k": "plain"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "可以",
+        "p": "kěyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "200",
+        "k": "plain"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "有意思",
+        "p": "yǒu yìsi",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "记者",
+        "p": "jìzhě",
+        "k": "core"
+       },
+       {
+        "w": "去",
+        "p": "qù",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "北京",
+        "p": "Běijīng",
+        "k": "name"
+       },
+       {
+        "w": "几",
+        "p": "jǐ",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "网点",
+        "p": "wǎngdiǎn",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "问",
+        "p": "wèn",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "双十一",
+        "p": "Shuāng Shíyī",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "活动",
+        "p": "huódòng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "大家",
+        "p": "dàjiā",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "跟",
+        "p": "gēn",
+        "k": "extra"
+       },
+       {
+        "w": "平",
+        "p": "píng",
+        "k": "extra"
+       },
+       {
+        "w": "时",
+        "p": "shí",
+        "k": "extra"
+       },
+       {
+        "w": "一样",
+        "p": "yíyàng",
+        "k": "extra"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "优惠",
+        "p": "yōuhuì",
+        "k": "core"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "网上",
+        "p": "wǎngshàng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "时候",
+        "p": "shíhòu",
+        "k": "extra"
+       },
+       {
+        "w": "才",
+        "p": "cái",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "办法",
+        "p": "bànfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "优惠",
+        "p": "yōuhuì",
+        "k": "core"
+       },
+       {
+        "w": "跟",
+        "p": "gēn",
+        "k": "extra"
+       },
+       {
+        "w": "国家",
+        "p": "guójiā",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "财政",
+        "p": "cáizhèng",
+        "k": "core"
+       },
+       {
+        "w": "贴息",
+        "p": "tiēxī",
+        "k": "core"
+       },
+       {
+        "w": "放",
+        "p": "fàng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "一起",
+        "p": "yìqǐ",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "1",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "开始",
+        "p": "kāishǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "信用",
+        "p": "xìnyòng",
+        "k": "extra"
+       },
+       {
+        "w": "卡",
+        "p": "kǎ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "账单",
+        "p": "zhàngdān",
+        "k": "core"
+       },
+       {
+        "w": "分期",
+        "p": "fēnqī",
+        "k": "core"
+       },
+       {
+        "w": "可以",
+        "p": "kěyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "贴息",
+        "p": "tiēxī",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "1%",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "8",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "买",
+        "p": "mǎi",
+        "k": "extra"
+       },
+       {
+        "w": "东西",
+        "p": "dōngxi",
+        "k": "extra"
+       },
+       {
+        "w": "时",
+        "p": "shí",
+        "k": "extra"
+       },
+       {
+        "w": "直接",
+        "p": "zhíjiē",
+        "k": "extra"
+       },
+       {
+        "w": "分期",
+        "p": "fēnqī",
+        "k": "core"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "可以",
+        "p": "kěyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个人",
+        "p": "gèrén",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "5000",
+        "k": "plain"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "为什么",
+        "p": "wèishénme",
+        "k": "extra"
+       },
+       {
+        "w": "这么",
+        "p": "zhème",
+        "k": "extra"
+       },
+       {
+        "w": "重视",
+        "p": "zhòngshì",
+        "k": "extra"
+       },
+       {
+        "w": "分期",
+        "p": "fēnqī",
+        "k": "core"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "因为",
+        "p": "yīnwèi",
+        "k": "extra"
+       },
+       {
+        "w": "卡",
+        "p": "kǎ",
+        "k": "extra"
+       },
+       {
+        "w": "越来越",
+        "p": "yuèláiyuè",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "央行",
+        "p": "yāngháng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "显示",
+        "p": "xiǎnshì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "二",
+        "p": "èr",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "extra"
+       },
+       {
+        "w": "末",
+        "p": "mò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "全",
+        "p": "quán",
+        "k": "extra"
+       },
+       {
+        "w": "国",
+        "p": "guó",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "信用",
+        "p": "xìnyòng",
+        "k": "extra"
+       },
+       {
+        "w": "卡",
+        "p": "kǎ",
+        "k": "extra"
+       },
+       {
+        "w": "一共",
+        "p": "yígòng",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "6",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "77",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "张",
+        "p": "zhāng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "连续",
+        "p": "liánxù",
+        "k": "extra"
+       },
+       {
+        "w": "15",
+        "k": "plain"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "extra"
+       },
+       {
+        "w": "下滑",
+        "p": "xiàhuá",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "2022",
+        "k": "plain"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "时候",
+        "p": "shíhòu",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "8",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "07",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "张",
+        "p": "zhāng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "上半年",
+        "p": "shàngbànnián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "平均",
+        "p": "píngjūn",
+        "k": "extra"
+       },
+       {
+        "w": "每",
+        "p": "měi",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "十",
+        "p": "shí",
+        "k": "extra"
+       },
+       {
+        "w": "万",
+        "p": "wàn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "张",
+        "p": "zhāng",
+        "k": "extra"
+       },
+       {
+        "w": "卡",
+        "p": "kǎ",
+        "k": "extra"
+       },
+       {
+        "w": "消失",
+        "p": "xiāoshī",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "苏商银行",
+        "p": "Sūshāng Yínháng",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "研究员",
+        "p": "yánjiūyuán",
+        "k": "core"
+       },
+       {
+        "w": "武泽伟",
+        "p": "Wǔ Zéwěi",
+        "k": "name"
+       },
+       {
+        "w": "认为",
+        "p": "rènwéi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "以前",
+        "p": "yǐqián",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "谁",
+        "p": "shéi",
+        "k": "extra"
+       },
+       {
+        "w": "发",
+        "p": "fā",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "卡",
+        "p": "kǎ",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "开",
+        "p": "kāi",
+        "k": "extra"
+       },
+       {
+        "w": "卡",
+        "p": "kǎ",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "送",
+        "p": "sòng",
+        "k": "extra"
+       },
+       {
+        "w": "礼物",
+        "p": "lǐwù",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "赚",
+        "p": "zhuàn",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "利息",
+        "p": "lìxī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "坏账",
+        "p": "huàizhàng",
+        "k": "core"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "所以",
+        "p": "suǒyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "营销",
+        "p": "yíngxiāo",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "送",
+        "p": "sòng",
+        "k": "extra"
+       },
+       {
+        "w": "礼物",
+        "p": "lǐwù",
+        "k": "extra"
+       },
+       {
+        "w": "转",
+        "p": "zhuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "分期",
+        "p": "fēnqī",
+        "k": "core"
+       },
+       {
+        "w": "优惠",
+        "p": "yōuhuì",
+        "k": "core"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "免息",
+        "p": "miǎnxī",
+        "k": "core"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "他",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "提醒",
+        "p": "tíxǐng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "贴息",
+        "p": "tiēxī",
+        "k": "core"
+       },
+       {
+        "w": "政策",
+        "p": "zhèngcè",
+        "k": "extra"
+       },
+       {
+        "w": "到期",
+        "p": "dàoqí",
+        "k": "extra"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "分期",
+        "p": "fēnqī",
+        "k": "core"
+       },
+       {
+        "w": "可能",
+        "p": "kěnéng",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "快",
+        "p": "kuài",
+        "k": "extra"
+       },
+       {
+        "w": "减少",
+        "p": "jiǎnshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "为了",
+        "p": "wèile",
+        "k": "extra"
+       },
+       {
+        "w": "优惠",
+        "p": "yōuhuì",
+        "k": "core"
+       },
+       {
+        "w": "才",
+        "p": "cái",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "客户",
+        "p": "kèhù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "风险",
+        "p": "fēngxiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "可能",
+        "p": "kěnéng",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "高",
+        "p": "gāo",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "双十一",
+        "p": "Shuāng Shíyī",
+        "k": "name"
+       },
+       {
+        "w": "真正",
+        "p": "zhēnzhèng",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "手机",
+        "p": "shǒujī",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "电",
+        "p": "diàn",
+        "k": "extra"
+       },
+       {
+        "w": "脑",
+        "p": "nǎo",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "而",
+        "p": "ér",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "分期",
+        "p": "fēnqī",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 最多可以… — nhiều nhất có thể…",
+    "b": [
+     "Cách dùng:",
+     "最多 + 可以 + động từ + số lượng: nêu mức trần của một ưu đãi, hạn mức hay khoản hỗ trợ. Báo chí dùng rất nhiều khi nói về khuyến mãi và chính sách.",
+     "一个人在一家银行一年最多拿5000元。",
+     "Yí ge rén zài yì jiā yínháng yì nián zuìduō ná wǔqiān yuán.",
+     "Mỗi người, ở mỗi ngân hàng, một năm nhận nhiều nhất 5.000 tệ."
+    ]
+   },
+   {
+    "h": "II. 连续 + số + 个季度 + 下滑 — giảm liên tiếp N quý",
+    "b": [
+     "Cách dùng:",
+     "连续 đứng trước số lượng kỳ (个季度, 个月, 年) để nhấn mạnh xu hướng kéo dài. Mẫu câu chuẩn trong tin số liệu kinh tế.",
+     "已经连续15个季度下滑。",
+     "Yǐjīng liánxù shíwǔ ge jìdù xiàhuá.",
+     "Đã giảm liên tiếp 15 quý."
+    ]
+   },
+   {
+    "h": "III. 以前比的是A，现在比的是B — trước đây so A, giờ so B",
+    "b": [
+     "Cách dùng:",
+     "比的是… (cái được đem ra so/cạnh tranh là…) — dùng để nói tiêu chí cạnh tranh của một ngành đã thay đổi.",
+     "以前银行比的是谁发的卡多，开卡就送礼物；现在比的是能赚多少利息，坏账有多少。",
+     "Yǐqián yínháng bǐ de shì shéi fā de kǎ duō, kāi kǎ jiù sòng lǐwù; xiànzài bǐ de shì néng zhuàn duōshao lìxī, huàizhàng yǒu duōshao.",
+     "Trước đây các ngân hàng đua xem ai phát hành được nhiều thẻ, mở thẻ là tặng quà; bây giờ đua xem kiếm được bao nhiêu tiền lãi, nợ xấu có bao nhiêu."
+    ]
+   }
+  ],
+  "vocab": [
+   "优惠",
+   "分期",
+   "记者",
+   "网点",
+   "财政",
+   "贴息",
+   "账单",
+   "研究员",
+   "营销",
+   "免息",
+   "坏账"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "时代周报（新浪财经转载）",
+    "author": "时代周报记者",
+    "title": "信用卡“双11”大促，六大行都来了：大额分期叠加财政贴息，最高立减1111元",
+    "date": "2026-11-10",
+    "url": "https://finance.sina.com.cn/jjxw/2026-11-10/doc-iniyhfqs5842001.shtml",
+    "accessed": "2026-11-11"
+   },
+   {
+    "role": "secondary",
+    "outlet": "东方财富网",
+    "author": "",
+    "title": "信用卡累计缩量超1.3亿张 行业加速转型质量优先",
+    "date": "2026-09-07",
+    "url": "https://wap.eastmoney.com/a/202609073866157572.html",
+    "accessed": "2026-11-11"
+   }
+  ]
+ }
+}
