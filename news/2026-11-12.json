@@ -1,0 +1,2186 @@
+{
+ "date": "2026-11-12",
+ "id": "N-20261112",
+ "draft": {
+  "title": "钢卖不了更多，就把货和钱连起来",
+  "vn": "Thép không bán thêm được nữa thì nối hàng với tiền",
+  "en": "When steel can't sell more, link the goods to the money",
+  "paras": [
+   "11月11日，一个钢铁供应链大会在上海宝山举行。办这次大会的是欧冶云商，它是中国宝武的钢铁服务平台。",
+   "中国钢铁工业协会的冯超在会上说，钢铁行业已经到了一个新阶段：生产的钢不会再增长了。以前比的是谁生产得多，现在要比谁的产品和服务更好。钢卖不了更多，钢厂就要在供应链上想办法。",
+   "对做贷款的人来说，最值得看的是“直联直融”。欧冶云商跟六家银行和几家钢厂一起启动了这个服务。办法是把四个环节连在一起：客户在平台上订货，银行的系统直接连到平台，货由物流公司监管，客户还款以后才能提货。这样，银行看到的是真实的交易；货在谁手里、钱还了没有，都有数据。买钢的中小企业不用找别人担保，也比较容易借到钱。",
+   "大会还发布了三个服务品牌：欧冶物流、欧冶循环宝和欧冶绿碳。循环宝帮企业卖掉不用的旧东西，绿碳帮企业算好自己的数据，为出海做准备。会上也启动了一个出海计划，银行和物流公司都参加。",
+   "技术方面，会上发布了一本白皮书，谈没有司机的卡车，路线是先在工厂里用，然后跑短路，最后才上长路。仓库里也有新办法：像狗一样的机器人在里面检查钢。",
+   "钢铁是一个很老的行业。可是这次大会谈得最多的不是怎么多生产，而是怎么把货、钱和数据连起来。"
+  ],
+  "points": [
+   {
+    "h": "I. 把 + A + 连在一起 / 连起来 — nối A lại với nhau",
+    "b": [
+     "Cách dùng:",
+     "把 + tân ngữ + 连在一起 / 连起来: câu chữ 把 với bổ ngữ kết quả, nói việc ghép nhiều khâu, nhiều bên thành một chuỗi. Rất hay gặp khi mô tả nền tảng, chuỗi cung ứng, sản phẩm tài chính.",
+     "办法是把四个环节连在一起。",
+     "Bànfǎ shì bǎ sì ge huánjié lián zài yìqǐ.",
+     "Cách làm là nối bốn khâu lại với nhau."
+    ]
+   },
+   {
+    "h": "II. …以后才能… — sau khi… mới được…",
+    "b": [
+     "Cách dùng:",
+     "A + 以后 + 才能 + B: B chỉ xảy ra được khi A đã xong. Mẫu câu chuẩn để nêu điều kiện trong hợp đồng, quy trình tín dụng, giao nhận hàng.",
+     "客户还款以后才能提货。",
+     "Kèhù huánkuǎn yǐhòu cái néng tíhuò.",
+     "Khách hàng trả nợ xong mới được nhận hàng."
+    ]
+   },
+   {
+    "h": "III. 不是A，而是B — không phải A, mà là B",
+    "b": [
+     "Cách dùng:",
+     "不是…而是… phủ định điều người đọc tưởng, rồi nêu điều thật sự quan trọng. Thường dùng ở câu kết của bài báo.",
+     "这次大会谈得最多的不是怎么多生产，而是怎么把货、钱和数据连起来。",
+     "Zhè cì dàhuì tán de zuì duō de bú shì zěnme duō shēngchǎn, ér shì zěnme bǎ huò, qián hé shùjù lián qǐlái.",
+     "Điều hội nghị lần này bàn nhiều nhất không phải là làm sao sản xuất thêm, mà là làm sao nối hàng, tiền và dữ liệu lại với nhau."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "上海": {
+   "w": "上海",
+   "p": "Shànghǎi",
+   "hv": "Thượng Hải",
+   "note": "Thành phố Thượng Hải"
+  },
+  "宝山": {
+   "w": "宝山",
+   "p": "Bǎoshān",
+   "hv": "Bảo Sơn",
+   "note": "Quận Bảo Sơn (Thượng Hải) — nơi đặt trụ sở Baowu/Baosteel"
+  },
+  "欧冶云商": {
+   "w": "欧冶云商",
+   "p": "Ōuyě Yúnshāng",
+   "hv": "Âu Dã Vân Thương",
+   "note": "Ouyeel — nền tảng thương mại và dịch vụ chuỗi cung ứng thép của tập đoàn Baowu"
+  },
+  "中国宝武": {
+   "w": "中国宝武",
+   "p": "Zhōngguó Bǎowǔ",
+   "hv": "Trung Quốc Bảo Vũ",
+   "note": "China Baowu — tập đoàn thép quốc doanh lớn nhất thế giới"
+  },
+  "中国钢铁工业协会": {
+   "w": "中国钢铁工业协会",
+   "p": "Zhōngguó Gāngtiě Gōngyè Xiéhuì",
+   "hv": "Trung Quốc Cương Thiết Công Nghiệp Hiệp Hội",
+   "note": "Hiệp hội Công nghiệp Sắt thép Trung Quốc (CISA)"
+  },
+  "冯超": {
+   "w": "冯超",
+   "p": "Féng Chāo",
+   "hv": "Phùng Siêu",
+   "note": "Phó tổng thư ký Hiệp hội Công nghiệp Sắt thép Trung Quốc"
+  },
+  "直联直融": {
+   "w": "直联直融",
+   "p": "Zhílián Zhíróng",
+   "hv": "Trực Liên Trực Dung",
+   "note": "Tên dịch vụ tài trợ chuỗi cung ứng của Ouyeel: nền tảng nối thẳng với ngân hàng, cấp vốn thẳng theo giao dịch"
+  },
+  "欧冶物流": {
+   "w": "欧冶物流",
+   "p": "Ōuyě Wùliú",
+   "hv": "Âu Dã Vật Lưu",
+   "note": "Thương hiệu dịch vụ logistics của Ouyeel"
+  },
+  "欧冶循环宝": {
+   "w": "欧冶循环宝",
+   "p": "Ōuyě Xúnhuánbǎo",
+   "hv": "Âu Dã Tuần Hoàn Bảo",
+   "note": "Thương hiệu của Ouyeel: sàn mua bán, xử lý vật tư và tài sản nhàn rỗi, phế liệu"
+  },
+  "循环宝": {
+   "w": "循环宝",
+   "p": "Xúnhuánbǎo",
+   "hv": "Tuần Hoàn Bảo",
+   "note": "Gọi tắt của 欧冶循环宝"
+  },
+  "欧冶绿碳": {
+   "w": "欧冶绿碳",
+   "p": "Ōuyě Lǜtàn",
+   "hv": "Âu Dã Lục Thán",
+   "note": "Thương hiệu của Ouyeel: dịch vụ dữ liệu carbon, EPD, tư vấn giảm phát thải"
+  },
+  "绿碳": {
+   "w": "绿碳",
+   "p": "Lǜtàn",
+   "hv": "Lục Thán",
+   "note": "Gọi tắt của 欧冶绿碳"
+  }
+ },
+ "dict": {
+  "钢铁": {
+   "w": "钢铁",
+   "p": "gāngtiě",
+   "hv": "cương thiết",
+   "pos": "名",
+   "en": "iron and steel",
+   "vn": "sắt thép, ngành thép",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261112"
+   ]
+  },
+  "钢": {
+   "w": "钢",
+   "p": "gāng",
+   "hv": "cương",
+   "pos": "名",
+   "en": "steel",
+   "vn": "thép",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261112"
+   ]
+  },
+  "钢厂": {
+   "w": "钢厂",
+   "p": "gāngchǎng",
+   "hv": "cương xưởng",
+   "pos": "名",
+   "en": "steel mill",
+   "vn": "nhà máy thép",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261112"
+   ]
+  },
+  "行业": {
+   "w": "行业",
+   "p": "hángyè",
+   "hv": "hàng nghiệp",
+   "pos": "名",
+   "en": "industry, sector",
+   "vn": "ngành, ngành nghề",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261112"
+   ]
+  },
+  "阶段": {
+   "w": "阶段",
+   "p": "jiēduàn",
+   "hv": "giai đoạn",
+   "pos": "名",
+   "en": "stage, phase",
+   "vn": "giai đoạn",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261112"
+   ]
+  },
+  "启动": {
+   "w": "启动",
+   "p": "qǐdòng",
+   "hv": "khải động",
+   "pos": "动",
+   "en": "to launch, to start up",
+   "vn": "khởi động, bắt đầu triển khai",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261112"
+   ]
+  },
+  "环节": {
+   "w": "环节",
+   "p": "huánjié",
+   "hv": "hoàn tiết",
+   "pos": "名",
+   "en": "link, step (in a process)",
+   "vn": "khâu, mắt xích",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261112"
+   ]
+  },
+  "订货": {
+   "w": "订货",
+   "p": "dìnghuò",
+   "hv": "đính hóa",
+   "pos": "动",
+   "en": "to order goods",
+   "vn": "đặt hàng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261112"
+   ]
+  },
+  "物流": {
+   "w": "物流",
+   "p": "wùliú",
+   "hv": "vật lưu",
+   "pos": "名",
+   "en": "logistics",
+   "vn": "logistics, vận chuyển – kho bãi",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261112"
+   ]
+  },
+  "提货": {
+   "w": "提货",
+   "p": "tíhuò",
+   "hv": "đề hóa",
+   "pos": "动",
+   "en": "to take delivery of goods",
+   "vn": "nhận hàng, lấy hàng (khỏi kho)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261112"
+   ]
+  },
+  "担保": {
+   "w": "担保",
+   "p": "dānbǎo",
+   "hv": "đảm bảo",
+   "pos": "动",
+   "en": "to guarantee; guarantee",
+   "vn": "bảo lãnh",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261112"
+   ]
+  },
+  "品牌": {
+   "w": "品牌",
+   "p": "pǐnpái",
+   "hv": "phẩm bài",
+   "pos": "名",
+   "en": "brand",
+   "vn": "thương hiệu",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261112"
+   ]
+  },
+  "白皮书": {
+   "w": "白皮书",
+   "p": "báipíshū",
+   "hv": "bạch bì thư",
+   "pos": "名",
+   "en": "white paper",
+   "vn": "sách trắng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261112"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "中国宝武（新浪财经转载）",
+   "author": "中国宝武",
+   "title": "新欧冶、新服务、新价值 | 2026钢铁供应链协同向新大会举行",
+   "date": "2026-11-11",
+   "url": "https://finance.sina.com.cn/roll/2026-11-11/doc-iniykqvy9017379.shtml",
+   "accessed": "2026-11-12"
+  },
+  {
+   "role": "secondary",
+   "outlet": "新华财经",
+   "author": "李荣",
+   "title": "中国宝武旗下欧冶云商推动钢铁供应链协同向新",
+   "date": "2026-11-11",
+   "url": "https://www.sohu.com/a/1100147623_122014422",
+   "accessed": "2026-11-12"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261112",
+  "book": 4,
+  "no": 30,
+  "date": "2026-11-12",
+  "seq": 72,
+  "title": "钢卖不了更多，就把货和钱连起来",
+  "py": "gāngmàibùliǎogèngduō，jiùbǎhuòhéqiánliánqǐlái",
+  "en": "When steel can't sell more, link the goods to the money",
+  "vn": "Thép không bán thêm được nữa thì nối hàng với tiền",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "11",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "11",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "钢铁",
+        "p": "gāngtiě",
+        "k": "core"
+       },
+       {
+        "w": "供应链",
+        "p": "gōngyìngliàn",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "上海",
+        "p": "Shànghǎi",
+        "k": "name"
+       },
+       {
+        "w": "宝山",
+        "p": "Bǎoshān",
+        "k": "name"
+       },
+       {
+        "w": "举行",
+        "p": "jǔxíng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "办",
+        "p": "bàn",
+        "k": "extra"
+       },
+       {
+        "w": "这次",
+        "p": "zhè cì",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "欧冶云商",
+        "p": "Ōuyě Yúnshāng",
+        "k": "name"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "中国宝武",
+        "p": "Zhōngguó Bǎowǔ",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "钢铁",
+        "p": "gāngtiě",
+        "k": "core"
+       },
+       {
+        "w": "服务",
+        "p": "fúwù",
+        "k": "extra"
+       },
+       {
+        "w": "平台",
+        "p": "píngtái",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "中国钢铁工业协会",
+        "p": "Zhōngguó Gāngtiě Gōngyè Xiéhuì",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "冯超",
+        "p": "Féng Chāo",
+        "k": "name"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "钢铁",
+        "p": "gāngtiě",
+        "k": "core"
+       },
+       {
+        "w": "行业",
+        "p": "hángyè",
+        "k": "core"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "阶段",
+        "p": "jiēduàn",
+        "k": "core"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "生产",
+        "p": "shēngchǎn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "钢",
+        "p": "gāng",
+        "k": "core"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "再",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "增长",
+        "p": "zēngzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "以前",
+        "p": "yǐqián",
+        "k": "extra"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "谁",
+        "p": "shéi",
+        "k": "extra"
+       },
+       {
+        "w": "生产",
+        "p": "shēngchǎn",
+        "k": "extra"
+       },
+       {
+        "w": "得",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "谁",
+        "p": "shéi",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "产品",
+        "p": "chǎnpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "服务",
+        "p": "fúwù",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "好",
+        "p": "hǎo",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "钢",
+        "p": "gāng",
+        "k": "core"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "钢厂",
+        "p": "gāngchǎng",
+        "k": "core"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "供应链",
+        "p": "gōngyìngliàn",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "想",
+        "p": "xiǎng",
+        "k": "extra"
+       },
+       {
+        "w": "办法",
+        "p": "bànfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "值得",
+        "p": "zhíde",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "直联直融",
+        "p": "Zhílián Zhíróng",
+        "k": "name"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "欧冶云商",
+        "p": "Ōuyě Yúnshāng",
+        "k": "name"
+       },
+       {
+        "w": "跟",
+        "p": "gēn",
+        "k": "extra"
+       },
+       {
+        "w": "六",
+        "p": "liù",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "几",
+        "p": "jǐ",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "钢厂",
+        "p": "gāngchǎng",
+        "k": "core"
+       },
+       {
+        "w": "一起",
+        "p": "yìqǐ",
+        "k": "extra"
+       },
+       {
+        "w": "启动",
+        "p": "qǐdòng",
+        "k": "core"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "服务",
+        "p": "fúwù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "办法",
+        "p": "bànfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "四",
+        "p": "sì",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "环节",
+        "p": "huánjié",
+        "k": "core"
+       },
+       {
+        "w": "连",
+        "p": "lián",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "一起",
+        "p": "yìqǐ",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "客户",
+        "p": "kèhù",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "平台",
+        "p": "píngtái",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "订货",
+        "p": "dìnghuò",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "系统",
+        "p": "xìtǒng",
+        "k": "extra"
+       },
+       {
+        "w": "直接",
+        "p": "zhíjiē",
+        "k": "extra"
+       },
+       {
+        "w": "连",
+        "p": "lián",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "平台",
+        "p": "píngtái",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "货",
+        "p": "huò",
+        "k": "extra"
+       },
+       {
+        "w": "由",
+        "p": "yóu",
+        "k": "extra"
+       },
+       {
+        "w": "物流",
+        "p": "wùliú",
+        "k": "core"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "监管",
+        "p": "jiānguǎn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "客户",
+        "p": "kèhù",
+        "k": "extra"
+       },
+       {
+        "w": "还款",
+        "p": "huánkuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "才",
+        "p": "cái",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "提货",
+        "p": "tíhuò",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这样",
+        "p": "zhè yàng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "真实",
+        "p": "zhēnshí",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "交易",
+        "p": "jiāoyì",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "货",
+        "p": "huò",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "谁",
+        "p": "shéi",
+        "k": "extra"
+       },
+       {
+        "w": "手",
+        "p": "shǒu",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "买",
+        "p": "mǎi",
+        "k": "extra"
+       },
+       {
+        "w": "钢",
+        "p": "gāng",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "中",
+        "p": "zhōng",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "找",
+        "p": "zhǎo",
+        "k": "extra"
+       },
+       {
+        "w": "别",
+        "p": "bié",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "担保",
+        "p": "dānbǎo",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "比较",
+        "p": "bǐjiào",
+        "k": "extra"
+       },
+       {
+        "w": "容易",
+        "p": "róngyì",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "发布",
+        "p": "fābù",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "服务",
+        "p": "fúwù",
+        "k": "extra"
+       },
+       {
+        "w": "品牌",
+        "p": "pǐnpái",
+        "k": "core"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "欧冶物流",
+        "p": "Ōuyě Wùliú",
+        "k": "name"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "欧冶循环宝",
+        "p": "Ōuyě Xúnhuánbǎo",
+        "k": "name"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "欧冶绿碳",
+        "p": "Ōuyě Lǜtàn",
+        "k": "name"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "循环宝",
+        "p": "Xúnhuánbǎo",
+        "k": "name"
+       },
+       {
+        "w": "帮",
+        "p": "bāng",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "掉",
+        "p": "diào",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "旧",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "东西",
+        "p": "dōngxi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "绿碳",
+        "p": "Lǜtàn",
+        "k": "name"
+       },
+       {
+        "w": "帮",
+        "p": "bāng",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "算",
+        "p": "suàn",
+        "k": "extra"
+       },
+       {
+        "w": "好",
+        "p": "hǎo",
+        "k": "extra"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "为",
+        "p": "wèi",
+        "k": "extra"
+       },
+       {
+        "w": "出海",
+        "p": "chūhǎi",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "准备",
+        "p": "zhǔnbèi",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "启动",
+        "p": "qǐdòng",
+        "k": "core"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "出海",
+        "p": "chūhǎi",
+        "k": "extra"
+       },
+       {
+        "w": "计划",
+        "p": "jìhuà",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "物流",
+        "p": "wùliú",
+        "k": "core"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "参加",
+        "p": "cānjiā",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "技术",
+        "p": "jìshù",
+        "k": "extra"
+       },
+       {
+        "w": "方面",
+        "p": "fāngmiàn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "发布",
+        "p": "fābù",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "本",
+        "p": "běn",
+        "k": "extra"
+       },
+       {
+        "w": "白皮书",
+        "p": "báipíshū",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "谈",
+        "p": "tán",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "司机",
+        "p": "sījī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "卡",
+        "p": "kǎ",
+        "k": "extra"
+       },
+       {
+        "w": "车",
+        "p": "chē",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "路线",
+        "p": "lùxiàn",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "先",
+        "p": "xiān",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "工厂",
+        "p": "gōngchǎng",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "然后",
+        "p": "ránhòu",
+        "k": "extra"
+       },
+       {
+        "w": "跑",
+        "p": "pǎo",
+        "k": "extra"
+       },
+       {
+        "w": "短",
+        "p": "duǎn",
+        "k": "extra"
+       },
+       {
+        "w": "路",
+        "p": "lù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "最后",
+        "p": "zuìhòu",
+        "k": "extra"
+       },
+       {
+        "w": "才",
+        "p": "cái",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "长",
+        "p": "cháng",
+        "k": "extra"
+       },
+       {
+        "w": "路",
+        "p": "lù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "仓库",
+        "p": "cāngkù",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "办法",
+        "p": "bànfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "像",
+        "p": "xiàng",
+        "k": "extra"
+       },
+       {
+        "w": "狗",
+        "p": "gǒu",
+        "k": "extra"
+       },
+       {
+        "w": "一样",
+        "p": "yíyàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "机器人",
+        "p": "jīqìrén",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "里面",
+        "p": "lǐmiàn",
+        "k": "extra"
+       },
+       {
+        "w": "检查",
+        "p": "jiǎnchá",
+        "k": "extra"
+       },
+       {
+        "w": "钢",
+        "p": "gāng",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "钢铁",
+        "p": "gāngtiě",
+        "k": "core"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "老",
+        "p": "lǎo",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "行业",
+        "p": "hángyè",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "这次",
+        "p": "zhè cì",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "谈",
+        "p": "tán",
+        "k": "extra"
+       },
+       {
+        "w": "得",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "怎么",
+        "p": "zěnme",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "生产",
+        "p": "shēngchǎn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "而",
+        "p": "ér",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "怎么",
+        "p": "zěnme",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "货",
+        "p": "huò",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "连",
+        "p": "lián",
+        "k": "extra"
+       },
+       {
+        "w": "起来",
+        "p": "qǐlái",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 把 + A + 连在一起 / 连起来 — nối A lại với nhau",
+    "b": [
+     "Cách dùng:",
+     "把 + tân ngữ + 连在一起 / 连起来: câu chữ 把 với bổ ngữ kết quả, nói việc ghép nhiều khâu, nhiều bên thành một chuỗi. Rất hay gặp khi mô tả nền tảng, chuỗi cung ứng, sản phẩm tài chính.",
+     "办法是把四个环节连在一起。",
+     "Bànfǎ shì bǎ sì ge huánjié lián zài yìqǐ.",
+     "Cách làm là nối bốn khâu lại với nhau."
+    ]
+   },
+   {
+    "h": "II. …以后才能… — sau khi… mới được…",
+    "b": [
+     "Cách dùng:",
+     "A + 以后 + 才能 + B: B chỉ xảy ra được khi A đã xong. Mẫu câu chuẩn để nêu điều kiện trong hợp đồng, quy trình tín dụng, giao nhận hàng.",
+     "客户还款以后才能提货。",
+     "Kèhù huánkuǎn yǐhòu cái néng tíhuò.",
+     "Khách hàng trả nợ xong mới được nhận hàng."
+    ]
+   },
+   {
+    "h": "III. 不是A，而是B — không phải A, mà là B",
+    "b": [
+     "Cách dùng:",
+     "不是…而是… phủ định điều người đọc tưởng, rồi nêu điều thật sự quan trọng. Thường dùng ở câu kết của bài báo.",
+     "这次大会谈得最多的不是怎么多生产，而是怎么把货、钱和数据连起来。",
+     "Zhè cì dàhuì tán de zuì duō de bú shì zěnme duō shēngchǎn, ér shì zěnme bǎ huò, qián hé shùjù lián qǐlái.",
+     "Điều hội nghị lần này bàn nhiều nhất không phải là làm sao sản xuất thêm, mà là làm sao nối hàng, tiền và dữ liệu lại với nhau."
+    ]
+   }
+  ],
+  "vocab": [
+   "钢铁",
+   "钢",
+   "钢厂",
+   "行业",
+   "阶段",
+   "启动",
+   "环节",
+   "订货",
+   "物流",
+   "提货",
+   "担保",
+   "品牌",
+   "白皮书"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "中国宝武（新浪财经转载）",
+    "author": "中国宝武",
+    "title": "新欧冶、新服务、新价值 | 2026钢铁供应链协同向新大会举行",
+    "date": "2026-11-11",
+    "url": "https://finance.sina.com.cn/roll/2026-11-11/doc-iniykqvy9017379.shtml",
+    "accessed": "2026-11-12"
+   },
+   {
+    "role": "secondary",
+    "outlet": "新华财经",
+    "author": "李荣",
+    "title": "中国宝武旗下欧冶云商推动钢铁供应链协同向新",
+    "date": "2026-11-11",
+    "url": "https://www.sohu.com/a/1100147623_122014422",
+    "accessed": "2026-11-12"
+   }
+  ]
+ }
+}
