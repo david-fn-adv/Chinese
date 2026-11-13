@@ -1,0 +1,2115 @@
+{
+ "date": "2026-11-13",
+ "id": "N-20261113",
+ "draft": {
+  "title": "太空很远，账很近",
+  "vn": "Vũ trụ thì xa, sổ sách thì gần",
+  "en": "Space is far away, the books are close",
+  "paras": [
+   "11月13日，成都的国星宇航在港交所上市。很多人叫它“太空AI第一股”。可是第一天一开盘，股价就跌了1.85%，只有24.44港元，低于24.90港元的发行价。这就是人们常说的“破发”。",
+   "这家公司2018年成立，做的是能在太空里计算的卫星。以前，卫星拍了照片，要先传回地球，再让地球上的电脑处理；现在，它想让卫星自己在天上处理数据，只把结果传回来。据南方都市报报道，到2028年，公司打算把100颗这样的卫星送上太空。",
+   "故事很大，数字却没那么好看。招股的时候，公司给的价格是24.90到33.20港元，最后的发行价是最低的那个，这说明投资者并不太热情。2025年公司的营收是7.03亿元；今年上半年是2.26亿元，同比下滑6.3%。公司到现在还没有盈利。",
+   "更值得注意的是风险。南方都市报提到，今年上半年，最大的五个客户占了营收的91.1%，客户平均要六百多天才付钱。今年1月，一次火箭发射失败，上面的两颗卫星没有买保险，损失只能公司自己负责。",
+   "好消息是订单不少：公司手里还有114颗卫星没有交给客户，合同一共约34.75亿元。不过，订单要变成收入，先要把卫星发射上去；收入要变成现金，还要等客户付钱。",
+   "对投资者来说，太空很远，账却很近。"
+  ],
+  "points": [
+   {
+    "h": "I. 低于 / 高于 — thấp hơn / cao hơn (một mốc)",
+    "b": [
+     "Cách dùng:",
+     "A + 低于/高于 + B: văn viết của 比…低/高. Tin chứng khoán và số liệu kinh tế dùng mẫu này để so một con số với một mốc (giá phát hành, dự báo, cùng kỳ).",
+     "只有24.44港元，低于24.90港元的发行价。",
+     "Zhǐ yǒu èrshísì diǎn sì sì gǎngyuán, dī yú èrshísì diǎn jiǔ líng gǎngyuán de fāxíngjià.",
+     "Chỉ còn 24,44 đô la Hồng Kông, thấp hơn giá phát hành 24,90 đô la Hồng Kông."
+    ]
+   },
+   {
+    "h": "II. A要变成B，先要… — A muốn thành B thì trước hết phải…",
+    "b": [
+     "Cách dùng:",
+     "要 + 变成 nêu mục tiêu, 先要 / 还要 nêu điều kiện phải có trước. Rất hợp để nói về chuỗi đơn hàng → doanh thu → tiền mặt.",
+     "订单要变成收入，先要把卫星发射上去；收入要变成现金，还要等客户付钱。",
+     "Dìngdān yào biànchéng shōurù, xiān yào bǎ wèixīng fāshè shàngqu; shōurù yào biànchéng xiànjīn, hái yào děng kèhù fù qián.",
+     "Đơn hàng muốn thành doanh thu thì trước hết phải phóng vệ tinh lên; doanh thu muốn thành tiền mặt thì còn phải đợi khách hàng trả tiền."
+    ]
+   },
+   {
+    "h": "III. 并不 + tính từ/động từ — hoàn toàn không… (như người ta tưởng)",
+    "b": [
+     "Cách dùng:",
+     "并 đứng trước 不/没 để nhấn mạnh phủ định, thường ngược với điều người đọc đang chờ đợi.",
+     "这说明投资者并不太热情。",
+     "Zhè shuōmíng tóuzīzhě bìng bú tài rèqíng.",
+     "Điều này cho thấy nhà đầu tư thật ra không mấy mặn mà."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "国星宇航": {
+   "w": "国星宇航",
+   "p": "Guóxīng Yǔháng",
+   "hv": "Quốc Tinh Vũ Hàng",
+   "note": "ADA Space (06935.HK) — công ty vệ tinh AI thương mại ở Thành Đô, thành lập 2018"
+  },
+  "港交所": {
+   "w": "港交所",
+   "p": "Gǎngjiāosuǒ",
+   "hv": "Cảng Giao Sở",
+   "note": "Sở Giao dịch Chứng khoán Hồng Kông (HKEX)"
+  },
+  "成都": {
+   "w": "成都",
+   "p": "Chéngdū",
+   "hv": "Thành Đô",
+   "note": "Thủ phủ tỉnh Tứ Xuyên"
+  },
+  "南方都市报": {
+   "w": "南方都市报",
+   "p": "Nánfāng Dūshì Bào",
+   "hv": "Nam Phương Đô Thị Báo",
+   "note": "Southern Metropolis Daily — nhật báo ở Quảng Châu"
+  }
+ },
+ "dict": {
+  "太空": {
+   "w": "太空",
+   "p": "tàikōng",
+   "hv": "thái không",
+   "pos": "名",
+   "en": "outer space",
+   "vn": "vũ trụ, không gian",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261113"
+   ]
+  },
+  "卫星": {
+   "w": "卫星",
+   "p": "wèixīng",
+   "hv": "vệ tinh",
+   "pos": "名",
+   "en": "satellite",
+   "vn": "vệ tinh",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261113"
+   ]
+  },
+  "开盘": {
+   "w": "开盘",
+   "p": "kāipán",
+   "hv": "khai bàn",
+   "pos": "动",
+   "en": "(of a market) to open; opening",
+   "vn": "mở cửa phiên giao dịch",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261113"
+   ]
+  },
+  "发行价": {
+   "w": "发行价",
+   "p": "fāxíngjià",
+   "hv": "phát hành giá",
+   "pos": "名",
+   "en": "issue price, offer price",
+   "vn": "giá phát hành (IPO)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261113"
+   ]
+  },
+  "破发": {
+   "w": "破发",
+   "p": "pòfā",
+   "hv": "phá phát",
+   "pos": "动",
+   "en": "to fall below the issue price",
+   "vn": "thủng giá phát hành",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261113"
+   ]
+  },
+  "计算": {
+   "w": "计算",
+   "p": "jìsuàn",
+   "hv": "kế toán",
+   "pos": "动",
+   "en": "to compute, to calculate",
+   "vn": "tính toán, điện toán",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261113"
+   ]
+  },
+  "颗": {
+   "w": "颗",
+   "p": "kē",
+   "hv": "khỏa",
+   "pos": "量",
+   "en": "measure word for small round things, satellites, stars",
+   "vn": "lượng từ cho vật tròn nhỏ, vệ tinh, ngôi sao",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261113"
+   ]
+  },
+  "招股": {
+   "w": "招股",
+   "p": "zhāogǔ",
+   "hv": "chiêu cổ",
+   "pos": "动",
+   "en": "to offer shares for subscription",
+   "vn": "chào bán cổ phần (trước khi niêm yết)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261113"
+   ]
+  },
+  "火箭": {
+   "w": "火箭",
+   "p": "huǒjiàn",
+   "hv": "hỏa tiễn",
+   "pos": "名",
+   "en": "rocket",
+   "vn": "tên lửa",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261113"
+   ]
+  },
+  "发射": {
+   "w": "发射",
+   "p": "fāshè",
+   "hv": "phát xạ",
+   "pos": "动",
+   "en": "to launch",
+   "vn": "phóng (tên lửa, vệ tinh)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261113"
+   ]
+  },
+  "失败": {
+   "w": "失败",
+   "p": "shībài",
+   "hv": "thất bại",
+   "pos": "动",
+   "en": "to fail; failure",
+   "vn": "thất bại",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261113"
+   ]
+  },
+  "账": {
+   "w": "账",
+   "p": "zhàng",
+   "hv": "trướng",
+   "pos": "名",
+   "en": "account, books; debt",
+   "vn": "sổ sách, tài khoản; khoản nợ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261113"
+   ]
+  },
+  "低于": {
+   "w": "低于",
+   "p": "dī yú",
+   "hv": "đê vu",
+   "pos": "动",
+   "en": "to be lower than, below",
+   "vn": "thấp hơn, dưới (một mức)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261113"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "中新经纬（36氪转载）",
+   "author": "谢婧雯",
+   "title": "“太空AI第一股”，上市首日开盘破发",
+   "date": "2026-11-13",
+   "url": "https://www.36kr.com/p/4067544348152713",
+   "accessed": "2026-11-13"
+  },
+  {
+   "role": "secondary",
+   "outlet": "南方都市报·湾财社",
+   "author": "赵元",
+   "title": "国星宇航开启招股，冲刺“太空AI第一股”，尚未实现盈利",
+   "date": "2026-11-06",
+   "url": "https://m.163.com/dy/article/LB2E0OSA05129QAF.html",
+   "accessed": "2026-11-13"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261113",
+  "book": 4,
+  "no": 31,
+  "date": "2026-11-13",
+  "seq": 73,
+  "title": "太空很远，账很近",
+  "py": "tàikōnghěnyuǎn，zhànghěnjìn",
+  "en": "Space is far away, the books are close",
+  "vn": "Vũ trụ thì xa, sổ sách thì gần",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "11",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "13",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "成都",
+        "p": "Chéngdū",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "国星宇航",
+        "p": "Guóxīng Yǔháng",
+        "k": "name"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "港交所",
+        "p": "Gǎngjiāosuǒ",
+        "k": "name"
+       },
+       {
+        "w": "上市",
+        "p": "shàngshì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "叫",
+        "p": "jiào",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "太空",
+        "p": "tàikōng",
+        "k": "core"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "股",
+        "p": "gǔ",
+        "k": "extra"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "开盘",
+        "p": "kāipán",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "股价",
+        "p": "gǔjià",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "跌",
+        "p": "diē",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "1",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "85%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "24",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "44",
+        "k": "plain"
+       },
+       {
+        "w": "港元",
+        "p": "gǎngyuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "低于",
+        "p": "dī yú",
+        "k": "core"
+       },
+       {
+        "w": "24",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "90",
+        "k": "plain"
+       },
+       {
+        "w": "港元",
+        "p": "gǎngyuán",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "发行价",
+        "p": "fāxíngjià",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "们",
+        "p": "men",
+        "k": "extra"
+       },
+       {
+        "w": "常",
+        "p": "cháng",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "破发",
+        "p": "pòfā",
+        "k": "core"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "2018",
+        "k": "plain"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "成立",
+        "p": "chénglì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "太空",
+        "p": "tàikōng",
+        "k": "core"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "计算",
+        "p": "jìsuàn",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "卫星",
+        "p": "wèixīng",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "以前",
+        "p": "yǐqián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "卫星",
+        "p": "wèixīng",
+        "k": "core"
+       },
+       {
+        "w": "拍",
+        "p": "pāi",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "照片",
+        "p": "zhàopiàn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "先",
+        "p": "xiān",
+        "k": "extra"
+       },
+       {
+        "w": "传",
+        "p": "chuán",
+        "k": "extra"
+       },
+       {
+        "w": "回",
+        "p": "huí",
+        "k": "extra"
+       },
+       {
+        "w": "地球",
+        "p": "dìqiú",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "再",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "地球",
+        "p": "dìqiú",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "电",
+        "p": "diàn",
+        "k": "extra"
+       },
+       {
+        "w": "脑",
+        "p": "nǎo",
+        "k": "extra"
+       },
+       {
+        "w": "处理",
+        "p": "chǔlǐ",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "想",
+        "p": "xiǎng",
+        "k": "extra"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "卫星",
+        "p": "wèixīng",
+        "k": "core"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "处理",
+        "p": "chǔlǐ",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "结果",
+        "p": "jiéguǒ",
+        "k": "extra"
+       },
+       {
+        "w": "传",
+        "p": "chuán",
+        "k": "extra"
+       },
+       {
+        "w": "回来",
+        "p": "huílái",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "南方都市报",
+        "p": "Nánfāng Dūshì Bào",
+        "k": "name"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "2028",
+        "k": "plain"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "打算",
+        "p": "dǎsuàn",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "100",
+        "k": "plain"
+       },
+       {
+        "w": "颗",
+        "p": "kē",
+        "k": "core"
+       },
+       {
+        "w": "这样",
+        "p": "zhè yàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "卫星",
+        "p": "wèixīng",
+        "k": "core"
+       },
+       {
+        "w": "送",
+        "p": "sòng",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "太空",
+        "p": "tàikōng",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "故事",
+        "p": "gùshì",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "数字",
+        "p": "shùzì",
+        "k": "extra"
+       },
+       {
+        "w": "却",
+        "p": "què",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "那么",
+        "p": "nàme",
+        "k": "extra"
+       },
+       {
+        "w": "好看",
+        "p": "hǎokàn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "招股",
+        "p": "zhāogǔ",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "时候",
+        "p": "shíhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "24",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "90",
+        "k": "plain"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "33",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "20",
+        "k": "plain"
+       },
+       {
+        "w": "港元",
+        "p": "gǎngyuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "最后",
+        "p": "zuìhòu",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "发行价",
+        "p": "fāxíngjià",
+        "k": "core"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "低",
+        "p": "dī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "那",
+        "p": "nà",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "说明",
+        "p": "shuōmíng",
+        "k": "extra"
+       },
+       {
+        "w": "投资者",
+        "p": "tóuzīzhě",
+        "k": "extra"
+       },
+       {
+        "w": "并",
+        "p": "bìng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "太",
+        "p": "tài",
+        "k": "extra"
+       },
+       {
+        "w": "热情",
+        "p": "rèqíng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "2025",
+        "k": "plain"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "营收",
+        "p": "yíngshōu",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "7",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "03",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "上半年",
+        "p": "shàngbànnián",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "2",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "26",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "同比",
+        "p": "tóngbǐ",
+        "k": "extra"
+       },
+       {
+        "w": "下滑",
+        "p": "xiàhuá",
+        "k": "extra"
+       },
+       {
+        "w": "6",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "3%",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "盈利",
+        "p": "yínglì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "值得",
+        "p": "zhíde",
+        "k": "extra"
+       },
+       {
+        "w": "注意",
+        "p": "zhùyì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "风险",
+        "p": "fēngxiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "南方都市报",
+        "p": "Nánfāng Dūshì Bào",
+        "k": "name"
+       },
+       {
+        "w": "提",
+        "p": "tí",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "上半年",
+        "p": "shàngbànnián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "五",
+        "p": "wǔ",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "客户",
+        "p": "kèhù",
+        "k": "extra"
+       },
+       {
+        "w": "占",
+        "p": "zhàn",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "营收",
+        "p": "yíngshōu",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "91",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "1%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "客户",
+        "p": "kèhù",
+        "k": "extra"
+       },
+       {
+        "w": "平均",
+        "p": "píngjūn",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "六",
+        "p": "liù",
+        "k": "extra"
+       },
+       {
+        "w": "百",
+        "p": "bǎi",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "才",
+        "p": "cái",
+        "k": "extra"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "1",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "次",
+        "p": "cì",
+        "k": "extra"
+       },
+       {
+        "w": "火箭",
+        "p": "huǒjiàn",
+        "k": "core"
+       },
+       {
+        "w": "发射",
+        "p": "fāshè",
+        "k": "core"
+       },
+       {
+        "w": "失败",
+        "p": "shībài",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "面",
+        "p": "miàn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "两",
+        "p": "liǎng",
+        "k": "extra"
+       },
+       {
+        "w": "颗",
+        "p": "kē",
+        "k": "core"
+       },
+       {
+        "w": "卫星",
+        "p": "wèixīng",
+        "k": "core"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "买",
+        "p": "mǎi",
+        "k": "extra"
+       },
+       {
+        "w": "保险",
+        "p": "bǎoxiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "损失",
+        "p": "sǔnshī",
+        "k": "extra"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "负责",
+        "p": "fùzé",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "好",
+        "p": "hǎo",
+        "k": "extra"
+       },
+       {
+        "w": "消息",
+        "p": "xiāoxí",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "订单",
+        "p": "dìngdān",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "手",
+        "p": "shǒu",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "114",
+        "k": "plain"
+       },
+       {
+        "w": "颗",
+        "p": "kē",
+        "k": "core"
+       },
+       {
+        "w": "卫星",
+        "p": "wèixīng",
+        "k": "core"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "交",
+        "p": "jiāo",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "客户",
+        "p": "kèhù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "合同",
+        "p": "hétong",
+        "k": "extra"
+       },
+       {
+        "w": "一共",
+        "p": "yígòng",
+        "k": "extra"
+       },
+       {
+        "w": "约",
+        "p": "yuē",
+        "k": "extra"
+       },
+       {
+        "w": "34",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "75",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "不过",
+        "p": "búguò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "订单",
+        "p": "dìngdān",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "变成",
+        "p": "biànchéng",
+        "k": "extra"
+       },
+       {
+        "w": "收入",
+        "p": "shōurù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "先",
+        "p": "xiān",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "卫星",
+        "p": "wèixīng",
+        "k": "core"
+       },
+       {
+        "w": "发射",
+        "p": "fāshè",
+        "k": "core"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "去",
+        "p": "qù",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "收入",
+        "p": "shōurù",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "变成",
+        "p": "biànchéng",
+        "k": "extra"
+       },
+       {
+        "w": "现金",
+        "p": "xiànjīn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "客户",
+        "p": "kèhù",
+        "k": "extra"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "投资者",
+        "p": "tóuzīzhě",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "太空",
+        "p": "tàikōng",
+        "k": "core"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "远",
+        "p": "yuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "账",
+        "p": "zhàng",
+        "k": "core"
+       },
+       {
+        "w": "却",
+        "p": "què",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "近",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 低于 / 高于 — thấp hơn / cao hơn (một mốc)",
+    "b": [
+     "Cách dùng:",
+     "A + 低于/高于 + B: văn viết của 比…低/高. Tin chứng khoán và số liệu kinh tế dùng mẫu này để so một con số với một mốc (giá phát hành, dự báo, cùng kỳ).",
+     "只有24.44港元，低于24.90港元的发行价。",
+     "Zhǐ yǒu èrshísì diǎn sì sì gǎngyuán, dī yú èrshísì diǎn jiǔ líng gǎngyuán de fāxíngjià.",
+     "Chỉ còn 24,44 đô la Hồng Kông, thấp hơn giá phát hành 24,90 đô la Hồng Kông."
+    ]
+   },
+   {
+    "h": "II. A要变成B，先要… — A muốn thành B thì trước hết phải…",
+    "b": [
+     "Cách dùng:",
+     "要 + 变成 nêu mục tiêu, 先要 / 还要 nêu điều kiện phải có trước. Rất hợp để nói về chuỗi đơn hàng → doanh thu → tiền mặt.",
+     "订单要变成收入，先要把卫星发射上去；收入要变成现金，还要等客户付钱。",
+     "Dìngdān yào biànchéng shōurù, xiān yào bǎ wèixīng fāshè shàngqu; shōurù yào biànchéng xiànjīn, hái yào děng kèhù fù qián.",
+     "Đơn hàng muốn thành doanh thu thì trước hết phải phóng vệ tinh lên; doanh thu muốn thành tiền mặt thì còn phải đợi khách hàng trả tiền."
+    ]
+   },
+   {
+    "h": "III. 并不 + tính từ/động từ — hoàn toàn không… (như người ta tưởng)",
+    "b": [
+     "Cách dùng:",
+     "并 đứng trước 不/没 để nhấn mạnh phủ định, thường ngược với điều người đọc đang chờ đợi.",
+     "这说明投资者并不太热情。",
+     "Zhè shuōmíng tóuzīzhě bìng bú tài rèqíng.",
+     "Điều này cho thấy nhà đầu tư thật ra không mấy mặn mà."
+    ]
+   }
+  ],
+  "vocab": [
+   "太空",
+   "卫星",
+   "开盘",
+   "发行价",
+   "破发",
+   "计算",
+   "颗",
+   "招股",
+   "火箭",
+   "发射",
+   "失败",
+   "账",
+   "低于"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "中新经纬（36氪转载）",
+    "author": "谢婧雯",
+    "title": "“太空AI第一股”，上市首日开盘破发",
+    "date": "2026-11-13",
+    "url": "https://www.36kr.com/p/4067544348152713",
+    "accessed": "2026-11-13"
+   },
+   {
+    "role": "secondary",
+    "outlet": "南方都市报·湾财社",
+    "author": "赵元",
+    "title": "国星宇航开启招股，冲刺“太空AI第一股”，尚未实现盈利",
+    "date": "2026-11-06",
+    "url": "https://m.163.com/dy/article/LB2E0OSA05129QAF.html",
+    "accessed": "2026-11-13"
+   }
+  ]
+ }
+}

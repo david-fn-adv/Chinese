@@ -29,10 +29,13 @@ CHARS_EXT = """
 峡:hiệp 杰:kiệt
 仓:thương 库:khố 案:án 赔:bồi 忧:ưu
 优:ưu 双:song 淘:đào 苏:tô 武:vũ 泽:trạch
+钢:cương 阶:giai 启:khải
+航:hàng 宇:vũ 射:xạ 箭:tiễn 颗:khỏa
 """
 
 # Từ ghép có âm khác cách ghép từng chữ
 WORD_EXT = {
+    '行业': 'hàng nghiệp',      # 行 = ngành nghề đọc "hàng" (háng), không phải "hành"
     '增长': 'tăng trưởng',      # 長 ở đây đọc "trưởng", không phải "trường"
     '央行': 'ương hàng',        # 行 = ngân hàng đọc "hàng", không phải "hành"
     '行长': 'hàng trưởng',      # 行 = ngân hàng, 長 = người đứng đầu
