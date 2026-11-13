@@ -6,6 +6,7 @@
 <title>當代中文課程 · Sách 1–3</title>
 <style>
   :root{
+    color-scheme:light;
     --ink:#17181C; --ink2:#6A6F78; --ink3:#9AA0A8;
     --field:#ECEDF0; --paper:#FFFFFF; --rule:#DFE1E6;
     --red:#C1121F; --red-soft:#FBEAEB; --gold:#9C6B10; --gold-soft:#FAF1DD;
@@ -24,6 +25,7 @@
   @media (prefers-color-scheme:dark){
     :root:not([data-theme="light"]){
     /* mực trên nền đêm — giữ nguyên thứ bậc của bản giấy, đổi nền */
+    color-scheme:dark;
     --ink:#E9E5E0; --ink2:#A4A8AF; --ink3:#73787F;
     --field:#111214; --paper:#1A1C20; --rule:#2C2F35;
     --red:#F0777F; --red-soft:#3A1E22; --gold:#DCAC53; --gold-soft:#332A18;
@@ -38,6 +40,7 @@
   }
   :root[data-theme="dark"]{
     /* mực trên nền đêm — giữ nguyên thứ bậc của bản giấy, đổi nền */
+    color-scheme:dark;
     --ink:#E9E5E0; --ink2:#A4A8AF; --ink3:#73787F;
     --field:#111214; --paper:#1A1C20; --rule:#2C2F35;
     --red:#F0777F; --red-soft:#3A1E22; --gold:#DCAC53; --gold-soft:#332A18;
@@ -51,6 +54,8 @@
   }
   *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
   html,body{margin:0;padding:0}
+  /* nút và ô nhập không tự thừa kế màu chữ — thiếu dòng này thì chữ đen trên nền đêm */
+  button,input,select,textarea{color:inherit}
   body{background:var(--field);color:var(--ink);font-family:var(--ui);font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased}
   .wrap{max-width:740px;margin:0 auto;padding-bottom:calc(var(--tabh) + env(safe-area-inset-bottom) + 20px)}
   .screen{display:none}
@@ -198,7 +203,7 @@
   details.more .card .py{color:var(--teal)}
 
   /* ── vocabulary screen ── */
-  .search{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.96);backdrop-filter:blur(8px);border-bottom:1px solid var(--rule);padding:10px 14px}
+  .search{position:sticky;top:0;z-index:30;background:var(--bar-bg);backdrop-filter:blur(8px);border-bottom:1px solid var(--rule);padding:10px 14px}
   .search input{width:100%;border:1px solid var(--rule);border-radius:8px;padding:11px 13px;font:inherit;font-size:16px;background:var(--paper)}
   .search input:focus{outline:none;border-color:var(--ink)}
   .filters{display:flex;gap:6px;margin-top:9px;overflow-x:auto;padding-bottom:2px;-webkit-overflow-scrolling:touch}
@@ -237,7 +242,7 @@
   .endnav button:disabled{opacity:.35;cursor:default}
 
   /* ── tab bar ── */
-  .tabbar{position:fixed;left:0;right:0;bottom:0;z-index:60;background:rgba(255,255,255,.97);backdrop-filter:blur(10px);border-top:1px solid var(--rule);display:flex;padding-bottom:env(safe-area-inset-bottom)}
+  .tabbar{position:fixed;left:0;right:0;bottom:0;z-index:60;background:var(--bar-bg);backdrop-filter:blur(10px);border-top:1px solid var(--rule);display:flex;padding-bottom:env(safe-area-inset-bottom)}
   .tabbar button{flex:1;border:0;background:transparent;font:inherit;cursor:pointer;height:var(--tabh);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;color:var(--ink3)}
   .tabbar button b{font-family:var(--han);font-size:15px;font-weight:600}
   .tabbar button i{font-style:normal;font-family:var(--mono);font-size:8.5px;letter-spacing:.1em}
@@ -477,7 +482,7 @@ function renderLibrary(){
     '<div><div class="lb">ĐANG HỌC · '+l.id+'</div><div class="zh">'+esc(l.title)+'</div>' +
     '<div class="pg">'+seenIn(l)+'/'+l.coreWords.length+' từ mới đã mở · '+
     l.texts.length+' bài đọc · '+l.grammar.length+' mục ngữ pháp</div></div>' +
-    '<div class="ring"><svg width="44" height="44"><circle cx="22" cy="22" r="18" fill="none" stroke="#E4E6EA" stroke-width="4"/>' +
+    '<div class="ring"><svg width="44" height="44"><circle cx="22" cy="22" r="18" fill="none" style="stroke:var(--d0)" stroke-width="4"/>' +
     '<circle cx="22" cy="22" r="18" fill="none" stroke="var(--red)" stroke-width="4" stroke-linecap="round" ' +
     'stroke-dasharray="'+(2*Math.PI*18)+'" stroke-dashoffset="'+(2*Math.PI*18*(1-p))+'"/></svg><b>'+pct+'%</b></div>';
   $('#st-seen').textContent = totalSeen();
