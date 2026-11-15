@@ -31,6 +31,7 @@ CHARS_EXT = """
 优:ưu 双:song 淘:đào 苏:tô 武:vũ 泽:trạch
 钢:cương 阶:giai 启:khải
 航:hàng 宇:vũ 射:xạ 箭:tiễn 颗:khỏa
+欠:khiếm 控:khống 蓬:bồng 督:đốc
 """
 
 # Từ ghép có âm khác cách ghép từng chữ

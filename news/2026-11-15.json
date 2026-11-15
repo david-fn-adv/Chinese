@@ -1,0 +1,2130 @@
+{
+ "date": "2026-11-15",
+ "id": "N-20261115",
+ "names": {
+  "广东": {
+   "w": "广东",
+   "p": "Guǎngdōng",
+   "hv": "Quảng Đông",
+   "note": "Tỉnh Quảng Đông, miền Nam Trung Quốc"
+  },
+  "拉卡拉": {
+   "w": "拉卡拉",
+   "p": "Lākǎlā",
+   "hv": "Lạp Ca Lạp",
+   "note": "Lakala (300773.SZ) — công ty thanh toán niêm yết ở Thâm Quyến"
+  },
+  "重庆": {
+   "w": "重庆",
+   "p": "Chóngqìng",
+   "hv": "Trùng Khánh",
+   "note": "Thành phố trực thuộc trung ương ở Tây Nam Trung Quốc"
+  },
+  "江苏": {
+   "w": "江苏",
+   "p": "Jiāngsū",
+   "hv": "Giang Tô",
+   "note": "Tỉnh Giang Tô, miền Đông Trung Quốc"
+  },
+  "王蓬博": {
+   "w": "王蓬博",
+   "p": "Wáng Péngbó",
+   "hv": "Vương Bồng Bác",
+   "note": "Chuyên viên phân tích ngành tài chính cao cấp, công ty tư vấn 博通咨询 (Analysys/Botong)"
+  },
+  "国家金融监督管理总局": {
+   "w": "国家金融监督管理总局",
+   "p": "Guójiā Jīnróng Jiāndū Guǎnlǐ Zǒngjú",
+   "hv": "Quốc Gia Kim Dung Giám Đốc Quản Lý Tổng Cục",
+   "note": "Cục Quản lý Giám sát Tài chính Quốc gia (NFRA) — cơ quan quản lý ngân hàng, bảo hiểm của Trung Quốc"
+  }
+ },
+ "dict": {
+  "金融": {
+   "w": "金融",
+   "p": "jīnróng",
+   "hv": "kim dung",
+   "pos": "名",
+   "en": "finance",
+   "vn": "tài chính",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261115"
+   ]
+  },
+  "小贷": {
+   "w": "小贷",
+   "p": "xiǎodài",
+   "hv": "tiểu thải",
+   "pos": "名",
+   "en": "microlending; short for 小额贷款",
+   "vn": "cho vay nhỏ (viết tắt của 小额贷款 — khoản vay nhỏ); 小贷公司 = công ty cho vay nhỏ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261115"
+   ]
+  },
+  "牌照": {
+   "w": "牌照",
+   "p": "páizhào",
+   "hv": "bài chiếu",
+   "pos": "名",
+   "en": "licence, permit",
+   "vn": "giấy phép (kinh doanh)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261115"
+   ]
+  },
+  "注销": {
+   "w": "注销",
+   "p": "zhùxiāo",
+   "hv": "chú tiêu",
+   "pos": "动",
+   "en": "to cancel, to deregister",
+   "vn": "xoá đăng ký, huỷ (giấy phép, tư cách)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261115"
+   ]
+  },
+  "或者": {
+   "w": "或者",
+   "p": "huòzhě",
+   "hv": "hoặc giả",
+   "pos": "连",
+   "en": "or",
+   "vn": "hoặc, hay là",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261115"
+   ]
+  },
+  "欠": {
+   "w": "欠",
+   "p": "qiàn",
+   "hv": "khiếm",
+   "pos": "动",
+   "en": "to owe",
+   "vn": "nợ, thiếu (tiền)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261115"
+   ]
+  },
+  "风控": {
+   "w": "风控",
+   "p": "fēngkòng",
+   "hv": "phong khống",
+   "pos": "名",
+   "en": "risk control (short for 风险控制)",
+   "vn": "quản trị rủi ro (viết tắt của 风险控制)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261115"
+   ]
+  },
+  "清退": {
+   "w": "清退",
+   "p": "qīngtuì",
+   "hv": "thanh thoái",
+   "pos": "动",
+   "en": "to clear out, to force to exit",
+   "vn": "loại bỏ, buộc rút khỏi (thị trường)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261115"
+   ]
+  },
+  "合规": {
+   "w": "合规",
+   "p": "héguī",
+   "hv": "hợp quy",
+   "pos": "形",
+   "en": "compliant (with regulations)",
+   "vn": "tuân thủ quy định; 不合规 = không tuân thủ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261115"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "新华网（转载证券日报）",
+   "author": "",
+   "title": "小贷行业减量提质持续进推",
+   "date": "2026-11-13",
+   "url": "https://www.news.cn/money/20261113/24f089b0a3f24f998d07e5deb40426ef/c.html",
+   "accessed": "2026-11-15"
+  },
+  {
+   "role": "secondary",
+   "outlet": "新华网（新华社）",
+   "author": "张千千、李延霞",
+   "title": "累计清退不合规机构超5600家 六类地方金融组织减量提质取得成效",
+   "date": "2026-03-19",
+   "url": "https://www.news.cn/fortune/20260319/7a4608d834ad41a4ac44631ecd8f8d96/c.html",
+   "accessed": "2026-11-15"
+  },
+  {
+   "role": "secondary",
+   "outlet": "21经济网（转载北京商报）",
+   "author": "",
+   "title": "拉卡拉注销最后一张小贷牌照",
+   "date": "2026-11-12",
+   "url": "https://www.21jingji.com/article/20261112/herald/8d4b90f0e62d4f0ccb4c5088040a847e.html",
+   "accessed": "2026-11-15"
+  }
+ ],
+ "draft": {
+  "title": "三张牌照都放下了",
+  "vn": "Buông cả ba giấy phép",
+  "en": "All three licences handed back",
+  "paras": [
+   "最近，广东的金融监管机构同意好几家小贷公司退出这个行业。其中一家，是支付公司拉卡拉在广州开的。",
+   "拉卡拉是一家上市的支付公司，以前一共有三张网络小贷牌照。2023年5月，北京的那一家已经不做小贷了；重庆的那一家，现在也停了下来。这次广州的牌照一注销，三张就都没有了。按照要求，这家公司要在30天以内改名字，或者注销；以后也不能再借钱给别人。别人欠它的钱和它欠别人的钱，由股东或者改了名字的公司负责。",
+   "为什么要放下牌照？分析师王蓬博认为，对很多支付公司来说，贷款并不是主要的生意。留着牌照，就要不断投入资本，还要花钱做风控，压力很大。所以不少公司选择主动退出，改为给别的公司提供风控技术。",
+   "今年北京、重庆、江苏等地也都在清退小贷公司。国家金融监督管理总局的数据显示，到2025年12月末，小贷公司、融资担保公司等六种地方金融机构，同比下降了26%，和最多的时候比，少了55%。2024年以来，被清退的不合规机构超过5600家。",
+   "不过，行业不是一起变小，而是在分化。据证券日报报道，一些大平台的小贷公司还在增加资本；专家建议地方上的小公司做好当地的生意，为当地的特色产业和农村服务。",
+   "对做小企业贷款的人来说，变化很清楚：机构少了，规则多了，能留下来的，要靠真正的能力。"
+  ],
+  "points": [
+   {
+    "h": "I. 一……就…… — hễ/vừa… là…",
+    "b": [
+     "Cách dùng:",
+     "一 + hành động A, 就 + kết quả B: A vừa xảy ra thì B lập tức theo sau. Tin tức hay dùng để nói một bước cuối cùng làm thay đổi cả tình hình.",
+     "这次广州的牌照一注销，三张就都没有了。",
+     "Zhè cì Guǎngzhōu de páizhào yī zhùxiāo, sān zhāng jiù dōu méiyǒu le.",
+     "Lần này giấy phép ở Quảng Châu vừa bị xoá là cả ba tờ đều không còn nữa."
+    ]
+   },
+   {
+    "h": "II. 不是A，而是B — không phải A, mà là B",
+    "b": [
+     "Cách dùng:",
+     "Bác một cách hiểu (A) để đưa ra cách hiểu đúng (B). 而是 trang trọng hơn 是, rất hay gặp trong bài phân tích.",
+     "不过，行业不是一起变小，而是在分化。",
+     "Búguò, hángyè bú shì yìqǐ biàn xiǎo, ér shì zài fēnhuà.",
+     "Tuy vậy, cả ngành không phải cùng nhỏ lại, mà đang phân hoá."
+    ]
+   },
+   {
+    "h": "III. 对……来说 — đối với… mà nói",
+    "b": [
+     "Cách dùng:",
+     "对 + người/đối tượng + 来说: nêu góc nhìn, nhận định đúng với ai. Thường đứng đầu câu, sau đó là nhận định.",
+     "对很多支付公司来说，贷款并不是主要的生意。",
+     "Duì hěn duō zhīfù gōngsī lái shuō, dàikuǎn bìng bú shì zhǔyào de shēngyì.",
+     "Đối với nhiều công ty thanh toán, cho vay vốn không phải là mảng làm ăn chính."
+    ]
+   }
+  ]
+ },
+ "lesson": {
+  "id": "N-20261115",
+  "book": 4,
+  "no": 32,
+  "date": "2026-11-15",
+  "seq": 74,
+  "title": "三张牌照都放下了",
+  "py": "sānzhāngpáizhàodōufàngxiàle",
+  "en": "All three licences handed back",
+  "vn": "Buông cả ba giấy phép",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "最近",
+        "p": "zuìjìn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "广东",
+        "p": "Guǎngdōng",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "金融",
+        "p": "jīnróng",
+        "k": "core"
+       },
+       {
+        "w": "监管",
+        "p": "jiānguǎn",
+        "k": "extra"
+       },
+       {
+        "w": "机构",
+        "p": "jīgòu",
+        "k": "extra"
+       },
+       {
+        "w": "同意",
+        "p": "tóngyì",
+        "k": "extra"
+       },
+       {
+        "w": "好",
+        "p": "hǎo",
+        "k": "extra"
+       },
+       {
+        "w": "几",
+        "p": "jǐ",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "小贷",
+        "p": "xiǎodài",
+        "k": "core"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "退",
+        "p": "tuì",
+        "k": "extra"
+       },
+       {
+        "w": "出",
+        "p": "chū",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "行业",
+        "p": "hángyè",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "其中",
+        "p": "qízhōng",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "支",
+        "p": "zhī",
+        "k": "extra"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "拉卡拉",
+        "p": "Lākǎlā",
+        "k": "name"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "广州",
+        "p": "Guǎngzhōu",
+        "k": "name"
+       },
+       {
+        "w": "开",
+        "p": "kāi",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "拉卡拉",
+        "p": "Lākǎlā",
+        "k": "name"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "上市",
+        "p": "shàngshì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "支",
+        "p": "zhī",
+        "k": "extra"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "以前",
+        "p": "yǐqián",
+        "k": "extra"
+       },
+       {
+        "w": "一共",
+        "p": "yígòng",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "张",
+        "p": "zhāng",
+        "k": "extra"
+       },
+       {
+        "w": "网络",
+        "p": "wǎngluò",
+        "k": "extra"
+       },
+       {
+        "w": "小贷",
+        "p": "xiǎodài",
+        "k": "core"
+       },
+       {
+        "w": "牌照",
+        "p": "páizhào",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "2023",
+        "k": "plain"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "5",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "北京",
+        "p": "Běijīng",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "那",
+        "p": "nà",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "小贷",
+        "p": "xiǎodài",
+        "k": "core"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "重庆",
+        "p": "Chóngqìng",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "那",
+        "p": "nà",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "停",
+        "p": "tíng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "下",
+        "p": "xià",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这次",
+        "p": "zhè cì",
+        "k": "extra"
+       },
+       {
+        "w": "广州",
+        "p": "Guǎngzhōu",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "牌照",
+        "p": "páizhào",
+        "k": "core"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "注销",
+        "p": "zhùxiāo",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "张",
+        "p": "zhāng",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "按照",
+        "p": "ànzhào",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "求",
+        "p": "qiú",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "30",
+        "k": "plain"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "以内",
+        "p": "yǐnèi",
+        "k": "extra"
+       },
+       {
+        "w": "改",
+        "p": "gǎi",
+        "k": "extra"
+       },
+       {
+        "w": "名字",
+        "p": "Míngzi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "或者",
+        "p": "huòzhě",
+        "k": "core"
+       },
+       {
+        "w": "注销",
+        "p": "zhùxiāo",
+        "k": "core"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "再",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "别",
+        "p": "bié",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "别",
+        "p": "bié",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "欠",
+        "p": "qiàn",
+        "k": "core"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "欠",
+        "p": "qiàn",
+        "k": "core"
+       },
+       {
+        "w": "别",
+        "p": "bié",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "由",
+        "p": "yóu",
+        "k": "extra"
+       },
+       {
+        "w": "股东",
+        "p": "gǔdōng",
+        "k": "extra"
+       },
+       {
+        "w": "或者",
+        "p": "huòzhě",
+        "k": "core"
+       },
+       {
+        "w": "改",
+        "p": "gǎi",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "名字",
+        "p": "Míngzi",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "负责",
+        "p": "fùzé",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "为什么",
+        "p": "wèishénme",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "放下",
+        "p": "fàngxià",
+        "k": "extra"
+       },
+       {
+        "w": "牌照",
+        "p": "páizhào",
+        "k": "core"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "分析师",
+        "p": "fēnxīshī",
+        "k": "extra"
+       },
+       {
+        "w": "王蓬博",
+        "p": "Wáng Péngbó",
+        "k": "name"
+       },
+       {
+        "w": "认为",
+        "p": "rènwéi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "支",
+        "p": "zhī",
+        "k": "extra"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "并",
+        "p": "bìng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "主要",
+        "p": "zhǔyào",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "生意",
+        "p": "shēngyì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "留",
+        "p": "liú",
+        "k": "extra"
+       },
+       {
+        "w": "着",
+        "p": "zhe",
+        "k": "extra"
+       },
+       {
+        "w": "牌照",
+        "p": "páizhào",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "不断",
+        "p": "búduàn",
+        "k": "extra"
+       },
+       {
+        "w": "投入",
+        "p": "tóurù",
+        "k": "extra"
+       },
+       {
+        "w": "资本",
+        "p": "zīběn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "花",
+        "p": "huā",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "风控",
+        "p": "fēngkòng",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "压力",
+        "p": "yālì",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "所以",
+        "p": "suǒyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "选择",
+        "p": "xuǎnzé",
+        "k": "extra"
+       },
+       {
+        "w": "主动",
+        "p": "zhǔdòng",
+        "k": "extra"
+       },
+       {
+        "w": "退",
+        "p": "tuì",
+        "k": "extra"
+       },
+       {
+        "w": "出",
+        "p": "chū",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "改",
+        "p": "gǎi",
+        "k": "extra"
+       },
+       {
+        "w": "为",
+        "p": "wèi",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "别的",
+        "p": "biéde",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "提供",
+        "p": "tígōng",
+        "k": "extra"
+       },
+       {
+        "w": "风控",
+        "p": "fēngkòng",
+        "k": "core"
+       },
+       {
+        "w": "技术",
+        "p": "jìshù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "北京",
+        "p": "Běijīng",
+        "k": "name"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "重庆",
+        "p": "Chóngqìng",
+        "k": "name"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "江苏",
+        "p": "Jiāngsū",
+        "k": "name"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "地",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "清退",
+        "p": "qīngtuì",
+        "k": "core"
+       },
+       {
+        "w": "小贷",
+        "p": "xiǎodài",
+        "k": "core"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "国家金融监督管理总局",
+        "p": "Guójiā Jīnróng Jiāndū Guǎnlǐ Zǒngjú",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "显示",
+        "p": "xiǎnshì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "2025",
+        "k": "plain"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "12",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "末",
+        "p": "mò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "小贷",
+        "p": "xiǎodài",
+        "k": "core"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "融资",
+        "p": "róngzī",
+        "k": "extra"
+       },
+       {
+        "w": "担保",
+        "p": "dānbǎo",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "六",
+        "p": "liù",
+        "k": "extra"
+       },
+       {
+        "w": "种",
+        "p": "zhǒng",
+        "k": "extra"
+       },
+       {
+        "w": "地方",
+        "p": "dìfāng",
+        "k": "extra"
+       },
+       {
+        "w": "金融",
+        "p": "jīnróng",
+        "k": "core"
+       },
+       {
+        "w": "机构",
+        "p": "jīgòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "同比",
+        "p": "tóngbǐ",
+        "k": "extra"
+       },
+       {
+        "w": "下降",
+        "p": "xiàjiàng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "26%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "时候",
+        "p": "shíhòu",
+        "k": "extra"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "55%",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "2024",
+        "k": "plain"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "以来",
+        "p": "yǐlái",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "被",
+        "p": "bèi",
+        "k": "extra"
+       },
+       {
+        "w": "清退",
+        "p": "qīngtuì",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "合规",
+        "p": "héguī",
+        "k": "core"
+       },
+       {
+        "w": "机构",
+        "p": "jīgòu",
+        "k": "extra"
+       },
+       {
+        "w": "超过",
+        "p": "chāoguò",
+        "k": "extra"
+       },
+       {
+        "w": "5600",
+        "k": "plain"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "不过",
+        "p": "búguò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "行业",
+        "p": "hángyè",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "一起",
+        "p": "yìqǐ",
+        "k": "extra"
+       },
+       {
+        "w": "变",
+        "p": "biàn",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "而",
+        "p": "ér",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "分化",
+        "p": "fēnhuà",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "证券日报",
+        "p": "Zhèngquàn Rìbào",
+        "k": "name"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "一些",
+        "p": "yìxiē",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "平台",
+        "p": "píngtái",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "小贷",
+        "p": "xiǎodài",
+        "k": "core"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "增加",
+        "p": "zēngjiā",
+        "k": "extra"
+       },
+       {
+        "w": "资本",
+        "p": "zīběn",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "专家",
+        "p": "zhuānjiā",
+        "k": "extra"
+       },
+       {
+        "w": "建议",
+        "p": "jiànyì",
+        "k": "extra"
+       },
+       {
+        "w": "地方",
+        "p": "dìfāng",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "好",
+        "p": "hǎo",
+        "k": "extra"
+       },
+       {
+        "w": "当地",
+        "p": "dāngdì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "生意",
+        "p": "shēngyì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "为",
+        "p": "wèi",
+        "k": "extra"
+       },
+       {
+        "w": "当地",
+        "p": "dāngdì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "特色",
+        "p": "tèsè",
+        "k": "extra"
+       },
+       {
+        "w": "产业",
+        "p": "chǎnyè",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "农村",
+        "p": "nóngcūn",
+        "k": "extra"
+       },
+       {
+        "w": "服务",
+        "p": "fúwù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "变化",
+        "p": "biànhuà",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "清楚",
+        "p": "qīngchǔ",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "机构",
+        "p": "jīgòu",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "规则",
+        "p": "guīzé",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "留下来",
+        "p": "liú xià lái",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "靠",
+        "p": "kào",
+        "k": "extra"
+       },
+       {
+        "w": "真正",
+        "p": "zhēnzhèng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "能力",
+        "p": "nénglì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 一……就…… — hễ/vừa… là…",
+    "b": [
+     "Cách dùng:",
+     "一 + hành động A, 就 + kết quả B: A vừa xảy ra thì B lập tức theo sau. Tin tức hay dùng để nói một bước cuối cùng làm thay đổi cả tình hình.",
+     "这次广州的牌照一注销，三张就都没有了。",
+     "Zhè cì Guǎngzhōu de páizhào yī zhùxiāo, sān zhāng jiù dōu méiyǒu le.",
+     "Lần này giấy phép ở Quảng Châu vừa bị xoá là cả ba tờ đều không còn nữa."
+    ]
+   },
+   {
+    "h": "II. 不是A，而是B — không phải A, mà là B",
+    "b": [
+     "Cách dùng:",
+     "Bác một cách hiểu (A) để đưa ra cách hiểu đúng (B). 而是 trang trọng hơn 是, rất hay gặp trong bài phân tích.",
+     "不过，行业不是一起变小，而是在分化。",
+     "Búguò, hángyè bú shì yìqǐ biàn xiǎo, ér shì zài fēnhuà.",
+     "Tuy vậy, cả ngành không phải cùng nhỏ lại, mà đang phân hoá."
+    ]
+   },
+   {
+    "h": "III. 对……来说 — đối với… mà nói",
+    "b": [
+     "Cách dùng:",
+     "对 + người/đối tượng + 来说: nêu góc nhìn, nhận định đúng với ai. Thường đứng đầu câu, sau đó là nhận định.",
+     "对很多支付公司来说，贷款并不是主要的生意。",
+     "Duì hěn duō zhīfù gōngsī lái shuō, dàikuǎn bìng bú shì zhǔyào de shēngyì.",
+     "Đối với nhiều công ty thanh toán, cho vay vốn không phải là mảng làm ăn chính."
+    ]
+   }
+  ],
+  "vocab": [
+   "金融",
+   "小贷",
+   "牌照",
+   "注销",
+   "或者",
+   "欠",
+   "风控",
+   "清退",
+   "合规"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "新华网（转载证券日报）",
+    "author": "",
+    "title": "小贷行业减量提质持续进推",
+    "date": "2026-11-13",
+    "url": "https://www.news.cn/money/20261113/24f089b0a3f24f998d07e5deb40426ef/c.html",
+    "accessed": "2026-11-15"
+   },
+   {
+    "role": "secondary",
+    "outlet": "新华网（新华社）",
+    "author": "张千千、李延霞",
+    "title": "累计清退不合规机构超5600家 六类地方金融组织减量提质取得成效",
+    "date": "2026-03-19",
+    "url": "https://www.news.cn/fortune/20260319/7a4608d834ad41a4ac44631ecd8f8d96/c.html",
+    "accessed": "2026-11-15"
+   },
+   {
+    "role": "secondary",
+    "outlet": "21经济网（转载北京商报）",
+    "author": "",
+    "title": "拉卡拉注销最后一张小贷牌照",
+    "date": "2026-11-12",
+    "url": "https://www.21jingji.com/article/20261112/herald/8d4b90f0e62d4f0ccb4c5088040a847e.html",
+    "accessed": "2026-11-15"
+   }
+  ]
+ }
+}
