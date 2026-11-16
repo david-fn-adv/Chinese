@@ -33,6 +33,7 @@ CHARS_EXT = """
 航:hàng 宇:vũ 射:xạ 箭:tiễn 颗:khỏa
 项:hạng 限:hạn 固:cố 浮:phù
 欠:khiếm 控:khống 蓬:bồng 督:đốc
+简:giản 称:xưng 型:hình 领:lĩnh 域:vực 键:kiện 例:lệ 轩:hiên
 """
 
 # Từ ghép có âm khác cách ghép từng chữ
@@ -45,5 +46,6 @@ WORD_EXT = {
     '分行': 'phân hàng',        # 行 = ngân hàng
     '参与': 'tham dự',
     '交易额': 'giao dịch ngạch', # 易 trong 交易 đọc "dịch", không phải "dị"
+    '交易所': 'giao dịch sở',   # 易 trong 交易 đọc "dịch", không phải "dị"
     '用处': 'dụng xứ',          # 处 = chỗ, chốn, đọc "xứ"          # 与 trong 参与 đọc "dự" (thanh 4), không phải "dữ"
 }

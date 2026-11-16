@@ -1,0 +1,1897 @@
+{
+ "date": "2026-11-16",
+ "id": "N-20261116",
+ "names": {
+  "北京证券交易所": {
+   "w": "北京证券交易所",
+   "p": "Běijīng Zhèngquàn Jiāoyìsuǒ",
+   "hv": "Bắc Kinh Chứng Khoán Giao Dịch Sở",
+   "note": "Sở Giao dịch Chứng khoán Bắc Kinh (BSE) — khai trương 15/11/2021, phục vụ doanh nghiệp vừa và nhỏ có tính đổi mới"
+  },
+  "北交所": {
+   "w": "北交所",
+   "p": "Běijiāosuǒ",
+   "hv": "Bắc Giao Sở",
+   "note": "Tên gọi tắt của 北京证券交易所 — Sở Giao dịch Chứng khoán Bắc Kinh"
+  },
+  "田轩": {
+   "w": "田轩",
+   "p": "Tián Xuān",
+   "hv": "Điền Hiên",
+   "note": "Viện trưởng Học viện Quản lý Quang Hoa, giáo sư Đại học Bắc Kinh"
+  }
+ },
+ "dict": {
+  "交易所": {
+   "w": "交易所",
+   "p": "jiāoyìsuǒ",
+   "hv": "giao dịch sở",
+   "pos": "名",
+   "en": "exchange (stock exchange)",
+   "vn": "sở giao dịch (chứng khoán)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261116"
+   ]
+  },
+  "简称": {
+   "w": "简称",
+   "p": "jiǎnchēng",
+   "hv": "giản xưng",
+   "pos": "动/名",
+   "en": "to be called for short; abbreviation",
+   "vn": "gọi tắt là; tên gọi tắt",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261116"
+   ]
+  },
+  "创新型": {
+   "w": "创新型",
+   "p": "chuàngxīnxíng",
+   "hv": "sáng tân hình",
+   "pos": "形",
+   "en": "innovative, innovation-driven (创新 = to innovate)",
+   "vn": "kiểu đổi mới, có tính sáng tạo (创新 = đổi mới, sáng tạo); 创新型企业 = doanh nghiệp đổi mới",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261116"
+   ]
+  },
+  "领域": {
+   "w": "领域",
+   "p": "lǐngyù",
+   "hv": "lĩnh vực",
+   "pos": "名",
+   "en": "field, sector, domain",
+   "vn": "lĩnh vực",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261116"
+   ]
+  },
+  "采访": {
+   "w": "采访",
+   "p": "cǎifǎng",
+   "hv": "thái phỏng",
+   "pos": "动",
+   "en": "to interview (as a reporter)",
+   "vn": "phỏng vấn (lấy tin)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261116"
+   ]
+  },
+  "券商": {
+   "w": "券商",
+   "p": "quànshāng",
+   "hv": "khoán thương",
+   "pos": "名",
+   "en": "securities firm, brokerage",
+   "vn": "công ty chứng khoán",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261116"
+   ]
+  },
+  "关键": {
+   "w": "关键",
+   "p": "guānjiàn",
+   "hv": "quan kiện",
+   "pos": "名/形",
+   "en": "key, crux; crucial",
+   "vn": "điểm then chốt; then chốt",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261116"
+   ]
+  },
+  "流动性": {
+   "w": "流动性",
+   "p": "liúdòngxìng",
+   "hv": "lưu động tính",
+   "pos": "名",
+   "en": "liquidity",
+   "vn": "thanh khoản",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261116"
+   ]
+  },
+  "比例": {
+   "w": "比例",
+   "p": "bǐlì",
+   "hv": "tỉ lệ",
+   "pos": "名",
+   "en": "proportion, ratio",
+   "vn": "tỉ lệ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261116"
+   ]
+  },
+  "精": {
+   "w": "精",
+   "p": "jīng",
+   "hv": "tinh",
+   "pos": "形",
+   "en": "refined, select, of high quality",
+   "vn": "tinh, tinh gọn mà chất lượng; 小而精 = nhỏ mà tinh",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261116"
+   ]
+  },
+  "专": {
+   "w": "专",
+   "p": "zhuān",
+   "hv": "chuyên",
+   "pos": "形",
+   "en": "specialised, focused",
+   "vn": "chuyên, chuyên sâu; 专而强 = chuyên mà mạnh",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261116"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "第一财经",
+   "author": "周楠",
+   "title": "北交所开市五周年，专精特新中小企业加速进场",
+   "date": "2026-11-15",
+   "url": "https://www.yicai.com/news/103441042.html",
+   "accessed": "2026-11-16"
+  },
+  {
+   "role": "secondary",
+   "outlet": "21经济网",
+   "author": "",
+   "title": "券商投行一线亲历北交所五年",
+   "date": "2026-11-15",
+   "url": "https://www.21jingji.com/article/20261115/herald/1cd0d4450514725df327bcb39b25badb.html",
+   "accessed": "2026-11-16"
+  }
+ ],
+ "draft": {
+  "title": "北交所五岁了",
+  "vn": "Sàn chứng khoán Bắc Kinh tròn năm tuổi",
+  "en": "The Beijing Stock Exchange turns five",
+  "paras": [
+   "11月15日，北京证券交易所（简称北交所）开市满五年。这是一家专门为创新型中小企业服务的交易所。",
+   "五年里，它长大了不少。据第一财经报道，到11月13日，在北交所上市的公司有355家，开市的时候只有81家；市值超过7500亿元，开市的时候还不到3000亿元。每天的交易额，也从不到10亿元增加到今年以来的近200亿元。",
+   "更重要的是，上市的是什么样的公司。现在北交所的公司里，专精特新“小巨人”企业超过六成，高新技术企业超过九成。五年来，中小企业通过这个市场一共融资近900亿元，这些钱超过八成用在了数字经济、新材料等领域。",
+   "企业的想法也变了。也有记者采访了几家券商。他们说，以前不少企业是在上海、深圳上不了市，才来北交所。现在越来越多的企业主动把它当成第一选择。",
+   "不过问题还在。北京大学教授田轩认为，北交所已经“建起来”了，下一步的关键是提高流动性和长期资金的比例。他还说，北交所不需要跟上海、深圳的交易所比大小。它应该成为一家“小而精、专而强”的交易所。",
+   "对小企业来说，银行贷款不是唯一的路。公司有技术、账清楚，也可以到市场上找投资者要钱。"
+  ],
+  "points": [
+   {
+    "h": "I. 从A增加到B — tăng từ A lên B",
+    "b": [
+     "Cách dùng:",
+     "从 + mức cũ + 增加到 + mức mới: nêu hai đầu của một sự thay đổi về số lượng. Muốn nói giảm thì đổi 增加 thành 下降 (从A下降到B).",
+     "每天的交易额，也从不到10亿元增加到今年以来的近200亿元。",
+     "Měi tiān de jiāoyì'é, yě cóng bú dào shí yì yuán zēngjiā dào jīnnián yǐlái de jìn èrbǎi yì yuán.",
+     "Giá trị giao dịch mỗi ngày cũng tăng từ chưa tới 1 tỉ tệ lên gần 20 tỉ tệ tính từ đầu năm nay."
+    ]
+   },
+   {
+    "h": "II. 把A当成B — coi A là B",
+    "b": [
+     "Cách dùng:",
+     "把 + A + 当成 + B: xem A như là B, đối xử với A như B. B là vai trò hay cách nhìn mà người nói gán cho A.",
+     "现在越来越多的企业主动把它当成第一选择。",
+     "Xiànzài yuè lái yuè duō de qǐyè zhǔdòng bǎ tā dàngchéng dì-yī xuǎnzé.",
+     "Bây giờ ngày càng nhiều doanh nghiệp chủ động coi nó là lựa chọn số một."
+    ]
+   },
+   {
+    "h": "III. A而B — A mà (lại) B",
+    "b": [
+     "Cách dùng:",
+     "Tính từ đơn âm + 而 + tính từ đơn âm: nối hai phẩm chất cùng có ở một đối tượng, kiểu văn viết cô đọng, hay gặp trong khẩu hiệu và lời bình (小而美, 少而精).",
+     "它应该成为一家“小而精、专而强”的交易所。",
+     "Tā yīnggāi chéngwéi yì jiā “xiǎo ér jīng, zhuān ér qiáng” de jiāoyìsuǒ.",
+     "Nó nên trở thành một sở giao dịch “nhỏ mà tinh, chuyên mà mạnh”."
+    ]
+   }
+  ]
+ },
+ "lesson": {
+  "id": "N-20261116",
+  "book": 4,
+  "no": 34,
+  "date": "2026-11-16",
+  "seq": 76,
+  "title": "北交所五岁了",
+  "py": "běijiāosuǒwǔsuìle",
+  "en": "The Beijing Stock Exchange turns five",
+  "vn": "Sàn chứng khoán Bắc Kinh tròn năm tuổi",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "11",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "15",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "北京证券交易所",
+        "p": "Běijīng Zhèngquàn Jiāoyìsuǒ",
+        "k": "name"
+       },
+       {
+        "w": "（",
+        "k": "punct"
+       },
+       {
+        "w": "简称",
+        "p": "jiǎnchēng",
+        "k": "core"
+       },
+       {
+        "w": "北交所",
+        "p": "Běijiāosuǒ",
+        "k": "name"
+       },
+       {
+        "w": "）",
+        "k": "punct"
+       },
+       {
+        "w": "开",
+        "p": "kāi",
+        "k": "extra"
+       },
+       {
+        "w": "市",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "满",
+        "p": "mǎn",
+        "k": "extra"
+       },
+       {
+        "w": "五",
+        "p": "wǔ",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "专门",
+        "p": "zhuānmén",
+        "k": "extra"
+       },
+       {
+        "w": "为",
+        "p": "wèi",
+        "k": "extra"
+       },
+       {
+        "w": "创新型",
+        "p": "chuàngxīnxíng",
+        "k": "core"
+       },
+       {
+        "w": "中",
+        "p": "zhōng",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "服务",
+        "p": "fúwù",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "交易所",
+        "p": "jiāoyìsuǒ",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "五",
+        "p": "wǔ",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "长大",
+        "p": "zhǎngdà",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "第一财经",
+        "p": "Dìyī Cáijīng",
+        "k": "name"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "11",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "13",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "北交所",
+        "p": "Běijiāosuǒ",
+        "k": "name"
+       },
+       {
+        "w": "上市",
+        "p": "shàngshì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "355",
+        "k": "plain"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "开",
+        "p": "kāi",
+        "k": "extra"
+       },
+       {
+        "w": "市",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "时候",
+        "p": "shíhòu",
+        "k": "extra"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "81",
+        "k": "plain"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "市值",
+        "p": "shìzhí",
+        "k": "extra"
+       },
+       {
+        "w": "超过",
+        "p": "chāoguò",
+        "k": "extra"
+       },
+       {
+        "w": "7500",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "开",
+        "p": "kāi",
+        "k": "extra"
+       },
+       {
+        "w": "市",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "时候",
+        "p": "shíhòu",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "3000",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "每",
+        "p": "měi",
+        "k": "extra"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "交易额",
+        "p": "jiāoyì'é",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "增加",
+        "p": "zēngjiā",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "以来",
+        "p": "yǐlái",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "近",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "200",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "重要",
+        "p": "zhòngyào",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "上市",
+        "p": "shàngshì",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "什么样",
+        "p": "shénmeyàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "北交所",
+        "p": "Běijiāosuǒ",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "专精特新",
+        "p": "zhuān jīng tè xīn",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "小巨人",
+        "p": "xiǎo jùrén",
+        "k": "name"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "超过",
+        "p": "chāoguò",
+        "k": "extra"
+       },
+       {
+        "w": "六",
+        "p": "liù",
+        "k": "extra"
+       },
+       {
+        "w": "成",
+        "p": "chéng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "高",
+        "p": "gāo",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "技术",
+        "p": "jìshù",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "超过",
+        "p": "chāoguò",
+        "k": "extra"
+       },
+       {
+        "w": "九",
+        "p": "jiǔ",
+        "k": "extra"
+       },
+       {
+        "w": "成",
+        "p": "chéng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "五",
+        "p": "wǔ",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "中",
+        "p": "zhōng",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "通过",
+        "p": "tōngguò",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "市场",
+        "p": "shìchǎng",
+        "k": "extra"
+       },
+       {
+        "w": "一共",
+        "p": "yígòng",
+        "k": "extra"
+       },
+       {
+        "w": "融资",
+        "p": "róngzī",
+        "k": "extra"
+       },
+       {
+        "w": "近",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "900",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "超过",
+        "p": "chāoguò",
+        "k": "extra"
+       },
+       {
+        "w": "八",
+        "p": "bā",
+        "k": "extra"
+       },
+       {
+        "w": "成",
+        "p": "chéng",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "数字",
+        "p": "shùzì",
+        "k": "extra"
+       },
+       {
+        "w": "经济",
+        "p": "jīngjì",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "材料",
+        "p": "cáiliào",
+        "k": "extra"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "领域",
+        "p": "lǐngyù",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "想法",
+        "p": "xiǎngfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "变",
+        "p": "biàn",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "记者",
+        "p": "jìzhě",
+        "k": "extra"
+       },
+       {
+        "w": "采访",
+        "p": "cǎifǎng",
+        "k": "core"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "几",
+        "p": "jǐ",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "券商",
+        "p": "quànshāng",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "他们",
+        "p": "tāmen",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "以前",
+        "p": "yǐqián",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "上海",
+        "p": "Shànghǎi",
+        "k": "name"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "深圳",
+        "p": "Shēnzhèn",
+        "k": "name"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "市",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "才",
+        "p": "cái",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "北交所",
+        "p": "Běijiāosuǒ",
+        "k": "name"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "越来越",
+        "p": "yuèláiyuè",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "主动",
+        "p": "zhǔdòng",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "当成",
+        "p": "dāngchéng",
+        "k": "extra"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "选择",
+        "p": "xuǎnzé",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "不过",
+        "p": "búguò",
+        "k": "extra"
+       },
+       {
+        "w": "问题",
+        "p": "wèntí",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "北京",
+        "p": "Běijīng",
+        "k": "name"
+       },
+       {
+        "w": "大学",
+        "p": "dàxué",
+        "k": "extra"
+       },
+       {
+        "w": "教授",
+        "p": "jiàoshòu",
+        "k": "extra"
+       },
+       {
+        "w": "田轩",
+        "p": "Tián Xuān",
+        "k": "name"
+       },
+       {
+        "w": "认为",
+        "p": "rènwéi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "北交所",
+        "p": "Běijiāosuǒ",
+        "k": "name"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "建",
+        "p": "jiàn",
+        "k": "extra"
+       },
+       {
+        "w": "起来",
+        "p": "qǐlái",
+        "k": "extra"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "下一步",
+        "p": "xià yí bù",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "关键",
+        "p": "guānjiàn",
+        "k": "core"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "提高",
+        "p": "tígāo",
+        "k": "extra"
+       },
+       {
+        "w": "流动性",
+        "p": "liúdòngxìng",
+        "k": "core"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "长期",
+        "p": "chángqī",
+        "k": "extra"
+       },
+       {
+        "w": "资金",
+        "p": "zījīn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "比例",
+        "p": "bǐlì",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "他",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "北交所",
+        "p": "Běijiāosuǒ",
+        "k": "name"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "需要",
+        "p": "xūyào",
+        "k": "extra"
+       },
+       {
+        "w": "跟",
+        "p": "gēn",
+        "k": "extra"
+       },
+       {
+        "w": "上海",
+        "p": "Shànghǎi",
+        "k": "name"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "深圳",
+        "p": "Shēnzhèn",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "交易所",
+        "p": "jiāoyìsuǒ",
+        "k": "core"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "应该",
+        "p": "yīnggāi",
+        "k": "extra"
+       },
+       {
+        "w": "成为",
+        "p": "chéngwéi",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "而",
+        "p": "ér",
+        "k": "extra"
+       },
+       {
+        "w": "精",
+        "p": "jīng",
+        "k": "core"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "专",
+        "p": "zhuān",
+        "k": "core"
+       },
+       {
+        "w": "而",
+        "p": "ér",
+        "k": "extra"
+       },
+       {
+        "w": "强",
+        "p": "qiáng",
+        "k": "extra"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "交易所",
+        "p": "jiāoyìsuǒ",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "唯一",
+        "p": "wéiyī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "路",
+        "p": "lù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "技术",
+        "p": "jìshù",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "账",
+        "p": "zhàng",
+        "k": "extra"
+       },
+       {
+        "w": "清楚",
+        "p": "qīngchǔ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "可以",
+        "p": "kěyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "市场",
+        "p": "shìchǎng",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "找",
+        "p": "zhǎo",
+        "k": "extra"
+       },
+       {
+        "w": "投资者",
+        "p": "tóuzīzhě",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 从A增加到B — tăng từ A lên B",
+    "b": [
+     "Cách dùng:",
+     "从 + mức cũ + 增加到 + mức mới: nêu hai đầu của một sự thay đổi về số lượng. Muốn nói giảm thì đổi 增加 thành 下降 (从A下降到B).",
+     "每天的交易额，也从不到10亿元增加到今年以来的近200亿元。",
+     "Měi tiān de jiāoyì'é, yě cóng bú dào shí yì yuán zēngjiā dào jīnnián yǐlái de jìn èrbǎi yì yuán.",
+     "Giá trị giao dịch mỗi ngày cũng tăng từ chưa tới 1 tỉ tệ lên gần 20 tỉ tệ tính từ đầu năm nay."
+    ]
+   },
+   {
+    "h": "II. 把A当成B — coi A là B",
+    "b": [
+     "Cách dùng:",
+     "把 + A + 当成 + B: xem A như là B, đối xử với A như B. B là vai trò hay cách nhìn mà người nói gán cho A.",
+     "现在越来越多的企业主动把它当成第一选择。",
+     "Xiànzài yuè lái yuè duō de qǐyè zhǔdòng bǎ tā dàngchéng dì-yī xuǎnzé.",
+     "Bây giờ ngày càng nhiều doanh nghiệp chủ động coi nó là lựa chọn số một."
+    ]
+   },
+   {
+    "h": "III. A而B — A mà (lại) B",
+    "b": [
+     "Cách dùng:",
+     "Tính từ đơn âm + 而 + tính từ đơn âm: nối hai phẩm chất cùng có ở một đối tượng, kiểu văn viết cô đọng, hay gặp trong khẩu hiệu và lời bình (小而美, 少而精).",
+     "它应该成为一家“小而精、专而强”的交易所。",
+     "Tā yīnggāi chéngwéi yì jiā “xiǎo ér jīng, zhuān ér qiáng” de jiāoyìsuǒ.",
+     "Nó nên trở thành một sở giao dịch “nhỏ mà tinh, chuyên mà mạnh”."
+    ]
+   }
+  ],
+  "vocab": [
+   "交易所",
+   "简称",
+   "创新型",
+   "领域",
+   "采访",
+   "券商",
+   "关键",
+   "流动性",
+   "比例",
+   "精",
+   "专"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "第一财经",
+    "author": "周楠",
+    "title": "北交所开市五周年，专精特新中小企业加速进场",
+    "date": "2026-11-15",
+    "url": "https://www.yicai.com/news/103441042.html",
+    "accessed": "2026-11-16"
+   },
+   {
+    "role": "secondary",
+    "outlet": "21经济网",
+    "author": "",
+    "title": "券商投行一线亲历北交所五年",
+    "date": "2026-11-15",
+    "url": "https://www.21jingji.com/article/20261115/herald/1cd0d4450514725df327bcb39b25badb.html",
+    "accessed": "2026-11-16"
+   }
+  ]
+ }
+}
