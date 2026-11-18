@@ -34,6 +34,7 @@ CHARS_EXT = """
 项:hạng 限:hạn 固:cố 浮:phù
 欠:khiếm 控:khống 蓬:bồng 督:đốc
 简:giản 称:xưng 型:hình 领:lĩnh 域:vực 键:kiện 例:lệ 轩:hiên
+聪:thông 曲:khúc 赫:hách
 """
 
 # Từ ghép có âm khác cách ghép từng chữ

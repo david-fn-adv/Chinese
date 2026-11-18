@@ -1,0 +1,2129 @@
+{
+ "date": "2026-11-19",
+ "id": "N-20261119",
+ "draft": {
+  "title": "理想的芯片，想卖给机器人",
+  "vn": "Chip của Li Auto muốn bán cho robot",
+  "en": "Li Auto wants to sell its chip to robot makers",
+  "paras": [
+   "11月17日，理想汽车的CEO李想在网上发文说，最近有不少机器人企业来问，能不能买理想自己做的芯片马赫M100。李想说，理想会一步一步地把这颗芯片卖给别的公司。",
+   "马赫M100是一颗车用芯片，一颗芯片的算力是1280TOPS。今年理想的好几款新车都已经用上了它，帮汽车看清楚路上的情况，也帮司机开车。",
+   "为什么做机器人的公司会对汽车的芯片有兴趣？因为聪明的汽车和机器人要做的事情差不多：都要看清楚周围的环境，很快地想好下一步，马上做出反应，而且不能太费电。",
+   "理想已经开始为芯片业务找钱了。10月，理想的芯片公司上海马赫心科技签了第一轮融资，一共16.25亿元。其中，外部投资者出6.25亿元，另外10亿元是理想自己出的。融资以后，理想还控制着这家公司。理想希望芯片能成为公司的“第二增长曲线”。",
+   "不过，来问一问，不等于下了订单。把芯片卖给别的公司，跟自己用很不一样：要给客户准备开发工具和技术文件，要帮客户把芯片用在他们的产品上，还要长期供货。这些都要花钱。到现在，理想还没有公布客户是谁、要卖多少、什么时候交货。",
+   "接下来，要看三件事：第一，来问的企业会不会真的买；第二，这颗芯片能不能用在汽车以外的地方；第三，新的收入够不够付继续研发和服务客户的钱。"
+  ],
+  "points": [
+   {
+    "h": "I. 不等于 — không có nghĩa là, không bằng",
+    "b": [
+     "Cách dùng:",
+     "A + 不等于 + B: A chưa phải là B, đừng đánh đồng hai việc. Hay gặp trong bình luận kinh tế: 有兴趣不等于有订单.",
+     "不过，来问一问，不等于下了订单。",
+     "Búguò, lái wèn yi wèn, bù děngyú xià le dìngdān.",
+     "Nhưng đến hỏi một chút không có nghĩa là đã đặt đơn hàng."
+    ]
+   },
+   {
+    "h": "II. 其中，A…，另外B… — trong đó, A…, phần còn lại B…",
+    "b": [
+     "Cách dùng:",
+     "Nêu tổng trước, rồi 其中 chia ra từng phần; 另外 dẫn phần còn lại. Cấu trúc chuẩn khi đọc tin về một vòng gọi vốn hay một khoản chi.",
+     "其中，外部投资者出6.25亿元，另外10亿元是理想自己出的。",
+     "Qízhōng, wàibù tóuzīzhě chū liù diǎn èr wǔ yì yuán, lìngwài shí yì yuán shì Lǐxiǎng zìjǐ chū de.",
+     "Trong đó, nhà đầu tư bên ngoài góp 625 triệu NDT, 1 tỷ NDT còn lại do Li Auto tự góp."
+    ]
+   },
+   {
+    "h": "III. 够不够 + V — có đủ để … hay không",
+    "b": [
+     "Cách dùng:",
+     "够不够 + động từ/cụm động từ: hỏi một nguồn lực có đủ cho việc gì không. Dạng 不A不 hỏi chính phản, dùng được cả trong câu trần thuật.",
+     "第三，新的收入够不够付继续研发和服务客户的钱。",
+     "Dì sān, xīn de shōurù gòu bu gòu fù jìxù yánfā hé fúwù kèhù de qián.",
+     "Thứ ba, doanh thu mới có đủ trả tiền tiếp tục nghiên cứu phát triển và phục vụ khách hàng hay không."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "理想汽车": {
+   "w": "理想汽车",
+   "p": "Lǐxiǎng Qìchē",
+   "hv": "Lý Tưởng Khí Xa",
+   "note": "Li Auto — hãng xe điện thông minh Trung Quốc"
+  },
+  "理想": {
+   "w": "理想",
+   "p": "Lǐxiǎng",
+   "hv": "Lý Tưởng",
+   "note": "gọi tắt của 理想汽车 (Li Auto); ở bài này là tên công ty, không phải nghĩa “lý tưởng”"
+  },
+  "李想": {
+   "w": "李想",
+   "p": "Lǐ Xiǎng",
+   "hv": "Lý Tưởng",
+   "note": "Li Xiang — nhà sáng lập, chủ tịch kiêm CEO của Li Auto"
+  },
+  "马赫": {
+   "w": "马赫",
+   "p": "Mǎhè",
+   "hv": "Mã Hách",
+   "note": "Mach — tên dòng chip tự phát triển của Li Auto; 马赫M100 là chip hỗ trợ lái đầu tiên được sản xuất hàng loạt"
+  },
+  "马赫心科技": {
+   "w": "马赫心科技",
+   "p": "Mǎhèxīn Kējì",
+   "hv": "Mã Hách Tâm Khoa Kỹ",
+   "note": "上海马赫心科技有限公司 — công ty con của Li Auto phụ trách chip và bộ điều khiển miền (domain controller)"
+  }
+ },
+ "dict": {
+  "款": {
+   "w": "款",
+   "p": "kuǎn",
+   "hv": "khoản",
+   "pos": "名/量",
+   "en": "model, style (of a product); measure word for models",
+   "vn": "mẫu, kiểu (sản phẩm); lượng từ cho mẫu mã: 一款新车 = một mẫu xe mới",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261119"
+   ]
+  },
+  "聪明": {
+   "w": "聪明",
+   "p": "cōngmíng",
+   "hv": "thông minh",
+   "pos": "形",
+   "en": "clever, smart",
+   "vn": "thông minh",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261119"
+   ]
+  },
+  "周围": {
+   "w": "周围",
+   "p": "zhōuwéi",
+   "hv": "chu vi",
+   "pos": "名",
+   "en": "surroundings, around",
+   "vn": "xung quanh, chung quanh",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261119"
+   ]
+  },
+  "反应": {
+   "w": "反应",
+   "p": "fǎnyìng",
+   "hv": "phản ứng",
+   "pos": "名/动",
+   "en": "reaction; to react",
+   "vn": "phản ứng; 做出反应 = đưa ra phản ứng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261119"
+   ]
+  },
+  "费": {
+   "w": "费",
+   "p": "fèi",
+   "hv": "phí",
+   "pos": "动/名",
+   "en": "to use up, cost (a lot of); fee",
+   "vn": "tốn, hao (費電 = tốn điện); phí",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261119"
+   ]
+  },
+  "控制": {
+   "w": "控制",
+   "p": "kòngzhì",
+   "hv": "khống chế",
+   "pos": "动",
+   "en": "to control",
+   "vn": "khống chế, kiểm soát; 控制公司 = nắm quyền kiểm soát công ty",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261119"
+   ]
+  },
+  "曲线": {
+   "w": "曲线",
+   "p": "qūxiàn",
+   "hv": "khúc tuyến",
+   "pos": "名",
+   "en": "curve",
+   "vn": "đường cong; 第二增长曲线 = đường cong tăng trưởng thứ hai (mảng kinh doanh mới)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261119"
+   ]
+  },
+  "等于": {
+   "w": "等于",
+   "p": "děngyú",
+   "hv": "đẳng vu",
+   "pos": "动",
+   "en": "to equal, amount to",
+   "vn": "bằng; 不等于 = không có nghĩa là",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261119"
+   ]
+  },
+  "供货": {
+   "w": "供货",
+   "p": "gōnghuò",
+   "hv": "cung hóa",
+   "pos": "动",
+   "en": "to supply goods",
+   "vn": "cung cấp hàng, giao hàng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261119"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "36氪（转载每日经济新闻·NBD汽车）",
+   "author": "孙磊",
+   "title": "李想表态马赫M100将逐步开放外供，已有机器人企业问询，理想芯片业务寻找新市场",
+   "date": "2026-11-18",
+   "url": "https://36kr.com/p/4075207322440578",
+   "accessed": "2026-11-19"
+  },
+  {
+   "role": "secondary",
+   "outlet": "红星新闻（新浪科技转载）",
+   "author": "吴丹若",
+   "title": "理想汽车芯片子公司首轮16.25亿元融资签约，最大投后估值171亿元",
+   "date": "2026-10-16",
+   "url": "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivmprm8408791.shtml",
+   "accessed": "2026-11-19"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261119",
+  "book": 4,
+  "no": 36,
+  "date": "2026-11-19",
+  "seq": 78,
+  "title": "理想的芯片，想卖给机器人",
+  "py": "lǐxiǎngdexīnpiàn，xiǎngmàigěijīqìrén",
+  "en": "Li Auto wants to sell its chip to robot makers",
+  "vn": "Chip của Li Auto muốn bán cho robot",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "11",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "17",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "理想汽车",
+        "p": "Lǐxiǎng Qìchē",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "CEO",
+        "k": "plain"
+       },
+       {
+        "w": "李想",
+        "p": "Lǐ Xiǎng",
+        "k": "name"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "网上",
+        "p": "wǎngshàng",
+        "k": "extra"
+       },
+       {
+        "w": "发",
+        "p": "fā",
+        "k": "extra"
+       },
+       {
+        "w": "文",
+        "p": "wén",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "最近",
+        "p": "zuìjìn",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "机器人",
+        "p": "jīqìrén",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "问",
+        "p": "wèn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "买",
+        "p": "mǎi",
+        "k": "extra"
+       },
+       {
+        "w": "理想",
+        "p": "Lǐxiǎng",
+        "k": "name"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "马赫",
+        "p": "Mǎhè",
+        "k": "name"
+       },
+       {
+        "w": "M100",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "李想",
+        "p": "Lǐ Xiǎng",
+        "k": "name"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "理想",
+        "p": "Lǐxiǎng",
+        "k": "name"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "步",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "步",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "地",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "颗",
+        "p": "kē",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "别的",
+        "p": "biéde",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "马赫",
+        "p": "Mǎhè",
+        "k": "name"
+       },
+       {
+        "w": "M100",
+        "k": "plain"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "颗",
+        "p": "kē",
+        "k": "extra"
+       },
+       {
+        "w": "车",
+        "p": "chē",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "颗",
+        "p": "kē",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "算力",
+        "p": "suànlì",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "1280TOPS",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "理想",
+        "p": "Lǐxiǎng",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "好",
+        "p": "hǎo",
+        "k": "extra"
+       },
+       {
+        "w": "几",
+        "p": "jǐ",
+        "k": "extra"
+       },
+       {
+        "w": "款",
+        "p": "kuǎn",
+        "k": "core"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "车",
+        "p": "chē",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "帮",
+        "p": "bāng",
+        "k": "extra"
+       },
+       {
+        "w": "汽车",
+        "p": "qìchē",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "清楚",
+        "p": "qīngchǔ",
+        "k": "extra"
+       },
+       {
+        "w": "路上",
+        "p": "lùshàng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "情况",
+        "p": "qíngkuàng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "帮",
+        "p": "bāng",
+        "k": "extra"
+       },
+       {
+        "w": "司机",
+        "p": "sījī",
+        "k": "extra"
+       },
+       {
+        "w": "开",
+        "p": "kāi",
+        "k": "extra"
+       },
+       {
+        "w": "车",
+        "p": "chē",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "为什么",
+        "p": "wèishénme",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "机器人",
+        "p": "jīqìrén",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "汽车",
+        "p": "qìchē",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "兴趣",
+        "p": "xìngqù",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "因为",
+        "p": "yīnwèi",
+        "k": "extra"
+       },
+       {
+        "w": "聪明",
+        "p": "cōngmíng",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "汽车",
+        "p": "qìchē",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "机器人",
+        "p": "jīqìrén",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "事情",
+        "p": "shìqíng",
+        "k": "extra"
+       },
+       {
+        "w": "差不多",
+        "p": "chābùduō",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "清楚",
+        "p": "qīngchǔ",
+        "k": "extra"
+       },
+       {
+        "w": "周围",
+        "p": "zhōuwéi",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "环境",
+        "p": "huánjìng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "快",
+        "p": "kuài",
+        "k": "extra"
+       },
+       {
+        "w": "地",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "想",
+        "p": "xiǎng",
+        "k": "extra"
+       },
+       {
+        "w": "好",
+        "p": "hǎo",
+        "k": "extra"
+       },
+       {
+        "w": "下一步",
+        "p": "xià yí bù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "马上",
+        "p": "mǎshàng",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "出",
+        "p": "chū",
+        "k": "extra"
+       },
+       {
+        "w": "反应",
+        "p": "fǎnyìng",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "而且",
+        "p": "érqiě",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "太",
+        "p": "tài",
+        "k": "extra"
+       },
+       {
+        "w": "费",
+        "p": "fèi",
+        "k": "core"
+       },
+       {
+        "w": "电",
+        "p": "diàn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "理想",
+        "p": "Lǐxiǎng",
+        "k": "name"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "开始",
+        "p": "kāishǐ",
+        "k": "extra"
+       },
+       {
+        "w": "为",
+        "p": "wèi",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "业务",
+        "p": "yèwù",
+        "k": "extra"
+       },
+       {
+        "w": "找",
+        "p": "zhǎo",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "理想",
+        "p": "Lǐxiǎng",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "上海",
+        "p": "Shànghǎi",
+        "k": "name"
+       },
+       {
+        "w": "马赫心科技",
+        "p": "Mǎhèxīn Kējì",
+        "k": "name"
+       },
+       {
+        "w": "签",
+        "p": "qiān",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "轮",
+        "p": "lún",
+        "k": "extra"
+       },
+       {
+        "w": "融资",
+        "p": "róngzī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "一共",
+        "p": "yígòng",
+        "k": "extra"
+       },
+       {
+        "w": "16",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "25",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "其中",
+        "p": "qízhōng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "外",
+        "p": "wài",
+        "k": "extra"
+       },
+       {
+        "w": "部",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "投资者",
+        "p": "tóuzīzhě",
+        "k": "extra"
+       },
+       {
+        "w": "出",
+        "p": "chū",
+        "k": "extra"
+       },
+       {
+        "w": "6",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "25",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "另外",
+        "p": "lìngwài",
+        "k": "extra"
+       },
+       {
+        "w": "10",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "理想",
+        "p": "Lǐxiǎng",
+        "k": "name"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "出",
+        "p": "chū",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "融资",
+        "p": "róngzī",
+        "k": "extra"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "理想",
+        "p": "Lǐxiǎng",
+        "k": "name"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "控制",
+        "p": "kòngzhì",
+        "k": "core"
+       },
+       {
+        "w": "着",
+        "p": "zhe",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "理想",
+        "p": "Lǐxiǎng",
+        "k": "name"
+       },
+       {
+        "w": "希望",
+        "p": "xīwàng",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "成为",
+        "p": "chéngwéi",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "二",
+        "p": "èr",
+        "k": "extra"
+       },
+       {
+        "w": "增长",
+        "p": "zēngzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "曲线",
+        "p": "qūxiàn",
+        "k": "core"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "不过",
+        "p": "búguò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "问",
+        "p": "wèn",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "问",
+        "p": "wèn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "等于",
+        "p": "děngyú",
+        "k": "core"
+       },
+       {
+        "w": "下",
+        "p": "xià",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "订单",
+        "p": "dìngdān",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "别的",
+        "p": "biéde",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "跟",
+        "p": "gēn",
+        "k": "extra"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "一样",
+        "p": "yíyàng",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "客户",
+        "p": "kèhù",
+        "k": "extra"
+       },
+       {
+        "w": "准备",
+        "p": "zhǔnbèi",
+        "k": "extra"
+       },
+       {
+        "w": "开",
+        "p": "kāi",
+        "k": "extra"
+       },
+       {
+        "w": "发",
+        "p": "fā",
+        "k": "extra"
+       },
+       {
+        "w": "工具",
+        "p": "gōngjù",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "技术",
+        "p": "jìshù",
+        "k": "extra"
+       },
+       {
+        "w": "文",
+        "p": "wén",
+        "k": "extra"
+       },
+       {
+        "w": "件",
+        "p": "jiàn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "帮",
+        "p": "bāng",
+        "k": "extra"
+       },
+       {
+        "w": "客户",
+        "p": "kèhù",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "他们",
+        "p": "tāmen",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "产品",
+        "p": "chǎnpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "长期",
+        "p": "chángqī",
+        "k": "extra"
+       },
+       {
+        "w": "供货",
+        "p": "gōnghuò",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "花",
+        "p": "huā",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "理想",
+        "p": "Lǐxiǎng",
+        "k": "name"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "公布",
+        "p": "gōngbù",
+        "k": "extra"
+       },
+       {
+        "w": "客户",
+        "p": "kèhù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "谁",
+        "p": "shéi",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "什么",
+        "p": "shénme",
+        "k": "extra"
+       },
+       {
+        "w": "时候",
+        "p": "shíhòu",
+        "k": "extra"
+       },
+       {
+        "w": "交",
+        "p": "jiāo",
+        "k": "extra"
+       },
+       {
+        "w": "货",
+        "p": "huò",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "接",
+        "p": "jiē",
+        "k": "extra"
+       },
+       {
+        "w": "下",
+        "p": "xià",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "件",
+        "p": "jiàn",
+        "k": "extra"
+       },
+       {
+        "w": "事",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "问",
+        "p": "wèn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "真的",
+        "p": "zhēn de",
+        "k": "extra"
+       },
+       {
+        "w": "买",
+        "p": "mǎi",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "二",
+        "p": "èr",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "颗",
+        "p": "kē",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "汽车",
+        "p": "qìchē",
+        "k": "extra"
+       },
+       {
+        "w": "以外",
+        "p": "yǐwài",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "地方",
+        "p": "dìfāng",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "收入",
+        "p": "shōurù",
+        "k": "extra"
+       },
+       {
+        "w": "够",
+        "p": "gòu",
+        "k": "extra"
+       },
+       {
+        "w": "不够",
+        "p": "bú gòu",
+        "k": "extra"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "继续",
+        "p": "jìxù",
+        "k": "extra"
+       },
+       {
+        "w": "研发",
+        "p": "yánfā",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "服务",
+        "p": "fúwù",
+        "k": "extra"
+       },
+       {
+        "w": "客户",
+        "p": "kèhù",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 不等于 — không có nghĩa là, không bằng",
+    "b": [
+     "Cách dùng:",
+     "A + 不等于 + B: A chưa phải là B, đừng đánh đồng hai việc. Hay gặp trong bình luận kinh tế: 有兴趣不等于有订单.",
+     "不过，来问一问，不等于下了订单。",
+     "Búguò, lái wèn yi wèn, bù děngyú xià le dìngdān.",
+     "Nhưng đến hỏi một chút không có nghĩa là đã đặt đơn hàng."
+    ]
+   },
+   {
+    "h": "II. 其中，A…，另外B… — trong đó, A…, phần còn lại B…",
+    "b": [
+     "Cách dùng:",
+     "Nêu tổng trước, rồi 其中 chia ra từng phần; 另外 dẫn phần còn lại. Cấu trúc chuẩn khi đọc tin về một vòng gọi vốn hay một khoản chi.",
+     "其中，外部投资者出6.25亿元，另外10亿元是理想自己出的。",
+     "Qízhōng, wàibù tóuzīzhě chū liù diǎn èr wǔ yì yuán, lìngwài shí yì yuán shì Lǐxiǎng zìjǐ chū de.",
+     "Trong đó, nhà đầu tư bên ngoài góp 625 triệu NDT, 1 tỷ NDT còn lại do Li Auto tự góp."
+    ]
+   },
+   {
+    "h": "III. 够不够 + V — có đủ để … hay không",
+    "b": [
+     "Cách dùng:",
+     "够不够 + động từ/cụm động từ: hỏi một nguồn lực có đủ cho việc gì không. Dạng 不A不 hỏi chính phản, dùng được cả trong câu trần thuật.",
+     "第三，新的收入够不够付继续研发和服务客户的钱。",
+     "Dì sān, xīn de shōurù gòu bu gòu fù jìxù yánfā hé fúwù kèhù de qián.",
+     "Thứ ba, doanh thu mới có đủ trả tiền tiếp tục nghiên cứu phát triển và phục vụ khách hàng hay không."
+    ]
+   }
+  ],
+  "vocab": [
+   "款",
+   "聪明",
+   "周围",
+   "反应",
+   "费",
+   "控制",
+   "曲线",
+   "等于",
+   "供货"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "36氪（转载每日经济新闻·NBD汽车）",
+    "author": "孙磊",
+    "title": "李想表态马赫M100将逐步开放外供，已有机器人企业问询，理想芯片业务寻找新市场",
+    "date": "2026-11-18",
+    "url": "https://36kr.com/p/4075207322440578",
+    "accessed": "2026-11-19"
+   },
+   {
+    "role": "secondary",
+    "outlet": "红星新闻（新浪科技转载）",
+    "author": "吴丹若",
+    "title": "理想汽车芯片子公司首轮16.25亿元融资签约，最大投后估值171亿元",
+    "date": "2026-10-16",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-10-16/doc-inivmprm8408791.shtml",
+    "accessed": "2026-11-19"
+   }
+  ]
+ }
+}
