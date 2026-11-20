@@ -1,0 +1,2281 @@
+{
+ "date": "2026-11-20",
+ "id": "N-20261120",
+ "draft": {
+  "title": "存储贵了，相机也贵了",
+  "vn": "Chip nhớ đắt lên, máy quay cũng đắt theo",
+  "en": "Memory gets pricier, so do cameras",
+  "paras": [
+   "11月18日起，大疆把三款相机的价格提高了：Osmo Pocket 4、Osmo Pocket 4P和Osmo Nano。涨得最多的是Osmo Pocket 4P的Vlog套装，从4299元涨到4859元，一下子贵了560元。11月13日，大疆就已经通知了消费者，说原因是全球芯片、存储等零部件的成本一直在大幅上涨。",
+   "跟着大疆的，可能是另一家中国相机公司影石。11月20日，影石北京几家门店的店员说，公司内部已经告诉他们，Luna的两款相机可能很快要涨价。上海也有店员说，Luna会在12月15日涨价300元左右。不过，到现在影石还没有正式宣布。现在Luna Ultra的原价是3999元。",
+   "为什么涨价的是这些产品？因为它们都是小小的、可以带着到处拍视频的相机，里面要放不少存储。所以，存储一涨价，它们的成本马上就上去了。",
+   "那么，存储为什么涨价？做存储芯片的公司现在先把货卖给AI数据中心，因为那边的订单又大又多。留给手机、相机这些消费电子产品的就少了，价格也就高了。",
+   "涨价的不只是大疆。今年6月，苹果把MacBook和iPad的价格提高了，有的最多涨了25%。中国的小米、OPPO、vivo、荣耀，最好的手机也比上一款贵了300元到1000元。11月，全球最大的相机公司佳能也说，明年可能会涨价，用来抵消买零部件多花的钱。",
+   "对消费者来说，这说明了一件事：上游的成本涨了，做产品的公司很难自己付这笔钱，最后很大一部分要由买东西的人来付。接下来要看的是，存储的价格什么时候才会停下来。"
+  ],
+  "points": [
+   {
+    "h": "I. 从A涨到B — tăng từ A lên B",
+    "b": [
+     "Cách dùng:",
+     "从 + mức cũ + 涨到 + mức mới: nêu giá/chỉ số trước và sau khi tăng; thường đi kèm 贵了/涨了 + mức chênh. Đổi 涨 thành 降/跌 khi giảm.",
+     "涨得最多的是Osmo Pocket 4P的Vlog套装，从4299元涨到4859元，一下子贵了560元。",
+     "Zhǎng de zuì duō de shì Osmo Pocket 4P de Vlog tàozhuāng, cóng sìqiān èrbǎi jiǔshíjiǔ yuán zhǎng dào sìqiān bābǎi wǔshíjiǔ yuán, yíxiàzi guì le wǔbǎi liùshí yuán.",
+     "Tăng nhiều nhất là bộ Vlog của Osmo Pocket 4P, từ 4.299 NDT lên 4.859 NDT, đắt thêm ngay 560 NDT."
+    ]
+   },
+   {
+    "h": "II. …的不只是A — không chỉ có A mới …",
+    "b": [
+     "Cách dùng:",
+     "Đưa sự việc lên làm chủ ngữ bằng 的, rồi 不只是 + A: mở rộng từ một trường hợp ra cả hiện tượng. Hay dùng để chuyển từ tin cụ thể sang bức tranh ngành.",
+     "涨价的不只是大疆。",
+     "Zhǎngjià de bù zhǐ shì Dàjiāng.",
+     "Tăng giá không chỉ có DJI."
+    ]
+   },
+   {
+    "h": "III. 对A来说 — đối với A mà nói",
+    "b": [
+     "Cách dùng:",
+     "对 + đối tượng + 来说, đặt đầu câu: nêu góc nhìn của ai đó trước khi đưa ra nhận định. Rất hay gặp khi tin kinh tế bàn tác động lên người tiêu dùng, doanh nghiệp, ngân hàng.",
+     "对消费者来说，这说明了一件事：上游的成本涨了，做产品的公司很难自己付这笔钱，最后很大一部分要由买东西的人来付。",
+     "Duì xiāofèizhě lái shuō, zhè shuōmíng le yí jiàn shì: shàngyóu de chéngběn zhǎng le, zuò chǎnpǐn de gōngsī hěn nán zìjǐ fù zhè bǐ qián, zuìhòu hěn dà yí bùfen yào yóu mǎi dōngxi de rén lái fù.",
+     "Đối với người tiêu dùng, điều này cho thấy một chuyện: chi phí ở thượng nguồn tăng, công ty làm sản phẩm khó tự gánh khoản tiền này, cuối cùng phần lớn sẽ do người mua trả."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "大疆": {
+   "w": "大疆",
+   "p": "Dàjiāng",
+   "hv": "Đại Cương",
+   "note": "DJI — hãng drone và máy quay cầm tay của Trung Quốc, trụ sở Thâm Quyến"
+  },
+  "影石": {
+   "w": "影石",
+   "p": "Yǐngshí",
+   "hv": "Ảnh Thạch",
+   "note": "Insta360 (影石创新) — hãng máy quay 360°/gimbal của Trung Quốc"
+  },
+  "佳能": {
+   "w": "佳能",
+   "p": "Jiānéng",
+   "hv": "Giai Năng",
+   "note": "Canon — hãng máy ảnh Nhật Bản"
+  },
+  "小米": {
+   "w": "小米",
+   "p": "Xiǎomǐ",
+   "hv": "Tiểu Mễ",
+   "note": "Xiaomi — hãng điện thoại Trung Quốc"
+  },
+  "荣耀": {
+   "w": "荣耀",
+   "p": "Róngyào",
+   "hv": "Vinh Diệu",
+   "note": "Honor — hãng điện thoại Trung Quốc"
+  }
+ },
+ "dict": {
+  "相机": {
+   "w": "相机",
+   "p": "xiàngjī",
+   "hv": "tướng cơ",
+   "pos": "名",
+   "en": "camera",
+   "vn": "máy ảnh, máy quay",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261120"
+   ]
+  },
+  "通知": {
+   "w": "通知",
+   "p": "tōngzhī",
+   "hv": "thông tri",
+   "pos": "动/名",
+   "en": "to notify; notice",
+   "vn": "thông báo (động từ và danh từ): 通知客户 = báo cho khách hàng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261120"
+   ]
+  },
+  "消费者": {
+   "w": "消费者",
+   "p": "xiāofèizhě",
+   "hv": "tiêu phí giả",
+   "pos": "名",
+   "en": "consumer",
+   "vn": "người tiêu dùng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261120"
+   ]
+  },
+  "零部件": {
+   "w": "零部件",
+   "p": "língbùjiàn",
+   "hv": "linh bộ kiện",
+   "pos": "名",
+   "en": "components, parts",
+   "vn": "linh kiện, phụ tùng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261120"
+   ]
+  },
+  "大幅": {
+   "w": "大幅",
+   "p": "dàfú",
+   "hv": "đại phúc",
+   "pos": "副",
+   "en": "by a large margin, sharply",
+   "vn": "mạnh, với biên độ lớn: 大幅上涨 = tăng mạnh",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261120"
+   ]
+  },
+  "内部": {
+   "w": "内部",
+   "p": "nèibù",
+   "hv": "nội bộ",
+   "pos": "名",
+   "en": "internal; inside",
+   "vn": "nội bộ, bên trong",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261120"
+   ]
+  },
+  "抵消": {
+   "w": "抵消",
+   "p": "dǐxiāo",
+   "hv": "để tiêu",
+   "pos": "动",
+   "en": "to offset, cancel out",
+   "vn": "bù trừ, bù đắp (chi phí tăng…)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261120"
+   ]
+  },
+  "门店": {
+   "w": "门店",
+   "p": "méndiàn",
+   "hv": "môn điếm",
+   "pos": "名",
+   "en": "store, retail outlet",
+   "vn": "cửa hàng (bán lẻ trực tiếp)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261120"
+   ]
+  },
+  "上游": {
+   "w": "上游",
+   "p": "shàngyóu",
+   "hv": "thượng du",
+   "pos": "名",
+   "en": "upstream (in a supply chain)",
+   "vn": "thượng nguồn; khâu đầu chuỗi cung ứng (nhà cung cấp linh kiện, nguyên liệu)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261120"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "36氪（转载界面新闻）",
+   "author": "宋佳楠",
+   "title": "大疆涨完影石跟上，部分产品或涨300元",
+   "date": "2026-11-20",
+   "url": "https://36kr.com/p/4078003579606147",
+   "accessed": "2026-11-20"
+  },
+  {
+   "role": "secondary",
+   "outlet": "21财经（南方财经）",
+   "author": "刘佳宇、蔡诗茵",
+   "title": "大疆Osmo Pocket4系列今起涨价，最高涨560元",
+   "date": "2026-11-18",
+   "url": "https://m.21jingji.com/article/20261118/herald/227c6814742876aed902ea92f36dac41.html",
+   "accessed": "2026-11-20"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261120",
+  "book": 4,
+  "no": 37,
+  "date": "2026-11-20",
+  "seq": 79,
+  "title": "存储贵了，相机也贵了",
+  "py": "cúnchǔguìle，xiàngjīyěguìle",
+  "en": "Memory gets pricier, so do cameras",
+  "vn": "Chip nhớ đắt lên, máy quay cũng đắt theo",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "11",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "18",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "起",
+        "p": "qǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "大疆",
+        "p": "Dàjiāng",
+        "k": "name"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "款",
+        "p": "kuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "相机",
+        "p": "xiàngjī",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "提高",
+        "p": "tígāo",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "Osmo Pocket 4",
+        "k": "plain"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "Osmo Pocket 4P",
+        "k": "plain"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "Osmo Nano",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "涨",
+        "p": "zhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "得",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "Osmo Pocket 4P",
+        "k": "plain"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "Vlog",
+        "k": "plain"
+       },
+       {
+        "w": "套",
+        "p": "tào",
+        "k": "extra"
+       },
+       {
+        "w": "装",
+        "p": "zhuāng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "4299",
+        "k": "plain"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "涨",
+        "p": "zhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "4859",
+        "k": "plain"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "下",
+        "p": "xià",
+        "k": "extra"
+       },
+       {
+        "w": "子",
+        "p": "zi",
+        "k": "extra"
+       },
+       {
+        "w": "贵",
+        "p": "guì",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "560",
+        "k": "plain"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "11",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "13",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "大疆",
+        "p": "Dàjiāng",
+        "k": "name"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "通知",
+        "p": "tōngzhī",
+        "k": "core"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "消费者",
+        "p": "xiāofèizhě",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "原因",
+        "p": "yuányīn",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "全球",
+        "p": "quánqiú",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "存储",
+        "p": "cúnchǔ",
+        "k": "extra"
+       },
+       {
+        "w": "等",
+        "p": "děng",
+        "k": "extra"
+       },
+       {
+        "w": "零部件",
+        "p": "língbùjiàn",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "成本",
+        "p": "chéngběn",
+        "k": "extra"
+       },
+       {
+        "w": "一直",
+        "p": "yìzhí",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "大幅",
+        "p": "dàfú",
+        "k": "core"
+       },
+       {
+        "w": "上涨",
+        "p": "shàngzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "跟",
+        "p": "gēn",
+        "k": "extra"
+       },
+       {
+        "w": "着",
+        "p": "zhe",
+        "k": "extra"
+       },
+       {
+        "w": "大疆",
+        "p": "Dàjiāng",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "可能",
+        "p": "kěnéng",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "另",
+        "p": "lìng",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "相机",
+        "p": "xiàngjī",
+        "k": "core"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "影石",
+        "p": "Yǐngshí",
+        "k": "name"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "11",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "20",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "影石",
+        "p": "Yǐngshí",
+        "k": "name"
+       },
+       {
+        "w": "北京",
+        "p": "Běijīng",
+        "k": "name"
+       },
+       {
+        "w": "几",
+        "p": "jǐ",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "门店",
+        "p": "méndiàn",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "店员",
+        "p": "diànyuán",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "内部",
+        "p": "nèibù",
+        "k": "core"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "告诉",
+        "p": "gàosù",
+        "k": "extra"
+       },
+       {
+        "w": "他们",
+        "p": "tāmen",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "Luna",
+        "k": "plain"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "两",
+        "p": "liǎng",
+        "k": "extra"
+       },
+       {
+        "w": "款",
+        "p": "kuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "相机",
+        "p": "xiàngjī",
+        "k": "core"
+       },
+       {
+        "w": "可能",
+        "p": "kěnéng",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "快",
+        "p": "kuài",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "涨价",
+        "p": "zhǎngjià",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "上海",
+        "p": "Shànghǎi",
+        "k": "name"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "店员",
+        "p": "diànyuán",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "Luna",
+        "k": "plain"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "12",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "15",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "涨价",
+        "p": "zhǎngjià",
+        "k": "extra"
+       },
+       {
+        "w": "300",
+        "k": "plain"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "左右",
+        "p": "zuǒyòu",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "不过",
+        "p": "búguò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "影石",
+        "p": "Yǐngshí",
+        "k": "name"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "正式",
+        "p": "zhèngshì",
+        "k": "extra"
+       },
+       {
+        "w": "宣布",
+        "p": "xuānbù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "Luna Ultra",
+        "k": "plain"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "原价",
+        "p": "yuánjià",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "3999",
+        "k": "plain"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "为什么",
+        "p": "wèishénme",
+        "k": "extra"
+       },
+       {
+        "w": "涨价",
+        "p": "zhǎngjià",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "产品",
+        "p": "chǎnpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "因为",
+        "p": "yīnwèi",
+        "k": "extra"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "们",
+        "p": "men",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "可以",
+        "p": "kěyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "带",
+        "p": "dài",
+        "k": "extra"
+       },
+       {
+        "w": "着",
+        "p": "zhe",
+        "k": "extra"
+       },
+       {
+        "w": "到处",
+        "p": "dàochù",
+        "k": "extra"
+       },
+       {
+        "w": "拍",
+        "p": "pāi",
+        "k": "extra"
+       },
+       {
+        "w": "视频",
+        "p": "shìpín",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "相机",
+        "p": "xiàngjī",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "里面",
+        "p": "lǐmiàn",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "放",
+        "p": "fàng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "存储",
+        "p": "cúnchǔ",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "所以",
+        "p": "suǒyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "存储",
+        "p": "cúnchǔ",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "涨价",
+        "p": "zhǎngjià",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "它",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "们",
+        "p": "men",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "成本",
+        "p": "chéngběn",
+        "k": "extra"
+       },
+       {
+        "w": "马上",
+        "p": "mǎshàng",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "去",
+        "p": "qù",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "那么",
+        "p": "nàme",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "存储",
+        "p": "cúnchǔ",
+        "k": "extra"
+       },
+       {
+        "w": "为什么",
+        "p": "wèishénme",
+        "k": "extra"
+       },
+       {
+        "w": "涨价",
+        "p": "zhǎngjià",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "存储",
+        "p": "cúnchǔ",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "先",
+        "p": "xiān",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "货",
+        "p": "huò",
+        "k": "extra"
+       },
+       {
+        "w": "卖",
+        "p": "mài",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "中",
+        "p": "zhōng",
+        "k": "extra"
+       },
+       {
+        "w": "心",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "因为",
+        "p": "yīnwèi",
+        "k": "extra"
+       },
+       {
+        "w": "那边",
+        "p": "nàbiān",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "订单",
+        "p": "dìngdān",
+        "k": "extra"
+       },
+       {
+        "w": "又",
+        "p": "yòu",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "又",
+        "p": "yòu",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "留",
+        "p": "liú",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "手机",
+        "p": "shǒujī",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "相机",
+        "p": "xiàngjī",
+        "k": "core"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "消费",
+        "p": "xiāofèi",
+        "k": "extra"
+       },
+       {
+        "w": "电子",
+        "p": "diànzǐ",
+        "k": "extra"
+       },
+       {
+        "w": "产品",
+        "p": "chǎnpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "高",
+        "p": "gāo",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "涨价",
+        "p": "zhǎngjià",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "大疆",
+        "p": "Dàjiāng",
+        "k": "name"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "6",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "苹果",
+        "p": "Píngguǒ",
+        "k": "name"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "MacBook",
+        "k": "plain"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "iPad",
+        "k": "plain"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "提高",
+        "p": "tígāo",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "涨",
+        "p": "zhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "25%",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "小米",
+        "p": "Xiǎomǐ",
+        "k": "name"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "OPPO",
+        "k": "plain"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "vivo",
+        "k": "plain"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "荣耀",
+        "p": "Róngyào",
+        "k": "name"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "最好",
+        "p": "zuì hǎo",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "手机",
+        "p": "shǒujī",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "款",
+        "p": "kuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "贵",
+        "p": "guì",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "300",
+        "k": "plain"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "1000",
+        "k": "plain"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "11",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "全球",
+        "p": "quánqiú",
+        "k": "extra"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "相机",
+        "p": "xiàngjī",
+        "k": "core"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "佳能",
+        "p": "Jiānéng",
+        "k": "name"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "明年",
+        "p": "míngnián",
+        "k": "extra"
+       },
+       {
+        "w": "可能",
+        "p": "kěnéng",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "涨价",
+        "p": "zhǎngjià",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "抵消",
+        "p": "dǐxiāo",
+        "k": "core"
+       },
+       {
+        "w": "买",
+        "p": "mǎi",
+        "k": "extra"
+       },
+       {
+        "w": "零部件",
+        "p": "língbùjiàn",
+        "k": "core"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "花",
+        "p": "huā",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "消费者",
+        "p": "xiāofèizhě",
+        "k": "core"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "说明",
+        "p": "shuōmíng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "件",
+        "p": "jiàn",
+        "k": "extra"
+       },
+       {
+        "w": "事",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "上游",
+        "p": "shàngyóu",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "成本",
+        "p": "chéngběn",
+        "k": "extra"
+       },
+       {
+        "w": "涨",
+        "p": "zhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "产品",
+        "p": "chǎnpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "难",
+        "p": "nán",
+        "k": "extra"
+       },
+       {
+        "w": "自己",
+        "p": "zìjǐ",
+        "k": "extra"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "笔",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "最后",
+        "p": "zuìhòu",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "部",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "分",
+        "p": "fēn",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "由",
+        "p": "yóu",
+        "k": "extra"
+       },
+       {
+        "w": "买",
+        "p": "mǎi",
+        "k": "extra"
+       },
+       {
+        "w": "东西",
+        "p": "dōngxi",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "接",
+        "p": "jiē",
+        "k": "extra"
+       },
+       {
+        "w": "下",
+        "p": "xià",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "存储",
+        "p": "cúnchǔ",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "价格",
+        "p": "jiàgé",
+        "k": "extra"
+       },
+       {
+        "w": "什么",
+        "p": "shénme",
+        "k": "extra"
+       },
+       {
+        "w": "时候",
+        "p": "shíhòu",
+        "k": "extra"
+       },
+       {
+        "w": "才",
+        "p": "cái",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "停",
+        "p": "tíng",
+        "k": "extra"
+       },
+       {
+        "w": "下",
+        "p": "xià",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 从A涨到B — tăng từ A lên B",
+    "b": [
+     "Cách dùng:",
+     "从 + mức cũ + 涨到 + mức mới: nêu giá/chỉ số trước và sau khi tăng; thường đi kèm 贵了/涨了 + mức chênh. Đổi 涨 thành 降/跌 khi giảm.",
+     "涨得最多的是Osmo Pocket 4P的Vlog套装，从4299元涨到4859元，一下子贵了560元。",
+     "Zhǎng de zuì duō de shì Osmo Pocket 4P de Vlog tàozhuāng, cóng sìqiān èrbǎi jiǔshíjiǔ yuán zhǎng dào sìqiān bābǎi wǔshíjiǔ yuán, yíxiàzi guì le wǔbǎi liùshí yuán.",
+     "Tăng nhiều nhất là bộ Vlog của Osmo Pocket 4P, từ 4.299 NDT lên 4.859 NDT, đắt thêm ngay 560 NDT."
+    ]
+   },
+   {
+    "h": "II. …的不只是A — không chỉ có A mới …",
+    "b": [
+     "Cách dùng:",
+     "Đưa sự việc lên làm chủ ngữ bằng 的, rồi 不只是 + A: mở rộng từ một trường hợp ra cả hiện tượng. Hay dùng để chuyển từ tin cụ thể sang bức tranh ngành.",
+     "涨价的不只是大疆。",
+     "Zhǎngjià de bù zhǐ shì Dàjiāng.",
+     "Tăng giá không chỉ có DJI."
+    ]
+   },
+   {
+    "h": "III. 对A来说 — đối với A mà nói",
+    "b": [
+     "Cách dùng:",
+     "对 + đối tượng + 来说, đặt đầu câu: nêu góc nhìn của ai đó trước khi đưa ra nhận định. Rất hay gặp khi tin kinh tế bàn tác động lên người tiêu dùng, doanh nghiệp, ngân hàng.",
+     "对消费者来说，这说明了一件事：上游的成本涨了，做产品的公司很难自己付这笔钱，最后很大一部分要由买东西的人来付。",
+     "Duì xiāofèizhě lái shuō, zhè shuōmíng le yí jiàn shì: shàngyóu de chéngběn zhǎng le, zuò chǎnpǐn de gōngsī hěn nán zìjǐ fù zhè bǐ qián, zuìhòu hěn dà yí bùfen yào yóu mǎi dōngxi de rén lái fù.",
+     "Đối với người tiêu dùng, điều này cho thấy một chuyện: chi phí ở thượng nguồn tăng, công ty làm sản phẩm khó tự gánh khoản tiền này, cuối cùng phần lớn sẽ do người mua trả."
+    ]
+   }
+  ],
+  "vocab": [
+   "相机",
+   "通知",
+   "消费者",
+   "零部件",
+   "大幅",
+   "内部",
+   "抵消",
+   "门店",
+   "上游"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "36氪（转载界面新闻）",
+    "author": "宋佳楠",
+    "title": "大疆涨完影石跟上，部分产品或涨300元",
+    "date": "2026-11-20",
+    "url": "https://36kr.com/p/4078003579606147",
+    "accessed": "2026-11-20"
+   },
+   {
+    "role": "secondary",
+    "outlet": "21财经（南方财经）",
+    "author": "刘佳宇、蔡诗茵",
+    "title": "大疆Osmo Pocket4系列今起涨价，最高涨560元",
+    "date": "2026-11-18",
+    "url": "https://m.21jingji.com/article/20261118/herald/227c6814742876aed902ea92f36dac41.html",
+    "accessed": "2026-11-20"
+   }
+  ]
+ }
+}

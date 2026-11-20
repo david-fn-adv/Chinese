@@ -35,6 +35,7 @@ CHARS_EXT = """
 欠:khiếm 控:khống 蓬:bồng 督:đốc
 简:giản 称:xưng 型:hình 领:lĩnh 域:vực 键:kiện 例:lệ 轩:hiên
 聪:thông 曲:khúc 赫:hách
+米:mễ 荣:vinh 耀:diệu
 """
 
 # Từ ghép có âm khác cách ghép từng chữ
@@ -48,5 +49,6 @@ WORD_EXT = {
     '参与': 'tham dự',
     '交易额': 'giao dịch ngạch', # 易 trong 交易 đọc "dịch", không phải "dị"
     '交易所': 'giao dịch sở',   # 易 trong 交易 đọc "dịch", không phải "dị"
+    '相机': 'tướng cơ',         # 相 (xiàng) = hình chụp, đọc "tướng" như 照相 chiếu tướng
     '用处': 'dụng xứ',          # 处 = chỗ, chốn, đọc "xứ"          # 与 trong 参与 đọc "dự" (thanh 4), không phải "dữ"
 }
