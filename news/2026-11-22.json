@@ -1,0 +1,2014 @@
+{
+ "date": "2026-11-22",
+ "id": "N-20261122",
+ "draft": {
+  "title": "银行三季度：息差稳住了，不良还在升",
+  "vn": "Ngân hàng quý III: biên lãi đã giữ được, nợ xấu vẫn tăng",
+  "en": "Banks in Q3: margins hold, bad loans keep rising",
+  "paras": [
+   "11月20日，国家金融监督管理总局公布了2026年三季度银行业的主要监管数据。从这些数据看，中国的商业银行还在赚钱，可是赚得比去年少了一点，坏账也多了一点。",
+   "先看利润。今年前三个季度，商业银行一共实现净利润1.85万亿元，同比下降0.9%。银行最重要的收入来自净息差，就是贷款利率和存款利率中间的差。三季度的净息差是1.41%，和二季度一样。也就是说，息差没有再往下走，可是也没有回升。",
+   "再看资产质量。三季度末，商业银行的正常贷款余额是242.8万亿元，不良贷款余额是3.8万亿元，比上个季度末增加了745亿元；不良贷款率是1.54%，比上个季度末上升了0.02个百分点。不过，银行为坏账准备的钱还不少：拨备覆盖率是199.49%，差不多是不良贷款的两倍。",
+   "对小企业来说，还有一个数字值得注意：三季度末，普惠型小微企业贷款余额是38.8万亿元，同比增长6.4%。也就是说，银行给小企业的贷款还在增加。",
+   "招联首席经济学家董希淼认为，息差稳住了，主要是因为银行付给存款的利息少了，可是新发放贷款的利率还很低。以后息差能不能回升，要看贷款需求能不能恢复，存款成本能不能继续下降。他还说，不同银行的情况很不一样，压力可能正在从大银行转到中小银行。"
+  ],
+  "points": [
+   {
+    "h": "I. 也就是说 — nói cách khác, tức là",
+    "b": [
+     "Cách dùng:",
+     "Đặt đầu câu, sau một con số hoặc một sự kiện, để diễn giải lại ý nghĩa của nó bằng lời dễ hiểu hơn. Rất hay gặp trong bài phân tích số liệu.",
+     "也就是说，息差没有再往下走，可是也没有回升。",
+     "Yě jiùshì shuō, xīchā méiyǒu zài wǎng xià zǒu, kěshì yě méiyǒu huíshēng.",
+     "Nói cách khác, biên lãi không đi xuống nữa, nhưng cũng chưa tăng trở lại."
+    ]
+   },
+   {
+    "h": "II. A来自B — A đến từ B",
+    "b": [
+     "Cách dùng:",
+     "A (thu nhập, lợi nhuận, số liệu, áp lực) + 来自 + B (nguồn gốc). Trang trọng hơn 从…来; dùng để nêu nguồn thu, nguồn tin, nguồn rủi ro.",
+     "银行最重要的收入来自净息差，就是贷款利率和存款利率中间的差。",
+     "Yínháng zuì zhòngyào de shōurù láizì jìngxīchā, jiùshì dàikuǎn lìlǜ hé cúnkuǎn lìlǜ zhōngjiān de chā.",
+     "Nguồn thu quan trọng nhất của ngân hàng đến từ biên lãi ròng, tức là khoảng chênh giữa lãi suất cho vay và lãi suất tiền gửi."
+    ]
+   },
+   {
+    "h": "III. …能不能…，要看… — có … được hay không còn tùy vào …",
+    "b": [
+     "Cách dùng:",
+     "Vế đầu nêu điều chưa chắc bằng 能不能 + động từ; vế sau 要看 + điều kiện quyết định (cũng thường là một câu hỏi 能不能). Dùng khi nêu nhận định về triển vọng.",
+     "以后息差能不能回升，要看贷款需求能不能恢复，存款成本能不能继续下降。",
+     "Yǐhòu xīchā néng bu néng huíshēng, yào kàn dàikuǎn xūqiú néng bu néng huīfù, cúnkuǎn chéngběn néng bu néng jìxù xiàjiàng.",
+     "Sau này biên lãi có tăng trở lại được không còn tùy vào việc nhu cầu vay có phục hồi được không, chi phí tiền gửi có tiếp tục giảm được không."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "招联": {
+   "w": "招联",
+   "p": "Zhāolián",
+   "hv": "Chiêu Liên",
+   "note": "Merchants Union Consumer Finance (招联消费金融) — công ty tài chính tiêu dùng của China Merchants Bank và China Unicom"
+  },
+  "董希淼": {
+   "w": "董希淼",
+   "p": "Dǒng Xīmiǎo",
+   "hv": "Đổng Hi Miểu",
+   "note": "Kinh tế trưởng của 招联, được bài báo gốc dẫn lời"
+  }
+ },
+ "dict": {
+  "来自": {
+   "w": "来自",
+   "p": "láizì",
+   "hv": "lai tự",
+   "pos": "动",
+   "en": "to come from",
+   "vn": "đến từ, bắt nguồn từ: 收入来自… = thu nhập đến từ…",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261122"
+   ]
+  },
+  "质量": {
+   "w": "质量",
+   "p": "zhìliàng",
+   "hv": "chất lượng",
+   "pos": "名",
+   "en": "quality",
+   "vn": "chất lượng: 资产质量 = chất lượng tài sản",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261122"
+   ]
+  },
+  "拨备覆盖率": {
+   "w": "拨备覆盖率",
+   "p": "bōbèi fùgàilǜ",
+   "hv": "bát bị phúc cái suất",
+   "pos": "名",
+   "en": "provision coverage ratio",
+   "vn": "tỉ lệ bao phủ nợ xấu (dự phòng rủi ro đã trích ÷ dư nợ xấu)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261122"
+   ]
+  },
+  "型": {
+   "w": "型",
+   "p": "xíng",
+   "hv": "hình",
+   "pos": "名",
+   "en": "type, model",
+   "vn": "loại, kiểu, dạng: 普惠型 = loại hình phổ cập; 大型 = cỡ lớn",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261122"
+   ]
+  },
+  "首席": {
+   "w": "首席",
+   "p": "shǒuxí",
+   "hv": "thủ tịch",
+   "pos": "形",
+   "en": "chief",
+   "vn": "trưởng, đứng đầu: 首席经济学家 = kinh tế trưởng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261122"
+   ]
+  },
+  "稳": {
+   "w": "稳",
+   "p": "wěn",
+   "hv": "ổn",
+   "pos": "形/动",
+   "en": "stable; to steady",
+   "vn": "ổn, vững; giữ cho vững: 稳住 = giữ vững được",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261122"
+   ]
+  },
+  "回升": {
+   "w": "回升",
+   "p": "huíshēng",
+   "hv": "hồi thăng",
+   "pos": "动",
+   "en": "to rebound, pick up again",
+   "vn": "tăng trở lại (sau khi giảm)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261122"
+   ]
+  },
+  "上升": {
+   "w": "上升",
+   "p": "shàngshēng",
+   "hv": "thượng thăng",
+   "pos": "动",
+   "en": "to rise, go up",
+   "vn": "tăng lên, đi lên (tỉ lệ, con số)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261122"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "第一财经",
+   "author": "杜川",
+   "title": "商业银行交前三季度成绩单：净息差磨底，不良率创阶段新高",
+   "date": "2026-11-22",
+   "url": "https://www.yicai.com/news/103449309.html",
+   "accessed": "2026-11-22"
+  },
+  {
+   "role": "secondary",
+   "outlet": "央广网（搜狐转载）",
+   "author": "宓迪",
+   "title": "金融监管总局：商业银行信贷资产质量总体稳定 风险抵补能力整体充足",
+   "date": "2026-11-22",
+   "url": "https://www.sohu.com/a/1104897835_362042",
+   "accessed": "2026-11-22"
+  },
+  {
+   "role": "secondary",
+   "outlet": "券商中国（21财经转载）",
+   "author": "未署名（编辑：高雅宁）",
+   "title": "商业银行总资产突破500万亿元！净息差仍在筑底",
+   "date": "2026-11-21",
+   "url": "https://m.21jingji.com/article/20261121/herald/3fa92df707deec54185d3fccf36ab3e2.html",
+   "accessed": "2026-11-22"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261122",
+  "book": 4,
+  "no": 39,
+  "date": "2026-11-22",
+  "seq": 81,
+  "title": "银行三季度：息差稳住了，不良还在升",
+  "py": "yínhángsānjìdù：xīchàwěnzhùle，bùliángháizàishēng",
+  "en": "Banks in Q3: margins hold, bad loans keep rising",
+  "vn": "Ngân hàng quý III: biên lãi đã giữ được, nợ xấu vẫn tăng",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "11",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "20",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "国家金融监督管理总局",
+        "p": "Guójiā Jīnróng Jiāndū Guǎnlǐ Zǒngjú",
+        "k": "name"
+       },
+       {
+        "w": "公布",
+        "p": "gōngbù",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "2026",
+        "k": "plain"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "业",
+        "p": "yè",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "主要",
+        "p": "zhǔyào",
+        "k": "extra"
+       },
+       {
+        "w": "监管",
+        "p": "jiānguǎn",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "数据",
+        "p": "shùjù",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "中国",
+        "p": "Zhōngguó",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "商业",
+        "p": "shāngyè",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "赚",
+        "p": "zhuàn",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "赚",
+        "p": "zhuàn",
+        "k": "extra"
+       },
+       {
+        "w": "得",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "去年",
+        "p": "qùnián",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一点",
+        "p": "yīdiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "坏账",
+        "p": "huàizhàng",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一点",
+        "p": "yīdiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "先",
+        "p": "xiān",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "利润",
+        "p": "lìrùn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "前",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "商业",
+        "p": "shāngyè",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "一共",
+        "p": "yígòng",
+        "k": "extra"
+       },
+       {
+        "w": "实现",
+        "p": "shíxiàn",
+        "k": "extra"
+       },
+       {
+        "w": "净利润",
+        "p": "jìnglìrùn",
+        "k": "extra"
+       },
+       {
+        "w": "1",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "85",
+        "k": "plain"
+       },
+       {
+        "w": "万",
+        "p": "wàn",
+        "k": "extra"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "同比",
+        "p": "tóngbǐ",
+        "k": "extra"
+       },
+       {
+        "w": "下降",
+        "p": "xiàjiàng",
+        "k": "extra"
+       },
+       {
+        "w": "0",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "9%",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "重要",
+        "p": "zhòngyào",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "收入",
+        "p": "shōurù",
+        "k": "extra"
+       },
+       {
+        "w": "来自",
+        "p": "láizì",
+        "k": "core"
+       },
+       {
+        "w": "净息差",
+        "p": "jìngxīchā",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "利率",
+        "p": "lìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "存款",
+        "p": "cúnkuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "利率",
+        "p": "lìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "中",
+        "p": "zhōng",
+        "k": "extra"
+       },
+       {
+        "w": "间",
+        "p": "jiān",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "差",
+        "p": "chā",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "净息差",
+        "p": "jìngxīchā",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "1",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "41%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "二",
+        "p": "èr",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "extra"
+       },
+       {
+        "w": "一样",
+        "p": "yíyàng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "息差",
+        "p": "xīchā",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "再",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "往",
+        "p": "wǎng",
+        "k": "extra"
+       },
+       {
+        "w": "下",
+        "p": "xià",
+        "k": "extra"
+       },
+       {
+        "w": "走",
+        "p": "zǒu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "回升",
+        "p": "huíshēng",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "再",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "资产",
+        "p": "zīchǎn",
+        "k": "extra"
+       },
+       {
+        "w": "质量",
+        "p": "zhìliàng",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "extra"
+       },
+       {
+        "w": "末",
+        "p": "mò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "商业",
+        "p": "shāngyè",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "正常",
+        "p": "zhèngcháng",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "余额",
+        "p": "yú'é",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "242",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "8",
+        "k": "plain"
+       },
+       {
+        "w": "万",
+        "p": "wàn",
+        "k": "extra"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "不良",
+        "p": "bùliáng",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "余额",
+        "p": "yú'é",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "3",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "8",
+        "k": "plain"
+       },
+       {
+        "w": "万",
+        "p": "wàn",
+        "k": "extra"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "extra"
+       },
+       {
+        "w": "末",
+        "p": "mò",
+        "k": "extra"
+       },
+       {
+        "w": "增加",
+        "p": "zēngjiā",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "745",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "不良",
+        "p": "bùliáng",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "率",
+        "p": "lǜ",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "1",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "54%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "extra"
+       },
+       {
+        "w": "末",
+        "p": "mò",
+        "k": "extra"
+       },
+       {
+        "w": "上升",
+        "p": "shàngshēng",
+        "k": "core"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "0",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "02",
+        "k": "plain"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "百分点",
+        "p": "bǎifēndiǎn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "不过",
+        "p": "búguò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "为",
+        "p": "wèi",
+        "k": "extra"
+       },
+       {
+        "w": "坏账",
+        "p": "huàizhàng",
+        "k": "extra"
+       },
+       {
+        "w": "准备",
+        "p": "zhǔnbèi",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "拨备覆盖率",
+        "p": "bōbèi fùgàilǜ",
+        "k": "core"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "199",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "49%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "差不多",
+        "p": "chābùduō",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "不良",
+        "p": "bùliáng",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "两",
+        "p": "liǎng",
+        "k": "extra"
+       },
+       {
+        "w": "倍",
+        "p": "bèi",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "数字",
+        "p": "shùzì",
+        "k": "extra"
+       },
+       {
+        "w": "值得",
+        "p": "zhíde",
+        "k": "extra"
+       },
+       {
+        "w": "注意",
+        "p": "zhùyì",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "季度",
+        "p": "jìdù",
+        "k": "extra"
+       },
+       {
+        "w": "末",
+        "p": "mò",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "普惠",
+        "p": "pǔhuì",
+        "k": "extra"
+       },
+       {
+        "w": "型",
+        "p": "xíng",
+        "k": "core"
+       },
+       {
+        "w": "小微企业",
+        "p": "xiǎowēiqǐyè",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "余额",
+        "p": "yú'é",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "38",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "8",
+        "k": "plain"
+       },
+       {
+        "w": "万",
+        "p": "wàn",
+        "k": "extra"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "同比",
+        "p": "tóngbǐ",
+        "k": "extra"
+       },
+       {
+        "w": "增长",
+        "p": "zēngzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "6",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "4%",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "增加",
+        "p": "zēngjiā",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "招联",
+        "p": "Zhāolián",
+        "k": "name"
+       },
+       {
+        "w": "首席",
+        "p": "shǒuxí",
+        "k": "core"
+       },
+       {
+        "w": "经济",
+        "p": "jīngjì",
+        "k": "extra"
+       },
+       {
+        "w": "学",
+        "p": "xué",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "董希淼",
+        "p": "Dǒng Xīmiǎo",
+        "k": "name"
+       },
+       {
+        "w": "认为",
+        "p": "rènwéi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "息差",
+        "p": "xīchā",
+        "k": "extra"
+       },
+       {
+        "w": "稳",
+        "p": "wěn",
+        "k": "core"
+       },
+       {
+        "w": "住",
+        "p": "zhù",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "主要",
+        "p": "zhǔyào",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "因为",
+        "p": "yīnwèi",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "付",
+        "p": "fù",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "存款",
+        "p": "cúnkuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "利息",
+        "p": "lìxī",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "发放",
+        "p": "fāfàng",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "利率",
+        "p": "lìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "低",
+        "p": "dī",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "息差",
+        "p": "xīchā",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "回升",
+        "p": "huíshēng",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "需求",
+        "p": "xūqiú",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "恢复",
+        "p": "huīfù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "存款",
+        "p": "cúnkuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "成本",
+        "p": "chéngběn",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "继续",
+        "p": "jìxù",
+        "k": "extra"
+       },
+       {
+        "w": "下降",
+        "p": "xiàjiàng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "他",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "不同",
+        "p": "bùtóng",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "情况",
+        "p": "qíngkuàng",
+        "k": "extra"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "一样",
+        "p": "yíyàng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "压力",
+        "p": "yālì",
+        "k": "extra"
+       },
+       {
+        "w": "可能",
+        "p": "kěnéng",
+        "k": "extra"
+       },
+       {
+        "w": "正在",
+        "p": "zhèngzài",
+        "k": "extra"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "转",
+        "p": "zhuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "中",
+        "p": "zhōng",
+        "k": "extra"
+       },
+       {
+        "w": "小",
+        "p": "xiǎo",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 也就是说 — nói cách khác, tức là",
+    "b": [
+     "Cách dùng:",
+     "Đặt đầu câu, sau một con số hoặc một sự kiện, để diễn giải lại ý nghĩa của nó bằng lời dễ hiểu hơn. Rất hay gặp trong bài phân tích số liệu.",
+     "也就是说，息差没有再往下走，可是也没有回升。",
+     "Yě jiùshì shuō, xīchā méiyǒu zài wǎng xià zǒu, kěshì yě méiyǒu huíshēng.",
+     "Nói cách khác, biên lãi không đi xuống nữa, nhưng cũng chưa tăng trở lại."
+    ]
+   },
+   {
+    "h": "II. A来自B — A đến từ B",
+    "b": [
+     "Cách dùng:",
+     "A (thu nhập, lợi nhuận, số liệu, áp lực) + 来自 + B (nguồn gốc). Trang trọng hơn 从…来; dùng để nêu nguồn thu, nguồn tin, nguồn rủi ro.",
+     "银行最重要的收入来自净息差，就是贷款利率和存款利率中间的差。",
+     "Yínháng zuì zhòngyào de shōurù láizì jìngxīchā, jiùshì dàikuǎn lìlǜ hé cúnkuǎn lìlǜ zhōngjiān de chā.",
+     "Nguồn thu quan trọng nhất của ngân hàng đến từ biên lãi ròng, tức là khoảng chênh giữa lãi suất cho vay và lãi suất tiền gửi."
+    ]
+   },
+   {
+    "h": "III. …能不能…，要看… — có … được hay không còn tùy vào …",
+    "b": [
+     "Cách dùng:",
+     "Vế đầu nêu điều chưa chắc bằng 能不能 + động từ; vế sau 要看 + điều kiện quyết định (cũng thường là một câu hỏi 能不能). Dùng khi nêu nhận định về triển vọng.",
+     "以后息差能不能回升，要看贷款需求能不能恢复，存款成本能不能继续下降。",
+     "Yǐhòu xīchā néng bu néng huíshēng, yào kàn dàikuǎn xūqiú néng bu néng huīfù, cúnkuǎn chéngběn néng bu néng jìxù xiàjiàng.",
+     "Sau này biên lãi có tăng trở lại được không còn tùy vào việc nhu cầu vay có phục hồi được không, chi phí tiền gửi có tiếp tục giảm được không."
+    ]
+   }
+  ],
+  "vocab": [
+   "来自",
+   "质量",
+   "拨备覆盖率",
+   "型",
+   "首席",
+   "稳",
+   "回升",
+   "上升"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "第一财经",
+    "author": "杜川",
+    "title": "商业银行交前三季度成绩单：净息差磨底，不良率创阶段新高",
+    "date": "2026-11-22",
+    "url": "https://www.yicai.com/news/103449309.html",
+    "accessed": "2026-11-22"
+   },
+   {
+    "role": "secondary",
+    "outlet": "央广网（搜狐转载）",
+    "author": "宓迪",
+    "title": "金融监管总局：商业银行信贷资产质量总体稳定 风险抵补能力整体充足",
+    "date": "2026-11-22",
+    "url": "https://www.sohu.com/a/1104897835_362042",
+    "accessed": "2026-11-22"
+   },
+   {
+    "role": "secondary",
+    "outlet": "券商中国（21财经转载）",
+    "author": "未署名（编辑：高雅宁）",
+    "title": "商业银行总资产突破500万亿元！净息差仍在筑底",
+    "date": "2026-11-21",
+    "url": "https://m.21jingji.com/article/20261121/herald/3fa92df707deec54185d3fccf36ab3e2.html",
+    "accessed": "2026-11-22"
+   }
+  ]
+ }
+}

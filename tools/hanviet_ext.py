@@ -37,6 +37,7 @@ CHARS_EXT = """
 聪:thông 曲:khúc 赫:hách
 米:mễ 荣:vinh 耀:diệu
 槛:hạm 递:đệ 渠:cừ 阿:a 维:duy 塔:tháp 辉:huy
+拨:bát 覆:phúc 席:tịch 淼:miểu
 """
 
 # Từ ghép có âm khác cách ghép từng chữ
