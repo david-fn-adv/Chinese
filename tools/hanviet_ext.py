@@ -38,6 +38,7 @@ CHARS_EXT = """
 米:mễ 荣:vinh 耀:diệu
 槛:hạm 递:đệ 渠:cừ 阿:a 维:duy 塔:tháp 辉:huy
 拨:bát 覆:phúc 席:tịch 淼:miểu
+册:sách 未:vị 补:bổ 扎:trát 藏:tàng 紫:tử 宸:thần
 """
 
 # Từ ghép có âm khác cách ghép từng chữ
@@ -53,5 +54,8 @@ WORD_EXT = {
     '交易所': 'giao dịch sở',   # 易 trong 交易 đọc "dịch", không phải "dị"
     '相机': 'tướng cơ',         # 相 (xiàng) = hình chụp, đọc "tướng" như 照相 chiếu tướng
     '底价': 'để giá',           # 底 = đáy, đọc "để"
+    '院长': 'viện trưởng',      # 長 = người đứng đầu, đọc "trưởng"
+    '重组': 'trùng tổ',         # 重 (chóng) = lại, đọc "trùng"
+    '西藏': 'tây tạng',         # 藏 (zàng) trong địa danh đọc "tạng", không phải "tàng"
     '用处': 'dụng xứ',          # 处 = chỗ, chốn, đọc "xứ"          # 与 trong 参与 đọc "dự" (thanh 4), không phải "dữ"
 }
