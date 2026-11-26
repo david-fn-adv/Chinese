@@ -1,0 +1,2280 @@
+{
+ "date": "2026-11-26",
+ "id": "N-20261126",
+ "draft": {
+  "title": "蔚来：每一座换电站都要算账",
+  "vn": "NIO: trạm đổi pin nào cũng phải tính sổ",
+  "en": "NIO: every swap station must pay its way",
+  "paras": [
+   "蔚来今年十二岁了。这家做电动汽车的公司，现在花钱越来越小心。11月25日，创始人、董事长李斌在公司的科技日上说，蔚来要变成一家“AI原生组织”：不是只用AI写东西，而是让AI进到公司经营的每一步里去。",
+   "蔚来已经上线了7500多个智能体（Agent），一共运行了290多万次。李斌算过一笔账：今年上半年公司的营收是577亿元，全年差不多有1200亿元。要是效率提高5%，一年就是大约60亿元，这些钱是从少浪费、多做事里来的。",
+   "钱怎么省？据第一财经报道，负责财务的曲玉举了一个例子：现在要不要建一座换电站，先让智能体算投资回报率（ROI），比1大才值得建。新疆的赛里木湖站，3公里以内只有7位用户，只看换电的收入是不够的。可是这座站在新疆一条重要的自驾路线上，对品牌有好处，把这些都算进去以后，ROI是2.3，所以还是要建。",
+   "有的项目算出来不值得，就不做了。负责产品的李天舒说，去年高通有一款新芯片，蔚来本来打算首发，准备工作差不多都做好了，可是账算不过来，最后这个项目没有往前走。以前的蔚来一定要首发新技术；现在晚一年再用，给公司省了几十亿元。",
+   "李斌说，做AI原生组织比开发一款车难多了，因为要改变的是经营的习惯和组织的习惯。他还说，系统是人的助理，不是让人变成系统的一部分。"
+  ],
+  "points": [
+   {
+    "h": "I. 不是…而是… — không phải… mà là…",
+    "b": [
+     "Cách dùng:",
+     "不是 + điều bị bác bỏ，而是 + điều đúng. Dùng để sửa một cách hiểu sai và nêu ngay cách hiểu đúng; 而是 không thể thay bằng 但是. Rất hay gặp khi lãnh đạo doanh nghiệp định nghĩa lại một khái niệm.",
+     "蔚来要变成一家“AI原生组织”：不是只用AI写东西，而是让AI进到公司经营的每一步里去。",
+     "Wèilái yào biànchéng yì jiā “AI yuánshēng zǔzhī”: bú shì zhǐ yòng AI xiě dōngxi, ér shì ràng AI jìn dào gōngsī jīngyíng de měi yí bù lǐ qù.",
+     "NIO muốn trở thành một “tổ chức AI-native”: không phải chỉ dùng AI để viết lách, mà là để AI đi vào từng bước trong việc điều hành công ty."
+    ]
+   },
+   {
+    "h": "II. 要是…就… — nếu… thì…",
+    "b": [
+     "Cách dùng:",
+     "要是 + giả thiết，(chủ ngữ) + 就 + kết quả. Khẩu ngữ hơn 如果; 就 đứng sau chủ ngữ của vế hai. Dùng khi làm phép tính giả định: nếu chỉ số này đổi X% thì kết quả là bao nhiêu.",
+     "要是效率提高5%，一年就是大约60亿元，这些钱是从少浪费、多做事里来的。",
+     "Yàoshi xiàolǜ tígāo 5%, yì nián jiù shì dàyuē 60 yì yuán, zhèxiē qián shì cóng shǎo làngfèi, duō zuò shì lǐ lái de.",
+     "Nếu hiệu suất tăng 5% thì một năm là khoảng 6 tỷ tệ; số tiền này đến từ việc bớt lãng phí, làm được nhiều việc hơn."
+    ]
+   },
+   {
+    "h": "III. A比B + tính từ + 多了 — A … hơn B nhiều",
+    "b": [
+     "Cách dùng:",
+     "A + 比 + B + tính từ + 多了. 多了 đặt sau tính từ để nói mức chênh lớn; không dùng 很/非常 trước tính từ trong câu 比 (không nói 比…很难).",
+     "李斌说，做AI原生组织比开发一款车难多了，因为要改变的是经营的习惯和组织的习惯。",
+     "Lǐ Bīn shuō, zuò AI yuánshēng zǔzhī bǐ kāifā yì kuǎn chē nán duō le, yīnwèi yào gǎibiàn de shì jīngyíng de xíguàn hé zǔzhī de xíguàn.",
+     "Lý Bân nói, xây một tổ chức AI-native khó hơn phát triển một mẫu xe nhiều, vì thứ phải thay đổi là thói quen điều hành và thói quen của tổ chức."
+    ]
+   }
+  ]
+ },
+ "names": {
+  "蔚来": {
+   "w": "蔚来",
+   "p": "Wèilái",
+   "hv": "Úy Lai",
+   "note": "NIO — hãng xe điện Trung Quốc thành lập năm 2014, nổi tiếng với mạng lưới trạm đổi pin"
+  },
+  "李斌": {
+   "w": "李斌",
+   "p": "Lǐ Bīn",
+   "hv": "Lý Bân",
+   "note": "William Li — nhà sáng lập, chủ tịch kiêm CEO của NIO"
+  },
+  "曲玉": {
+   "w": "曲玉",
+   "p": "Qū Yù",
+   "hv": "Khúc Ngọc",
+   "note": "Giám đốc tài chính (首席财务官) của NIO, kiêm phụ trách NIO Energy (蔚来能源)"
+  },
+  "李天舒": {
+   "w": "李天舒",
+   "p": "Lǐ Tiānshū",
+   "hv": "Lý Thiên Thư",
+   "note": "Phó chủ tịch cấp cao phụ trách trải nghiệm sản phẩm (产品体验高级副总裁) của NIO"
+  },
+  "新疆": {
+   "w": "新疆",
+   "p": "Xīnjiāng",
+   "hv": "Tân Cương",
+   "note": "Khu tự trị Tân Cương, tây bắc Trung Quốc"
+  },
+  "赛里木湖": {
+   "w": "赛里木湖",
+   "p": "Sàilǐmù Hú",
+   "hv": "Tái Lý Mộc Hồ",
+   "note": "Hồ Sayram — hồ trên núi ở Tân Cương, điểm du lịch tự lái nổi tiếng"
+  },
+  "高通": {
+   "w": "高通",
+   "p": "Gāotōng",
+   "hv": "Cao Thông",
+   "note": "Qualcomm — hãng thiết kế chip của Mỹ"
+  }
+ },
+ "dict": {
+  "组织": {
+   "w": "组织",
+   "p": "zǔzhī",
+   "hv": "tổ chức",
+   "pos": "名/动",
+   "en": "organization; to organize",
+   "vn": "tổ chức: AI原生组织 = tổ chức AI-native (lấy AI làm gốc)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261126"
+   ]
+  },
+  "智能体": {
+   "w": "智能体",
+   "p": "zhìnéngtǐ",
+   "hv": "trí năng thể",
+   "pos": "名",
+   "en": "AI agent",
+   "vn": "tác tử AI (AI agent) — chương trình AI tự thực hiện một nhiệm vụ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261126"
+   ]
+  },
+  "运行": {
+   "w": "运行",
+   "p": "yùnxíng",
+   "hv": "vận hành",
+   "pos": "动",
+   "en": "to run, to operate",
+   "vn": "vận hành, chạy (hệ thống, chương trình)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261126"
+   ]
+  },
+  "浪费": {
+   "w": "浪费",
+   "p": "làngfèi",
+   "hv": "lãng phí",
+   "pos": "动/名",
+   "en": "to waste; waste",
+   "vn": "lãng phí",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261126"
+   ]
+  },
+  "回报率": {
+   "w": "回报率",
+   "p": "huíbàolǜ",
+   "hv": "hồi báo suất",
+   "pos": "名",
+   "en": "rate of return",
+   "vn": "tỷ suất sinh lời: 投资回报率 = tỷ suất hoàn vốn đầu tư (ROI)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261126"
+   ]
+  },
+  "财务": {
+   "w": "财务",
+   "p": "cáiwù",
+   "hv": "tài vụ",
+   "pos": "名",
+   "en": "finance (of a company)",
+   "vn": "tài chính (của doanh nghiệp), tài vụ: 首席财务官 = giám đốc tài chính (CFO)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261126"
+   ]
+  },
+  "自驾": {
+   "w": "自驾",
+   "p": "zìjià",
+   "hv": "tự giá",
+   "pos": "动",
+   "en": "self-drive (travel)",
+   "vn": "tự lái xe (đi du lịch): 自驾路线 = tuyến du lịch tự lái",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261126"
+   ]
+  },
+  "开发": {
+   "w": "开发",
+   "p": "kāifā",
+   "hv": "khai phát",
+   "pos": "动",
+   "en": "to develop",
+   "vn": "phát triển (sản phẩm, phần mềm), khai phá",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261126"
+   ]
+  },
+  "大约": {
+   "w": "大约",
+   "p": "dàyuē",
+   "hv": "đại ước",
+   "pos": "副",
+   "en": "approximately",
+   "vn": "khoảng chừng, ước chừng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261126"
+   ]
+  },
+  "例子": {
+   "w": "例子",
+   "p": "lìzi",
+   "hv": "lệ tử",
+   "pos": "名",
+   "en": "example",
+   "vn": "ví dụ: 举一个例子 = nêu một ví dụ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261126"
+   ]
+  },
+  "项目": {
+   "w": "项目",
+   "p": "xiàngmù",
+   "hv": "hạng mục",
+   "pos": "名",
+   "en": "project",
+   "vn": "dự án, hạng mục",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261126"
+   ]
+  },
+  "首发": {
+   "w": "首发",
+   "p": "shǒufā",
+   "hv": "thủ phát",
+   "pos": "动/名",
+   "en": "to launch first; debut",
+   "vn": "ra mắt đầu tiên, là bên đầu tiên đưa (sản phẩm, công nghệ) ra thị trường",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261126"
+   ]
+  },
+  "电动": {
+   "w": "电动",
+   "p": "diàndòng",
+   "hv": "điện động",
+   "pos": "形",
+   "en": "electric (powered)",
+   "vn": "chạy điện: 电动汽车 = ô tô điện",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261126"
+   ]
+  },
+  "举": {
+   "w": "举",
+   "p": "jǔ",
+   "hv": "cử",
+   "pos": "动",
+   "en": "to raise; to cite",
+   "vn": "giơ lên; nêu ra: 举例子 = nêu ví dụ",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261126"
+   ]
+  },
+  "座": {
+   "w": "座",
+   "p": "zuò",
+   "hv": "tọa",
+   "pos": "量",
+   "en": "measure word for buildings, stations, mountains",
+   "vn": "lượng từ cho công trình lớn, trạm, núi, cầu: 一座换电站 = một trạm đổi pin",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261126"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "第一财经",
+   "author": "葛慧",
+   "title": "蔚来李斌：AI原生组织一年可减少约60亿元浪费",
+   "date": "2026-11-26",
+   "url": "https://www.yicai.com/news/103455963.html",
+   "accessed": "2026-11-26"
+  },
+  {
+   "role": "secondary",
+   "outlet": "凤凰网科技（搜狐转载）",
+   "author": "宋淑美",
+   "title": "李斌发布蔚来AI原生组织架构：已上线超7500个Agent",
+   "date": "2026-11-25",
+   "url": "https://www.sohu.com/a/1106282756_122135404",
+   "accessed": "2026-11-26"
+  },
+  {
+   "role": "secondary",
+   "outlet": "腾讯新闻",
+   "author": "未署名",
+   "title": "蔚来上半年亏损收窄九成，李斌要熬出头了？",
+   "date": "2026-09-03",
+   "url": "https://news.qq.com/rain/a/20260903A0B31I00",
+   "accessed": "2026-11-26"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261126",
+  "book": 4,
+  "no": 43,
+  "date": "2026-11-26",
+  "seq": 85,
+  "title": "蔚来：每一座换电站都要算账",
+  "py": "wèilái：měiyīzuòhuàndiànzhàndōuyàosuànzhàng",
+  "en": "NIO: every swap station must pay its way",
+  "vn": "NIO: trạm đổi pin nào cũng phải tính sổ",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "蔚来",
+        "p": "Wèilái",
+        "k": "name"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "十",
+        "p": "shí",
+        "k": "extra"
+       },
+       {
+        "w": "二",
+        "p": "èr",
+        "k": "extra"
+       },
+       {
+        "w": "岁",
+        "p": "suì",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "电动",
+        "p": "diàndòng",
+        "k": "core"
+       },
+       {
+        "w": "汽车",
+        "p": "qìchē",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "花",
+        "p": "huā",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "越来越",
+        "p": "yuèláiyuè",
+        "k": "extra"
+       },
+       {
+        "w": "小心",
+        "p": "xiǎoxīn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "11",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "25",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "创始人",
+        "p": "chuàngshǐrén",
+        "k": "extra"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "董事长",
+        "p": "dǒngshìzhǎng",
+        "k": "extra"
+       },
+       {
+        "w": "李斌",
+        "p": "Lǐ Bīn",
+        "k": "name"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "科技",
+        "p": "kējì",
+        "k": "extra"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "蔚来",
+        "p": "Wèilái",
+        "k": "name"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "变成",
+        "p": "biànchéng",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "原生",
+        "p": "yuánshēng",
+        "k": "extra"
+       },
+       {
+        "w": "组织",
+        "p": "zǔzhī",
+        "k": "core"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "写",
+        "p": "xiě",
+        "k": "extra"
+       },
+       {
+        "w": "东西",
+        "p": "dōngxi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "而",
+        "p": "ér",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "进",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "经营",
+        "p": "jīngyíng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "每",
+        "p": "měi",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "步",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "去",
+        "p": "qù",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "蔚来",
+        "p": "Wèilái",
+        "k": "name"
+       },
+       {
+        "w": "已经",
+        "p": "yǐjīng",
+        "k": "extra"
+       },
+       {
+        "w": "上线",
+        "p": "shàngxiàn",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "7500",
+        "k": "plain"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "智能体",
+        "p": "zhìnéngtǐ",
+        "k": "core"
+       },
+       {
+        "w": "（",
+        "k": "punct"
+       },
+       {
+        "w": "Agent",
+        "k": "plain"
+       },
+       {
+        "w": "）",
+        "k": "punct"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "一共",
+        "p": "yígòng",
+        "k": "extra"
+       },
+       {
+        "w": "运行",
+        "p": "yùnxíng",
+        "k": "core"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "290",
+        "k": "plain"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "万",
+        "p": "wàn",
+        "k": "extra"
+       },
+       {
+        "w": "次",
+        "p": "cì",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "李斌",
+        "p": "Lǐ Bīn",
+        "k": "name"
+       },
+       {
+        "w": "算",
+        "p": "suàn",
+        "k": "extra"
+       },
+       {
+        "w": "过",
+        "p": "guò",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "笔",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "账",
+        "p": "zhàng",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "今年",
+        "p": "jīnnián",
+        "k": "extra"
+       },
+       {
+        "w": "上半年",
+        "p": "shàngbànnián",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "营收",
+        "p": "yíngshōu",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "577",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "全",
+        "p": "quán",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "差不多",
+        "p": "chābùduō",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "1200",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "要是",
+        "p": "yàoshì",
+        "k": "extra"
+       },
+       {
+        "w": "效率",
+        "p": "xiàolǜ",
+        "k": "extra"
+       },
+       {
+        "w": "提高",
+        "p": "tígāo",
+        "k": "extra"
+       },
+       {
+        "w": "5%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "大约",
+        "p": "dàyuē",
+        "k": "core"
+       },
+       {
+        "w": "60",
+        "k": "plain"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "少",
+        "p": "shǎo",
+        "k": "extra"
+       },
+       {
+        "w": "浪费",
+        "p": "làngfèi",
+        "k": "core"
+       },
+       {
+        "w": "、",
+        "k": "punct"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "事",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "怎么",
+        "p": "zěnme",
+        "k": "extra"
+       },
+       {
+        "w": "省",
+        "p": "shěng",
+        "k": "extra"
+       },
+       {
+        "w": "？",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "第一财经",
+        "p": "Dìyī Cáijīng",
+        "k": "name"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "负责",
+        "p": "fùzé",
+        "k": "extra"
+       },
+       {
+        "w": "财务",
+        "p": "cáiwù",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "曲玉",
+        "p": "Qū Yù",
+        "k": "name"
+       },
+       {
+        "w": "举",
+        "p": "jǔ",
+        "k": "core"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "例子",
+        "p": "lìzi",
+        "k": "core"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "建",
+        "p": "jiàn",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "座",
+        "p": "zuò",
+        "k": "core"
+       },
+       {
+        "w": "换",
+        "p": "huàn",
+        "k": "extra"
+       },
+       {
+        "w": "电",
+        "p": "diàn",
+        "k": "extra"
+       },
+       {
+        "w": "站",
+        "p": "zhàn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "先",
+        "p": "xiān",
+        "k": "extra"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "智能体",
+        "p": "zhìnéngtǐ",
+        "k": "core"
+       },
+       {
+        "w": "算",
+        "p": "suàn",
+        "k": "extra"
+       },
+       {
+        "w": "投资",
+        "p": "tóuzī",
+        "k": "extra"
+       },
+       {
+        "w": "回报率",
+        "p": "huíbàolǜ",
+        "k": "core"
+       },
+       {
+        "w": "（",
+        "k": "punct"
+       },
+       {
+        "w": "ROI",
+        "k": "plain"
+       },
+       {
+        "w": "）",
+        "k": "punct"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "1",
+        "k": "plain"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "才",
+        "p": "cái",
+        "k": "extra"
+       },
+       {
+        "w": "值得",
+        "p": "zhíde",
+        "k": "extra"
+       },
+       {
+        "w": "建",
+        "p": "jiàn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "新疆",
+        "p": "Xīnjiāng",
+        "k": "name"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "赛里木湖",
+        "p": "Sàilǐmù Hú",
+        "k": "name"
+       },
+       {
+        "w": "站",
+        "p": "zhàn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "3",
+        "k": "plain"
+       },
+       {
+        "w": "公里",
+        "p": "gōnglǐ",
+        "k": "extra"
+       },
+       {
+        "w": "以内",
+        "p": "yǐnèi",
+        "k": "extra"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "7",
+        "k": "plain"
+       },
+       {
+        "w": "位",
+        "p": "wèi",
+        "k": "extra"
+       },
+       {
+        "w": "用户",
+        "p": "yònghù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "只",
+        "p": "zhǐ",
+        "k": "extra"
+       },
+       {
+        "w": "看",
+        "p": "kàn",
+        "k": "extra"
+       },
+       {
+        "w": "换",
+        "p": "huàn",
+        "k": "extra"
+       },
+       {
+        "w": "电",
+        "p": "diàn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "收入",
+        "p": "shōurù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "不够",
+        "p": "bú gòu",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "座",
+        "p": "zuò",
+        "k": "core"
+       },
+       {
+        "w": "站",
+        "p": "zhàn",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "新疆",
+        "p": "Xīnjiāng",
+        "k": "name"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "条",
+        "p": "tiáo",
+        "k": "extra"
+       },
+       {
+        "w": "重要",
+        "p": "zhòngyào",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "自驾",
+        "p": "zìjià",
+        "k": "core"
+       },
+       {
+        "w": "路线",
+        "p": "lùxiàn",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "对",
+        "p": "duì",
+        "k": "extra"
+       },
+       {
+        "w": "品牌",
+        "p": "pǐnpái",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "好处",
+        "p": "hǎochù",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "算",
+        "p": "suàn",
+        "k": "extra"
+       },
+       {
+        "w": "进",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "去",
+        "p": "qù",
+        "k": "extra"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "ROI",
+        "k": "plain"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "2",
+        "k": "plain"
+       },
+       {
+        "w": ".",
+        "k": "punct"
+       },
+       {
+        "w": "3",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "所以",
+        "p": "suǒyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "还是",
+        "p": "háishì",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "建",
+        "p": "jiàn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "项目",
+        "p": "xiàngmù",
+        "k": "core"
+       },
+       {
+        "w": "算",
+        "p": "suàn",
+        "k": "extra"
+       },
+       {
+        "w": "出",
+        "p": "chū",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "值得",
+        "p": "zhíde",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "负责",
+        "p": "fùzé",
+        "k": "extra"
+       },
+       {
+        "w": "产品",
+        "p": "chǎnpǐn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "李天舒",
+        "p": "Lǐ Tiānshū",
+        "k": "name"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "去年",
+        "p": "qùnián",
+        "k": "extra"
+       },
+       {
+        "w": "高通",
+        "p": "Gāotōng",
+        "k": "name"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "款",
+        "p": "kuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "芯片",
+        "p": "xīnpiàn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "蔚来",
+        "p": "Wèilái",
+        "k": "name"
+       },
+       {
+        "w": "本来",
+        "p": "běnlái",
+        "k": "extra"
+       },
+       {
+        "w": "打算",
+        "p": "dǎsuàn",
+        "k": "extra"
+       },
+       {
+        "w": "首发",
+        "p": "shǒufā",
+        "k": "core"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "准备",
+        "p": "zhǔnbèi",
+        "k": "extra"
+       },
+       {
+        "w": "工作",
+        "p": "gōngzuò",
+        "k": "extra"
+       },
+       {
+        "w": "差不多",
+        "p": "chābùduō",
+        "k": "extra"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "好了",
+        "p": "hǎo le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "账",
+        "p": "zhàng",
+        "k": "extra"
+       },
+       {
+        "w": "算",
+        "p": "suàn",
+        "k": "extra"
+       },
+       {
+        "w": "不过",
+        "p": "búguò",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "最后",
+        "p": "zuìhòu",
+        "k": "extra"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "项目",
+        "p": "xiàngmù",
+        "k": "core"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "往前",
+        "p": "wǎng qián",
+        "k": "extra"
+       },
+       {
+        "w": "走",
+        "p": "zǒu",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "以前",
+        "p": "yǐqián",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "蔚来",
+        "p": "Wèilái",
+        "k": "name"
+       },
+       {
+        "w": "一定",
+        "p": "yídìng",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "首发",
+        "p": "shǒufā",
+        "k": "core"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "技术",
+        "p": "jìshù",
+        "k": "extra"
+       },
+       {
+        "w": "；",
+        "k": "punct"
+       },
+       {
+        "w": "现在",
+        "p": "xiànzài",
+        "k": "extra"
+       },
+       {
+        "w": "晚",
+        "p": "wǎn",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "再",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "公司",
+        "p": "gōngsī",
+        "k": "extra"
+       },
+       {
+        "w": "省",
+        "p": "shěng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "几",
+        "p": "jǐ",
+        "k": "extra"
+       },
+       {
+        "w": "十",
+        "p": "shí",
+        "k": "extra"
+       },
+       {
+        "w": "亿",
+        "p": "yì",
+        "k": "extra"
+       },
+       {
+        "w": "元",
+        "p": "yuán",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "李斌",
+        "p": "Lǐ Bīn",
+        "k": "name"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "做",
+        "p": "zuò",
+        "k": "extra"
+       },
+       {
+        "w": "AI",
+        "k": "plain"
+       },
+       {
+        "w": "原生",
+        "p": "yuánshēng",
+        "k": "extra"
+       },
+       {
+        "w": "组织",
+        "p": "zǔzhī",
+        "k": "core"
+       },
+       {
+        "w": "比",
+        "p": "bǐ",
+        "k": "extra"
+       },
+       {
+        "w": "开发",
+        "p": "kāifā",
+        "k": "core"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "款",
+        "p": "kuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "车",
+        "p": "chē",
+        "k": "extra"
+       },
+       {
+        "w": "难",
+        "p": "nán",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "因为",
+        "p": "yīnwèi",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "改变",
+        "p": "gǎibiàn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "经营",
+        "p": "jīngyíng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "习惯",
+        "p": "xíguàn",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "组织",
+        "p": "zǔzhī",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "习惯",
+        "p": "xíguàn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "他",
+        "p": "tā",
+        "k": "extra"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "系统",
+        "p": "xìtǒng",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "助理",
+        "p": "zhùlǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "变成",
+        "p": "biànchéng",
+        "k": "extra"
+       },
+       {
+        "w": "系统",
+        "p": "xìtǒng",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "部",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "分",
+        "p": "fēn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 不是…而是… — không phải… mà là…",
+    "b": [
+     "Cách dùng:",
+     "不是 + điều bị bác bỏ，而是 + điều đúng. Dùng để sửa một cách hiểu sai và nêu ngay cách hiểu đúng; 而是 không thể thay bằng 但是. Rất hay gặp khi lãnh đạo doanh nghiệp định nghĩa lại một khái niệm.",
+     "蔚来要变成一家“AI原生组织”：不是只用AI写东西，而是让AI进到公司经营的每一步里去。",
+     "Wèilái yào biànchéng yì jiā “AI yuánshēng zǔzhī”: bú shì zhǐ yòng AI xiě dōngxi, ér shì ràng AI jìn dào gōngsī jīngyíng de měi yí bù lǐ qù.",
+     "NIO muốn trở thành một “tổ chức AI-native”: không phải chỉ dùng AI để viết lách, mà là để AI đi vào từng bước trong việc điều hành công ty."
+    ]
+   },
+   {
+    "h": "II. 要是…就… — nếu… thì…",
+    "b": [
+     "Cách dùng:",
+     "要是 + giả thiết，(chủ ngữ) + 就 + kết quả. Khẩu ngữ hơn 如果; 就 đứng sau chủ ngữ của vế hai. Dùng khi làm phép tính giả định: nếu chỉ số này đổi X% thì kết quả là bao nhiêu.",
+     "要是效率提高5%，一年就是大约60亿元，这些钱是从少浪费、多做事里来的。",
+     "Yàoshi xiàolǜ tígāo 5%, yì nián jiù shì dàyuē 60 yì yuán, zhèxiē qián shì cóng shǎo làngfèi, duō zuò shì lǐ lái de.",
+     "Nếu hiệu suất tăng 5% thì một năm là khoảng 6 tỷ tệ; số tiền này đến từ việc bớt lãng phí, làm được nhiều việc hơn."
+    ]
+   },
+   {
+    "h": "III. A比B + tính từ + 多了 — A … hơn B nhiều",
+    "b": [
+     "Cách dùng:",
+     "A + 比 + B + tính từ + 多了. 多了 đặt sau tính từ để nói mức chênh lớn; không dùng 很/非常 trước tính từ trong câu 比 (không nói 比…很难).",
+     "李斌说，做AI原生组织比开发一款车难多了，因为要改变的是经营的习惯和组织的习惯。",
+     "Lǐ Bīn shuō, zuò AI yuánshēng zǔzhī bǐ kāifā yì kuǎn chē nán duō le, yīnwèi yào gǎibiàn de shì jīngyíng de xíguàn hé zǔzhī de xíguàn.",
+     "Lý Bân nói, xây một tổ chức AI-native khó hơn phát triển một mẫu xe nhiều, vì thứ phải thay đổi là thói quen điều hành và thói quen của tổ chức."
+    ]
+   }
+  ],
+  "vocab": [
+   "组织",
+   "智能体",
+   "运行",
+   "浪费",
+   "回报率",
+   "财务",
+   "自驾",
+   "开发",
+   "大约",
+   "例子",
+   "项目",
+   "首发",
+   "电动",
+   "举",
+   "座"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "第一财经",
+    "author": "葛慧",
+    "title": "蔚来李斌：AI原生组织一年可减少约60亿元浪费",
+    "date": "2026-11-26",
+    "url": "https://www.yicai.com/news/103455963.html",
+    "accessed": "2026-11-26"
+   },
+   {
+    "role": "secondary",
+    "outlet": "凤凰网科技（搜狐转载）",
+    "author": "宋淑美",
+    "title": "李斌发布蔚来AI原生组织架构：已上线超7500个Agent",
+    "date": "2026-11-25",
+    "url": "https://www.sohu.com/a/1106282756_122135404",
+    "accessed": "2026-11-26"
+   },
+   {
+    "role": "secondary",
+    "outlet": "腾讯新闻",
+    "author": "未署名",
+    "title": "蔚来上半年亏损收窄九成，李斌要熬出头了？",
+    "date": "2026-09-03",
+    "url": "https://news.qq.com/rain/a/20260903A0B31I00",
+    "accessed": "2026-11-26"
+   }
+  ]
+ }
+}
