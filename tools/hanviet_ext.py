@@ -28,6 +28,7 @@ CHARS_EXT = """
 债:trái 涛:đào
 峡:hiệp 杰:kiệt
 仓:thương 库:khố 案:án 赔:bồi 忧:ưu
+罚:phạt 逾:du 协:hiệp 违:vi 揽:lãm
 优:ưu 双:song 淘:đào 苏:tô 武:vũ 泽:trạch
 钢:cương 阶:giai 启:khải
 航:hàng 宇:vũ 射:xạ 箭:tiễn 颗:khỏa

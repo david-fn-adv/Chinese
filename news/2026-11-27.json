@@ -1,0 +1,2089 @@
+{
+ "date": "2026-11-27",
+ "id": "N-20261127",
+ "draft": {
+  "title": "晚还款的罚息，以后可以商量",
+  "vn": "Lãi phạt trả nợ chậm: từ nay có thể thương lượng",
+  "en": "Late-payment penalty interest becomes negotiable",
+  "paras": [
+   "11月27日，中国人民银行发布了新的《人民币存贷款利率管理规定》，2027年3月21日起开始用，旧的《人民币利率管理规定》同时不再用了。这次变化最大的有三个地方。",
+   "第一个变化是罚息。借款人没有按时还款，也就是贷款逾期以后，银行要多收一部分利息，这就叫罚息。据第一财经报道，从2003年起，罚息是在原来的贷款利率上加收30%到50%，很多银行在合同里直接用最高的50%。问题是，原来利率越高的贷款，逾期以后罚息也越高，那些因为特别的原因一时没办法还款的人，就更难了。新规定不再写具体加收多少，罚息利率由借钱的人和银行协商确定。央行预计，以后罚息利率会降低。",
+   "第二个变化是怎么算利息。过去日利率是用年利率除以360算出来的，可是一年其实有365天或者366天，这样算有时候会有争议。新规定写明：年利率等于日利率乘以365。银行办贷款的时候，还要把年化利率和罚息的年化利率清楚地告诉借款人，并且写进合同。",
+   "第三个变化是第一次说清楚什么是“高息揽储”：用违规的办法给存款人多补利息，或者让企业先存钱才能拿到贷款，用这些方法吸收存款，都算在里面。",
+   "招联首席经济学家董希淼认为，这样罚息能更好地跟着借款人的信用情况来决定，也有利于降低企业和普通人借钱的成本。"
+  ],
+  "points": [
+   {
+    "h": "I. 越…越… — càng… càng…",
+    "b": [
+     "Cách dùng:",
+     "A 越 + tính từ，B (也) 越 + tính từ. Hai vế cùng tăng theo nhau; rất hay dùng khi nói về rủi ro, chi phí, lãi suất: cái này càng cao thì cái kia càng cao.",
+     "问题是，原来利率越高的贷款，逾期以后罚息也越高，那些因为特别的原因一时没办法还款的人，就更难了。",
+     "Wèntí shì, yuánlái lìlǜ yuè gāo de dàikuǎn, yúqī yǐhòu fáxī yě yuè gāo, nàxiē yīnwèi tèbié de yuányīn yìshí méi bànfǎ huánkuǎn de rén, jiù gèng nán le.",
+     "Vấn đề là khoản vay có lãi suất gốc càng cao thì sau khi quá hạn lãi phạt cũng càng cao; những người vì lý do đặc biệt mà nhất thời chưa trả được tiền lại càng khó khăn hơn."
+    ]
+   },
+   {
+    "h": "II. 由…确定 — do… xác định",
+    "b": [
+     "Cách dùng:",
+     "Việc + 由 + người/bên quyết định + động từ (确定/决定/负责). 由 chỉ ra ai có quyền quyết; cấu trúc rất phổ biến trong văn bản quy định và tin chính sách.",
+     "新规定不再写具体加收多少，罚息利率由借钱的人和银行协商确定。",
+     "Xīn guīdìng bú zài xiě jùtǐ jiāshōu duōshao, fáxī lìlǜ yóu jiè qián de rén hé yínháng xiéshāng quèdìng.",
+     "Quy định mới không còn ghi cụ thể thu thêm bao nhiêu; lãi suất phạt do người vay và ngân hàng thương lượng rồi chốt."
+    ]
+   },
+   {
+    "h": "III. 有利于 — có lợi cho…",
+    "b": [
+     "Cách dùng:",
+     "(Việc gì) + 有利于 + động từ/danh từ. Dùng để nêu tác dụng tích cực của một chính sách; phía sau thường là cụm động từ như 降低成本, 发展经济.",
+     "招联首席经济学家董希淼认为，这样罚息能更好地跟着借款人的信用情况来决定，也有利于降低企业和普通人借钱的成本。",
+     "Zhāolián shǒuxí jīngjìxuéjiā Dǒng Xīmiǎo rènwéi, zhèyàng fáxī néng gèng hǎo de gēnzhe jièkuǎnrén de xìnyòng qíngkuàng lái juédìng, yě yǒulìyú jiàngdī qǐyè hé pǔtōngrén jiè qián de chéngběn.",
+     "Đổng Hi Miểu, kinh tế trưởng của 招联, cho rằng như vậy lãi phạt có thể được quyết định sát hơn theo tình hình tín dụng của người vay, đồng thời có lợi cho việc giảm chi phí vay tiền của doanh nghiệp và người dân."
+    ]
+   }
+  ]
+ },
+ "names": {},
+ "dict": {
+  "罚息": {
+   "w": "罚息",
+   "p": "fáxī",
+   "hv": "phạt tức",
+   "pos": "名",
+   "en": "penalty interest",
+   "vn": "lãi phạt (tiền lãi tính thêm khi trả nợ chậm hoặc vi phạm hợp đồng vay)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261127"
+   ]
+  },
+  "逾期": {
+   "w": "逾期",
+   "p": "yúqī",
+   "hv": "du kỳ",
+   "pos": "动",
+   "en": "to be overdue",
+   "vn": "quá hạn: 贷款逾期 = khoản vay quá hạn",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261127"
+   ]
+  },
+  "具体": {
+   "w": "具体",
+   "p": "jùtǐ",
+   "hv": "cụ thể",
+   "pos": "形",
+   "en": "specific, concrete",
+   "vn": "cụ thể",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261127"
+   ]
+  },
+  "协商": {
+   "w": "协商",
+   "p": "xiéshāng",
+   "hv": "hiệp thương",
+   "pos": "动",
+   "en": "to negotiate, to consult",
+   "vn": "thương lượng, bàn bạc để thống nhất",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261127"
+   ]
+  },
+  "确定": {
+   "w": "确定",
+   "p": "quèdìng",
+   "hv": "xác định",
+   "pos": "动",
+   "en": "to determine, to fix",
+   "vn": "xác định, chốt: 协商确定 = thương lượng rồi chốt",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261127"
+   ]
+  },
+  "除以": {
+   "w": "除以",
+   "p": "chúyǐ",
+   "hv": "trừ dĩ",
+   "pos": "动",
+   "en": "divided by",
+   "vn": "chia cho: 年利率除以360 = lãi suất năm chia cho 360",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261127"
+   ]
+  },
+  "争议": {
+   "w": "争议",
+   "p": "zhēngyì",
+   "hv": "tranh nghị",
+   "pos": "名",
+   "en": "dispute",
+   "vn": "tranh chấp, bất đồng",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261127"
+   ]
+  },
+  "违规": {
+   "w": "违规",
+   "p": "wéiguī",
+   "hv": "vi quy",
+   "pos": "动",
+   "en": "to violate regulations",
+   "vn": "vi phạm quy định, sai quy định",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261127"
+   ]
+  },
+  "高息揽储": {
+   "w": "高息揽储",
+   "p": "gāoxī lǎnchǔ",
+   "hv": "cao tức lãm trữ",
+   "pos": "动",
+   "en": "to attract deposits with excessive interest",
+   "vn": "huy động tiền gửi bằng lãi suất cao bất thường (cạnh tranh không lành mạnh)",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261127"
+   ]
+  },
+  "有利于": {
+   "w": "有利于",
+   "p": "yǒulìyú",
+   "hv": "hữu lợi vu",
+   "pos": "动",
+   "en": "to be beneficial to",
+   "vn": "có lợi cho, giúp ích cho",
+   "kind": "core",
+   "no": "",
+   "ls": [
+    "N-20261127"
+   ]
+  }
+ },
+ "src": [
+  {
+   "role": "primary",
+   "outlet": "第一财经",
+   "author": "杜川",
+   "title": "存贷款利率新规取消罚息“一刀切”，首次明确界定高息揽储",
+   "date": "2026-11-27",
+   "url": "https://www.yicai.com/news/103458302.html",
+   "accessed": "2026-11-27"
+  },
+  {
+   "role": "secondary",
+   "outlet": "新华网",
+   "author": "中国人民银行（令〔2026〕第5号原文）",
+   "title": "中国人民银行发布《人民币存贷款利率管理规定》",
+   "date": "2026-11-27",
+   "url": "https://www.news.cn/fortune/20261127/abbe1fe461ee41efbae58476779f91e9/c.html",
+   "accessed": "2026-11-27"
+  },
+  {
+   "role": "secondary",
+   "outlet": "21财经",
+   "author": "未署名",
+   "title": "央行发布《人民币存贷款利率管理规定》取消贷款罚息利率上下限",
+   "date": "2026-11-27",
+   "url": "https://m.21jingji.com/article/20261127/herald/8e207e84ba828edbabd106cc007ff137.html",
+   "accessed": "2026-11-27"
+  }
+ ],
+ "lesson": {
+  "id": "N-20261127",
+  "book": 4,
+  "no": 44,
+  "date": "2026-11-27",
+  "seq": 86,
+  "title": "晚还款的罚息，以后可以商量",
+  "py": "wǎnháikuǎndefáxī，yǐhòukěyǐshāngliáng",
+  "en": "Late-payment penalty interest becomes negotiable",
+  "vn": "Lãi phạt trả nợ chậm: từ nay có thể thương lượng",
+  "texts": [
+   {
+    "zh": "新闻",
+    "vn": "TIN TỨC",
+    "kind": "essay",
+    "blocks": [
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "11",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "27",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "中国人民银行",
+        "p": "Zhōngguó Rénmín Yínháng",
+        "k": "name"
+       },
+       {
+        "w": "发布",
+        "p": "fābù",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "《",
+        "k": "punct"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "存",
+        "p": "cún",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "利率",
+        "p": "lìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "管理",
+        "p": "guǎnlǐ",
+        "k": "extra"
+       },
+       {
+        "w": "规定",
+        "p": "guīdìng",
+        "k": "extra"
+       },
+       {
+        "w": "》",
+        "k": "punct"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "2027",
+        "k": "plain"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "3",
+        "k": "plain"
+       },
+       {
+        "w": "月",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "21",
+        "k": "plain"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "起",
+        "p": "qǐ",
+        "k": "extra"
+       },
+       {
+        "w": "开始",
+        "p": "kāishǐ",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "旧",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "《",
+        "k": "punct"
+       },
+       {
+        "w": "人民币",
+        "p": "rénmínbì",
+        "k": "extra"
+       },
+       {
+        "w": "利率",
+        "p": "lìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "管理",
+        "p": "guǎnlǐ",
+        "k": "extra"
+       },
+       {
+        "w": "规定",
+        "p": "guīdìng",
+        "k": "extra"
+       },
+       {
+        "w": "》",
+        "k": "punct"
+       },
+       {
+        "w": "同",
+        "p": "tóng",
+        "k": "extra"
+       },
+       {
+        "w": "时",
+        "p": "shí",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "再",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "这次",
+        "p": "zhè cì",
+        "k": "extra"
+       },
+       {
+        "w": "变化",
+        "p": "biànhuà",
+        "k": "extra"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "大",
+        "p": "dà",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "地方",
+        "p": "dìfāng",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "变化",
+        "p": "biànhuà",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "罚息",
+        "p": "fáxī",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "款",
+        "p": "kuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "没",
+        "p": "méi",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "按",
+        "p": "àn",
+        "k": "extra"
+       },
+       {
+        "w": "时",
+        "p": "shí",
+        "k": "extra"
+       },
+       {
+        "w": "还款",
+        "p": "huánkuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "逾期",
+        "p": "yúqī",
+        "k": "core"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "收",
+        "p": "shōu",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "部",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "分",
+        "p": "fēn",
+        "k": "extra"
+       },
+       {
+        "w": "利息",
+        "p": "lìxī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这",
+        "p": "zhè",
+        "k": "extra"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "叫",
+        "p": "jiào",
+        "k": "extra"
+       },
+       {
+        "w": "罚息",
+        "p": "fáxī",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "据",
+        "p": "jù",
+        "k": "extra"
+       },
+       {
+        "w": "第一财经",
+        "p": "Dìyī Cáijīng",
+        "k": "name"
+       },
+       {
+        "w": "报道",
+        "p": "bàodào",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "从",
+        "p": "cóng",
+        "k": "extra"
+       },
+       {
+        "w": "2003",
+        "k": "plain"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "起",
+        "p": "qǐ",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "罚息",
+        "p": "fáxī",
+        "k": "core"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "原来",
+        "p": "yuánlái",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "利率",
+        "p": "lìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "上",
+        "p": "shàng",
+        "k": "extra"
+       },
+       {
+        "w": "加",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "收",
+        "p": "shōu",
+        "k": "extra"
+       },
+       {
+        "w": "30%",
+        "k": "plain"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "50%",
+        "k": "plain"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "很",
+        "p": "hěn",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "合同",
+        "p": "hétong",
+        "k": "extra"
+       },
+       {
+        "w": "里",
+        "p": "lǐ",
+        "k": "extra"
+       },
+       {
+        "w": "直接",
+        "p": "zhíjiē",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "最",
+        "p": "zuì",
+        "k": "extra"
+       },
+       {
+        "w": "高",
+        "p": "gāo",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "50%",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "问题",
+        "p": "wèntí",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "原来",
+        "p": "yuánlái",
+        "k": "extra"
+       },
+       {
+        "w": "利率",
+        "p": "lìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "越",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "高",
+        "p": "gāo",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "逾期",
+        "p": "yúqī",
+        "k": "core"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "罚息",
+        "p": "fáxī",
+        "k": "core"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "越",
+        "p": "yuè",
+        "k": "extra"
+       },
+       {
+        "w": "高",
+        "p": "gāo",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "那",
+        "p": "nà",
+        "k": "extra"
+       },
+       {
+        "w": "些",
+        "p": "xiē",
+        "k": "extra"
+       },
+       {
+        "w": "因为",
+        "p": "yīnwèi",
+        "k": "extra"
+       },
+       {
+        "w": "特别",
+        "p": "tèbié",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "原因",
+        "p": "yuányīn",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "时",
+        "p": "shí",
+        "k": "extra"
+       },
+       {
+        "w": "没办法",
+        "p": "méi bànfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "还款",
+        "p": "huánkuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "就",
+        "p": "jiù",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "难",
+        "p": "nán",
+        "k": "extra"
+       },
+       {
+        "w": "了",
+        "p": "le",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "规定",
+        "p": "guīdìng",
+        "k": "extra"
+       },
+       {
+        "w": "不",
+        "p": "bù",
+        "k": "extra"
+       },
+       {
+        "w": "再",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "写",
+        "p": "xiě",
+        "k": "extra"
+       },
+       {
+        "w": "具体",
+        "p": "jùtǐ",
+        "k": "core"
+       },
+       {
+        "w": "加",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "收",
+        "p": "shōu",
+        "k": "extra"
+       },
+       {
+        "w": "多少",
+        "p": "duōshǎo",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "罚息",
+        "p": "fáxī",
+        "k": "core"
+       },
+       {
+        "w": "利率",
+        "p": "lìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "由",
+        "p": "yóu",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "协商",
+        "p": "xiéshāng",
+        "k": "core"
+       },
+       {
+        "w": "确定",
+        "p": "quèdìng",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "央行",
+        "p": "yāngháng",
+        "k": "extra"
+       },
+       {
+        "w": "预计",
+        "p": "yùjì",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "以后",
+        "p": "yǐhòu",
+        "k": "extra"
+       },
+       {
+        "w": "罚息",
+        "p": "fáxī",
+        "k": "core"
+       },
+       {
+        "w": "利率",
+        "p": "lìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "降低",
+        "p": "jiàngdī",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "二",
+        "p": "èr",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "变化",
+        "p": "biànhuà",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "怎么",
+        "p": "zěnme",
+        "k": "extra"
+       },
+       {
+        "w": "算",
+        "p": "suàn",
+        "k": "extra"
+       },
+       {
+        "w": "利息",
+        "p": "lìxī",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "过",
+        "p": "guò",
+        "k": "extra"
+       },
+       {
+        "w": "去",
+        "p": "qù",
+        "k": "extra"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "利率",
+        "p": "lìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "利率",
+        "p": "lìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "除以",
+        "p": "chúyǐ",
+        "k": "core"
+       },
+       {
+        "w": "360",
+        "k": "plain"
+       },
+       {
+        "w": "算",
+        "p": "suàn",
+        "k": "extra"
+       },
+       {
+        "w": "出",
+        "p": "chū",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "可是",
+        "p": "kěshì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "其实",
+        "p": "qíshí",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "365",
+        "k": "plain"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "或者",
+        "p": "huòzhě",
+        "k": "extra"
+       },
+       {
+        "w": "366",
+        "k": "plain"
+       },
+       {
+        "w": "天",
+        "p": "tiān",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这样",
+        "p": "zhè yàng",
+        "k": "extra"
+       },
+       {
+        "w": "算",
+        "p": "suàn",
+        "k": "extra"
+       },
+       {
+        "w": "有时候",
+        "p": "yǒushíhòu",
+        "k": "extra"
+       },
+       {
+        "w": "会",
+        "p": "huì",
+        "k": "extra"
+       },
+       {
+        "w": "有",
+        "p": "yǒu",
+        "k": "extra"
+       },
+       {
+        "w": "争议",
+        "p": "zhēngyì",
+        "k": "core"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "新",
+        "p": "xīn",
+        "k": "extra"
+       },
+       {
+        "w": "规定",
+        "p": "guīdìng",
+        "k": "extra"
+       },
+       {
+        "w": "写",
+        "p": "xiě",
+        "k": "extra"
+       },
+       {
+        "w": "明",
+        "p": "míng",
+        "k": "extra"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "利率",
+        "p": "lìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "等于",
+        "p": "děngyú",
+        "k": "extra"
+       },
+       {
+        "w": "日",
+        "p": "rì",
+        "k": "extra"
+       },
+       {
+        "w": "利率",
+        "p": "lìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "乘以",
+        "p": "chéngyǐ",
+        "k": "extra"
+       },
+       {
+        "w": "365",
+        "k": "plain"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       },
+       {
+        "w": "银行",
+        "p": "yínháng",
+        "k": "extra"
+       },
+       {
+        "w": "办",
+        "p": "bàn",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "时候",
+        "p": "shíhòu",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "还",
+        "p": "hái",
+        "k": "extra"
+       },
+       {
+        "w": "要",
+        "p": "yào",
+        "k": "extra"
+       },
+       {
+        "w": "把",
+        "p": "bǎ",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "化",
+        "p": "huà",
+        "k": "extra"
+       },
+       {
+        "w": "利率",
+        "p": "lìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "罚息",
+        "p": "fáxī",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "年",
+        "p": "nián",
+        "k": "extra"
+       },
+       {
+        "w": "化",
+        "p": "huà",
+        "k": "extra"
+       },
+       {
+        "w": "利率",
+        "p": "lìlǜ",
+        "k": "extra"
+       },
+       {
+        "w": "清楚",
+        "p": "qīngchǔ",
+        "k": "extra"
+       },
+       {
+        "w": "地",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "告诉",
+        "p": "gàosù",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "款",
+        "p": "kuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "并且",
+        "p": "bìngqiě",
+        "k": "extra"
+       },
+       {
+        "w": "写",
+        "p": "xiě",
+        "k": "extra"
+       },
+       {
+        "w": "进",
+        "p": "jìn",
+        "k": "extra"
+       },
+       {
+        "w": "合同",
+        "p": "hétong",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "三",
+        "p": "sān",
+        "k": "extra"
+       },
+       {
+        "w": "个",
+        "p": "ge",
+        "k": "extra"
+       },
+       {
+        "w": "变化",
+        "p": "biànhuà",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "第",
+        "p": "dì",
+        "k": "extra"
+       },
+       {
+        "w": "一",
+        "p": "yī",
+        "k": "extra"
+       },
+       {
+        "w": "次",
+        "p": "cì",
+        "k": "extra"
+       },
+       {
+        "w": "说",
+        "p": "shuō",
+        "k": "extra"
+       },
+       {
+        "w": "清楚",
+        "p": "qīngchǔ",
+        "k": "extra"
+       },
+       {
+        "w": "什么",
+        "p": "shénme",
+        "k": "extra"
+       },
+       {
+        "w": "是",
+        "p": "shì",
+        "k": "extra"
+       },
+       {
+        "w": "“",
+        "k": "punct"
+       },
+       {
+        "w": "高息揽储",
+        "p": "gāoxī lǎnchǔ",
+        "k": "core"
+       },
+       {
+        "w": "”",
+        "k": "punct"
+       },
+       {
+        "w": "：",
+        "k": "punct"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "违规",
+        "p": "wéiguī",
+        "k": "core"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "办法",
+        "p": "bànfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "给",
+        "p": "gěi",
+        "k": "extra"
+       },
+       {
+        "w": "存款人",
+        "p": "cúnkuǎnrén",
+        "k": "extra"
+       },
+       {
+        "w": "多",
+        "p": "duō",
+        "k": "extra"
+       },
+       {
+        "w": "补",
+        "p": "bǔ",
+        "k": "extra"
+       },
+       {
+        "w": "利息",
+        "p": "lìxī",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "或者",
+        "p": "huòzhě",
+        "k": "extra"
+       },
+       {
+        "w": "让",
+        "p": "ràng",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "先",
+        "p": "xiān",
+        "k": "extra"
+       },
+       {
+        "w": "存",
+        "p": "cún",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "才",
+        "p": "cái",
+        "k": "extra"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "拿",
+        "p": "ná",
+        "k": "extra"
+       },
+       {
+        "w": "到",
+        "p": "dào",
+        "k": "extra"
+       },
+       {
+        "w": "贷款",
+        "p": "dàikuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "用",
+        "p": "yòng",
+        "k": "extra"
+       },
+       {
+        "w": "这些",
+        "p": "zhè xiē",
+        "k": "extra"
+       },
+       {
+        "w": "方法",
+        "p": "fāngfǎ",
+        "k": "extra"
+       },
+       {
+        "w": "吸收",
+        "p": "xīshōu",
+        "k": "extra"
+       },
+       {
+        "w": "存款",
+        "p": "cúnkuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "都",
+        "p": "dōu",
+        "k": "extra"
+       },
+       {
+        "w": "算",
+        "p": "suàn",
+        "k": "extra"
+       },
+       {
+        "w": "在",
+        "p": "zài",
+        "k": "extra"
+       },
+       {
+        "w": "里面",
+        "p": "lǐmiàn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     },
+     {
+      "type": "para",
+      "tk": [
+       {
+        "w": "招联",
+        "p": "Zhāolián",
+        "k": "name"
+       },
+       {
+        "w": "首席",
+        "p": "shǒuxí",
+        "k": "extra"
+       },
+       {
+        "w": "经济",
+        "p": "jīngjì",
+        "k": "extra"
+       },
+       {
+        "w": "学",
+        "p": "xué",
+        "k": "extra"
+       },
+       {
+        "w": "家",
+        "p": "jiā",
+        "k": "extra"
+       },
+       {
+        "w": "董希淼",
+        "p": "Dǒng Xīmiǎo",
+        "k": "name"
+       },
+       {
+        "w": "认为",
+        "p": "rènwéi",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "这样",
+        "p": "zhè yàng",
+        "k": "extra"
+       },
+       {
+        "w": "罚息",
+        "p": "fáxī",
+        "k": "core"
+       },
+       {
+        "w": "能",
+        "p": "néng",
+        "k": "extra"
+       },
+       {
+        "w": "更",
+        "p": "gèng",
+        "k": "extra"
+       },
+       {
+        "w": "好",
+        "p": "hǎo",
+        "k": "extra"
+       },
+       {
+        "w": "地",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "跟",
+        "p": "gēn",
+        "k": "extra"
+       },
+       {
+        "w": "着",
+        "p": "zhe",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "款",
+        "p": "kuǎn",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "信用",
+        "p": "xìnyòng",
+        "k": "extra"
+       },
+       {
+        "w": "情况",
+        "p": "qíngkuàng",
+        "k": "extra"
+       },
+       {
+        "w": "来",
+        "p": "lái",
+        "k": "extra"
+       },
+       {
+        "w": "决定",
+        "p": "juédìng",
+        "k": "extra"
+       },
+       {
+        "w": "，",
+        "k": "punct"
+       },
+       {
+        "w": "也",
+        "p": "yě",
+        "k": "extra"
+       },
+       {
+        "w": "有利于",
+        "p": "yǒulìyú",
+        "k": "core"
+       },
+       {
+        "w": "降低",
+        "p": "jiàngdī",
+        "k": "extra"
+       },
+       {
+        "w": "企业",
+        "p": "qìyè",
+        "k": "extra"
+       },
+       {
+        "w": "和",
+        "p": "hàn",
+        "k": "extra"
+       },
+       {
+        "w": "普通",
+        "p": "pǔtōng",
+        "k": "extra"
+       },
+       {
+        "w": "人",
+        "p": "rén",
+        "k": "extra"
+       },
+       {
+        "w": "借",
+        "p": "jiè",
+        "k": "extra"
+       },
+       {
+        "w": "钱",
+        "p": "qián",
+        "k": "extra"
+       },
+       {
+        "w": "的",
+        "p": "de",
+        "k": "extra"
+       },
+       {
+        "w": "成本",
+        "p": "chéngběn",
+        "k": "extra"
+       },
+       {
+        "w": "。",
+        "k": "punct"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "grammar": [
+   {
+    "h": "I. 越…越… — càng… càng…",
+    "b": [
+     "Cách dùng:",
+     "A 越 + tính từ，B (也) 越 + tính từ. Hai vế cùng tăng theo nhau; rất hay dùng khi nói về rủi ro, chi phí, lãi suất: cái này càng cao thì cái kia càng cao.",
+     "问题是，原来利率越高的贷款，逾期以后罚息也越高，那些因为特别的原因一时没办法还款的人，就更难了。",
+     "Wèntí shì, yuánlái lìlǜ yuè gāo de dàikuǎn, yúqī yǐhòu fáxī yě yuè gāo, nàxiē yīnwèi tèbié de yuányīn yìshí méi bànfǎ huánkuǎn de rén, jiù gèng nán le.",
+     "Vấn đề là khoản vay có lãi suất gốc càng cao thì sau khi quá hạn lãi phạt cũng càng cao; những người vì lý do đặc biệt mà nhất thời chưa trả được tiền lại càng khó khăn hơn."
+    ]
+   },
+   {
+    "h": "II. 由…确定 — do… xác định",
+    "b": [
+     "Cách dùng:",
+     "Việc + 由 + người/bên quyết định + động từ (确定/决定/负责). 由 chỉ ra ai có quyền quyết; cấu trúc rất phổ biến trong văn bản quy định và tin chính sách.",
+     "新规定不再写具体加收多少，罚息利率由借钱的人和银行协商确定。",
+     "Xīn guīdìng bú zài xiě jùtǐ jiāshōu duōshao, fáxī lìlǜ yóu jiè qián de rén hé yínháng xiéshāng quèdìng.",
+     "Quy định mới không còn ghi cụ thể thu thêm bao nhiêu; lãi suất phạt do người vay và ngân hàng thương lượng rồi chốt."
+    ]
+   },
+   {
+    "h": "III. 有利于 — có lợi cho…",
+    "b": [
+     "Cách dùng:",
+     "(Việc gì) + 有利于 + động từ/danh từ. Dùng để nêu tác dụng tích cực của một chính sách; phía sau thường là cụm động từ như 降低成本, 发展经济.",
+     "招联首席经济学家董希淼认为，这样罚息能更好地跟着借款人的信用情况来决定，也有利于降低企业和普通人借钱的成本。",
+     "Zhāolián shǒuxí jīngjìxuéjiā Dǒng Xīmiǎo rènwéi, zhèyàng fáxī néng gèng hǎo de gēnzhe jièkuǎnrén de xìnyòng qíngkuàng lái juédìng, yě yǒulìyú jiàngdī qǐyè hé pǔtōngrén jiè qián de chéngběn.",
+     "Đổng Hi Miểu, kinh tế trưởng của 招联, cho rằng như vậy lãi phạt có thể được quyết định sát hơn theo tình hình tín dụng của người vay, đồng thời có lợi cho việc giảm chi phí vay tiền của doanh nghiệp và người dân."
+    ]
+   }
+  ],
+  "vocab": [
+   "罚息",
+   "逾期",
+   "具体",
+   "协商",
+   "确定",
+   "除以",
+   "争议",
+   "违规",
+   "高息揽储",
+   "有利于"
+  ],
+  "src": [
+   {
+    "role": "primary",
+    "outlet": "第一财经",
+    "author": "杜川",
+    "title": "存贷款利率新规取消罚息“一刀切”，首次明确界定高息揽储",
+    "date": "2026-11-27",
+    "url": "https://www.yicai.com/news/103458302.html",
+    "accessed": "2026-11-27"
+   },
+   {
+    "role": "secondary",
+    "outlet": "新华网",
+    "author": "中国人民银行（令〔2026〕第5号原文）",
+    "title": "中国人民银行发布《人民币存贷款利率管理规定》",
+    "date": "2026-11-27",
+    "url": "https://www.news.cn/fortune/20261127/abbe1fe461ee41efbae58476779f91e9/c.html",
+    "accessed": "2026-11-27"
+   },
+   {
+    "role": "secondary",
+    "outlet": "21财经",
+    "author": "未署名",
+    "title": "央行发布《人民币存贷款利率管理规定》取消贷款罚息利率上下限",
+    "date": "2026-11-27",
+    "url": "https://m.21jingji.com/article/20261127/herald/8e207e84ba828edbabd106cc007ff137.html",
+    "accessed": "2026-11-27"
+   }
+  ]
+ }
+}
